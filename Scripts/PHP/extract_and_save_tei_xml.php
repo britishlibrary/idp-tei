@@ -34,7 +34,7 @@
 //  $dsn = "Driver={4D v19 ODBC Driver 64-bit};Server=$server;Database=$database;"; // this is almost correct
 //	$dsn = "Driver={4D v19 ODBC Driver 64-bit};Server=$server";
 
-//  $user="Julian Cook"; // I am not in all versions of the code so best to use Adminstrator
+ // $user="Julian Cook"; // I am not in all versions of the code so best to use Adminstrator
  // $password="JC";
 	$user="Administrator";
 	$password="Mansell";  
