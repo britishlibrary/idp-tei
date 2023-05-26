@@ -666,6 +666,7 @@ function convert_shortref_to_filename($table, $shortref)
 	$filename = $shortref . ".xml";
 	
 	$filename = preg_replace('/\s/', "_", $filename);
+	$filename = preg_replace("/'/", "_", $filename);
 	
 	$filename  = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI/$table/$filename";
 	
