@@ -1306,7 +1306,7 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 	
 	if ($index_table == "Catalogue")
 	{
-		$output_html .= "<tr><th>TEI filename (based on short reference)</th> <th>Header HTML</th> <th>Intro HTML</th> <th>List HTML</th> </tr>\n";
+		$output_html .= "<tr><th>TEI filename (based on short reference)</th> <th>Header HTML</th> <th>Intro HTML</th> <th>List HTML</th> <th>Subindex for Entry HTML</th> </tr>\n";
 	}
 	else
 	{
@@ -1402,8 +1402,62 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 				file_put_contents($html_file, $result);	
 				$list_url = $index_repo_html_url_stub . "/" . $file_strip_xml . "/" . $list_file;
 				
+				# ENTRIES (sub-level)
+				# first generate a list of entries from the list
+				# of form loadCatalogueNumber('T366')
+				echo "<p>Generating entry HTML files for $file_strip_xml</p>\n";
+				$entries_array = array();
+				preg_match_all('/loadCatalogueNumber\(\'([^\']+)\'\)/im', $result, $matches, PREG_PATTERN_ORDER);
+				for ($i = 0; $i < count($matches[1]); $i++) 
+				{
+#					echo "<p> Found catalogue entry [$i]: <b>" . $matches[1][$i] . "</b></p>";
+					$entries_array[$i] = $matches[1][$i];
+				}
+
+#				
+				$entry_index_html = "<html><head><title>List of entries for catalogue $file_strip_xml</title></head><body><h4>List of entries for catalogue $file_strip_xml</h4><table border='1'><tr><th>Seq</th><th>Entry</th></tr>";
+
+				foreach ($entries_array as $key => $value)
+				{
+					$key_plus_one = $key + 1;
+					$xsl_doc = "D:/British Library/bl github group/bl_github_clones/idp-tei/IDP_4D/IDPWeb/xslt/select_cat.xsl";
+					$xsldoc = new DOMDocument();
+					$xsldoc->load($xsl_doc);
+					$parm_name = "catalogueNumber";
+					$parm_value = $value;
+#					echo "<p>XSLT parm <b>$parm_name</b> set to value <b>$parm_value</b></p>";
+					$result = get_xslt_result_with_parameter($xmldoc, $xsldoc, $parm_name, $parm_value);
+					
+					$result = fix_links_in_result($result);
+					$result = "<div style ='background-color:#D0D5BF;'>" . $result . "</div>";
+					
+					$file_strip_xml = preg_replace("/\.xml$/", "", $file);
+					$part_folder = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI_to_html/Catalogue/$file_strip_xml/entries";
+					if (!is_dir($part_folder))
+					{
+						mkdir ($part_folder);
+					}
+					$entry_file = "entry_" . encode_value_for_filename($value) . ".html";
+					$html_file = $part_folder . "/" . $entry_file;
+					file_put_contents($html_file, $result);	
+					$entry_url = $index_repo_html_url_stub . "/" . $file_strip_xml . "/entries/" . $entry_file;
+					
+					$entry_index_html .= "<tr><td>[$key_plus_one]</td><td><a target='ENT_WIN' href='$entry_url'>$value</a></td></tr>\n";
+						
+				}
+ 
+				$entry_index_html .= "</table></body></html>";
 				
-				$output_html .= "<tr> <td><a target='TEI_WIN' href='$url'>$file</a></td> <td><a target='HTML1_WIN' href='$header_url'>$header_file</a></td> <td><a target='HTML2_WIN' href='$intro_url'>$intro_file</a></td> <td><a target='HTML3_WIN' href='$list_url'>$list_file</a></td> </tr>\n";
+				$part_folder = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI_to_html/Catalogue/$file_strip_xml";
+				$entry_index_file = "entry_index.html";
+				$html_file = $part_folder . "/" . $entry_index_file;
+				file_put_contents($html_file, $entry_index_html);
+				$entry_index_url = $index_repo_html_url_stub . "/" . $file_strip_xml . "/" . $entry_index_file;
+				
+				
+#				exit ("<p>(ABORTING)</p>");
+				
+				$output_html .= "<tr> <td><a target='TEI_WIN' href='$url'>$file</a></td> <td><a target='HTML1_WIN' href='$header_url'>$header_file</a></td> <td><a target='HTML2_WIN' href='$intro_url'>$intro_file</a></td> <td><a target='HTML3_WIN' href='$list_url'>$list_file</a></td> <td><a target='HTML4_WIN' href='$entry_index_url'>$entry_index_file</a></td> </tr>\n";
 				
 			}
 			else
@@ -1426,6 +1480,14 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 	
 }
 
+#-------------
+#
+function encode_value_for_filename($str)
+{
+	$str = preg_replace('/[\(\)\.\s\/]/', "_", $str);
+	$str = preg_replace('/\*/', "_STAR_", $str);
+	return $str;
+}
 
 #-------------
 #
