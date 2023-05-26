@@ -14,4 +14,4 @@ Within the IDP system, TEI XML is used for Catalogues (including Translations) a
 
 In this repo we store the complete set of TEI files extracted from the binary blobs, [Catalogue]XMLBlob and [Bibliography]XMLRecord. 
 
-We also store copies of the various XSL stylesheets used within the 4D system for converting these to HTML.
+We also store copies of the various XSL stylsheets (version 1.0) used within the 4D system for converting these to HTML.
