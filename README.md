@@ -1,7 +1,3 @@
-# idp-tei
-TEI in International Dunhuang Project 
-
-
 # International Dunhuang Project - TEI repository
 
 Github repo: **britishlibrary/idp-tei**
