@@ -1343,7 +1343,7 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 				$heading_file = "_heading.html";
 				$html_file = $part_folder . "/" . $heading_file;
 				file_put_contents($html_file, $result);
-				$heading_url = $index_repo_html_url_stub . "/" . $heading_file;
+				$heading_url = $index_repo_html_url_stub . "/" . $file_strip_xml . "/" . $heading_file;
 				
 				# INTRO
 				$xml_doc = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI/Catalogue/" . $file;
@@ -1369,7 +1369,7 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 				$intro_file = "_intro.html";
 				$html_file = $part_folder . "/" . $intro_file;
 				file_put_contents($html_file, $result);	
-				$intro_url = $index_repo_html_url_stub . "/" . $intro_file;
+				$intro_url = $index_repo_html_url_stub . "/" . $file_strip_xml . "/" . $intro_file;
 
 				# LIST
 				$xml_doc = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI/Catalogue/" . $file;
@@ -1396,7 +1396,7 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 				$html_file = $part_folder . "/" . $list_file;
 				$html_file = $part_folder . "/_list.html";
 				file_put_contents($html_file, $result);	
-				$list_url = $index_repo_html_url_stub . "/" . $list_file;
+				$list_url = $index_repo_html_url_stub . "/" . $file_strip_xml . "/" . $list_file;
 				
 				
 				$output_html .= "<tr> <td><a target='TEI_WIN' href='$url'>$file</a></td> <td><a target='HTML1_WIN' href='$heading_url'>$heading_file</a></td> <td><a target='HTML2_WIN' href='$intro_url'>$intro_file</a></td> <td><a target='HTML3_WIN' href='$list_url'>$list_file</a></td> </tr>\n";
