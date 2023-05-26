@@ -6,7 +6,7 @@ Public home page: [https://britishlibrary.github.io/idp-tei](https://britishlibr
 
 Private repo on Github (invited contributors only): [https://github.com/britishlibrary/idp-tei](https://github.com/britishlibrary/idp-tei)
 
-Wiki Home page on Github (invited contributors only): [https://github.com/britishlibrary/idp-tei/wiki/IDP-tei---home](https://github.com/britishlibrary/idp-tei/wiki/IDP-TEI---home)
+Wiki Home page on Github (invited contributors only): [https://github.com/britishlibrary/idp-tei/wiki/IDP-TEI--Wiki-home](https://github.com/britishlibrary/idp-tei/wiki/IDP-TEI--Wiki-home)
 
 
 ### Overview
