@@ -109,7 +109,25 @@
 	
 	
 	
+	# create index of TEI files - Catalogue
+	$index_table = "Catalogue";
+	$index_file = "index_tei_catalogue.html";
+	$index_filename = "D:/British Library/bl github group/bl_github_clones/idp-tei/Pages/" . $index_file;
+	$index_repo_url = "https://britishlibrary.github.io/idp-tei/TEI/Pages/" . $index_file;
+	$index_tei_folder = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI/" . $index_table;
+	$index_repo_url_stub = "https://britishlibrary.github.io/idp-tei/TEI/" . $index_table;
 	
+	create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_url_stub, $index_filename, $index_repo_url, $this_script);
+	
+	# create index of TEI files - Bibliography
+	$index_table = "Bibliography";
+	$index_file = "index_tei_bibliography.html";
+	$index_filename = "D:/British Library/bl github group/bl_github_clones/idp-tei/Pages/" . $index_file;
+	$index_repo_url = "https://britishlibrary.github.io/idp-tei/TEI/Pages/" . $index_file;
+	$index_tei_folder = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI/" . $index_table;
+	$index_repo_url_stub = "https://britishlibrary.github.io/idp-tei/TEI/" . $index_table;
+	
+	create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_url_stub, $index_filename, $index_repo_url, $this_script);
 	
   
 
@@ -1061,9 +1079,12 @@ function use_curl_for_rest_url_xml($rest_url, $cookie_name, $cookie_file_path, $
 # e.g. WASID4D=2FA348829C982F49BF96519AE10ABDC0; Path=/; Secure; HttpOnly; Expires=Mon, 15 May 2023 11:33:54 GMT;
 	$cookie_value = file_get_contents($cookie_file_path);
 	
-	echo "<p>[use_curl_for_rest_url_xml] \$cookie_file_path: $cookie_file_path</p>";
-	echo "<p>[use_curl_for_rest_url_xml] \$cookie_value from file is: $cookie_value</p>";
-	echo "<p>[use_curl_for_rest_url_xml] \$cookie_name is: $cookie_name</p>";
+	if ($verbose)
+	{
+		echo "<p>[use_curl_for_rest_url_xml] \$cookie_file_path: $cookie_file_path</p>";
+		echo "<p>[use_curl_for_rest_url_xml] \$cookie_value from file is: $cookie_value</p>";
+		echo "<p>[use_curl_for_rest_url_xml] \$cookie_name is: $cookie_name</p>";
+	}
 
 	$headers = array(
 	   "Accept: application/octet-stream",
@@ -1138,7 +1159,7 @@ function HandleHeaderLine( $curl, $header_line )
 		$cookie_file_path = "C:/BRITISH_LIBRARY/IDP/4D/demo_cookies/" . $cookie_name; 
 		#-------------
 		
-		echo "<p>HandleHeaderLine() Writing cookie to $cookie_file_path</p>";
+		echo "<p>[HandleHeaderLine] Writing cookie to $cookie_file_path</p>";
 		file_put_contents($cookie_file_path, $cookie_value);
 		
 		$cookie_value = file_get_contents($cookie_file_path);
@@ -1260,6 +1281,42 @@ function call_rest_to_expand_xml_blob_and_save($rest_table, $rest_uuid, $rest_bl
 	file_put_contents($rest_save_filename, $xml_pretty);
 	
 	echo "<p>Wrote prettified contents of blob from REST call to <b>$rest_url</b> to file: <b>$rest_save_filename</b></p>";
+
+
+	
+}
+
+#---------------
+#
+function create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_url_stub, $index_filename, $index_repo_url, $this_script)
+{
+	$output_html = "";
+	$output_html .= "<html>\n<head>\n<title>Index TEI files type: $index_table</title>\n</head>\n<body>\n<h1>Index of TEI files type: $index_table</h1><p>These files contain a prettified version of the TEI XML extracted from the binary blob in table $index_table.</p><p>Index page created by script: $this_script</p>\n";
+
+
+	$output_html .= "<table border = '1'>\n";
+	
+	$output_html .= "<tr><th>TEI filename (based on short reference)</th></tr>\n";
+	
+	
+	$scan = scandir($index_tei_folder);
+	foreach($scan as $file) 
+	{
+		if (!is_dir("$index_tei_folder/$file")) 
+		{
+			$url = $index_repo_url_stub . "/" . $file;
+			$output_html .= "<tr><td><a target='TEI_WIN' href='$url'>$file</a></td></tr>\n";
+		}
+	}
+	$output_html .= "</table>\n";
+	
+
+
+	$output_html .= "</body>\n</html>\n";
+	
+	file_put_contents($index_filename, $output_html);
+	
+	echo "<hr/><p>Wrote index of TEI files for table <b>$index_table</b> to <b>$index_filename</b> which once commit and push to repo is at <a target='IDX_WIN' href='$index_repo_url'>$index_repo_url</a></p><hr/>";
 
 
 	
