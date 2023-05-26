@@ -1340,7 +1340,7 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 				{
 					mkdir ($part_folder);
 				}
-				$heading_file = "_heading.html";
+				$heading_file = "heading.html";
 				$html_file = $part_folder . "/" . $heading_file;
 				file_put_contents($html_file, $result);
 				$heading_url = $index_repo_html_url_stub . "/" . $file_strip_xml . "/" . $heading_file;
@@ -1366,7 +1366,7 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 				{
 					mkdir ($part_folder);
 				}
-				$intro_file = "_intro.html";
+				$intro_file = "intro.html";
 				$html_file = $part_folder . "/" . $intro_file;
 				file_put_contents($html_file, $result);	
 				$intro_url = $index_repo_html_url_stub . "/" . $file_strip_xml . "/" . $intro_file;
@@ -1392,9 +1392,8 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 				{
 					mkdir ($part_folder);
 				}
-				$list_file = "_list.html";
+				$list_file = "list.html";
 				$html_file = $part_folder . "/" . $list_file;
-				$html_file = $part_folder . "/_list.html";
 				file_put_contents($html_file, $result);	
 				$list_url = $index_repo_html_url_stub . "/" . $file_strip_xml . "/" . $list_file;
 				
