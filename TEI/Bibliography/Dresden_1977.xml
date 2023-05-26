@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Dresden_1977">
+    <author>Dresden, M.J</author>
+    <title level="a" lang="eng">A Lyrical Poem in Khotanese Part I. Text</title>
+    <imprint>
+      <title level="j">Beitrage zur Indienforschung</title>
+      <biblScope type="issue">4</biblScope>
+      <biblScope type="pp">88-103</biblScope>
+      <date>1977</date>
+    </imprint>
+    <keywords>I-Khotanese</keywords>
+    <keywords>Poem</keywords>
+    <keywords/>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

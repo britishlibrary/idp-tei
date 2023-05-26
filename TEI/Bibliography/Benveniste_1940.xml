@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="benveniste_1940">
+    <author>Benveniste, Emile</author>
+    <title level="m" lang="Fre">Textes sogdiens edites, traduits et commentes. Mission Pelliot en Asie Centrale</title>
+    <imprint>
+      <pubPlace>Paris</pubPlace>
+      <publisher>P Geuthner</publisher>
+      <date>1940</date>
+    </imprint>
+    <keywords>sogdian</keywords>
+    <genBibl>collections_fr</genBibl>
+  </bibl>
+</listBibl>

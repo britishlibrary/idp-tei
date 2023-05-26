@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Müller_Lentz_1934">
+    <author>Müller, Friedrich Wilhelm Karl</author>
+    <author>Lentz, Wolfgang</author>
+    <title level="a" lang="ger">Soghdische Texte II.</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">SPAW</title>
+      <date>1934</date>
+      <biblScope type="pp">1934, No. 21</biblScope>
+    </imprint>
+    <keywords>manuscripts</keywords>
+    <keywords>Christianism</keywords>
+    <keywords>Syriac</keywords>
+    <keywords>n</keywords>
+    <keywords>Ostturkestan</keywords>
+    <keywords>East Turkestan</keywords>
+    <genBibl>SPAW</genBibl>
+  </bibl>
+</listBibl>

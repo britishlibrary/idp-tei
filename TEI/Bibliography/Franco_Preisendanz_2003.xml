@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Franco_Preisendanz_2003">
+    <author n="1">Franco, E.</author>
+    <author n="2">Preisendanz, K.</author>
+    <title level="a" lang="ger">Die indischen Schriften</title>
+    <imprint>
+      <title level="m" lang="ger" type="shortRef">Seipel_2003</title>
+      <biblScope type="pp">297</biblScope>
+    </imprint>
+    <keywords>manuscripts</keywords>
+    <keywords>SHT</keywords>
+    <keywords>turfan</keywords>
+  </bibl>
+</listBibl>

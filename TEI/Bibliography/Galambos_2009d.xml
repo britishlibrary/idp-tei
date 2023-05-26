@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="galambos_2009d">
+    <author>Galambos, Imre</author>
+    <title level="a" lang="eng">Two sources related to Otani Kozui and his Central Asian expeditions</title>
+    <imprint>
+      <title level="j" lang="eng">Bukkyo bunka kenkyujo joho</title>
+      <biblScope type="pp">26-23</biblScope>
+      <date>2009</date>
+    </imprint>
+    <keywords>Otani Kozui</keywords>
+    <keywords>Otani expeditions</keywords>
+    <genBibl>galambos</genBibl>
+  </bibl>
+</listBibl>

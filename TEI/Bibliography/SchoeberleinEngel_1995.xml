@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="SchoeberleinEngel_1995">
+    <author>Schoeberlein-Engel, John S.</author>
+    <title level="m" lang="eng">Guide to Scholars of the History and Culture of Central Asia</title>
+    <title type="s" lang="eng">Research Publications of the Harvard Central Asia Forum</title>
+    <biblScope type="issue">1</biblScope>
+    <imprint>
+      <pubPlace>Harvard</pubPlace>
+      <publisher>Harvard Central Asia Forum</publisher>
+      <date>1995</date>
+    </imprint>
+  </bibl>
+</listBibl>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Xu_Zhuang_2003">
+  <author lang="chi-Latn">Xu Zhuang</author>
+  <author lang="chi-Hant">&#x5F90;&#x5E84;</author>
+  <title level="m" lang="chi-Latn">Xixia yishu:yixing zhi mei</title>
+  <title level="m" lang="chi-Hant">&#x897F;&#x590F;&#x85DD;&#x8853;&#xFF1A;&#x7570;&#x5F62;&#x4E4B;&#x7F8E;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Yinchuan</pubPlace>
+    <publisher>Ningxia renmin chubanshe</publisher>
+    <date>2003</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>Art</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

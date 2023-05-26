@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="HuangZhengZhangYongquan_1997">
+    <author lang="chi" n="1">&#x9EC4;&#x5F81;</author>
+    <author lang="chi" n="2">&#x5F20;&#x6D8C;&#x6CC9;</author>
+    <title level="m" lang="chi">&#x6566;&#x714C;&#x53D8;&#x6587;&#x6821;&#x6CE8;</title>
+    <imprint>
+      <pubPlace>&#x5317;&#x4EAC;</pubPlace>
+      <publisher>&#x4E2D;&#x83EF;&#x66F8;&#x5C40;</publisher>
+      <date>1997</date>
+    </imprint>
+  </bibl>
+</listBibl>

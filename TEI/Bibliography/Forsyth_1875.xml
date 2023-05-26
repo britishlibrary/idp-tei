@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Forsyth_1875">
+    <author>Giles, Lionel</author>
+    <title level="m" lang="eng">Report of a Mission to Yarkhund in 1873, Under Command of Sir T. D. Forsyth, with Historical and Geographical Information Regarding the Possessions of the Ameer of Yarkhund</title>
+    <imprint>
+      <pubPlace>Calcutta</pubPlace>
+      <publisher>Foreign Dept. Press</publisher>
+      <date>1875</date>
+    </imprint>
+    <genBibl>collections_en</genBibl>
+  </bibl>
+</listBibl>

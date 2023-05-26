@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Le_Coq_1912a">
+    <author>Le Coq, Albert von</author>
+    <title level="a" lang="ger">Ein manich&#xE4;isches Buch-Fragment aus Cotscho</title>
+    <imprint>
+      <title level="m">Festschrift f&#xFC;r Thomsen, Vilhelm Ludvig Peter</title>
+      <biblScope type="pp">145-154</biblScope>
+      <pubPlace>Leipzig</pubPlace>
+      <publisher>Harrassowitz</publisher>
+      <date>1912</date>
+    </imprint>
+    <note/>
+    <keywords>Manichaeism/Khocho</keywords>
+    <genBibl>collections_de</genBibl>
+  </bibl>
+</listBibl>

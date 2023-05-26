@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="de_Saussure_1930">
+    <author>de Saussure, L.</author>
+    <title level="m" lang="fre">Les origines de l'astronomie chinoise</title>
+    <imprint>
+      <pubPlace>Paris</pubPlace>
+      <publisher>Maisonneuve</publisher>
+      <date>1930</date>
+    </imprint>
+    <note/>
+    <keywords/>
+    <genBibl>astronomy</genBibl>
+  </bibl>
+</listBibl>

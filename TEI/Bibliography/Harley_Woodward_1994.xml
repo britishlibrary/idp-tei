@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Harley_Woodward_1994">
+    <author>Harley, J. B.</author>
+    <author>Woodward, David</author>
+    <title type="m" lang="eng">Cartography in the Traditional East and Southeast Asian Societies</title>
+    <imprint>
+      <title type="s" lang="eng">The History of Cartography</title>
+      <biblScope type="volume">2.2</biblScope>
+      <pubPlace>Chicago</pubPlace>
+      <publisher>The University of Chicago Press</publisher>
+      <date>1994</date>
+    </imprint>
+  </bibl>
+</listBibl>

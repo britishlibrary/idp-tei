@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prajñāpāramitā-hṛdaya Fragment from Kharakhoto</title>
+        <author id="SK">Seishi Karashima</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>International Dunhuang Project</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2014</date>
+      </publicationStmt>
+      <editionStmt>
+        <edition>First edition</edition>
+      </editionStmt>
+      <sourceDesc>
+        <p>Electronic</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This is an edition by Seishi Karashima of two pages from a printed version of the
+                    <title lang="san">Prajñāpāramitā-hṛdaya-sūtra</title> or 'Heart Sutra'. The
+                fragment is from the Tangut city of Kharakhoto. The text contains a Chinese
+                transliteration from the original Sanskrit. As Karashima shows, the syllables in the
+                Siddham script are not from an original Sanskrit version, but are an attempt to
+                reconstruct the Sanskrit based on the Chinese characters.</p>
+      <p>Andrew West has shown that the Chinese text is almost identical to the text carved on
+                one of the 10,082 stone tablets engraved during the reign of Emperor Daozong of Liao
+                that were found in 1957 and 1958 in the Pagoda of Yunju Temple (雲居寺) in Fangshan
+                District, Beijing. The text corresponds to lines 42-47 (left page) and 47-49 (right
+                page) of the transcription <link url="http://tripitaka.cbeta.org/mobile/index.php?index=F27n1056_001">here</link>.</p>
+    </head>
+    <body>
+      <msDescription n="1" type="SK">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.12380/3500</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <q lang="san">
+              <l n="1.1">vva <note type="footnote">scribal error for <term lang="san">tvā</term></note> atrasatta viparyastikrāṃ-</l>
+              <l n="1.2">ttā nṛṣṭanirvaṇa triyadhvana-</l>
+              <l n="1.3">vasthitta sarvabuddha prajñāpā-</l>
+              <l n="2.1">ramittam āśritya anuttāra</l>
+              <l n="2.2">saṃmyāsaṃbuddhim abhisāṃbuddha</l>
+              <l n="2.3">[tas]ma jñātavyaṃ prajñāpārami</l>
+            </q>
+            <note>
+              <p>The fragment contains many scribal errors. Presumably somebody
+                                reconstructed the Sanskrit version from the Chinese
+                                transcriptions.</p>
+              <p>The relevant section from the <title lang="san">Prajñāpāramitā-hṛdaya-sūtra</title> is as
+                                follows:</p>
+              <q lang="san">tasmāc Chāriputra aprāptitvād bodhisattvo mahāsatvaḥ
+                                prajñāpāramitām āśritya viharaty acittāvaraṇaḥ.
+                                cittāvaraṇanāsti**tvād atrasto viparyāsātikrānto niṣṭhānirvāṇaḥ.
+                                tryadhvavyavasthitāḥ sarvabuddhāḥ prajñāpāramitām āśritya anuttarāṃ
+                                samyaksambodhim abhisambuddhāḥ. tasmāj jñātavyaṃ prajñāpārami**tā
+                                mahāmantro mahāvidyāmantro ...</q>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

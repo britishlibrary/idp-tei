@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Whitfield_1996">
+    <editor>Whitfield, Susan</editor>
+    <editor>Wood, Frances</editor>
+    <title level="m" lang="eng">Dunhuang and Turfan: Contents and Conservation of Ancient Documents from Central Asia</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>The British Library</publisher>
+      <date>1996</date>
+    </imprint>
+    <genBibl>whitfield_susan</genBibl>
+    <genBibl>conservation</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Yamazaki_1990">
+    <author>Yamazaki, G</author>
+    <title level="a" lang="eng">The Legend of the Foundation of Khotan</title>
+    <imprint>
+      <title level="j">The Memoirs of the Toyo Bunko</title>
+      <biblScope type="issue">48</biblScope>
+      <biblScope type="pp">55-80</biblScope>
+      <date>1990</date>
+    </imprint>
+    <keywords>Khotan</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

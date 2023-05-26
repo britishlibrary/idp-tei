@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Müller_1907">
+    <author>Müller, Friedrich Wilhelm Karl</author>
+    <title level="a" lang="ger">Neutestamentliche Bruchstücke in soghdischer Sprache.</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">SPAW</title>
+      <date>1907</date>
+      <biblScope type="pp">260-270</biblScope>
+    </imprint>
+    <note>2 Tafeln</note>
+    <keywords>manuscripts</keywords>
+    <keywords>Christianism</keywords>
+    <keywords>Syriac</keywords>
+    <keywords>n</keywords>
+    <keywords>Ostturkestan</keywords>
+    <keywords>East Turkestan</keywords>
+    <genBibl>SPAW</genBibl>
+  </bibl>
+</listBibl>

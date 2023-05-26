@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<bibl id="Zou_1991">
+  <author>Zou Zongxu</author>
+  <translator>Whitfield, Susan</translator>
+  <title level="m" lang="eng">The Land Within the Passes: A History of Xian</title>
+  <title level="m" lang="chi-ltn">Qiannian gudu Xian</title>
+  <imprint>
+    <pubPlace>London</pubPlace>
+    <publisher>Viking</publisher>
+    <date>1991</date>
+  </imprint>
+  <genBibl>whitfield_susan</genBibl>
+</bibl>

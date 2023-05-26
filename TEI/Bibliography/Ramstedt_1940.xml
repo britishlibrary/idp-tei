@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Ramstedt_1940">
+    <author>Ramstedt, G. J.</author>
+    <title level="m" lang="eng">Four Uigurian Documents</title>
+    <imprint>
+      <pubPlace>Helsinki</pubPlace>
+      <date>1940</date>
+    </imprint>
+    <note/>
+    <genBibl>collections_fin</genBibl>
+  </bibl>
+</listBibl>

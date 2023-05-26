@@ -1,0 +1,2663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sogdische Handschriften der Berliner Turfansammlung. So 10000-13999.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>print edition</edition>
+      </editionStmt>
+      <sourceDesc>
+        <p>electronic</p>
+        <p>Input and marked up by Susann Rabuske. Imported to 4D on 11/26/13 by Susann Rabuske.</p>
+        <bibl>
+          <ref>So_10000-13999</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Beschreibung der sogdischen Manuskripte aus der Berliner Turfansammlung</p>
+    </head>
+    <body>
+      <msDescription n="10000(2)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10000(2)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">Unbestimmt.</title>
+            <note>
+              <p>Vielleicht Teil einer Erzählung.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">1</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10000(3)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 10000(3)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">verso: Narisaf-Hymnus.</title>
+            <note>
+              <p/>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">2</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10026">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10026</idno>
+          <idno type="old">I B 426</idno>
+          <idno type="old">A 43</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">recto: Kephalaia-artiger Lehrtext; verso: Predigt.</title>
+            <note>
+              <p>1. Turfan-Expedition. Gehört zusammen mit So 18292.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">3</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXIII_16">69</ref>
+              </bibl>
+              <bibl>
+                <ref target="Zieme_1975"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10030(1)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10030(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">Unbestimmt.</title>
+            <note>
+              <p>1. Turfan-Expedition. Lehrtext oder Erzählung.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">4</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10030(2)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10030(2)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn">Lehrtext über die Religion und die Gebote.</title>
+            <note>
+              <p>1. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">5</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10050">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 10050</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">verso: Unbestimmt.</title>
+            <note>
+              <p>Unter Glas zusammen mit So 10051-10053.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">6</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10051">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 10051</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Band 9, S. 15c, Z. 3-6; v: Erzählung von der Daēnā.</p>
+              <p>Zusammengehörig mit Ch/So 14731, Ch/So 10052, Дх 06957, Ōtani 7127.</p>
+              <p>Unter Glas zusammen mit So 10051-10053.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">213</ref>
+              </bibl>
+              <bibl>
+                <ref target="Reck_1997a">S. 543-550</ref>
+              </bibl>
+              <bibl>
+                <ref target="Reck_2003">S. 336-338</ref>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II">Taf. 171</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10052">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 10052</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Band 9, S. 15b, Z. 20-21; v: Erzählung von der Daēnā.</p>
+              <p>Zusammengehörig mit Ch/So 14731, Ch/So 10051, Дх 06957, Ōtani 7127.</p>
+              <p>Unter Glas zusammen mit So 10051-10053.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">213</ref>
+              </bibl>
+              <bibl>
+                <ref target="Reck_1997a">S. 543-550</ref>
+              </bibl>
+              <bibl>
+                <ref target="Reck_2003">S. 336-338</ref>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II">Taf. 171</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10053">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 10053</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">verso: Unbestimmt.</title>
+            <note>
+              <p>Unter Glas zusammen mit So 10051-10053.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">7</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10072">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10072</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn">Noch nicht identifiziert.</title>
+            <note>
+              <p>Möglicherweise zu einem Narisaf-Hymnus gehörig. Unter Glas zusammen mit So 10070-10076.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">8</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10077">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10077</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn">Noch nicht identifiziert.</title>
+            <note>
+              <p>Unbestimmt. Unter Glas zusammen mit So 10078-10086.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">9</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10079">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10079</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn">Noch nicht identifiziert.</title>
+            <note>
+              <p>Unbestimmt. Unter Glas zusammen mit So 10077-10086.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">10</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10080">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10080</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn">Noch nicht identifiziert.</title>
+            <note>
+              <p>Unbestimmt. Unter Glas zusammen mit So 10077-10086.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">11</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10081">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10081</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn">Noch nicht identifiziert.</title>
+            <note>
+              <p>Unbestimmt. Zu einer Sammelhandschrift gehörig. Unter Glas zusammen mit So 10077-10086.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">12</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10082">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10082</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn">Noch nicht identifiziert.</title>
+            <note>
+              <p>Unbestimmt. Unter Glas zusammen mit So 10077-10086.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">13</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10085">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10085</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">Xwāstwānīft.</title>
+            <note>
+              <p>§§ 9A, 9B und 10A.</p>
+              <p>1. Turfan-Expedition. Unter Glas zusammen mit So 13910 und 20186.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">14</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10100a">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10100a</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn">Noch nicht identifiziert.</title>
+            <note>
+              <p>Unbestimmt.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">15</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10100b">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10100b</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">Rede der Lebendigen Seele.</title>
+            <note>
+              <p>verso gehört zusammen mit So 10102(1).</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">16</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10100d">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10100d</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn">Parabel.</title>
+            <note>
+              <p>Möglicherweise Parabel vom Perlenbohrer.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">17</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10100e">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10100e</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Kirchengeschichtlicher Text.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">18</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10100f">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10100f</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt. Lehrtext oder Erzählung.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">19</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10100g(1)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10100g(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>I: Fabel: Cäsar und die Diebe; II: Ermahnungen und Rätsel.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">20</ref>
+              </bibl>
+              <bibl>
+                <ref target="Henning_Tales"/>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II"/>
+              </bibl>
+              <bibl>
+                <ref target="Zarshenas_1997"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10100g(2)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10100g(2)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Fabel vom Affen und vom Fuchs (nach Äsop).</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">21</ref>
+              </bibl>
+              <bibl>
+                <ref target="Henning_Tales"/>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10100h">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10100h</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Rätselfragen.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">22</ref>
+              </bibl>
+              <bibl>
+                <ref target="Henning_Tales"/>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10100k">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10100k</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Ende einer Erzählung. Zusammengehörig mit So 18249, 18250 und 18251.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">23</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10100l">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 10100l</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">v: Sermon vom Licht-Nous.</title>
+            <note>
+              <p>v: Zusammengehörig mit Ch/So 14760v, 20510v und Ch/U 8092v.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">24</ref>
+              </bibl>
+              <bibl>
+                <ref target="Henning_Sogdica"/>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10100m">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10100m</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Hymnen auf Mani, auf Ohrmezd u.a.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">25</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10100m(a)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10100m(a)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Prosatext, möglicherweise Epimythion einer Erzählung.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">26</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10102(1)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10102(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">v: Rede der Lebendigen Seele.</title>
+            <note>
+              <p>verso gehört zusammen mit So 10100b.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">16</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10102(2)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10102(2)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">v: Rede der Lebendigen Seele.</title>
+            <p>Fundort Qočo, 1. Turfan-Expedition.</p>
+            <note>
+              <p/>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">27</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10129">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10129</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Hagiographische Erzählung. Eine weitere Legende von der Begegnung des Prinzen Ohrmezd des Kühnen mit Mani.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">28</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10133">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10133</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Hymnus auf die Lebendige Seele.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">29</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10200(1)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10200(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Lehrtext unbestimmten Inhalts. Unter Glas zusammen mit So 10201(1).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">30</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10201(1)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10201(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Lehrtext unbestimmten Inhalts. Gehört zusammen mit So 13506. Unter Glas zusammen mit So 10200(1).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">31</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10200(5)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10200(5)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Preisung Jesu als den fünffältigen Neuen Tag. Unter Glas zusammen mit So 10201(5).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">32</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10201(5)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10201(5)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>S.1: Hymnus; S. 2: Hymnus auf Narisaf oder eine andere Erlösergottheit der Dritten Berufung. Unter Glas zusammen mit So 10200(5).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">33</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_1991a"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10200(6)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10200(6)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Lehrtext, vermutlich  über den Sonnengott.</p>
+              <p>Zusammensetzbar mit So 10201(6) und 20134. Unter Glas zusammen mit So 10201(6).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">34</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10201(6)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10201(6)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Lehrtext, vermutlich  über den Sonnengott.</p>
+              <p>Zusammensetzbar mit So 10200(6) und 20134. Unter Glas zusammen mit So 10200(6).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">34</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10202">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10202</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Aufzählung der Lichtglieder, eventuell zum Sermon vom Licht-Nous gehörig.</p>
+              <p>Unter Glas zusammen mit So 10203.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">35</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_BTTXI"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10203">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10203</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Lehrtext oder Erzählung mit Bild vom Schatz, den der Dieb im Paradies nicht stiehlt.</p>
+              <p>Unter Glas zusammen mit So 10202.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">36</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10237(1)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10237(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Hymnus.</p>
+              <p>Unter Glas zusammen mit So 10238(1).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">37</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10237(4)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10237(4)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Einleitung zu einem kephalaia-artig eingebetteten Lehrtext.</p>
+              <p>Unter Glas zusammen mit So 10238(4) und 10239(4).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">41</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10238(1)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10238(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn">Sermon von der Seele.</title>
+            <note>
+              <p>Unter Glas zusammen mit So 10237(1).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">38</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_BTTXIX"/>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10238(4)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10238(4)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Teil eines Lehrtextes über die Befreiung und den Aufstieg der Lichtteilchen.</p>
+              <p>Unter Glas zusammen mit So 10237(4) und 10239(4).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">42</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10239(1) - 13512">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10239(1) - 13512</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt. Zu einer Sammelhandschrift gehörig, die den "Sermon von der Seele" und die "Homilie an die Hörer" beinhaltet.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">39</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10239(2)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10239(2)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich teil einer Erzählung. Unter Glas zusammen mit So 10237(2) und 10238(2).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">40</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10260(1)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10260(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Lehrtext über die leiblichen Glieder und den Dharmakörper. Unter Glas zusammen mit So 10261(1) und 10262(1).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">43</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10261(1)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10261(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich zu einem kosmogonischen Lehrtext gehörig. Unter Glas zusammen mit So 10260(1) und 10262(1).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">44</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10262(1)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10262(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Lehrtext. Unter Glas zusammen mit So 10260(1) und 10261(1).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">45</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10263(1)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10263(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Antizoroastrische Polemik. Zusammengehörig und unter Glas mit So 18182 und 18183.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">46</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_2001b">S. 74-75</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10347">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10347</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt. Unter Glas zusammen mit So 10345 - 10351.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">47</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10349">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10349</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt. Unter Glas zusammen mit So 10344 - 10351.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">48</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10350">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10350</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich Teil eines kirchengeschichtlichen Textes oder astrologisches Textfragment.</p>
+              <p>Unter Glas zusammen mit So 10344 - 10351.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">49</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10650(1)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10650(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Erörterung.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">50</ref>
+              </bibl>
+              <bibl>
+                <ref target="Reck_2005b">S. 338-341</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10650(2) - 18131">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10650(2) - So 18131</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>I Teil des Sermons von der Seele. II Parabeltext, r: Gebet um eine bessere Welt, v: Dialog zwischen Mantarōč und dem Teufel.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">51</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_BTTXIX">S. 88-89</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10650(2)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10650(2)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>I Teil des Sermons von der Seele. II Parabeltext, r: Gebet um eine bessere Welt, v: Dialog zwischen Mantarōč und dem Teufel.</p>
+              <p>Zusammengesetzt mit So 18131.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">51</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_BTTXIX">S. 88-89</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10650(7)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10650(7)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>A: Soteriologischer Lehrtext  über Gott Gerechter Srōš; B: Auseinandersetzung mit häretischen Ansichten.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">52</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10650(8)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10650(8)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">Xwāstwānīft.</title>
+            <note>
+              <p>§ 9.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">53</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10650(9)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10650(9)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Hymnus, eventuell zu Wuzurgān Āfrīwan.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">54</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10650(10)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10650(10)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Lehrtext. Auseinandersetzung mit dem jüdischen Schöpfungsmythos.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">55</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10650(14)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10650(14)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">Xwāstwānīft.</title>
+            <note>
+              <p>Zusammengehörig mit So 20191.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">56</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10650(15)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10650(15)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Hymnen auf die Gesandten.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">57</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10650(32)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10650(32)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Lehrtext über die Gabe.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">58</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10678">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10678</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Hymnus auf die Engel; v: Hymnus auf den Sonnengott.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">59</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10700a">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10700a</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zum Gigantenbuch gehörig. Zusammenzusetzen mit So 20193a. Unter Glas zusammen mit So 10701a.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">60</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10701a">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10701a</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zum Gigantenbuch gehörig. Unter Glas zusammen mit So 10700a.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">61</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10700b-10701b">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10701b - 10701b</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>So 10700b: Xwāstwānīft §§ 10 und 11.</p>
+              <p>So 10701b: zu Wuzurgān Āfrīwan gehörig.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">62</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10752">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10752</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich Hymnen. Unter Glas zusammen mit So 10750 und 10751.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">63</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10791(3)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10791(3)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Teil eines Beichttextes. Unter Glas zusammen mit So 10788(3)-10790(3).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">64</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10900">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10900</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">Xwāstwānīft</title>
+            <note>
+              <p>§ 15B und C.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">65</ref>
+              </bibl>
+              <bibl>
+                <ref target="Henning_Sogdica">S. 63-66</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10920">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 10920</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>v: Briefanfangsformulare. Zusammensetzbar mit Ch/So 19535.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">66</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10958">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10958</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich zu einem Lehrtext über den Sonnen- und den Mondgott gehörig. Unter Glas zusammen mit So 10950-10957.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">67</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10999">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 10999</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich Teil eines kirchengeschichtlichen Textes.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">68</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="11010">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 11010</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">69</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="11400">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 11400</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Prosatext. Möglicherweise Epimythion einer Erzählung.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">70</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="11600">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 11600</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>v: Hymnen auf die Gesandten. Zusammensetzbar mit Ch/So 14829.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">71</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="11603">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 11603</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>v: Lehrtext, in den ein Gleichnis von einem Hasen eingebaut ist.</p>
+              <p>Zusammensetzbar mit Ch/So 20509v, Ch/U 6330v, Ōtani 7223v und Ōtani 9049v.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">72</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="12398">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 12398</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>v: Beginn eines Hymnus auf Mani, worin auch Gabryab erwähnt wird.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">73</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="12400">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 12400</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>v: Parabel vom Jungen, der sich taubstumm stellte.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">74</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13031">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 13031</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>v: Erzählung(?). Unter Glas zusammen mit So 13030-13033.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">75</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13101">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 13101</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>v: Lehrtext mit Einleitung zu einer Parabel.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">76</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13399a">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 13399a</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">v: Gōwišn ī grīw zīndag.</title>
+            <note>
+              <p>r: Kolophon; v: sogdische Version der Rede der Lebendigen Seele.</p>
+              <p>Zusammensetzbar mit Ch/So 13401.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Thilo_1985"/>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">77</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_BTTXXX"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13400">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 13400</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>v: Erzählung über die Nichtigkeit des irdischen Lebens, entspricht der Legende von Hiob.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">78</ref>
+              </bibl>
+              <bibl>
+                <ref target="Henning_Tales">485-487</ref>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II">Taf. 163</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13401">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 13401</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">v: Gōwišn ī grīw zīndag.</title>
+            <note>
+              <p>r: Kolophon; v: sogdische Version der Rede der Lebendigen Seele.</p>
+              <p>Zusammensetzbar mit Ch/So 13399a.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Thilo_1985"/>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">77</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_BTTXXX"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13425(1)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13425(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Prosa. I: Teil eines Briefes Manis vermutlich. II: Über das Klosterleben.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Zusammensetzbar mit So 18140 (I). Unter Glas zusammen mit So 13426(2).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">256</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13425(2)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13425(2)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn">Xwāstwānīft</title>
+            <note>
+              <p>A: Xwāstwānīft § 9. Unter Glas zusammen mit So 13426(2).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">80</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13426(1)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13426(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt. Unter Glas zusammen mit So 13425(1).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">79</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13426(2)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13426(2)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn">Xwāstwānīft.</title>
+            <note>
+              <p>A: Xwāstwānīft § 9. Unter Glas zusammen mit So 13425(2).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">81</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13427">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13427</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt. Unter Glas zusammen mit So 13428.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">82</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13428">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13428</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt. Unter Glas zusammen mit So 13427.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">83</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13450">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13450</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt. Unter Glas zusammen mit So 13451 und 13452.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">84</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13451">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13451</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt. Unter Glas zusammen mit So 13450 und 13452.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">85</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13452">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13452</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt. Unter Glas zusammen mit So 13450 und 13451.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">86</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13500">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13500</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: vermutlich Hymnus; v: Text m. Bezug auf liturgische Vorgänge?. Unter Glas zusammen mit So 13501-13513.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">87</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13501">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13501</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt. Unter Glas zusammen mit So 13501-13513.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">88</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13502">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13502</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt. Unter Glas zusammen mit So 13501-13513.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">89</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13503">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13503</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt. Unter Glas zusammen mit So 13501-13513.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">90</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13504">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13504</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt. Unter Glas zusammen mit So 13501-13513.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">91</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13505">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13505</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: rückläufig alphabetischer Montagshymnus, Strophen n-r; v: vermutlich Hymnus.</p>
+              <p>Unter Glas zusammen mit So 13501-13513.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">92</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13506">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13506</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Lehrtext unbestimmten Inhalts. Zusammensetzbar mit So 10201(1).</p>
+              <p>Unter Glas zusammen mit So 13501-13513.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">31</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13507">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13507</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt. Unter Glas zusammen mit So 13501-13513.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">93</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13508">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13508</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zu einem Lehrtext gehörig. Unter Glas zusammen mit So 13501-13513.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">94</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13509">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13509</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich Hymnen. Unter Glas zusammen mit So 13501-13513.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">95</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13510">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13510</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Möglicherweise Teil eines Briefes Manis. Unter Glas zusammen mit So 13501-13513.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">96</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13511">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13511</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn">Sermon von der Seele.</title>
+            <note>
+              <p>Unter Glas zusammen mit So 13501-13513.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">97</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_BTTXIX">88-89</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13512">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13512</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt. Zusammengesetzt mit So 10239(1).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">39</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13513">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13513</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zu einem kirchengeschichtlichen Text gehörig. Unter Glas zusammen mit So 13501-13513.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">97</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_BTTXI">53-54</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13700a">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13700a</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Unbestimmt, Teil einer Sammelhandschrift.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">99</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13800">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13800</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>A: Sermon vom Licht-Nous §§ 42 und 43, Beschreibung der zwei Nächte; B: den manichäischen Hymnenzyklen zuzuordnen, 
+							eventuell sogd. Version des Huyadagmān II.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Zusammengesetzt mit So 18191.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">100</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_BTTXVII">60</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_MHC">31-32</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13880">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13880</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Lehrtext über die Erwählten mit numerierter Aufzählung von guten Verhaltensweisen.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">100</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13881-13882">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13880 - 13882</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Dokument. Beleg über die Hinterlegung von Baumwolle und Rohseide.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">102</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_1996b">105-11</ref>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II">Taf. 164</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13910">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13910</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">Xwāstwānīft.</title>
+            <note>
+              <p>§§ 9A, 9B und 10A. Zusammengesetzt mit So 10085 und 20186.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">14</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13911">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13911</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">103</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13940">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13940</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Nicht sicher bestimmbar.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 13942 und 13943.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">104</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_BTTXI">54</ref>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II">48</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13941 - 14285">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13940 - 14285</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Kirchengeschichtlicher Text.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">138</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_BTTXI">34-36</ref>
+              </bibl>
+              <bibl>
+                <ref target="Klimkeit_1993">203</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13942">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13942</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 13940 und 13943.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">105</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13943">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 13943</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Lehrtext über das Leben der Erwählten.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 13940 und 13942.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">106</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

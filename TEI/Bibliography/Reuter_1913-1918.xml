@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Reuter_1913-1918">
+    <author>Reuter, Julio N.l</author>
+    <title level="a" lang="fre">Some Buddhist Fragments from Chinese Turkestan in Sanskrit and Khotanese</title>
+    <imprint>
+      <title level="j">Journal de la Societe Finno-Ougrienne</title>
+      <biblScope type="issue">XXX</biblScope>
+      <biblScope type="pp">1-37</biblScope>
+      <date>1913-1918</date>
+    </imprint>
+    <keywords>Sanskrit</keywords>
+    <keywords>Khotanese</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

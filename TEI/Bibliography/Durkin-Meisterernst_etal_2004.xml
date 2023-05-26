@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<listbibl>
+  <bibl id="Durkin-Meisterernst_etal_2004">
+    <editor>Durkin-Meisterernst, Desmond</editor>
+    <editor>Raschmann, Simone-Christiane</editor>
+    <editor>Wilkens, Jens </editor>
+    <editor>Yaldiz, Marianne </editor>
+    <editor>Zieme, Peter </editor>
+    <title level="m" lang="eng">Turfan Revisited: The First Century of Research into the Arts and Cultures of the Silk Road</title>
+    <imprint>
+      <pubPlace>Berlin</pubPlace>
+      <publisher>Dietrich Reimer</publisher>
+      <date>2004</date>
+    </imprint>
+    <genBibl>collections_ge</genBibl>
+    <note/>
+  </bibl>
+</listbibl>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Apor_2007">
+    <editor n="1">Apor, Eva</editor>
+    <editor n="2">Wang, Helen</editor>
+    <author n="1">Falconer, John</author>
+    <author n="2">Karteszi, Agnes</author>
+    <author n="3">Kelecsenyi, Agnes</author>
+    <author n="4">Russell-Smith, Lilla</author>
+    <title level="m" lang="eng">Supplement to the Catalogue of the Collections of Sir Aurel Stein in the Library of the Hungarian Academy of Sciences</title>
+    <imprint>
+      <pubPlace>Budapest</pubPlace>
+      <publisher>Library of the Hungarian Academy of Sciences</publisher>
+      <date>2007</date>
+    </imprint>
+    <genBibl>collections_en</genBibl>
+  </bibl>
+</listBibl>

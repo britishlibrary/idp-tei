@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Hastings_1908-1926">
+    <editor n="1">Hastings, James</editor>
+    <editor n="2">Selbie, John A.</editor>
+    <editor n="3">Gray, Louis H.</editor>
+    <title level="m" lang="eng">Encyclopedia of religion and ethics</title>
+    <imprint>
+      <pubPlace>Edinburgh; New York</pubPlace>
+      <publisher>T. &amp; T. Clark; Scribner's Sons</publisher>
+      <date>1908-1926</date>
+    </imprint>
+    <note>Edited by James Hastings with the assistance of John A. Selbie and other scholars</note>
+  </bibl>
+</listBibl>

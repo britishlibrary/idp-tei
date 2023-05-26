@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Thomson_1986">
+    <author>Thomson, G.</author>
+    <title level="m" lang="eng">The Museum Environment</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>Butterworths</publisher>
+      <date>1986</date>
+      <idno type="ISBN">0408015365</idno>
+    </imprint>
+    <keywords>museum</keywords>
+    <keywords>Conservation</keywords>
+    <keywords>Preservation</keywords>
+    <genBibl>Conservation</genBibl>
+  </bibl>
+</listBibl>

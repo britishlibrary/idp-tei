@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Catling_Grayson_1982">
+    <author n="1">Catling, Dorothy</author>
+    <author n="2">Grayson, John</author>
+    <title level="m" lang="eng">Identification of Vegetable Fibres</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>Chapman and Hall</publisher>
+      <date>1982</date>
+    </imprint>
+    <keywords>Conservation</keywords>
+    <keywords>Paper</keywords>
+    <keywords>Fibres</keywords>
+    <genBibl>Fibre</genBibl>
+  </bibl>
+</listBibl>

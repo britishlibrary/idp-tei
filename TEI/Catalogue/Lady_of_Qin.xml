@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title lang="eng">Translation of The Lament of the Lady of Qin</title>
+        <author lang="eng">Giles, Lionel</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Brill</publisher>
+        <pubPlace>Leiden</pubPlace>
+        <date>1925-6</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>International Journal of Chinese Studies</p>
+        <bibl id="Giles_1925-6">
+          <author>Giles, Lionel</author>
+          <title level="a" lang="eng">The Lament of the Lady of Ch'in</title>
+          <title level="j">T'oung
+                        Pao</title>
+          <biblScope>24 (1925-6):
+                        305-80</biblScope>
+          <date>1925-6</date>
+          <keywords>Rebellion</keywords>
+          <keywords>Huang
+                        Chao</keywords>
+          <genBibl/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Translation</projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This is a translation by Lionel Giles of a poem about the Huang Chao rebellion. In
+                an introduction to the translation (pp.305-325), Giles describes how he collated the
+                text from fragments in London and Paris, and sketches the historical background of
+                Huang Chao's rebellion. He concludes with the following remarks about the
+                translation, "The diction, as befits narrative, is simpler and more direct than in
+                the standard poem, and is for the most part free from the allusiveness which is apt
+                to make Chinese poetry so obscure. The law of parallelism, too, is not so strictly
+                observed, though it is seldom ignored altogether. While trying to make my
+                translation readable, I have aimed above all at literalness, so far as this is
+                compatible with the fundamental differences of Chinese and English.The poem is a
+                long one of its kind - almost exactly twice the length of 'The Everlasting
+                Resentment' - and may be conveniently divided into some dozen or more episodes, as
+                shown in the following synoptical analysis:</p>
+      <p>1-16. Introductory: the poet's
+                meeting with the Lady.</p>
+      <p>17-32. The Lady's story: the coming of the
+                rebels.</p>
+      <p>33-52. The sack of Chang'an.</p>
+      <p>53-84. The fate of the four
+                girls.</p>
+      <p>85-108. The Lady in the rebel's camp.</p>
+      <p>109-126. A forlorn
+                hope.</p>
+      <p>127-146. Desolation of the city after the storm.</p>
+      <p>147-158. The
+                journey through the ruined countryside.</p>
+      <p>159-178. Episode of the Golden
+                God.</p>
+      <p>179-188. On the road to Luoyang.</p>
+      <p>189-216. Episode of the old man
+                reduced to beggary.</p>
+      <p>217-224. Reports from other provinces.</p>
+      <p>225-236. A
+                visitor from Jiangnan.</p>
+      <p>237-238. Envoi.</p>
+    </head>
+    <body>
+      <msDescription n="1" type="LG">
+        <msIdentifier>
+          <idno type="current">Or.8210/S.692</idno>
+          <idno type="current">Or.8210/S.5476</idno>
+          <idno type="current">Or.8210/S.5477</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole text">
+            <title lang="eng">The Lament of the Lady of Qin. By the Right Buque
+                            Weizhuang.</title>
+            <q lang="eng">
+              <lg>
+                <l>In the guimao year of Zhonghe, in the third month of spring,</l>
+                <l>Outside the city walls of Luoyang, the blossom was like snow.</l>
+                <l>East and west, north and south, wayfarers were at rest;</l>
+                <l>The green willows were still, their fragrant scent was
+                                    departed.</l>
+                <l>Suddenly, by the wayside I saw a flower-like lady</l>
+                <l>Reclining in solitude beneath the shade of the green willows.</l>
+                <l>Her phoenix head-dress was awry, and a lock of hair lay athwart
+                                    her temples.</l>
+                <l>Her face showed traces of care, and there was a pucker between
+                                    her eyebrows.</l>
+                <l>I made bold to question her, saying: "O Lady, whence do you
+                                    come?"</l>
+                <l>Looking distressed, she was about to speak, when a sob choked her
+                                    utterance.</l>
+                <l>Then, turning her head and gathering up her sleeves, she
+                                    apologized to the traveller:</l>
+                <l>"Tossed and engulfed in the waves of revolution, how can I find
+                                    words to speak?</l>
+                <l>Three years back I fell into the hands of the rebels and was
+                                    detained in the land of Qin,</l>
+                <l>And the things that happened in Qin seem engraved in my
+                                    memory.</l>
+                <l>If you, Sir, can loosen your golden saddle to hear my story,</l>
+                <l>I for my part will stay my jade footsteps in your company....</l>
+              </lg>
+              <lg>
+                <l>The year before last, on the fifth day of the sacrificial moon in
+                                    Gengzi,</l>
+                <l>I had just shut the golden bird-cage after giving a lesson to my
+                                    parrot</l>
+                <l>And was looking sidelong in my phoenix mirror as I lazily combed
+                                    my hair,</l>
+                <l>Idly leaning the while on the carved balustrade in silent
+                                    thought,</l>
+                <l>When suddenly I beheld a cloud of red dust rising outside the
+                                    gates,</l>
+                <l>And men appeared in the streets beating metal drums.</l>
+                <l>The citizens rush out of doors half-dazed with terror,</l>
+                <l>And the courtiers come flocking in, still suspecting a false
+                                    rumour.</l>
+                <l>Meanwhile, Government troops are entering the city from the
+                                    west,</l>
+                <l>And propose to meet the emergency by marching to the Tong
+                                    Pass.</l>
+                <l>The general cry is that the Boye troops are holding the enemy in
+                                    check,</l>
+                <l>And all agree that the rebel army, though on the way, has not yet
+                                    arrived.</l>
+                <l>Yet a little while, and my husband gallops up on horseback;</l>
+                <l>Dismounting, he enters the gate; stupefied he stands, like a
+                                    drunken man.</l>
+                <l>Even now he had met the Purple Canopy departing into exile,</l>
+                <l>And had seen the white banners advancing from all parts of the
+                                    country....</l>
+              </lg>
+              <lg>
+                <l>Supporting the infirm and leading children by the hand, fugitives
+                                    are calling to one another in the turmoil;</l>
+                <l>Some clamber on to roofs, others scale walls, and all is in
+                                    disorder.</l>
+                <l>Neighbours in the south run into hiding with neighbours in the
+                                    north,</l>
+                <l>And those in the east make for shelter with those in the
+                                    west.</l>
+                <l>Our northern neighbour's womenfolk, trooping all together,</l>
+                <l>Dash wildly about in the open like stampeding cattle.</l>
+                <l>Boom, boom! — Heaven and earth shake with the rumbling of chariot
+                                    wheels,</l>
+                <l>And the thunder of ten thousand horses' hoofs re-echoes from the
+                                    ground.</l>
+                <l>Fires burst out, sending golden sparks high up into the
+                                    firmament,</l>
+                <l>And the twelve official thoroughfares are soon seething with
+                                    smoke and flame.</l>
+                <l>The sun's orb sinks in the west, giving place to the cold pale
+                                    light of the moon.</l>
+                <l>God utters never a word, but His heart is surely bursting within
+                                    him.</l>
+                <l>A dark halo of misty cloud seems to encircle the moon with many
+                                    rings,</l>
+                <l>And the Eunuch Stars, gliding in their courses, assume the colour
+                                    of blood;</l>
+                <l>The Purple Exhalation secretly follows the Emperor's Throne as it
+                                    shifts from place to place,</l>
+                <l>And baleful rays are stealthily shooting at the Tai Stars for
+                                    their destruction.</l>
+                <l>Every home now runs with bubbling fountains of blood,</l>
+                <l>Every place rings with a victim's shrieks — shrieks that cause
+                                    the very earth to quake.</l>
+                <l>Dancers and singing-girls must all undergo secret outrage;</l>
+                <l>Infants and tender maidens are torn living from their parents'
+                                    arms.</l>
+              </lg>
+              <lg>
+                <l>Our eastern neighbour had a daughter, whose eyebrows were but
+                                    newly painted:</l>
+                <l>A beauty above all price, to overthrow a city or a state;</l>
+                <l>Between tall spears she is escorted into a warrior's chariot,</l>
+                <l>Turning to gaze back at her fragrant boudoir, while her
+                                    handkerchief is soaked with tears.</l>
+                <l>So now she is pulling out golden thread and learning to sew
+                                    banners,</l>
+                <l>Or she is raised upon a carved saddle and made to sit a galloping
+                                    steed.</l>
+                <l>Now and again, from her horse, she catches sight of her
+                                    goodman,</l>
+                <l>But dares not turn her eyes upon him, and has to shed tears in
+                                    vain.</l>
+              </lg>
+              <lg>
+                <l>Our western neighbour had a daughter — verily, a fairy
+                                    maiden!</l>
+                <l>Sidelong glances flashed from her large limpid eyes,</l>
+                <l>And when her toilet was done, she reflected the spring in her
+                                    mirror;</l>
+                <l>Young in years, she knew naught of the world outside her
+                                    door.</l>
+                <l>A ruffian comes leaping up the steps of her abode;</l>
+                <l>Pulling her robe from one bare shoulder, he attempts to do her
+                                    violence,</l>
+                <l>But, though dragged by her clothes, she refuses to pass out of
+                                    the vermilion portal,</l>
+                <l>And thus with her rouge and fragrant unguents she meets her death
+                                    under the knife.</l>
+              </lg>
+              <lg>
+                <l>Our southern neighbour had a daughter — I cannot recall her
+                                    name;</l>
+                <l>'Twas but the other day that a worthy go-between had brought her
+                                    betrothal present</l>
+                <l>She had heard no footfalls on her steps of glazed tiles,</l>
+                <l>And saw but the shadows of men on her blind of kingfisher
+                                    blue.</l>
+                <l>Suddenly the clash of sword-blades is heard in the courtyard
+                                    below,</l>
+                <l>And in a moment's space heads and trunks are lying severed on the
+                                    ground.</l>
+                <l>Raising their eyes to heaven, then covering their faces, and
+                                    uttering one wail of horror,</l>
+                <l>She and her sister threw themselves together into a well.</l>
+              </lg>
+              <lg>
+                <l>At our northern neighbour's, the youthful matron was being urged
+                                    to depart;</l>
+                <l>So she was shaking out her cloud-like tresses, and wiping the
+                                    paint from her eyebrows,</l>
+                <l>When she heard the noise of men battering down the lofty
+                                    gates,</l>
+                <l>And instinctively she climbed the stairs into the upper
+                                    storey.</l>
+                <l>But soon on every side there appeared the blaze of fire,</l>
+                <l>And when she would have descended again, the staircase itself was
+                                    destroyed.</l>
+                <l>Then came loud screams from amidst the smoke, still imploring for
+                                    rescue,</l>
+                <l>But ere long her corpse, hanging over the cross-beams, was
+                                    reduced to ashes.</l>
+              </lg>
+              <lg>
+                <l>By good hap, I was able to preserve myself intact from murderous
+                                    weapons;</l>
+                <l>But daring not stand irresolute nor look back at the home I was
+                                    leaving, I combed the hair over my brows to follow the army on
+                                    their march,</l>
+                <l>And, forcing a cheerful expression,33) issued forth from the door
+                                    of my dwelling.</l>
+              </lg>
+              <lg>
+                <l>No means, after this, of returning to my old village;</l>
+                <l>No place, henceforth, where I could seek my kith and kin;</l>
+                <l>For since I fell into the rebels' hands three years have run
+                                    their course,</l>
+                <l>And always I have been a prey to anxious care, my heart quaking
+                                    with fear.</l>
+                <l>At night I lie encircled by a thousandfold ring of swords and
+                                    spears,</l>
+                <l>In the morning I have to make a meal off minced human livers.</l>
+                <l>Albeit I am taken to a nuptial couch, how can it give me joy?</l>
+                <l>Though I have jewels and riches in plenty, they are not my
+                                    heart's desire.</l>
+              </lg>
+              <lg>
+                <l>Their hair is unkempt, their faces begrimed, their eyebrows
+                                    shaggy and red:</l>
+                <l>Often when I turn my eyes upon them, I cannot endure the
+                                    sight.</l>
+                <l>Their clothes are put on all awry, the language they speak is
+                                    strange;</l>
+                <l>Overweening pride in their prowess is writ large in their
+                                    faces.</l>
+                <l>Their officers of the Cypress Terrace are a lot of cunning
+                                    foxes,</l>
+                <l>Their members of the Orchid Office are so many slinking rats.</l>
+                <l>In their close-cropped hair they would fain stick ornamental
+                                    hairpins,</l>
+                <l>Without removing their Court robes they roll themselves in
+                                    embroidered coverlets.</l>
+                <l>Clutching their ivory tablets upside down, they masquerade as
+                                    Ministers of State;</l>
+                <l>With the golden fish at their girdles wrong way up, they play the
+                                    part of Court officials.</l>
+                <l>In the morning I hear them entering the Audience Chamber to
+                                    present their memorials,</l>
+                <l>But in the evening one sees them brawling as they make their way
+                                    to the wine tavern.</l>
+              </lg>
+              <lg>
+                <l>One morning, in the fifth watch, everybody gets up in alarm,</l>
+                <l>With much shouting and excited clamour, as though discussing some
+                                    secret news.</l>
+                <l>During the night, it seems, a mounted scout had ridden into the
+                                    Imperial City</l>
+                <l>To say that the previous day the Government troops had occupied
+                                    Chishui.</l>
+                <l>Now, Chishui is but a hundred li from the city,</l>
+                <l>And if they set out at dawn they ought to be here by
+                                    nightfall.</l>
+              </lg>
+              <lg>
+                <l>The ruffianly crew sit in gloomy silence on their horses,</l>
+                <l>But the female attendants in my chamber give secret vent to their
+                                    joy.</l>
+                <l>All say that our grievous wrongs will now be avenged,</l>
+                <l>And we confidently expect that the villainous horde will this day
+                                    meet their doom.</l>
+                <l>Horsemen galloping hither and thither fill the air with exciting
+                                    rumours:</l>
+                <l>'Tis said that our army is on the march to enter the capital in
+                                    full strength!</l>
+                <l>Big Peng and little Peng look at each other in distress,</l>
+                <l>While What's-his-name and What-d'ye-call-him cling to their
+                                    saddles and weep.</l>
+              </lg>
+              <lg>
+                <l>Thus things drift on for several days, and still there is no
+                                    news,</l>
+                <l>So we must suppose that these advancing troops already have jade
+                                    tablets in their mouths,</l>
+                <l>And that they came waving flags and brandishing swords only in
+                                    order to submit;</l>
+                <l>Further it is reported that all the Government armies have been
+                                    routed and put to flight.</l>
+              </lg>
+              <lg>
+                <l>After this, great misery and distress prevail on every side;</l>
+                <l>A bushel of gold is the price of a single peck of grain;</l>
+                <l>In Shang Rang's kitchen the bark of trees is used as food,</l>
+                <l>On Huang Chao's table human flesh is carved.</l>
+                <l>Communication is cut off from the south-east, and there is no
+                                    road for supplies.</l>
+                <l>Gradually the ditches and streams are choked up, while the
+                                    population dwindles.</l>
+                <l>Stiffening corpses lie in heaps outside the Liujun Gate,</l>
+                <l>And the Qijia Camp is strewn with those who have starved to
+                                    death.</l>
+              </lg>
+              <lg>
+                <l>Chang'an lies in mournful stillness: what does it now
+                                    contain?</l>
+                <l>— Ruined markets and desolate streets, in which ears of wheat are
+                                    sprouting.</l>
+                <l>Fuel-gatherers have hacked down every flowering plant in the
+                                    Apricot Gardens,</l>
+                <l>Builders of barricades have destroyed the willows along the
+                                    Imperial Canal.</l>
+                <l>All the gaily-coloured chariots with their ornamented wheels are
+                                    scattered and gone,</l>
+                <l>Of the stately mansions with their vermilion gates less than half
+                                    remain.</l>
+                <l>The Hanyuan Hall is the haunt of foxes and hares,</l>
+                <l>The approach to the Flower-calyx Belvedere is a mass of brambles
+                                    and thorns.</l>
+                <l>All the pomp and magnificence of the olden days are buried and
+                                    passed away;</l>
+                <l>Only a dreary waste meets the eye: the old familiar objects are
+                                    no more.</l>
+                <l>The Inner Treasury is burnt down, its tapestries and embroideries
+                                    a heap of ashes;</l>
+                <l>All along the Street of Heaven one treads on the bones of State
+                                    officials.</l>
+              </lg>
+              <lg>
+                <l>Day was breaking when we arrived at the highway east of the
+                                    city,</l>
+                <l>And outside the walls wind-borne smoke tinged the landscape with
+                                    the dismal hue of the frontier region.</l>
+                <l>Along the road we sometimes saw roving bands of soldiers;</l>
+                <l>At the foot of the Slope was heavy silence — no speeding nor
+                                    welcoming of guests.</l>
+                <l>Looking eastward from Baling, we see no trace of human life, or
+                                    habitation;</l>
+                <l>From Li Shan bosomed in trees, the wealth of blue and gold has
+                                    utterly departed.</l>
+                <l>All the great roads are now become thickets of brambles,</l>
+                <l>And benighted travellers sleep in ruined shells, under the light
+                                    of the moon.</l>
+              </lg>
+              <lg>
+                <l>Next morning, at dawn, we arrive at Sanfenglu,</l>
+                <l>Where of countless inhabitants not a single household
+                                    remains;</l>
+                <l>The deserted fields and gardens show nothing but weeds;</l>
+                <l>The trees and bamboos are destroyed, and everything is
+                                    ownerless....</l>
+              </lg>
+              <lg>
+                <l>I turn to interrogate a Golden God in his wayside shrine,</l>
+                <l>But the Golden God is silent: he is more melancholy than
+                                    ourselves.</l>
+                <l>Of the aged cypresses before the temple only mangled stumps
+                                    remain;</l>
+                <l>The bronze incense-burners in the sanctuary secrete nothing but
+                                    dust.</l>
+                <l>Ever since the frenzied Eobber brought the Middle Kingdom under
+                                    his yoke,</l>
+                <l>Heaven and earth have been shrouded in gloom and darkened with
+                                    storms;</l>
+                <l>The holy water before the altar has failed in its magic
+                                    power,</l>
+                <l>The warriors of the underworld, painted on the wall, have been
+                                    unable to repel the invaders.</l>
+              </lg>
+              <lg>
+                <l>In days of ease (says the God) I was merely content to enjoy the
+                                    food-offerings bounteously provided,</l>
+                <l>But in time of stress I can bring no aid, nor manifest my
+                                    supernatural power.</l>
+                <l>Now I am ashamed of being such a helpless God:</l>
+                <l>Let me flee far into the mountains and there hide me as best I
+                                    can.</l>
+                <l>Within these precincts I hear no sound of flutes and pipes,</l>
+                <l>In the place of offering I look in vain for a sacrificial
+                                    victim.</l>
+                <l>Therefore let some hideous demon be installed in my place near
+                                    the village,</l>
+                <l>Who shall torture and slay the unhappy people from morning to
+                                    night.</l>
+              </lg>
+              <lg>
+                <l>— When I heard these words, my melancholy grew deeper still.</l>
+                <l>Heaven sends down calamities in their season which are not in our
+                                    power to control.</l>
+                <l>If a God can flee thus from trouble into the mountains,</l>
+                <l>Why should we look with censure on the noblemen in the East?</l>
+              </lg>
+              <lg>
+                <l>The year before last, I was also taken over the Yangzhen
+                                    Pass,</l>
+                <l>And, raising my head, saw Mount Jing towering into the
+                                    clouds.</l>
+                <l>It was like passing out of hell into the company of living
+                                    men</l>
+                <l>To be suddenly ware of a world untroubled and at peace.</l>
+                <l>The Governor of Shanzhou is loyal and upright:</l>
+                <l>He excites no clash of arms, but contents himself with guarding
+                                    his city.</l>
+                <l>The Governor of Pujin is able to repress the spirit of war,</l>
+                <l>And all is tranquil for a thousand li: no sound of weapons is
+                                    heard.</l>
+                <l>By day you may carry your valuables abroad, and no man will
+                                    interfere with you;</l>
+                <l>By night you may travel all alone, with gold hairpins sticking in
+                                    your coiffure.</l>
+              </lg>
+              <lg>
+                <l>Next morning, as we passed eastwards of Xin'an,</l>
+                <l>We fell in with an old man begging for rice-gruel by the
+                                    wayside,</l>
+                <l>His hair sprinkled with white, his face of a livid hue,</l>
+                <l>Who was crouching for concealment amidst the undergrowth of
+                                    weeds.</l>
+                <l>I asked him, saying: "To what village do you belong?</l>
+                <l>And why are you lying under the cold sky, exposed to frost and
+                                    dew?"</l>
+              </lg>
+              <lg>
+                <l>The old man stood up for a moment and was about to tell his
+                                    story,</l>
+                <l>But sank back with his head in his hands and wailed aloud to
+                                    heaven.</l>
+                <l>— "My native homestead was on the register of Dongji Xian,</l>
+                <l>And every year I had land covered with crops and mulberry trees
+                                    amounting to nearly a tian;</l>
+                <l>The fertile fields which I sowed each year were two hundred chan,
+                                    in extent;</l>
+                <l>The household tax I paid annually came to thirty million
+                                    cash.</l>
+                <l>My daughters were practised in weaving cloaks of serge and
+                                    sarcenet,</l>
+                <l>My daughters-in-law were able to cook meals of red millet.</l>
+                <l>A thousand granaries were mine!</l>
+                <l>Ten thousand waggons too!</l>
+                <l>And after Huang Chao's passage, a moiety still was left.</l>
+              </lg>
+              <lg>
+                <l>But ever since the armed hosts have been encamped in Luoxia,</l>
+                <l>Day and night, patrolling bands have entered the village
+                                    ramparts;</l>
+                <l>The glittering blade, like unto the Green Serpent, is plucked
+                                    from its scabbard;</l>
+                <l>The wind above our heads blows out the flags and reveals the
+                                    White Tiger.</l>
+                <l>Entering the gates, they dismount and swoop down like a
+                                    whirlwind,</l>
+                <l>Ransack the buildings, empty the money-bags: everything is swept
+                                    bare.</l>
+                <l>And when all my patrimony is gone, even my flesh and blood are
+                                    torn from me,</l>
+                <l>So that now, in my declining years, I am left alone in my
+                                    wretchedness.</l>
+                <l>Alone in my wretchedness, ah me! yet what call have I to
+                                    lament?</l>
+                <l>— In the hills there are thousands on thousands like myself,</l>
+                <l>Who spend their days searching for wild berries to still their
+                                    hunger,</l>
+                <l>And sleep by night under the frosty sky, couching upon the rank
+                                    weeds".</l>
+              </lg>
+              <lg>
+                <l>On hearing this old fellow's heart-rending tale of woe,</l>
+                <l>Tears coursed down my cheeks all day like rain.</l>
+                <l>Stirring abroad, I heard but the hooting of the owl, that bird of
+                                    revolution.</l>
+                <l>We intended to hasten still further east, to find some place of
+                                    abode,</l>
+                <l>But now we hear that all traffic by boat or cart is stopped on
+                                    the road to Pien.</l>
+                <l>They also say that there has been mutual slaughter at
+                                    Peng-men,</l>
+                <l>Where the aspect of the countryside would cause even a warrior to
+                                    swoon,</l>
+                <l>And where the rivers and streams are half composed of the blood
+                                    of murdered men....</l>
+              </lg>
+              <lg><l>Now I happen to hear that a visitor has arrived from
+                                    Jinling,</l><l>Who reports that in Jiangnan things are quite
+                                    otherwise than here;</l><l>For ever since the Great Brigand
+                                    invaded the Central Plain,</l><l>No war-horses have been bred on
+                                    the frontiers of that land.</l><l>The Governor there regards the
+                                    extirpation of thieves and robbers as a work of heavenly
+                                    merit,</l><l>While he treats his people as tenderly as though
+                                    they were newborn babes.</l><l>His walls and moats offer secure
+                                    protection, as if made of metal and filled with boiling
+                                    water,</l><l>And with the levies and taxes that pour in like
+                                    rain he provides troops and ramparts.</l><l>While the whole
+                                    Empire, alas! is in a state of fermeut,</l><l>This one district
+                                    remains smoothly tranquil and undisturbed;</l><l>It is only the
+                                    denizens of the capital that must flee to escape calamity,</l>So
+                                that in our yearning for peace we must envy even the ghosts of
+                                Jiangnan.</lg>
+              <p>— I pray, Sir, that when you have plied the oar once more and
+                                journeyed back to the East, You will present to His Excellency this
+                                lengthy ballad that I have sung.</p>
+            </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

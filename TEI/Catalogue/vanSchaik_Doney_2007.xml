@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A narrative of the first teaching of the Bhadracaryā-praṇidhānarāja
+                    (Pelliot tibétain 149)</title>
+        <author>Sam van Schaik</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Journal of the International Association of Buddhist Studies
+                    30/1-2</publisher>
+        <pubPlace> Leiden </pubPlace>
+        <date> 2007 </date>
+      </publicationStmt>
+      <editionStmt>
+        <edition> First electronic edition </edition>
+        <date> 2012 </date>
+        <respStmt> Created by Sam van Schaik </respStmt>
+      </editionStmt>
+      <sourceDesc>
+        <p>Published in Sam van Schaik and Lewis Doney,"The Prayer, the Priest and the
+                    Tsenpo: An Early Buddhist Narrative from Dunhuang", <title>Journal of the
+                        International Association of Buddhist Studies</title> 30/1-2: 177–217.</p>
+        <bibl>
+          <ref> vanSchaik_Doney_2007</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc> Translation </projectDesc>
+      <editorialDecl/>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>The manuscript presented in translation here, Pelliot tibétain 149, contains a brief
+                historical narrative that illustrates the change from imperial to religious history
+                in Tibet. The text probably dates from sometime
+                between the late ninth and late tenth centuries, within Tibet’s ‘time of
+                fragmentation.’ This period is often depicted in traditional and modern scholarship
+                as a ‘dark age;’ indeed, owing to the paucity of historical literature from the
+                period, it has been difficult to identify the sources for the early chos ’byung
+                accounts. Thus the narrative in Pelliot tibétain 149 might be helpful in this
+                regard; though it cannot be identified as a direct source for any of the extant
+                Buddhist histories, it may be considered the kind of source that historians of the
+                eleventh century onward would have utilized. </p>
+      <p>Pelliot tibétain 149 is actually the narrative setting for a single Buddhist text, a
+                prayer known as the <title lang="san"> Bhadracaryā-praṇidhāna</title>. This
+                narrative, like the later Tibetan Buddhist histories, begins in India, and continues
+                through to the imperial period in Tibet, specifically the period of the reign of
+                Tsenpo Khri Srong lde brtsan (r. c.754–797?). Also in line with most of the later
+                histories, but unlike the Old Tibetan Annals or Old Tibetan Chronicle, Pelliot
+                tibétain 149’s narrative focuses on religious lineage rather than royal
+                succession.</p>
+      <p>The manuscript contains the story of Sudhana’s quest for the <title lang="san"> Bhadracaryā-praṇidhāna</title>, which leads him to the bodhisattvas Mañjuśrī
+                and Samantabhadra. Obtaining the prayer from the lat- ter, he is able to reach the
+                spiritual level (bhūmi) of ‘utter joy.’ The scene of the narrative then shifts to
+                Tibet, where the prayer is trans- lated into Tibetan as part of the great
+                translation project undertak- en during the reign of Tsenpo Khri Srong lde brtsan.
+                The tsenpo’s priest, Dba’ Dpal byams, has a dream, which the Indian abbot
+                Bodhisattva (known in other historical sources as Śāntarakṣita) inter- prets. The
+                dream indicates that Dba’ Dpal byams must recite the <title lang="san"> Bhadracaryā-praṇidhāna</title> for three days and nights. Dba’ Dpal byams fails
+                to uphold this commitment, and so asks Khri Srong lde brtsan if he can go to a more
+                spiritually conducive place. With the tsenpo’s blessing he travels towards the caves
+                of ’Ching pu, where he meets two Tibetan monks who have experienced omens indicating
+                that they should meet up with Dba’ Dpal byams. The three travel together and,
+                reciting the prayer, ascend to the pure land of Sukhāvati.</p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot</collection>
+          <idno type="current">Pelliot tibétain 149</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title>The narrative of the first teaching of the
+                            Āryabhadracaryāpraṇidhānarāja</title>
+            <q lang="eng">
+              <p> There was the son of a śreṣṭhin called Sudhana. Because his intellect became supremely sharp, he learned by heart an inconceivable amount of the concise and extensive [teachings of] the sublime
+                                dharma. After that, his faith became supremely great. Since he had
+                                not yet received the <text> Āryabhadracaryāpraṇidhāna</text>, he went to see 101
+                                spiritual friends. All of them said, “I don’t know [it], and since I
+                                don’t, you are not destined to be my disciple.” The distance between
+                                [each of] these spiritual friends was a half-day’s journey for a
+                                horseman, a whole day’s journey on foot.</p>
+              <p> [Sudhana] met 100
+                                teachers, and [then] saw the face of Mañjuśrī. He requested [the
+                                prayer] from Mañjuśrī, who said: “I don’t know [it], and since I
+                                don’t, you are not destined to be my disciple. In India, in
+                                Mahābodhidvīpa, lives Samantabhadra. Make a request to Ārya
+                                Samantabhadra.” This was his prophecy.</p>
+              <p> Then the son of a
+                                śreṣṭhin called Sudhana [went and] made the request to Ārya
+                                Samantabhadra in Mahabodhidvīpa. Ārya Samantabhadra said: “It is
+                                contained in the <text> Ārya Gaṇḍavyūha</text>, also known as the <text> Buddhāvataṃsaka</text>,
+                                the <text> Mang po ’dus pa</text>, the <text> Rdza plags pa</text>, the <text> Snyan gi gong rgyan</text> and
+                                the <text> Rma ga chad</text>.” And he taught it. Afterwards the son of a śreṣṭhin
+                                called Sudhana received [the prayer] as a commitment and practised
+                                it ardently. As a result he saw the first bhūmi, ‘utter joy.’ In the
+                                same way, others in India took the <text>Āryabhadracaryāpraṇidhāna</text> as a
+                                commitment and consequently achieved the siddhi of
+                                Samantabhadra.</p>
+              <p> Subsequent to that, [the
+                                <text> Āryabhadracaryāpraṇidhāna</text>] was translated by Ska ba’ Dpal rtsags,
+                                Cog ro Klu’i rgyal mtshan and Rma Rad na ya kra, among others. In
+                                the lifetime of tsenpo Khri Srong lde brtsan, the tsenpo’s
+                                commitment-holder, a certain Dba’ Dpal byams, received [the
+                                <text> Āryabhadracaryāpraṇidhāna</text>] as a commitment, and afterwards, one
+                                night in a dream, saw crowds of people in a series of seven golden
+                                courtyards. When [Dba’ Dpal byams] petitioned the tsenpo, the tsenpo
+                                could not interpret [the dream]. Not far away there was an Indian
+                                abbot called Bodhisattva, and the tsenpo asked him, “If someone
+                                dreams a dream like this, what does it mean?”</p>
+              <p> The Indian
+                                abbot asked the tsenpo, “Who was it [that had the dream]?”</p>
+              <p>
+                                “He is a student of mine, a monk.” replied [the tsenpo].</p>
+              <p> [The
+                                abbot] then commanded “He should recite <text> Āryabhadracaryāpraṇidhāna</text>
+                                and thereby gain the siddhi of Ārya Samantabhadra.” Then the
+                                tsenpo repeated this to Master Dpal byams, and the abbot explained
+                                extensively that [Dba’ Dpal byams] should chant for more than three
+                                days and three nights.</p>
+              <p> Not long afterwards, [Dba’ Dpal byams]
+                                made a request to the tsenpo: “Since I am emaciated and my
+                                aggregates have deteriorated, I have not been properly upholding my
+                                commitment to the tsenpo. Therefore may I have permission to travel
+                                to a holy place?” Straight away [the tsenpo and Dba’ Dpal byams]
+                                left Lha sa [and] Bsam yas [respectively] and travelled a half-day’s
+                                journey for a horseman, a whole day’s journey on foot. At Spa dro
+                                temple [Dba’ Dpal byams] was encouraged by the tsenpo again. They
+                                each placed a hand on the other’s heart and recited the prayer. Then
+                                [the tsenpo] left.</p>
+              <p> Not much later, at a nearby place called
+                                ’Ching pu brag rgye’u, lived Ngan lam Rgyal mchog, the younger
+                                brother of Ngan lam Stag sgra klu gong. At Sho ma la lived the
+                                Master Sgro snya ye shes byang chub. [One day] these two had certain
+                                omens that they couldn’t understand, such as a rainbows appearing in
+                                the sky. Then they heard the words “Go and meet Master Dpal byams!”
+                                So they left.</p>
+              <p> When these two met [Dba’ Dpal byams] on the
+                                path, they paid their respects and exchanged news, and then they
+                                asked each other “Where are you going?” [Dba’ Dpal byams] said,
+                                “Three nights ago, I had a dream prophecy like this...” Since this
+                                was concordant with the omens [experienced by] the two masters, they
+                                went as es- corts. Master Dpal byams recited his commitments:</p>
+              <p>"When the time of my death comes..."</p>
+              <p>When he recited this, [they all] spoke in one voice.</p>
+              <p>"Then by purifying all my defilements..."</p>
+              <p> As they recited this, they ascended [into the sky].</p>
+              <p>"When I directly perceive Amitābha..."</p>
+              <p>As they recited this, accomplishments such as rainbows arose, just
+                                like the signs that had [previously] arisen for the two masters, and
+                                they cast off the shackles of the body.</p>
+              <p>"May I go to the land of Sukhāvati..."</p>
+              <p>Having arrived there, they recited these prayers and departed.</p>
+              <p>The above is the narrative setting.</p>
+            </q>
+            <p/>
+            <q lang="tib"><lb n="1r"/> ’phags pa bzang po spyod pa’i smon lam gyi rgyal po ’di
+                            dang por bshad pa’i gleng gzhi ni / tshong dpon gi bu nor bzangs zhes
+                            bya bas / shes rab rno ba’i mchog du phyin pa ’s ni dam pa’i chos mdo
+                            dang rgyas pa’ bsam gis myi khyab pa zhig thugs su chud nas / dad pa che
+                            ba’i mchog du phyin pas ni / ’phags pa bzang po spyod pa’i smon lam ’di
+                            ma gsan pa’i slad bzhin du / dge ba’i bshes gnyen brgya rtsa gcig zhal
+                            mthong ba’ las / kun gi zhal nas ngas myi shes pa ni ma yin na / nga ’i
+                            ’dul skal du khyod ma gyur ro // gsungs pas ma gsan nas / dge ba’i bshes
+                            gnyen de rnams kyi bar thag ni rta pa’i gdugs tsam / rkang thang gi zhag
+                            lam tsam zhig mchis so // dge ba’i bshes gnyen brgya tham ba’ la thug pa
+                            dang / ’phags pa ’jam dpal gi zhal mthong nas / ’phags pa’ ’jam dpal la
+                            zhus pa las / ngas myi shes pa ni ma yin na nga’i ’dul skal du ma bab
+                            pas / rgya gar gi yul byang chub chen po ma ha bo de’i gling na ’phags
+                            pa’ kun tu bzang po bzhugs pas / ’phags pa kun tu bzang po la zhu zhig
+                            par lung bstan to // de nas tshong dpon gi bu nor bzangs gyis ma ha bo
+                            de byang chub chen po’i gling du ’phags pa kun tu bzang po la zhus pas /
+                            ’phags pa kun tu bzang pos / ’phags pa stug po bkod pa zhes kyang bya /
+                            sangs rgyas phal po che zhes kyang bya / mang po ’dus pa zhes kyang bya
+                            / rdza slags pa zhes kyang bya / snyan gi go rgyan zhes kyang bya / rma
+                            ga chad zhes kyang bya ba de’i nang nas bsus te bshad nas / tshong dpon
+                            gi bu nor bzangs kyi thugs dam du bzhes pas / mos par spyod pa las sa
+                            dang po rab du dga’ ba’i bden ba’ mthong / de dang mtshungs par rgya gar
+                            gi yul du yang ’phags pa bzang po spyod pa’i smon lam thugs dam du bzhes
+                            pas / mang pos ’phags pa kun tu bzang po ’i dngos grub brnyes so // de’i
+                            ’og tu ska ba’ dpal rtsags dang cog ro klu’i rgyal mtshan dang / rma rad
+                            na ya kra las bsogs pas bsgyur nas / btsan po khri srong lde brtsan gi
+                            sku ring la / btsan po thugs dam ba’ dba’ dpal byams zhes bya ba zhig
+                            gis thugs dam du bzhes nas / nub gcig gi myi lam na / gser gi sko ra
+                            bdun dbu la breng ’dug par rmangs pa las / btsan po ’i snyan du gsol nas
+                            / btsan pos dpyod ma mkhyen nas / khad myi ring ba’ zhig na rgya gar gi
+                            mkhan po bo de sat tva zhes bya ba bzhugs pa de la btsan pos g.yar lam
+                            ’di lta bu zhig rmyis na / ’di ci lags zhes zhus pa dang / rgya gar gi
+                            mkhan pos de su lags zhes btsan po la zhus pa dang / bdag gi slob ma dge
+                            sbyong zhig lags so zhes gsol pa dang / ’di ni ’phags pa’ bzang po spyod
+                            pa’i smon lam ’don pas / ’phags pa kun tu bzang po ’i dngos grub thob pa
+                            zhig ces bka’ rtsal pa dang / btsan pos slobs dpon dpal byams la bzlas
+                            pa dang / mkhan pos lhag par yang spro ba bskyed nas / <lb n="1v"/>
+                            nyin lan gsum mtshan lan gsum bas kyang lhag par zhal [s]ton du mdzad do
+                            // de nas ring ma lon ba dang / btsan po la zhus pa’ / bdag ni rad pa
+                            phung po yang dgud pas / btsan po ’i thugs dam dngo myi thog pas / bdag
+                            ni dgon gnas gcig du mchi bar ci gnang zhes zhus pa dang / de tsam na ni
+                            lha sa bsam yas na bzhugs pa’ las / de nas rta pa’i gdugs lam rkang
+                            thang gi zhag lam tsam na / spa dro dgon pa na zhes bya ba der btsan pos
+                            kyang bskul nas / gcig gi thugs kar gcig gi phyag bzhag nas / sa sar
+                            smon lam btab nas gshegs so // de nas ring zhig ma lon ba tsam na / khad
+                            kyis myi ring ba zhig na / ’ching pu brag rgye’u zhes bya ba de na /
+                            ngan lam stag sgra klu gong gi gcung po / ngan lam rgyal mchog skyong
+                            bzhugs / sho ma la la ni slob dpon sgro snya ye shes byang chub bzhugs
+                            pa las / gnyis gi sku ltas sam rtogs pa la nam ka’ las gzha’ tshon las
+                            bsogs pa byung nas / slob dpon dpal byams bsur ’gro ’o zhes thos pa las
+                            / gnyis ka slob dpon la zlor gshegs pa las lam du gnyis ka mjal nas /
+                            zhe sa bgyis nas bka’ mchid bgyis nas / gar gshegs so sor zhus pa dang /
+                            mdang gsum g.yar ltas ’di lta bu zhig byung ngo zhes gsol ba las / slob
+                            dpon gnyis ka sku ltas mthun nas / zlor gshegs pa dang / slob dpon dpal
+                            byams thugs dam ’don pa las / bdag ni chi ba’i dus byed gyur pa na /
+                            gsung tsam na gsung lan gcig chad / de nas sgrib pa thams cad ni phyir
+                            bsal te / gsung tsam na / gcung tsam yang ’phags / mngon gsum snang ba’
+                            mtha’ yas de mthong na gsung tsam na / slob dpon gnyis kyi sku ltas la
+                            byung ba bzhin du gzha’ tshon la bsogs pa’ dngos grub byung nas / lus
+                            gdos pa’ can bor nas / bde ba can gyi zhing der rab du ’gro / der song
+                            nas ni smon lam ’di dag kyang / zhes zlos shing gshegs so / de yan cad
+                            ni son gi gleng gzhi ’o // ∵ // </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

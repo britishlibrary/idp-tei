@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<bibl id="Whitfield_1997">
+  <author>Whitfield, Susan</author>
+  <title level="m" lang="eng">The Legend of the Chinese Zodiac</title>
+  <imprint>
+    <pubPlace>London</pubPlace>
+    <publisher>Barefoot Books</publisher>
+    <date>1997</date>
+  </imprint>
+  <genBibl>whitfield_susan</genBibl>
+</bibl>

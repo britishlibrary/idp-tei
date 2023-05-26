@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Waley_1960">
+    <author>Waley, Arthur</author>
+    <title level="m" lang="eng">Ballads and Stories from Tun-Huang: An Anthology</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>George Allen &amp; Unwin</publisher>
+      <date>1960</date>
+    </imprint>
+    <keywords>bianwen</keywords>
+    <genBibl>translations</genBibl>
+  </bibl>
+</listBibl>

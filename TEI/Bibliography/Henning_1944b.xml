@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Henning_1944b">
+    <author>Henning, Walter B.</author>
+    <title level="a" lang="engl">The murder of the Magi</title>
+    <imprint>
+      <title level="j" lang="engl" type="shortRef">Journal of the Royal Asiatic Society.</title>
+      <date>1944</date>
+      <biblScope type="pp">133-144</biblScope>
+    </imprint>
+    <keywords>murder</keywords>
+    <keywords>magi</keywords>
+    <keywords>Royal Asiatic Society</keywords>
+  </bibl>
+</listBibl>

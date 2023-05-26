@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Haenisch_1959">
+    <author>Haenisch, Erich</author>
+    <title level="a" lang="french">Mongolica der Berliner Turfan-Sammlung. 
+            II: Mongolische Texte der Berliner Turfan-Sammlung in Faksimile</title>
+    <imprint>
+      <title level="j" lang="engl" type="shortRef">Abhandlungen der Deutschen Akademie der Wissenschaften zu Berlin. 
+                Jahrgang 1959, Nr. 1.</title>
+      <biblScope type="issue">1959</biblScope>
+    </imprint>
+    <keywords>Mongolica</keywords>
+    <keywords>Turfan-Sammlung</keywords>
+    <keywords>Berlin</keywords>
+  </bibl>
+</listBibl>

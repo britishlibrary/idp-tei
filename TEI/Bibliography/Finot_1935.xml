@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Finot_1935">
+    <author n="1">Musee Louis-Finot</author>
+    <author n="2">Pascalis, Claude</author>
+    <title level="m" lang="fre">La collection tibetaine : Musee Louis Finot / par Claude
+            Pascalis.</title>
+    <imprint>
+      <pubPlace>Hanoi</pubPlace>
+      <publisher>Ecole francaise d'Extreme-Orient</publisher>
+      <date>1935</date>
+    </imprint>
+    <genBibl>collections_fr</genBibl>
+  </bibl>
+</listBibl>

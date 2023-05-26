@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="galambos_2008d">
+    <author>Galambos, Imre</author>
+    <title level="a" lang="eng">The story of the Chinese seals found in Ireland</title>
+    <imprint>
+      <title level="j" lang="eng">Journal of the Royal Asiatic Society</title>
+      <biblScope type="issue">18</biblScope>
+      <biblScope type="pp">465-479</biblScope>
+      <date>2008</date>
+    </imprint>
+    <keywords>Chinese seals</keywords>
+    <keywords>Ireland</keywords>
+    <genBibl>galambos</genBibl>
+  </bibl>
+</listBibl>

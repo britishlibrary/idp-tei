@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="de_Jong_1989">
+    <author>de Jong, Jan W.</author>
+    <title level="m" lang="eng">The Story of Rama in Tibet</title>
+    <imprint>
+      <pubPlace>Stuttgart</pubPlace>
+      <publisher>F. Steiner</publisher>
+      <date>1989</date>
+    </imprint>
+    <note>Four mss., first mentioned in Thomas 1929, of these we have only identified two (B and D) so far.</note>
+    <keywords>Tibetan</keywords>
+  </bibl>
+</listBibl>

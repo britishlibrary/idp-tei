@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<bibl id="Luo_Fuchang_2004">
+  <author n="1" lang="chi-Latn">Luo Fuchang</author>
+  <author n="1" lang="chi-Hant">&#x7F85;&#x798F;&#x8407;</author>
+  <author n="2" lang="chi-Latn">Luo Fuyi</author>
+  <author n="2" lang="chi-Hant">&#x7F85;&#x798F;&#x9824;</author>
+  <title level="m" lang="chi-Latn">Songshi xiaguozhuan jizhu</title>
+  <title level="m" lang="chi-Hant">&#x5B8B;&#x53F2;&#x590F;&#x570B;&#x50B3;&#x96C6;&#x6CE8;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Yinchuan</pubPlace>
+    <publisher>Ningxia renmin chubanshe</publisher>
+    <date>2004</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>History</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

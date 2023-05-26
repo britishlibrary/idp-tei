@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Gershevitch_1946">
+    <author>Gershevitch, Ilya</author>
+    <title level="a" lang="engl">On the Sogdian St. George Passion</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">Journal of the Royal Asiatic Society</title>
+      <biblScope type="issue">1946</biblScope>
+      <date>1946</date>
+      <biblScope type="pp">179-184</biblScope>
+    </imprint>
+    <keywords>manuscripts</keywords>
+    <keywords>Sogdian</keywords>
+    <keywords>Syriac</keywords>
+    <keywords>n</keywords>
+    <genBibl>Journal of the Royal Asiatic Society</genBibl>
+  </bibl>
+</listBibl>

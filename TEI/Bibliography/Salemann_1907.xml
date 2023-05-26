@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Salemann_1907">
+    <author>Salemann, Carl</author>
+    <title level="a" lang="ger">Manichaica II.</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">Izvestija Imperatorskoj Akademii Nauk</title>
+      <date>1907</date>
+      <biblScope type="pp">531-558</biblScope>
+    </imprint>
+    <keywords>manuscripts</keywords>
+    <keywords>Manichaeism</keywords>
+    <keywords>Syriac</keywords>
+    <keywords>n</keywords>
+    <keywords>Ostturkestan</keywords>
+    <keywords>East Turkestan</keywords>
+  </bibl>
+</listBibl>

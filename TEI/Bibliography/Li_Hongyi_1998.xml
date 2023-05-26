@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<bibl id="Li_Hongyi_1998">
+  <author n="1" lang="chi-Latn">Li Hongyi</author>
+  <author n="1" lang="chi-Hant">&#x674E;&#x9D3B;&#x5100;</author>
+  <author n="2" lang="chi-Latn">Li Peiye</author>
+  <author n="2" lang="chi-Hant">&#x674E;&#x57F9;&#x696D;</author>
+  <title level="m" lang="chi-Latn">Xixia lishi shipu</title>
+  <title level="m" lang="chi-Hant">&#x897F;&#x590F;&#x674E;&#x6C0F;&#x4E16;&#x8B5C;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace> Shenyang </pubPlace>
+    <publisher>Liaoning minzu chubanshe</publisher>
+    <date>1998</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>History</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

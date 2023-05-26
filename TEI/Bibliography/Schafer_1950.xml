@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Schafer_1950">
+  <author>Schafer, E.H.</author>
+  <title level="a" lang="eng">The Camel in China down to the Mongol Dynasty</title>
+  <imprint>
+    <title level="j" lang="eng" type="shortRef">Sinologica</title>
+    <biblScope type="issue">II</biblScope>
+    <biblScope type="pp">165-194, 263-290</biblScope>
+    <date>1950</date>
+  </imprint>
+  <note/>
+  <keywords>Mongol</keywords>
+  <keywords>camel</keywords>
+</bibl>

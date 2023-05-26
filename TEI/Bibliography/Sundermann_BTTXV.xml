@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Sundermann_BTTXV">
+    <author>Sundermann, Werner</author>
+    <title level="a" lang="ger">Ein manichäisch_soghdisches Parabelbuch. Mit einem Anhang von Friedmar Geissler über Erzählmotive in der Geschichte von den zwei Schlangen</title>
+    <title level="j" lang="ger" type="shortRef">Berliner Turfantexte XV</title>
+    <imprint>
+      <pubPlace>Berlin</pubPlace>
+      <publisher>Akademie-Verlag</publisher>
+      <date>1985</date>
+    </imprint>
+    <keywords>manichäisch</keywords>
+    <keywords>soghdisch</keywords>
+    <keywords>Parabel</keywords>
+    <keywords>Schlangen</keywords>
+    <genBibl>Berliner Turfantexte</genBibl>
+  </bibl>
+</listBibl>

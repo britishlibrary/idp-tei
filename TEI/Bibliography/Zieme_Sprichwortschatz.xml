@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Zieme_Sprichwortschatz">
+    <author>Zieme, Peter</author>
+    <title level="a" lang="ger">Notizen zum alttürkischen Sprichwortschatz</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">Altaica Osloensia. Proceedings from the 32nd Meeting of the PIAC, Oslo, June 12-18, 1989</title>
+      <pubPlace>Oslo</pubPlace>
+      <date>1990</date>
+      <biblScope type="pp">401-409</biblScope>
+    </imprint>
+    <keywords>alttürkisch</keywords>
+    <keywords>Sprichwortschatz</keywords>
+    <keywords>Altaica</keywords>
+    <keywords>Osloensia</keywords>
+    <keywords>PIAC</keywords>
+  </bibl>
+</listBibl>

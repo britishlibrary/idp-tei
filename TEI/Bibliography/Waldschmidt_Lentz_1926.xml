@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Waldschmidt_Lentz_1926">
+    <author>Waldschmidt, Ernst</author>
+    <author>Lentz, Wolfgang</author>
+    <title level="a" lang="ger">Die Stellung Jesu im Manichäismus</title>
+    <imprint>
+      <title level="j" lang="engl" type="shortRef">Abhandlungen der Preußischen Akademie der Wissenschaften, Phil-hist. Kl. Nr. 4</title>
+      <biblScope type="issue">1926</biblScope>
+      <biblScope type="pp">Taf. I-IV</biblScope>
+    </imprint>
+    <keywords>Jesus</keywords>
+    <keywords>Manichäismus</keywords>
+    <keywords>Abhandlungen</keywords>
+  </bibl>
+</listBibl>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<bibl id="Sun_Bojun_2005">
+  <author lang="chi-Latn">Sun Bojun</author>
+  <author lang="chi-Hant">&#x5B6B;&#x4F2F;&#x541B;</author>
+  <title level="m" lang="chi-Latn">Guowai zaoqi xixiaxue lun ji (yi,er)</title>
+  <title level="m" lang="chi-Hant">&#x570B;&#x5916;&#x65E9;&#x671F;&#x897F;&#x590F;&#x5B78;&#x8AD6;&#x96C6;&#xFF08;&#x4E00;&#x3001;&#x4E8C;&#xFF09;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Beijing</pubPlace>
+    <publisher>Minzu chubanshe</publisher>
+    <date>2005</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

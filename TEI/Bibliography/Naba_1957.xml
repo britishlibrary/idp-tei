@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listbibl>
+  <bibl id="Naba_1957">
+    <author>Naba Toshisada</author>
+    <title level="a" lang="jpn-Latn">Tō shahon tōkaku no ichi danben</title>
+    <title level="a" lang="jpn">唐鈔本唐格の一断片</title>
+    <imprint>
+      <title level="m" lang="jpn-Latn">Kanda hakase Kanreki Kinen Shoshigaku Ronshū</title>
+      <bibliScope type="pp">330-331</bibliScope>
+      <pubPlace>Tōkyō</pubPlace>
+      <date>1957</date>
+      <note/>
+    </imprint>
+    <keywords>Recht</keywords>
+    <keywords>Tang</keywords>
+    <note/>
+  </bibl>
+</listbibl>

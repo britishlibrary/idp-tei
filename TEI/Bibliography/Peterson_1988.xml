@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Petersen_1988">
+    <author>Petersen, Jens O.</author>
+    <title level="a" lang="eng">The Dunhuang Manuscripts in the Royal Library in Copenhagen</title>
+    <imprint>
+      <title type="m" lang="eng">Littrup_1988</title>
+      <biblScope>112-116</biblScope>
+      <date>1988</date>
+    </imprint>
+    <note/>
+    <keywords>DH/collections</keywords>
+    <genBibl>collections_dan</genBibl>
+  </bibl>
+</listBibl>

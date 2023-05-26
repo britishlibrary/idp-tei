@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="NGAW">
+    <title level="j" lang="ger">Nachrichten der Akademie der Wissenschaften in Göttingen, I. Philologisch-historische Klasse</title>
+    <imprint>
+      <pubPlace>Göttingen</pubPlace>
+      <publisher>Akademie der Wissenschaften</publisher>
+    </imprint>
+    <genBibl>journals</genBibl>
+  </bibl>
+</listBibl>

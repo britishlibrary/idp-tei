@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Zhang_1997">
+    <author>Zhang, G and Rong, X</author>
+    <title level="a" lang="chi">Ba shiji xiaban zhi qiu ji zhu de Yutian</title>
+    <title level="a" lang="eng">Khotan between the second half of the 8th century and early 9th century</title>
+    <imprint>
+      <title level="j">Tang Yanjiu</title>
+      <biblScope type="issue">3</biblScope>
+      <biblScope type="pp">339-61</biblScope>
+      <date>1997</date>
+    </imprint>
+    <keywords>Khotan</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

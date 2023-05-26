@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="TangGengou_1990">
+    <author lang="chi">&#x5510;&#x8015;&#x8026;</author>
+    <title level="m" lang="chi">&#x6566;&#x714C;&#x793E;&#x4F1A;&#x7ECF;&#x6D4E;&#x6587;&#x732E;&#x771F;&#x8FF9;&#x91CA;&#x5F55;&#xFF08;&#x4E8C;&#xFF09;</title>
+    <imprint>
+      <pubPlace>&#x5317;&#x4EAC;</pubPlace>
+      <publisher>&#x4E66;&#x76EE;&#x6587;&#x732E;&#x51FA;&#x7248;&#x793E;</publisher>
+      <date>1990</date>
+    </imprint>
+  </bibl>
+</listBibl>

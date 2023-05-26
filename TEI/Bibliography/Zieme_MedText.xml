@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Zieme_MedText">
+    <author>Zieme, Peter</author>
+    <title level="a" lang="ger">Einige neue medizinische Textfragmente der alten Uiguren</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">Studia Tibetica et Mongolica. Festschrift für Manfred Taube, ed. Helmut Eimer, Michael Hahn, Maria Schetelich, Peter Wyzlic. (Indica et Tibetica 34)</title>
+      <pubPlace>Swisttal-Odendorf</pubPlace>
+      <date>1999</date>
+      <biblScope type="pp">323-340</biblScope>
+    </imprint>
+    <keywords>medizinisch</keywords>
+    <keywords>Textfragmente</keywords>
+    <keywords>Uiguren</keywords>
+    <keywords>Studia</keywords>
+    <keywords>Tibetica</keywords>
+  </bibl>
+</listBibl>

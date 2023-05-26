@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Moriyasu_2001">
+  <author>Moriyasu, Takao</author>
+  <title level="a" lang="eng">Uighur Buddhist Stake Inscriptions from Turfan</title>
+  <imprint>
+    <editor n="1">Bazin, Louis</editor>
+    <editor n="2">Zieme, Peter</editor>
+    <title level="m" lang="eng">De Dunhuang a Istanbul. Hommage à James Russell Hamilton</title>
+    <pubPlace>Turnhout</pubPlace>
+    <publisher>Brepols</publisher>
+    <date>2001</date>
+    <biblScope type="pp">149-223</biblScope>
+  </imprint>
+  <note/>
+  <keywords>History</keywords>
+  <genBibl>translations</genBibl>
+</bibl>

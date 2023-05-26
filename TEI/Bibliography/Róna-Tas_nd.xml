@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Róna-Tas_nd">
+  <author>Róna-Tas, András</author>
+  <title level="a" lang="eng">A Brief Chronology of Tun-huang Collections</title>
+  <imprint>
+    <title level="j" lang="eng" type="shortRef">AOH</title>
+    <biblScope type="issue">21</biblScope>
+    <biblScope type="pp">313-316</biblScope>
+  </imprint>
+  <note/>
+  <keywords>dunhuang</keywords>
+  <keywords>Travel</keywords>
+  <genBibl>collections_dh</genBibl>
+</bibl>

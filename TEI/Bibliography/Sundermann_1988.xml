@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Sundermann_1988">
+    <author>Sundermann, Werner</author>
+    <title level="a" lang="ger">Der Schüler fragt den Lehrer. Eine Sammlung biblischer Rätsel in soghdischer Sprache</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">A green leaf. Papers in honour of Professor Jes P. Asmussen</title>
+      <date>Leiden 1988</date>
+      <biblScope type="pp">173-186</biblScope>
+    </imprint>
+    <keywords>manuscripts</keywords>
+    <keywords>Sogdian</keywords>
+    <keywords>Christian</keywords>
+    <keywords>n</keywords>
+    <keywords>Festschrift</keywords>
+  </bibl>
+</listBibl>

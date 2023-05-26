@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Nobel_1937">
+    <author>Nobel, Johannes</author>
+    <title level="m" lang="ger">Suvarnabhasottamasutra</title>
+    <imprint>
+      <pubPlace>Leipzig</pubPlace>
+      <publisher>E.Otto Harrassowitz</publisher>
+      <date>1937</date>
+    </imprint>
+    <keywords>Mahayana</keywords>
+    <keywords>Sutra</keywords>
+    <keywords>Suvarnaprabhasottamasutra</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

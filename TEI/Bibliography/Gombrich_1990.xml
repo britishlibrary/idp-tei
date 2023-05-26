@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Gombrich_1990">
+    <author>Gombrich, R</author>
+    <title level="a" lang="eng">How the Mahayana Began</title>
+    <imprint>
+      <title level="j">Bulddhist Forum</title>
+      <biblScope type="issue">?</biblScope>
+      <biblScope type="pp">21--30</biblScope>
+      <date>1990</date>
+    </imprint>
+    <keywords>I-Mahayana</keywords>
+    <keywords>Buddhism</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

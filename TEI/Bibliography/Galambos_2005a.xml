@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="galambos_2005a">
+    <author>Galambos, Imre</author>
+    <title level="a" lang="eng">A Corpus-based approach to palaeography: The case of the Houma covenant texts</title>
+    <imprint>
+      <title level="j" lang="eng">Asiatische Studien / Etudes Asiatiques</title>
+      <biblScope type="issue">LIX 1</biblScope>
+      <biblScope type="pp">115-130</biblScope>
+      <date>2005</date>
+    </imprint>
+    <keywords>Chinese writing</keywords>
+    <keywords>palaeography</keywords>
+    <keywords>Houma covenant texts</keywords>
+    <keywords>unification of writing</keywords>
+    <genBibl>galambos</genBibl>
+  </bibl>
+</listBibl>

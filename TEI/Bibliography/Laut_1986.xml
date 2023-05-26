@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Laut_1986">
+    <author>Laut, Jens-Peter</author>
+    <title level="m" lang="ger">Der fr&#xFC;he t&#xFC;rkische Buddhismus und seine literarischen
+            Denkm&#xE4;ler</title>
+    <imprint>
+      <title level="s">Ver&#xF6;ffentlichungen der Societas Uralo-Altaica</title>
+      <biblScope type="vol">21</biblScope>
+      <pubPlace>Wiesbaden</pubPlace>
+      <publisher>Harrassowitz</publisher>
+      <date>1986</date>
+    </imprint>
+    <note>Includes bibliography and the surviving fragments of the Uighur text 'Maitrisimit' in transcription and German translation.</note>
+    <keywords>Uighur/Buddhism/transcriptions</keywords>
+  </bibl>
+</listBibl>

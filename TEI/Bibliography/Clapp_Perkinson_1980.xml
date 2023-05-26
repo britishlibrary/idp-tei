@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Clapp_Perkinson_1980">
+    <author n="1">Clapp, A.</author>
+    <author n="2">Perkinson, R.</author>
+    <title level="m" lang="eng">Reading List for Students in Conservation of Historic and Artistic Works on Paper and on Photographs</title>
+    <imprint>
+      <pubPlace>Washington</pubPlace>
+      <publisher>American Institution for Conservation</publisher>
+      <date>1980</date>
+      <idno type="ISBN">0933098014 9780933098015</idno>
+    </imprint>
+    <keywords>Bibliography</keywords>
+    <keywords>Conservation</keywords>
+    <genBibl>Conservation</genBibl>
+  </bibl>
+</listBibl>

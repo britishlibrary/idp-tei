@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Raschmann_Baumwolle">
+    <author>Raschmann, Simone-Christiane</author>
+    <title level="a" lang="ger">Baumwolle im türkischen Zentralasien. Philologische und wirtschaftshistorische Untersuchungen
+                                    anhand der vorislamischen uigurischen Texte</title>
+    <title level="j" lang="ger" type="shortRef">Veröffentlichungen der Societas Uralo-Altaica Bd. 44</title>
+    <imprint>
+      <pubPlace>Wiesbaden</pubPlace>
+      <publisher>Harrassowitz</publisher>
+      <date>1995</date>
+    </imprint>
+    <keywords>Baumwolle</keywords>
+    <keywords>türkisch</keywords>
+    <keywords>Zentralasien</keywords>
+    <keywords>vorislamisch</keywords>
+    <keywords>uigurisch</keywords>
+    <genBibl>Veröffentlichungen der Societas Uralo-Altaica</genBibl>
+  </bibl>
+</listBibl>

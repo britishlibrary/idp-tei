@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Buddha Speaks of Healing Cancer: Uncovering the Arsaprasamanasutra Magical Therapy</title>
+        <author id="">Tong, Ki Wa</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>First Edition</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Ki Wa Tong</publisher>
+        <pubPlace>Hong Kong</pubPlace>
+        <date>2020</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Printed Book</p>
+        <bibl>
+          <ref>Tong_2020</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>An Ancient Treatment of Cancer in Buddhism Appreciated by Patients across Cultures and Years&#x2014;The Arsaprasamanasutra is a Buddhist sutra, as well as a spell being exercised to cure hemorrhoid, ulcer, swelling, neoplasm, tumor, and cancer. This book aims to find out whether the Buddha has ever taught a spell for healing cancer, what kind of cancer can be restored to health with the spell, and how the spell may assist today&#x2019;s cancer patients. Therefore, in order to answer these questions, the Arsaprasamanasutra is critically assessed from its story, scripture, spell, ritual, and contemporary legend. For the first time ever, the Arsaprasamanasutra&#x2019;s original Sanskrit mantras and ritual details are also reconstructed in a methodical way.</p>
+      <p>Ki Wa Tong advocates that the Chinese character &#x201C;&#x75D4;&#x201D; in the title of this sutra does not merely represent hemorrhoid but also ulcer, swelling, neoplasm, tumor, and cancer.</p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein Collection</collection>
+          <idno type="current">Or.8210/S.5379</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi-Hant" type="person">&#x7FA9;&#x975C;</name>
+            </author>
+            <title lang="chi-Hant">&#x4F5B;&#x8AAA;&#x75D4;&#x75C5;&#x7D93;</title>
+            <incipit lang="chi-Hant"><locus>R1.1</locus>&#x4F5B;&#x8AAA;&#x75D4;&#x75C5;&#x7D93;&#x3000;&#x4E09;&#x85CF;&#x6CD5;&#x5E2B;&#x7FA9;&#x975C;&#x5949;&#x3000;&#x5236;&#x8B6F;</incipit>
+            <q type="transcription" lang="chi-Hant"><locus>R1.1-23</locus>&#x4F5B;&#x8AAA;&#x75D4;&#x75C5;&#x7D93;&#x3000;&#x4E09;&#x85CF;&#x6CD5;&#x5E2B;&#x7FA9;&#x975C;&#x5949;&#x3000;&#x5236;&#x8B6F;
+&#x5982;&#x662F;&#x6211;&#x805E;&#xFF1A;&#x4E00;&#x6642;&#xFF0C;&#x8584;&#x4F3D;&#x68B5;&#x5728;&#x738B;&#x820D;&#x5927;&#x57CE;&#x7AF9;&#x6797;&#x5712;&#x4E2D;&#xFF0C;&#x8207;&#x5927;&#x82FE;&#x82BB;&#x773E;&#x4E94;&#x767E;&#x4EBA;&#x4FF1;&#x3002;
+&#x6642;&#xFF0C;&#x6709;&#x773E;&#x591A;&#x82FE;&#x82BB;&#x8EAB;&#x60A3;&#x75D4;&#x75C5;&#xFF0C;&#x5F62;&#x9AD4;&#x7FB8;&#x7626;&#x3001;&#x75DB;&#x82E6;&#x7E08;&#x7E8F;&#xFF0C;&#x65BC;&#x65E5;&#x591C;&#x4E2D;&#xFF0C;&#x6975;&#x53D7;&#x6182;&#x60F1;&#x3002;&#x6642;&#xFF0C;&#x5177;&#x58FD;&#x963F;&#x96E3;&#x9640;&#x898B;&#x662F;&#x4E8B;&#x5DF2;&#xFF0C;&#x8A63;&#x4E16;&#x5C0A;&#x6240;&#xFF0C;&#x9802;&#x672D;&#x96D9;&#x8DB3;&#xFF0C;&#x5728;&#x4E00;&#x9762;&#x7ACB;&#xFF0C;&#x767D;&#x8A00;&#xFF1A;&#x300C;&#x4E16;&#x5C0A;&#xFF01;&#x738B;&#x820D;&#x57CE;&#x591A;&#x6709;&#x82FE;&#x82BB;&#x8EAB;&#x60A3;&#x75D4;&#x75C5;&#xFF0C;&#x5F62;&#x9AD4;&#x7FB8;&#x7626;&#x3001;&#x75DB;&#x82E6;&#x7E08;&#x7E8F;&#xFF0C;&#x65BC;&#x65E5;&#x591C;&#x4E2D;&#xFF0C;&#x6975;&#x53D7;&#x6182;&#x60F1;&#x3002;&#x4E16;&#x5C0A;&#xFF01;&#x6B64;&#x8AF8;&#x75C5;&#x82E6;&#xFF0C;&#x4E91;&#x4F55;&#x6551;&#x7642;&#xFF1F;&#x300D;
+&#x4F5B;&#x544A;&#x963F;&#x96E3;&#x9640;&#xFF1A;&#x300C;&#x6C5D;&#x807D;&#x6B64;&#x300A;&#x7642;&#x75D4;&#x75C5;&#x7D93;&#x300B;&#xFF0C;&#x8B80;&#x8AA6;&#x53D7;&#x6301;&#x3001;&#x7E6B;&#x5FC3;&#x52FF;&#x5FD8;&#xFF0C;&#x4EA6;&#x65BC;&#x4ED6;&#x4EBA;&#xFF0C;&#x5EE3;&#x70BA;&#x5BA3;&#x8AAA;&#xFF0C;&#x6B64;&#x8AF8;&#x75D4;&#x75C5;&#xFF0C;&#x6089;&#x5F97;&#x9664;&#x239E0;&#x3002;&#x6240;&#x8B02;&#xFF1A;&#x98A8;&#x75D4;&#x3001;&#x71B1;&#x75D4;&#x3001;&#x764A;&#x75D4;&#x3001;&#x4E09;&#x5408;&#x75D4;&#x3001;&#x8840;&#x75D4;&#x3001;&#x8179;&#x4E2D;&#x75D4;&#x3001;&#x9F3B;&#x5167;&#x75D4;&#x3001;&#x9F52;&#x75D4;&#x3001;&#x820C;&#x75D4;&#x3001;&#x8033;&#x75D4;&#x3001;&#x9802;&#x75D4;&#x3001;&#x624B;&#x8DB3;&#x75D4;&#x3001;&#x810A;&#x80CC;&#x75D4;&#x3001;&#x5C4E;&#x75D4;&#x2026;&#x2026;&#x904D;&#x8EAB;&#x652F;&#x7BC0;&#x6240;&#x751F;&#x8AF8;&#x75D4;&#xFF0C;&#x5982;&#x662F;&#x75D4;&#x763B;&#xFF0C;&#x6089;&#x7686;&#x4E7E;&#x71E5;&#x3001;&#x58AE;&#x843D;&#x3001;&#x6D88;&#x6EC5;&#xFF0C;&#x5FC5;&#x5DEE;&#x7121;&#x7591;&#x3002;&#x7686;&#x61C9;&#x8AA6;&#x6301;&#x5982;&#x662F;&#x795E;&#x546A;&#x3002;&#x300D;
+&#x5373;&#x8AAA;&#x546A;&#x66F0;&#xFF1A;
+&#x300C;&#x601B;&#x59EA;&#x4ED6;&#x3000;&#x981E;&#x95CC;&#x5E1D;&#x3000;&#x981E;&#x85CD;&#x8B0E;&#x3000;&#x5BA4;&#x5229;&#x979E;&#x3000;&#x5BA4;&#x91CC;&#x5BA4;&#x91CC;&#x3000;&#x78E8;&#x7FAF;&#x5931;&#x8CEA;&#x3000;&#x4E09;&#x5A46;&#x8DCB;&#x89A9;&#x3000;&#x838E;&#x5475;&#x300D;
+&#x300C;&#x963F;&#x96E3;&#x9640;&#xFF01;&#x65BC;&#x6B64;&#x5317;&#x65B9;&#xFF0C;&#x6709;&#x5927;&#x96EA;&#x5C71;&#x738B;&#x3002;&#x4E2D;&#x6709;&#x5A11;&#x7F85;&#x6A39;&#xFF0C;&#x540D;&#x66F0;&#x300E;&#x96E3;&#x52DD;&#x300F;&#x3002;&#x6709;&#x4E09;&#x7A2E;&#x82B1;&#xFF1A;&#x4E00;&#x8005;&#x521D;&#x751F;&#x3001;&#x4E8C;&#x8005;&#x5713;&#x6EFF;&#x3001;&#x4E09;&#x8005;&#x4E7E;&#x67AF;&#x3002;&#x7336;&#x5982;&#x5F7C;&#x82B1;&#xFF0C;&#x4E7E;&#x71E5;&#x843D;&#x6642;&#xFF0C;&#x6211;&#x8AF8;&#x75D4;&#x75C5;&#x4EA6;&#x5FA9;&#x5982;&#x662F;&#xFF0C;&#x52FF;&#x5FA9;&#x8840;&#x51FA;&#xFF0C;&#x4EA6;&#x52FF;&#x81BF;&#x6D41;&#xFF0C;&#x6C38;&#x9664;&#x82E6;&#x75DB;&#xFF0C;&#x6089;&#x7686;&#x5E73;&#x5FA9;&#xFF0C;&#x5373;&#x4EE4;&#x4E7E;&#x71E5;&#x3002;&#x53C8;&#x5FA9;&#x82E5;&#x5E38;&#x8AA6;&#x6B64;&#x7D93;&#x8005;&#xFF0C;&#x5F97;&#x5BBF;&#x547D;&#x667A;&#xFF0C;&#x80FD;&#x61B6;&#x904E;&#x53BB;&#x4E03;&#x751F;&#x4E4B;&#x4E8B;&#x3002;&#x546A;&#x6CD5;&#x6210;&#x5C31;&#xFF0C;&#x838E;&#x5475;&#x3002;&#x300D;
+&#x53C8;&#x8AAA;&#x546A;&#x66F0;&#xFF1A;
+&#x300C;&#x601B;&#x59EA;&#xFF08;&#x4ED6;&#xFF09;&#x3000;&#x82EB;&#x8B0E;&#x82EB;&#x8B0E;&#x3000;&#x6368;&#x82EB;&#x8B0E;&#x3000;&#x82EB;&#x672B;&#x6CE5;&#x53BB;&#x3000;&#x6368;&#x82EB;&#x6CE5;&#x3000;&#x838E;&#x5475;&#x300D;
+&#x4F5B;&#x8AAA;&#x662F;&#x7D93;&#x5DF2;&#xFF0C;&#x6642;&#xFF0C;&#x5177;&#x58FD;&#x963F;&#x96E3;&#x9640;&#x53CA;&#x8AF8;&#x5927;&#x773E;&#xFF0C;&#x7686;&#x5927;&#x6B61;&#x559C;&#xFF0C;&#x4FE1;&#x53D7;&#x5949;&#x6301;&#x3002;
+&#x4F5B;&#x8AAA;&#x75D4;&#x75C5;&#x7D93;</q>
+            <q type="translation" lang="eng"><locus>R1.1-23</locus>The Buddha Speaks of Cancer Sutra, translated by the Tripi&#x1E6D;aka Master Yijing under the royal order.
+Thus have I heard at one time when the Buddha was accompanied by the community of five hundred respectable monks in the Bamboo Grove Park of Rajgir&#x2026;
+At that time, many monks were ill with cancers, suffering from severe weight loss and inexorable pains. For days and nights, they had been agonizing. At that time, Brother &#x100;nanda noticed the situation, and he sought the Buddha&#x2019;s advice. After prostrating before the Buddha&#x2019;s feet, he stood beside the Buddha, and he reported that &#x201C;The World-honored One! Many monks in Rajgir are ill with cancers, suffering from severe weight loss and inexorable pains. For days and nights, they have been agonizing. The World-honored One! How can these sicknesses be cured?&#x201D;
+The Buddha told &#x100;nanda that &#x201C;Listen to this Healing Cancer Sutra. This is what you should read, accept, memorize, share, and spread widely. All these cancers will be exterminated&#x2014;the so-called vata-dosha cancers, pitta-dosha cancers, kapha-dosha cancers, three-dosha cancers, blood cancers, stomach cancers, nose cancers, gum cancers, tongue cancers, ear cancers, head cancers, limb cancers, spinal cancers, anal cancers, as well as other cancers and tumors throughout body parts, will dry up, fall off, fade away, and then become healed without a doubt. You should chant this miraculous spell.&#x201D;
+Proclaim the mantra which says:
+tadyath&#x101; alante alame &#x15B;rive &#x15B;&#x1E5D; &#x15B;&#x1E5D; maka&#x15B;ci sa&#x1E43;bhavatu sv&#x101;h&#x101;
+&#x201C;&#x100;nanda! North from here is a great snowy mountain. There is a species of sal trees, namely sudurjay&#x101;, which has three kinds of flowers: the newborn; the mature; and the withered. Similar to those flowers that are withering and falling off, the cancers affecting our monks will no longer bleed or fester. Their pains will be eliminated forever. All of them will restore to health. Command the cancers to dry up now! Again, those who often chant this sutra will obtain the Pubbe-niv&#x101;sanussati knowledge to recall their own seven past lives. Achieve the spell, well said.&#x201D;
+Furthermore, proclaim the mantra which says:
+tadya(th&#x101;) &#x15B;ame &#x15B;ame &#x15B;a&#x15B;ame &#x15B;am&#x101;ne &#x15B;a&#x15B;amne sv&#x101;h&#x101;
+The Buddha had ended speaking. At that time, Brother &#x100;nanda and the monastic community were delighted. They accepted and practiced the teaching faithfully.
+The Buddha Speaks of Cancer Sutra.</q>
+            <explicit lang="chi-Hant"><locus>R1.23</locus>&#x4F5B;&#x8AAA;&#x75D4;&#x75C5;&#x7D93;</explicit>
+            <colophon lang="chi-Hant"><locus>R1.1</locus>&#x4E09;&#x85CF;&#x6CD5;&#x5E2B;&#x7FA9;&#x975C;&#x5949;&#x3000;&#x5236;&#x8B6F;</colophon>
+            <listBibl>
+              <bibl>
+                <ref target="Tong 2020"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Hedin_1926">
+    <author>Hedin, Sven Anders</author>
+    <translator>Huebsch, A.</translator>
+    <title level="m" lang="eng">My Life as an Explorer</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>Cassell and Company</publisher>
+      <date>1926</date>
+    </imprint>
+    <note/>
+    <keywords>exploration</keywords>
+    <genBibl>genovese</genBibl>
+    <genBibl>collections_swe</genBibl>
+  </bibl>
+</listBibl>

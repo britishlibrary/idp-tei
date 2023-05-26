@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Emmerick_1993a">
+    <author n="1">Emmerick, Ronald E.</author>
+    <author n="2">Vorob'&#xEB;va-Desjatovskayja, Margarita I.</author>
+    <title level="m" lang="eng">Saka Documents VII: the St. Petersburg Collection</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>School of Oriental and African Studies on behalf of Corpus Inscriptionum
+                Iranicarum</publisher>
+      <date>1993</date>
+    </imprint>
+    <keywords>Saka documents</keywords>
+    <keywords>St. Petersburg/</keywords>
+    <genBibl>collections_ru</genBibl>
+  </bibl>
+</listBibl>

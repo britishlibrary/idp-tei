@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Brough_1954">
+    <author>Brough, John</author>
+    <title level="a" lang="eng">The Language of the Buddhist Sanskrit Texts</title>
+    <imprint>
+      <title level="j">Bulletin of the School of Oriental and African Studies</title>
+      <biblScope type="issue">16</biblScope>
+      <biblScope type="pp">351-75</biblScope>
+      <date>1954</date>
+    </imprint>
+    <keywords>Buddhist</keywords>
+    <keywords>Sanskrit</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

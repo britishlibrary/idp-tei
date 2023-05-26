@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Iranische Handschriften der Berliner Turfansammlung. M 0001-0999.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>print edition</edition>
+      </editionStmt>
+      <sourceDesc>
+        <p>electronic</p>
+        <p>Input and marked up by Susann Rabuske. Imported to 4D on 11/26/13 by Susann Rabuske.</p>
+        <bibl>
+          <ref>M_0001-0999</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Beschreibung der iranischen Manuskripte aus der Berliner Turfansammlung</p>
+    </head>
+    <body>
+      <msDescription n="252c">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">M 252c</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="syr-Latn"/>
+            <note>
+              <p>Eintrag im Katalog von M. Boyce fehlerhaft</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Boyce_1960"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="309a">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">M 309a</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="syr-Latn">Noch nicht identifiziert.</title>
+            <note>
+              <p/>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">416</ref>
+              </bibl>
+              <bibl>
+                <ref target="Boyce_1960"/>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_1996"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="632">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">M 632</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="syr-Latn">Unbestimmt.</title>
+            <note>
+              <p>Möglicherweise kolophonartig oder Segensspruch.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">417</ref>
+              </bibl>
+              <bibl>
+                <ref target="Boyce_1960"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

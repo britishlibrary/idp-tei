@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fragments of the Suvarṇabhāsottamasūtra in Or.15009 and Or.15010</title>
+        <author>Skjærvø, Prods Oktor</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>IDP</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2010</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Prods Oktor Skjærvø, “Fragments of the Suvarṇabhāsottamasūtra in Or.15009 and
+                    Or.15010,” in: Buddhist Manuscripts from Central Asia: The British Library
+                    Sanskrit Fragments, Volume II.1 (Texts), ed. by Seishi KARASHIMA and Klaus
+                    WILLE, Tokyo: The International Research Institute for Advanced Buddhology at
+                    Soka University, 2009, pp. 597-635.</p>
+        <bibl>
+          <ref>Skjærvø_2009</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Input and marked up by IRIAB.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This catalogue contains transliterations of Sanskrit fragments in the Stein
+                Collection at the British Library.</p>
+    </head>
+    <body>
+      <msDescription n="Or.15010/62">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/62</idno>
+          <idno type="Hoernle">H.144, SB 75</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>25 x 15 cm; 14 lines. urkistanische Alphabete type q, Gupta type h;
+                            Ms. A Suv 2.18-61, 2.105-3.04, Nobel, pp. 7.10-12.5, 19.5-20.6; cf.
+                            Dharmakṣema’s Chinese translation in Taishō Issaikyō, vol. 16, no. 663;
+                            folio number 19?.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 padmeṣu catvāro buddhā bhagavantā prādurbhūtāni
+                            pura[st]. /// <lb n="2"/>2 [ś]cimena amitāyu tathāgato prādurbhūto
+                            utame /// <lb n="3"/>3 t[e]ṣu siṃhāsaneṣu — atha tāvaṃ caiva sarvva
+                            rāja[g]ṛ /// <lb n="4"/>4 sralokadhātu yāva samanta daśasu diśāsu
+                            gaṃgā[n]. /// <lb n="5"/>5 ṇ[i] pravarṣiṃsu divyāni turyāṇi
+                            pravādyiṃsu — sarve cās[m]i + .. /// <lb n="6"/>6 na samanvāgatā
+                            babhūva — indriyavigalā ca satvā sa[r]vv(e)[ndri] ///a <lb n="7"/>7
+                            rmāṇāṃ loke prādurbhāvaṃ babhū ○ va atha ruciraketur bodhi /// <lb n="8"/>8 āttamano pramudito prīti ○ saumanasyajāto — ye[n]. [t]e /// <lb n="9"/>9 anusmaramāṇa bhagavataḥ śākyamune guṇānusmaramāṇa
+                            bhagav. /// <lb n="10"/>10 to babhūva : katham edaṃ kim edaṃ
+                            bhagavataḥ śākyamune eva paritta āyu /// <lb n="11"/>11 nto smṛta
+                            saṃprajāna rucivaketorb bodhisatvaṃ-m-etad avocat* mā tvaṃ kulaputrac
+                            evaṃ [c]. /// <lb n="12"/>12 ṇaṃ tat kasya hetor na vayaṃ taṃ
+                            kulaputra samanupaśyāma sadevake loke samārake .. /// <lb n="13"/>13
+                            rtho syā tathāgatasyāyuṣpramāṇaparyantam adhigantuṃ sthāpayitvā
+                            tathāgatair arhadbh. /// <lb n="14"/>14 dbhiḥ
+                            s-tathāgatasyāyuṣpramāṇanirdeśe — atha tāvaṃ caiva buddhānubhā[v]ena
+                            kāmāvaca /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 rvvakinaramahoragā — anekāni ca
+                            bodhisatvakoṭinayutaśatasahāsrāṇi tasmiṃ [r](u) /// <lb n="2"/>2 tha
+                            s-te tathāgatā saṃkṣepata tayā sarvvāvantāyā pariṣayā bhagavataḥ śākyam.
+                            /// <lb n="3"/>3 ṣu sarvveṣu śakya gaṇitu bindavaḥ na tu śākyamuni
+                            āyuḥ gaṇituṃ śakya kenaci /// <lb n="4"/>4 kyamune āyuḥ gaṇituṃ vāpi
+                            kenacit* 2a yā kāci pṛthivī-d-asti yāvata para /// <lb n="5"/>5
+                            ākāśaṃ yadi va kaści icche minitu kenaci — na tu śākyamune āyu ga[ṇi]
+                            /// <lb n="6"/>6 eva āyu asaṃkhyāto pa ○ ryanto sya na labhate 5
+                            yasmā d[v]au kā .. /// <lb n="7"/>7 janaṃ 6 tasmā tasya mahatma ○
+                            sya āyusaṃkhyā na labhya[t]. /// <lb n="8"/>8 h[i] mā kiṃci kuru
+                            saṃśayam — na ○ jinasyāyuparyanto kvaci saṃ /// <lb n="9"/>9 santike
+                            — bhagavataḥ śākyamunisya āyuṣpramāṇanir[d]eśaṃ [ś]r(u)[t](v)[ā] /// <lb n="10"/>10 yuṣpramāṇanirdeśe bhāṣyamāne —
+                            aprameyāsaṃ[kh](y)[ey]ā /// <lb n="11"/>11 antardhitā iti ||
+                            suvarṇabhāsottame sūtrendrarā[j](ñ?)e /// <lb n="12"/>12 ruciraketur
+                            bodhisatvo supto svapnāntaragato — svarṇā /// <lb n="13"/>13 laḥ
+                            sarvvāsu ca dikṣu — aprameyāsaṃkhyeyā buddhā bhag. [v]. /// <lb n="14"/>14 kaśatasahāsrikāyāṃ pariṣāyāṃ parivṛtaḥ puraskṛ .. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/13">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/13</idno>
+          <idno type="Hoernle">H.143 SB 13</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>17 x 11.5 cm, verso only. Early South Turkestan Brāhmī.; Ms. B Suv
+                            1.1-13; Nobel, pp. 1-3.12.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/> [blank] </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>verso only</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 + + + + k. s. m. [y]. +a + [dh]r. .ū .. [tath]āgata :
+                            vih. r. /// <lb n="2"/>2 + [trar]āj[e]ndra svar[ṇ]abhāso[t]t(a)m. tv
+                            ida[ṃ] : gambhīraṃ śravaṇeneva [g. ṃ] /// <lb n="3"/>3 kṣ[i]ṇe
+                            ratnaketunāṃ paścimasyāmitābhena uttare dundubhisvaraḥ 4 /// <lb n="4"/>4 karam* 5 sarvvasaukhyasya dātāraṃ sarvvaduḥkhavināśanam* mū ///
+                                <lb n="5"/>5 ṣa : alakṣmāye ni{[vi]}ṣṭaṃb hi devatāṃ ○ v[ā]
+                            parāmukhā 7 kāntai [pr]i /// <lb n="6"/>6 [y]āsam anarthañ ca bhayaṃ
+                            vyasanam eva ca : grahanakṣatrapīḍaṃ vā kh. /// <lb n="7"/>7 + +
+                            śrotavyaṃ sūtram uttamāṃ 10 ye śṛṇvanti idaṃ sūtraṃ gaṃbhīraṃ bu /// <lb n="8"/>8 + + [ru]ṇāṃ : tecasāc cāsya sūtrasya śāmyante
+                            sarvva-prāṇināṃ 10 2 /// <lb n="9"/>9 + + + + sa[r]as(v)a[t]iṃ [m]a
+                            .ā .evīṃ tathā nī[r]ajñavā[s]inī : hā[rit]ī .. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/114">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/114</idno>
+          <idno type="Hoernle">H.143 SC 96</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>+ IOL San 687 + IOL San 811 (Kha.i.171): 7 x 8.5 + 3.5 x 4.5 + 11 x 12
+                            cm.; Ms. B Suv 8.67-70, 8.2-35; Nobel, pp. 119.3-6, 112.7-116.2.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>3 + + + (ṣ)y. + [t]. [|| a]a // <lb n="2"/>4 + +
+                            (.).b śaryyā[s]anag[l]. // <lb n="3"/>5 + + .. yad svasthacitt. ..
+                            // <lb n="4"/>6 + [ni] cinteyānti saṃ[g]. // <lb n="5"/>7
+                            careyānti • na ca kṣipraṃ ..e .. // <lb n="6"/>8 ni divyamānuṣyakāni
+                            // <lb n="7"/>9 gatasamavadhāna[g]a .aṃ // </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 cch[i]nnnā[n]. + .e[y]ur i[t]. // <lb n="2"/>2
+                            devatāyāṃ kuśalamūl[ā] // <lb n="3"/>3 satvakoṭ[i]nayutaśa[t]. //
+                                <lb n="4"/>4 + .[i] .. ṇyasuvarṇa[m]a // <lb n="5"/>5 + +
+                            .y. (n)[ti] śriyāya // <lb n="6"/>6 + + [uc]. rayita[vy]aṃ // <lb n="7"/>7 + + + .. rasau .araṇ. // </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="IOL San 687">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.15003/141</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>See Or.15010/114 (H.143 SC 96) + IOL San 811 (Kha.i.171)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>7 // k. ni ca ka// <lb n="2"/>8 // tvā ca sarvas//
+                                <lb n="3"/>9 // [s]. rvanarakatī// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 // nāma tathāga// <lb n="2"/>2 // yā diśaṃ-m-u//
+                                <lb n="3"/>3 // [bh]eyānti : // </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="IOL San 811">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 811</idno>
+          <idno type="Stein">Kha.i.171</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>See Or.15010/114 (H.143 SC 96) + IOL San 687</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 /// sāmṛddhayā sarv[v]asukhopadānena <lb n="2"/>2
+                            /// visariṣyate sarvve bhiprāyaṃ caiṣā pari <lb n="3"/>3 // .ya
+                            bhikṣusya otsukyaṃ kariṣyāmi [c]īvarapi <lb n="4"/>4 // ṇasaṃpanno
+                            bhaveya avaikalyattāc ca pra <lb n="5"/>5 // [sū]trendrarājāto
+                            nānāvividhāni padavyaṃja <lb n="6"/>6 // [n]āṃ satvānāṃ arthāya
+                            ciraṃ ca jaṃbudvīpaṃ pra <lb n="7"/>7
+                            //lpakoṭinayutaśa[[ta]]sahasrāṇi acintikā <lb n="8"/>8
+                            //ukhopadānena sukhitā bhaveyānti s-tathā <lb n="9"/>//ryagyoniyamalokaduḥkhā atyantena + </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 //to [r]ha samyaksaṃbu[d]dhā yatra [ś]r[i]yāya ca + <lb n="2"/>2 //pasaṃkramati tasyā ayaṃ diśaṃ anekāni <lb n="3"/>3 // annena vā pānena vā dhanena vā dhānyena <lb n="4"/>4 //
+                            .. pakaraṇasamṛddhāni tāni satvāni <lb n="5"/>5 // yāya mahā[d]e ..
+                            tāyāṃ tṛṣkṛtvā nāma <lb n="6"/>6 // rddhiṣyata tatredham idam ucyate
+                            vivarda <lb n="7"/>7 // [ni] suvicitrabhāva suvarṇa[bh]āsotta <lb n="8"/>8 /// hāta śriyaṃ kariṣyati || aḍakavantā <lb n="9"/>9 /// [h]are śrīr mahā[d]evī prativasati ya </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/125">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/125</idno>
+          <idno type="Hoernle">H.143, SC 158</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>10 x 8 cm. Ms. B Suv 18.185b-203; Nobel, pp. 227.6-231.5</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>4 /// [t]r. tasya paa /// <lb n="2"/>5 /// p[t]agātrā
+                            : smṛtīndr[i]ya /// <lb n="3"/>6 /// .. tryāb [p]r. yāgramahiṣīya
+                            /// <lb n="4"/>7 /// + .. + va bhidyamāna pīḍyanti atiśokap[ū]c ///
+                                <lb n="5"/>8 /// thasya avacinsu śṛṇu mama nṛpati vare .. ///
+                                <lb n="6"/>9 /// + .. yaṃ yatha yādṛśa nimittaṃ [n]. /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 /// .. .[ṛ]t[ī]yo mahya kapo[ta]kasuta .. /// <lb n="2"/>2 /// .. [ka]cittā maraṇa mama bhaviṣyati na .. /// <lb n="3"/>3 /// .[īn]ā v[i]naṣ[ṭ]ac[i]ttā visaṃjñamanā : [sa]rvvān[t]. ..
+                            /// <lb n="4"/>4 /// [p]āriṣadyā jijñāsārthaṃ .. /// <lb n="5"/>5 /// ga[t]. ḥ s[ā]ṃprataṃ mahāsa /// <lb n="6"/>6 /// ..
+                            ka[ro] .. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/127">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/127</idno>
+          <idno type="Hoernle">H.143 SC 89</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>9 x 11.5 cm. Early South Turkestan Brāhmī. Ms. C Suv 6.3.15-45; Nobel,
+                            pp. 78.4-80.18; Tib., p. 58.26-59.1.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 /// tavya : tañ ca [pr]ad.a /// <lb n="2"/>2 ///
+                            stra-prāvṛtena nā[n]. /// <lb n="3"/>3 ///.. tavya : na cātra
+                            rāje[śvar]. /// <lb n="4"/>4 /// k[ṣ](u)sya sāntikāto śāśtār. ///
+                                <lb n="5"/>5 /// [du]hitarāṇi ca : sa[r]vv. [nti] /// <lb n="6"/>6 /// ca : ālapitavyaḥ pri[y]. /// <lb n="7"/>7 /// [y]a
+                            atulyā prītyā āt[m]. /// <lb n="8"/>8 /// .. [a]rthal[ā]bha
+                            cintayitavya : maha /// <lb n="9"/>9 /// vān* catvoro
+                            mahārājānāṃ-m-e .. .. /// <lb n="10"/>10 ///.. [r]itavya :
+                            nānāvibhūṣa[ṇ]. /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 /// nāvici[t]ramaṅgalāa prati + /// <lb n="2"/>2
+                            /// [ma]nuṣyarājñā tatra padāni [a](k)kra[m]ib + /// <lb n="3"/>3
+                            /// n(t)i tā .. .. kakalpako[ṭ]inayu[ta] .. .. + /// <lb n="4"/>4
+                            /// hasrāṇāṃ lābhī [bhav]. ṣyati + /// <lb n="5"/>5 /// [a]nekāni
+                            kalpakoṭinayu + /// <lb n="6"/>6 /// .odārāṇāñ ca mānuṣikān[ā]ṃ r. +
+                            /// <lb n="7"/>7 /// [ca] pratibhāna[v]anto ca bhaviṣya + /// <lb n="8"/>8 /// [sy]a [su]khito ca bhaviṣyati : udā[r]o + /// <lb n="9"/>9 /// [s]ādiko darśanīyo : [para]ma + /// <lb n="10"/>/// .i : aparimi .. .. .. + /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15009/673">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15009/673</idno>
+          <idno type="Hoernle">H.150.vii.22</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>+ Or.15010/181 (H.143 SC 232) (left). 11.5 x 12 + 6 x 6.5 cm; combined
+                            length: 13.5 cm. Early South Turkestan Brāhmī; Ms. C Suv 10.56-84;
+                            Nobel, pp. 125.56-127.16; Folio 24.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 cintiko smābir adya puṇyaskandha parigṛhī[t]a /// <lb n="2"/>2 śravaṇena narakāto parimuktā [:] tīryagyonī /// <lb n="3"/>3 sāhasreṣu devamanuṣyeṣūpapati /// <lb n="4"/>4 śa
+                            ekadṛṣṭānta-m-apy ārocayera : ant[a] /// <lb n="5"/>5
+                            cātuṣpada-m-api gāth[ā]m antamaśa ○ /// <lb n="6"/>6
+                            varṇabhāsotama[sy]a sūtr. ndrarā ○ /// <lb n="7"/>7 nāvivide[ṣ].
+                            pṛ[th]ivīpradeśeṣv imā ○ /// <lb n="8"/>8 ra [: s]ar(v)v[e]a t[e]
+                            bhadanta bhagava[n]* pṛthivipra/d/e/// <lb n="9"/>9 pakaraṇāni
+                            bh[ūy]. ṣ[ṭh]a[t]arā /// <lb n="10"/>10 ni : dh[ā]nādhimuktāni
+                            bhavi/// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 bh[ās]otam[ā]to s[ū]tr[e]ndrar/// <lb n="2"/>2
+                            [radevanikāy. ṣ.] upapa[tsya]/// <lb n="3"/>3 [kare]ya : [anti]maśa
+                            eka[c. .r]/// <lb n="4"/>4 māva[ca]re .. .. [d. va]nikāyeṣu
+                            saptaratn/// <lb n="5"/>5 lo[k]āto cavitva [t]e[ṣu] saptaratnā ○ //
+                                <lb n="6"/>6 ṇi utpatsyanti : aci[n]tyāni ca ○ /// <lb n="7"/>7 [d]a[n]ta bhagavan* dṛḍh. pṛthividevatā ○ /// <lb n="8"/>8
+                            m[ā]nenā[tm]abhāvena : ta[s]ya dharma //// <lb n="9"/>9
+                            hasrāvaruptakuśalamūlānāṃ satvān(ā)ṃ /// <lb n="10"/>10 anāgate ca
+                            adhvany an[e]kāṃ kalpakoṭi[n]. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/181">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/181</idno>
+          <idno type="Hoernle">H.143 SC 232</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>See Or.15009/673 (H.150.vii.22) (right)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>6 // ja[s]ya /// <lb n="2"/>7 // ny evarū[pā] /// <lb n="3"/>8 //śā o[j]ava ..b /// <lb n="4"/>9 // u/tpatsyanti
+                            [:] vi[v]a[r](d)[dh]iṣya /// <lb n="5"/>10 //ṣyanti : tṛṣu ratneṣv
+                            a[dh]ipra[s]. /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 //ājñā antimaśa e[ka] + /// <lb n="2"/>2 //[n]ti :
+                            ye keci pṛthi /// <lb n="3"/>3 //aṃ [v]ā tatrocchrepa[y]. + /// <lb n="4"/>4 //āma[ye] + /// <lb n="5"/>5 // ma + /// <lb n="6"/>6 /// .odārāṇāñ ca mānuṣikān[ā]ṃ r. + /// <lb n="7"/>7 ///
+                            [ca] pratibhāna[v]anto ca bhaviṣya + /// <lb n="8"/>8 /// [sy]a
+                            [su]khito ca bhaviṣyati : udā[r]o + /// <lb n="9"/>9 /// [s]ādiko
+                            darśanīyo : [para]ma + /// <lb n="10"/>/// .i : aparimi .. .. .. +
+                            /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/159">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/159</idno>
+          <idno type="Hoernle">H.142 SC.170</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>+ IOL San 1163 (Kha.i.27.c) + SI L/11.2. 7 x 7 + 4.5 x 3.5 + 15.5 x
+                            11.5 cm. Early South Turkestan Brāhmī; Ms. C Suv 18.114-145; Nobel, pp.
+                            215.11-221.12.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>5 ā .. .[ṭ]. .. .y. .ṛ // <lb n="2"/>6 upa[s]thāyakā
+                            di // <lb n="3"/>7 yogasūcakā sva[p]n. // <lb n="4"/>8 dyamāna :
+                            atha d[e]vī bhū[m]. // <lb n="5"/>9 diptāśab luptaraśmi mama tu [c].
+                            // <lb n="6"/>10 khalu mama : atheva saṃci // </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 [pr]yaputraa : sahaśravaṇ[ā] c. // <lb n="2"/>2
+                            hṛdayo paramasaṃbhrama-m-ā // <lb n="3"/>3 s-tata pravṛte
+                            kum[āra]paryeṣa // <lb n="4"/>4 kaṣṭa sutaviyogo nā .. // <lb n="5"/>5 tā [v]ā ye narā [j]ī[v] // <lb n="6"/>6 kusumākule [p].
+                            vi[ṣ]. // </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="IOL San 1163B">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 1163B</idno>
+          <idno type="Stein">Kha.i.27.c</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>Or.15010/159 (H.142 SC.170) + SI L/11.2. 4.5 x 3.5 cm. Early South
+                            Turkestan Brāhmī; Ms. C Suv 18.114-145; Nobel, pp. 215.11-221.12.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>6 // .[ā] ○ vanti // <lb n="2"/>7 // ○ sta/n/o// <lb n="3"/>8 // [d]a/y// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>3 //……... // <lb n="2"/>4 tala(ṃ)bhe prī/ <lb n="3"/>5 // ○ devī / p// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/201">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/201</idno>
+          <idno type="Hoernle">H.147 SC 284</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>+ IOL San 1331 (Kha.i.161) + IOL San 83. 10.5 x 9.5 + 5.5 x 3
+                            (combined: 12 x 9.5) + 8.5 x 5. Early South Turkestan Brāhmī. Ms. C Suv
+                            18.155-189; Nobel, pp. 221.12-228.4. Folio no. 44.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>3 ṣya/t/idamāc .y. // <lb n="2"/>4 mahiṣa naṣṭa //
+                                <lb n="3"/>5 m abhuvi yena-m-ah. t. // <lb n="4"/>6 yaṃ so
+                            vyakta hṛdayam a[y]// <lb n="5"/>7 di cchedye mamādya kaścid asina
+                            sva ○ // <lb n="6"/>8 kapotaikas tabhi : [s]o .e /// <lb n="7"/>9 hatāta jana-k. /// <lb n="8"/>10 [n]a kālena te[n]a /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 tadāpi may. /// <lb n="2"/>2 evaṃ hi ekeka /// <lb n="3"/>3 || patitaś ca giritaṭ. /// <lb n="4"/>4 gasaṃghas
+                            tamasākula saṃsthit[o] bhav. [l]. k. [y]. /// <lb n="5"/>5 hṛdayā
+                            vicaranti vanantare : visajñā ○ // <lb n="6"/>6 kkramitvā yatra
+                            vyāghrī sudurba // <lb n="7"/>7 taṃ kiñcamātra tas[y]a /// <lb n="8"/>8 tr/āa sm/ṛ/tīndraya // </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="IOL San 1331">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 1331</idno>
+          <idno type="Stein">Kha.i.161</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>See Or.15010/201 (H.147 SC 284) + IOL San 83</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 ta sacivo ta pura[s].a // <lb n="2"/>2 [r]āb karuṇa
+                            vira[r]. // <lb n="3"/>3 ṣya/t/i // </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>8 // tr/āa // <lb n="2"/>9 netr[y]āb priy/ā/grama //
+                                <lb n="3"/>10 vā bhidyamāna pīḍya[nt]. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="IOL San 83">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 83</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>Or.15010/201 (H.147 SC 284) + IOL San 1331 (Kha.i.161).</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>2 // .[u] /// <lb n="2"/>3 // [t]y[ā][ga]ta
+                            prakīrṇakeśī .. /// <lb n="3"/>4 // ṇaṃ rodavaṃ || hā kā /// <lb n="4"/>5 // .[ū]ta nayaśaśākavaktra : h. /// <lb n="5"/>6 //
+                            mamedaṃ yatredṛgvyasanam a[v]. /// <lb n="6"/>7 // .. /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>5 // .r. [t]. [r]. .. [y]. [s]rumukhā c. r. nt. v. ///
+                                <lb n="2"/>6 // : vyāghrī vyāghrasutānāṃ vyā[gh](r)[y]o /// <lb n="3"/>7 // ktadharaṇī[ṃ] paśyanti ubho /// <lb n="4"/>8 //
+                            ṣa[d]y. karuṇasvara rodam. /// <lb n="5"/>9 // .. +
+                            s(u)khop(r)a(v)iṣ(ṭ)āya .. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/205">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/205</idno>
+          <idno type="Hoernle">H.147 SC 285</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>Or.15010/205 (H.147 SC 285; upper left) + IOL San 73 + Or.15009/677
+                            (H.150.vii.38; large piece to the right) + IOL San 1172 (Kha. i.16;
+                            lower left corner) + IOL San 1184 (Kha.i.27.a) + IOL San 589 (Kha.i.33;
+                            missing lower left corner of Or.15009/677). 12 x 7.5 + 4.3 x 8 + 27 x 12
+                            + 4.5 x 3 + 9.5 x 4.5 + 5.3 x 4; combined length 41 cm, height 12 cm.
+                            Early South Turkestan Brāhmī; Ms. C Suv 18.191-219; Nobel, pp.
+                            228.7-235.5.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 + + + + + + + mama nṛpa[t]. ..a // <lb n="2"/>2 + +
+                            ti hṛday. + yatha yā[d]ṛśaṃ [n]i/m//i/t.b // <lb n="3"/>3 mama sa
+                            kapotakasutāni : yo so tṛtīyo ma// <lb n="4"/>4 śaṃ
+                            śokapraviṣṭahṛdaya smi : atidāhaśo/k/a // <lb n="5"/>5 ṣī
+                            saṃmūrcchitā patita tatra dharaṇīya ○ // <lb n="6"/>6 + [m]ahiṣī
+                            samūrcchita patita tatra / ○ // <lb n="7"/>7 + + + + + +
+                            [r/a]j/a/[n]/o /[n]/ā/n/ā/g/ṛ/h/a/n//i </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>5 + + + // (s)th. [:] asru-mukha rodamā ○ // <lb n="2"/>6 rathasya avacinsu : mā śokacitta ○ // <lb n="3"/>7 hurta
+                            mārgam adhigamya rājā dvitīyo ○ ām// <lb n="4"/>8 tiṣṭhanti
+                            śokāgninalasaṃpradiptā ekas tu te putra // <lb n="5"/>9 [ṣ]āṃ
+                            mahāsatvavara kumāro maha[n]ta [k]āruṇ//ya <lb n="6"/>10 + + +
+                            [n](y) a(h)aṃ + + yāṃ : patito [m]a// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="IOL San 73">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.15010/127</idno>
+          <idno type="Hoernle">H.143 SC 89</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>See Or.15010/205 (H.147 SC 285; upper left) + Or.15009/677
+                            (H.150.vii.38; large piece to the right) + IOL San 1172 (Kha. i.16;
+                            lower left corner) + IOL San 1184 (Kha.i.27.a) + IOL San 589 (Kha.i.33;
+                            missing lower left corner of Or.15009/677)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 // + [ndr. ś. kāgn. nā da]// <lb n="2"/>2 // na bh.
+                            [y//a <lb n="3"/>3 //hya ka// <lb n="4"/>4 // cittā // <lb n="5"/>5 // sm[ṛt]// <lb n="6"/>6 / ○ // dharaṇ//[ī] <lb n="7"/>7
+                            ○ rgata s/th/ita// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>4 //ḍ/ita-śi// <lb n="2"/>5 ○ // na // <lb n="3"/>6 ○ // s t//u <lb n="4"/>7 ○ ām//ā <lb n="5"/>8 // va//
+                                <lb n="6"/>9 ṇ//yabala // <lb n="7"/>10 //hāsatva gi// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15009/677">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15009/677</idno>
+          <idno type="Hoernle">H.150.vii.38</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>See Or.15010/205 (H.147 SC 285; upper left) + IOL San 73 +
+                            Or.15009/677 (H.150.vii.38; large piece to the right) + IOL San 1172
+                            (Kha. i.16; lower left corner) + IOL San 1184 (Kha.i.27.a) + IOL San 589
+                            (Kha.i.33; missing lower left corner of Or.15009/677).</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 //[hy]. .[e] mama śarīra : ubh[ā]ye -ā [st]ana .. .. ..
+                            [kṣī]ra .. .. m. p[r]amukta : nacireṇaiva sūcibhi[r] iv[ā] .. m[ā]ṅga ..
+                            .yati mama <lb n="2"/>2 [y//a pa]śy. .. darśanaṃ p(r)iya[su]tānāṃ
+                            putraṃ [m]. + [j]āne da + hi me jīvita k[ṛ]paṃ karohi : svapne mayādya
+                            dṛṣṭa tra[y]o <lb n="3"/>3 //[po] .. [ka p]. .. [yo] ma .. pa ..
+                            śyena ta .. .. .. pra .. .. .. .. .. ta kapotakasuta mahya svapnāntareṇa
+                            mahya ... dṛ <lb n="4"/>4 // maraṇa mama bhaviṣyati nacire ..
+                            putrāṇāṃ me vijāne dadāhi me .. .. .. .. .. .. kāruṇya : evam
+                            ukt[v]āgramahi <lb n="5"/>5 t]//[īndr]. yaviprahīnā : vinaṣṭa[c]ittā
+                            visaṃjñ. [m]anā : sarvv[ā]ntapuragaṇaś ca karu[ṇasva]ra [rodamā]na
+                            krandanta : dṛṣṭvā tam a <lb n="6"/>6 ṇ//[ī]y. [:] samanantara
+                            śokā[r]ta putraviyog[ā]ni tasya rājendra amā .. .. .. .. dyā
+                            jijñāsā(r)tha[ṃ] gatā kumārāṇāṃ : <lb n="7"/>7 //s that[āg]atā [ci]
+                            asrumukha rodamāna : pṛcchanti pantheṣu taṃ mahāsatvaṃ : ki jī[vati]
+                            mṛto vā [kv]a vā gat[ā] : s[a]ṃprataṃ mahā <lb n="8"/>8 //[i] .. ṇa
+                            niṣṭhaśravaṇa sa [ś]oka-pa[v]a prayāti viṣaye smi : dhāruṇa
+                            nirnāda[k]aro .. + n[t]amayā <lb n="9"/>9 // ca saliladhārair
+                            agramahiṣī sayañ ca dhara[ṇī]ya : tāva si[ñ]cat[i] udakena yāva smṛti
+                            la- <lb n="10"/>10 // mahārathaś ca agramahiṣī ca evam avaciṃsu :
+                            āmātyapāriṣadyā jijñāsan[e]ya gat. </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 // evaṃ mahāra[th]aś ca kṣamapay[i]tvā[n]a mahiṣī ca :
+                            niṣkkrami rājakulāto hy asrumukho roda- <lb n="2"/>2 //ṣkkrama
+                            nagarap[u]rāntāto jijñāsārth[ā]ya rājāputrāṇā[ṃ] :
+                            bahuprāṇaśatasahasrāṇi asru- <lb n="3"/>3 // : samanantaraniṣkkrāto
+                            rājā mahārathaś ca nagarāt(o :) priyaputradar[ś]ana [prekṣ]anti dadaśatā
+                                <lb n="4"/>4 //ḍ/ita-śi//r[ṣ]a[ñ]c. [rudhi]raliptāṅgaa
+                            pāṃsurajaliptagātrā-m-asr[[u]]-mukha rodamā[na gacchantā] dhāruṇa ..
+                            [śv]. śok. rājña mahārathasya <lb n="5"/>5 // sthitor[dh]va[bā]huś
+                            cakkradanta : athānyataro āmātyo dūrata āgamya śīghra tvaritaśca :
+                            upasaṃkkramya nṛpati rājño mahā <lb n="6"/>6 t//u bhave nṛpe ku
+                            tiṣṭhanti te putra priyamanāpā : nacireṇāgamya iha tava sānt[i]k[e]
+                            drakṣyasi tvaṃ putravaraṃ manāpa : mu <lb n="7"/>7 m//ātya āgatas
+                            tata : rājāvakīrṇo mala[v]astraprāvṛta asrumukho rājña idaṃ bravīti :
+                            dvayo ca t[e] putra mahānṛpendrā <lb n="8"/>8 //ro na [t]iṣ[ṭh]ate
+                            nṛpa grasto mahāsatva an[i]tyatāya : dṛṣṭvā ca vyāghrīm aciraprasūta :
+                            svā ceva putrā-m-upabhuk[tuk]āma te <lb n="9"/>9 // janitva :
+                            bodhāya kṛ[tvā] praṇidh[i]m udāra : sarvv[ā] ca satvā aha mocayiṣye :
+                            taṃ bodhi gaṃmbhīra-m-u[dā]ra ṛṣṭa anāga <lb n="10"/>10 //ritaṭātu
+                            sā usthita vyāghra kṣudābhibhūta : muh[u]rta [n]irmānsa kṛtāṅga-m-aṅga
+                            [kiṃ cā]va(ś)eṣa kṛta rājaputra : eva śruṇi </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="IOL San 1172">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>sSein</collection>
+          <idno type="current">IOL San 1172</idno>
+          <idno type="Stein">Kha. i.16</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>Or.15010/205 (H.147 SC 285; upper left) + IOL San 73 + Or.15009/677
+                            (H.150.vii.38; large piece to the right) + IOL San 1172 (Kha. i.16;
+                            lower left corner) + IOL San 1184 (Kha.i.27.a) + IOL San 589 (Kha.i.33;
+                            missing lower left corner of Or.15009/677). 12 x 7.5 + 4.3 x 8 + 27 x 12
+                            + 4.5 x 3 + 9.5 x 4.5 + 5.3 x 4; combined length 41 cm, height 12 cm.
+                            Early South Turkestan Brāhmī; Ms. C Suv 18.191-219; Nobel, pp.
+                            228.7-235.5.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>9 kaṭukanirgoṣ/a/ [:] // <lb n="2"/>10 bhitu usthāsi
+                            : /p//ṛ </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 kumārāṇ. // <lb n="2"/>2 māna śokārta : // <lb n="3"/>3 m(u)kha ro[d]a// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="IOL San 1184">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 1184</idno>
+          <idno type="Stein">Kha.i.27.a</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>Or.15010/205 (H.147 SC 285; upper left) + IOL San 73 + Or.15009/677
+                            (H.150.vii.38; large piece to the right) + IOL San 1172 (Kha. i.16;
+                            lower left corner) + IOL San 1184 (Kha.i.27.a) + IOL San 589 (Kha.i.33;
+                            missing lower left corner of Or.15009/677). 12 x 7.5 + 4.3 x 8 + 27 x 12
+                            + 4.5 x 3 + 9.5 x 4.5 + 5.3 x 4; combined length 41 cm, height 12 cm.
+                            Early South Turkestan Brāhmī; Ms. C Suv 18.191-219; Nobel, pp.
+                            228.7-235.5.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>7 + + + + + + [r/a]j/a/[n]/o /[n]/ā/n/ā/g/ṛ/h/a/n//i <lb n="2"/>8 + + + + .yāma vayādya manāpasatvasya darśanaṃ pr[i]//
+                                <lb n="3"/>9 kaṭukanirgoṣ/a/ [:] // r[[ā]]jā mahārathaś ca
+                            uthāya rodamā// <lb n="4"/>10 p//ṛcchati ca dīnamanasā ki mama putra
+                            mṛt//ā </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 // mā tvam atidīnamanasa bhavāhi nityā// <lb n="2"/>2 // ā/mātyagaṇaparivṛta sudīnama// <lb n="3"/>3 //māna
+                            dhāvanti : nirgata dṛṣṭvā rāja rājñuś ca // <lb n="4"/>4 + + + + +
+                            nena : dṛṣṭvānyatara puruṣaṃ muṇ//ḍ/i </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="IOL San 589">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 589</idno>
+          <idno type="Stein">Kha.i.33</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>Or.15010/205 (H.147 SC 285; upper left) + IOL San 73 + Or.15009/677
+                            (H.150.vii.38; large piece to the right) + IOL San 1172 (Kha. i.16;
+                            lower left corner) + IOL San 1184 (Kha.i.27.a) + IOL San 589 (Kha.i.33;
+                            missing lower left corner of Or.15009/677). 12 x 7.5 + 4.3 x 8 + 27 x 12
+                            + 4.5 x 3 + 9.5 x 4.5 + 5.3 x 4; combined length 41 cm, height 12 cm.
+                            Early South Turkestan Brāhmī; Ms. C Suv 18.191-219; Nobel, pp.
+                            228.7-235.5.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>8 //yamanāpaṃ nac//[i] <lb n="2"/>9 //na śokārta
+                            siñcati // <lb n="3"/>10 t//ātha jīvanta rājā // </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 //to śoka-hṛdayā ca : // <lb n="2"/>2 //naso
+                            nidīvakuś ca : ni// <lb n="3"/>3 // pṛṣṭata samanubad/dh/ā// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/150">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/150</idno>
+          <idno type="Hoernle">H.143, SC190</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>9 x 9.5 cm. Early South Turkestan Brāhmī; Ms. C Suv 18.222-227, 241,
+                            19.01-9; Nobel, pp. 236.10-243.3. Folio [46]</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>3 /// .. ni : yāva smṛt. [l]. .. .[u] /// <lb n="2"/>4 /// .. .m udereti ca brātarasya .. /// <lb n="3"/>5 /// ○ po
+                            grasto hy anitya[ba] /// <lb n="4"/>6 /// ○ .. darśanāni śīghre[ṇ]a
+                            /// <lb n="5"/>7 /// .ānti : [n]a jīvi[te] /// <lb n="6"/>8 ///
+                            r[ṇabhā]sottam. sūtre /// <lb n="7"/>9 /// ccha[t]rakuṭaa /// <lb n="8"/>10 /// .. /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 /// r a[bh]. /// <lb n="2"/>2 /// kṣaṇabhū /// <lb n="3"/>3 /// [sv]ara garjita-ma .r[u]a .. /// <lb n="4"/>4
+                            /// m. rur i[v]a sarvvaguṇānvi /// <lb n="5"/>5 /// amitasya su[kh]a
+                            .[au] /// <lb n="6"/>6 /// ○ jinaḥ prajamu 5 .. /// <lb n="7"/>7
+                            /// ○ ka : kāruṇya [v]a [n]a [kṣ]i .. /// <lb n="8"/>8 /// [k]a
+                            guṇabindu ta[v]a [p]rakā[ś]it. .. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15009/280">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15009/280</idno>
+          <idno type="Hoernle">H.149.add. unnumbered</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>+ IOL San 91 (left). 6.5 x 7.5 + 20 x 7.5 cm, combined length 23 cm.
+                            South Turkestan Brāhmī (main type); Ms. D Suv 8.49-9.4; Nobel, pp.
+                            117.4-119.13.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 //nnānāṃ namaḥ sarvvabodhisatvānā namo maitre /// <lb n="2"/>2 //[d]am* p[r]a[t]i[pū]r[ṇa] care • samanta[d]ar[ś]ane •
+                            mahāvihār. g. t. /// <lb n="3"/>3 //[ā] ○ ma[h]āgho[p]i[t]e •
+                            mahāmaitropasaṃhite • hi .[e] .. saṃ[gṛ] /// <lb n="4"/>4 ○ // + +
+                            // .i tatvasiddhipa[d]ā • avi[s]aṃvādanār[thapa]dā • [ya ma](dh)y. ///
+                                <lb n="5"/>5 // p[o]sa-[m]-upo(s)i[t]ena • [p]ūr[v]āhna[par]āhne
+                            sa[rvv]a[b]u(d)dhānā [p]u[ṣp] /// <lb n="6"/>6 // .. [y]antoa mama
+                            caivābhiprāy[o] sarva sidyantu kṣipra s(i)dyantu [t]. /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 // (v)yam* [caukṣ]āsanaṃ .. jñapayitavyaṃ
+                            puṣpāvak[ī]rṇadha[r]āṇi kṛ /// <lb n="2"/>2 // [h]ā[r]e
+                            vāraṇyāyatane vā • na jā[tu] kenacid vekalyaṃ bhavi[ṣ]. /// <lb n="3"/>3 // .. [raṇa]samṛ[d]dhāni sar[v]asukh/opadānenaa sukhitāni
+                            [bhav]i /// <lb n="4"/>4 [bh]//ā ○ g. [p](rat)y(aṃ)śaṃ dātavya • sā
+                            tena yāvaj[ī]vaṃ tatropasthās[y]a .[e] // <lb n="5"/>5 //ṣyati : ||
+                            [na]mo ratna[ś]ikhi[sy]a tathāgatasya • namo bhagava[to] /// <lb n="6"/>6 //[n]ābhasya tathāgatas[y]a [: n]ama [su]varṇa[śa]ta[r]a .i ..
+                            /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="IOL San 91">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 91</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>See Or.15009/280 (right)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 /// .āgatap[r]atyutpa// <lb n="2"/>2 /// dhyatu :
+                            saryath.// <lb n="3"/>3 /// • ayānadharmat//[ā] <lb n="4"/>4 ///
+                            tā mandra[p]adā e ○ // <lb n="5"/>5 /// [n]i prāvarttaṃ dhāraṇam. //
+                                <lb n="6"/>6 /// [n]āṃ ca [s]ar[vv]ajñajñānasya pa // </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 /// yatanaṃ vā [g]omaya-maṇḍa // <lb n="2"/>2 ///
+                            || ta[d u] .. [dāya tatra] // <lb n="3"/>3 /// [tnena] vā [•]
+                            dh[ā]nyena vā ○ // <lb n="4"/>4 /// mahādevyā ag[r]a[bh]//ā ○ <lb n="5"/>5 /// ṣa paripūray[i]// <lb n="6"/>6 ///
+                            budhvajakāṃca// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/136">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/136</idno>
+          <idno type="Hoernle">H.144 SC 139</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>+ IOL Khot 220/5 (Kha.i.27.a) + IOL San 658 (Kha.i.67.a). 10 x 7.5 +
+                            5.5 x 7 + 5.5 x 5 cm. Ca. South Turkestan Brāhmī (main type); Ms. D Suv
+                            18.57-82; Nobel, pp. 207.6-210.4.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 /// das tasyovācat* vi bhayaṃ [m]e hṛ[y]. [sm].a // <lb n="2"/>2 /// [m] asty a[pi] tv eṣ[ṭ]ajana[v]iyogā dhi me
+                            hṛdayo/p/a// <lb n="3"/>3 /// [ra]masuvipulama[hā]r[th]alābha ○
+                            hṛda// <lb n="4"/>4 /// .. [da]r[ś]a edṛśa vyāghrī sa ○ [p]tā// <lb n="5"/>5 /// m-abravīt* vi bho kaṣṭam idaṃ tasvīnīb // <lb n="6"/>6 /// ṣyatīta : mahāsatvovācat* kim a// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 /// iha : etad bhojanam ucyate [vy]āghrī// <lb n="2"/>2 /// [ṣ]ā paramadurbalā na śakya-m-a[na]yā// <lb n="3"/>3 ///
+                            [ṇ]ā[d]ovācat* vi bho duṣkara ○ ā// <lb n="4"/>4 ///
+                            .ityāgātirūḍhānām* na ○ pari// <lb n="5"/>5 /// s[v]a-deham* śataśa
+                            [•] iha vikkrīḍitanirvi[k]// <lb n="6"/>6 /// [a]nimiṣam
+                            anunirīkṣ[y]aṃ pra[t]i[ca]k[r]am[u] tat[o] // </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="IOL Khot 220/5">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">IOL Khot 220/5</idno>
+          <idno type="Stein">Kha.i.27.a</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>Or.15010/136 (H.144 SC 139) + IOL San 658 (Kha.i.67.a)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 // [g. ṅ]g. /// <lb n="2"/>2 //[va]rtate : mahā[s].
+                            /// <lb n="3"/>3 //[ya]m idaṃ mama saṃ// <lb n="4"/>4
+                            //ha-prasūtā sapta .. // // <lb n="5"/>5 // ṣaḍāhapra/sūtā bha[v].
+                            // <lb n="6"/>6 //sya [t]apa/sv[ī]nī bhoja // </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 //t[ru]rakṣekṣasādhanam* mahā // <lb n="2"/>2 //smy
+                            avasthāya bhojanā[nve] // <lb n="3"/>3 //tmaparityāgaṃ mahā // <lb n="4"/>4 //hitābhiyukt.a // <lb n="5"/>5 [k]//āramuditaman.
+                            /// <lb n="6"/>6 // [m]ahā[s]a .. .ai [t]. ///c </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="IOL San 658">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/150</idno>
+          <idno type="Hoernle">H.143, SC190</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>Or.15010/136 (H.144 SC 139) + IOL Khot 220/5 (Kha.i.27.a)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>2 //[va]rtate : mahā[s]. /// <lb n="2"/>3 // [c].
+                            curya[m]. <lb n="3"/>4 // .ā dṛṣṭvā ca mahāpra <lb n="4"/>5 //
+                            [bh]anta svasutā vā bhac <lb n="5"/>6 // [ra]ṃ ca sa karkaśa bha </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 // rā alpa-prāṇa <lb n="2"/>2 // kuryād iti : mahā
+                                <lb n="3"/>3 // lpa-buddhīnāṃ atma <lb n="4"/>4 // .a[ṃ]
+                            .e[h]ab ca sa[n.]i </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/156">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/156</idno>
+          <idno type="Hoernle">H.143 SC 168</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>7.5 x 8 cm.; Ms. E Suv 2.18-28, 38-42; Nobel, pp. 7.11-9.10.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 /// + .[ur]bhūtāni • pura[s](t)i /// <lb n="2"/>2
+                            /// mena amitāyur nāma ta /// <lb n="3"/>3 /// ○ bhagavantāḥa
+                            prādurbhūtā /// <lb n="4"/>4 /// ○ tāvaṃ caiva rājagṛhaṃ [m]. ///
+                                <lb n="5"/>5 /// .. lokadhātau yāva sa[m] /// <lb n="6"/>6
+                            /// [s]phutā-m-abhūṣi • .[i] .[ā] /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 /// .. hasramahāsahasrāyāṃ .. /// <lb n="2"/>2 ///
+                            .[ū]va : indrriyavikal. /// <lb n="3"/>3 /// ○ ca
+                            {[a]}ścaryādbhutadharmāṇāṃa loke .[r]. /// <lb n="4"/>4 /// ○
+                            dṛṣṭvāścaryaprāpto : a[d]bhutaprā[p]t. ///b <lb n="5"/>5 /// [na]
+                            ete buddhā bhaga[v]antaḥ a /// <lb n="6"/>6 /// [bh]. + + [t]aḥ
+                            śākyamune .. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15009/221">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15009/221</idno>
+          <idno type="Hoernle">H.149.add. unnumbered</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note>Cf. This fragment contains echoes of passages in the Sarasvatī chapter
+                            of the Suvarṇabhāsottamasūtra, but the correspondences are vague.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>A1 /// + turu bhaktike + .. /// <lb n="2"/>A2 /// +
+                            r. luṃ dh[ū]pa[y]. /// <lb n="3"/>A3 /// + r. ban[dh]yant. /// <lb n="4"/>A4 /// + vato rudrra[k]a .. /// <lb n="5"/>A5 ///
+                            hārājā : namaḥ .. /// {[(sv)āhā || ]} <lb n="6"/>A6 /// li ili •
+                            mili mi /// {[ṣ[ṭ]asya rājadhāne-m-anuttare a .y. .. .. ]} </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Suvarnabhasottamasutra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>B1 /// rda[ṇ]ḍi • karu mu[ru] /// <lb n="2"/>B2 ///
+                            .. mo[d]ato • paru .. .. /// <lb n="3"/>B3 /// + ṣa • nir[ṣ]i [r]e
+                            .. .. /// <lb n="4"/>B4 /// + .i [p]o lis[a] /// <lb n="5"/>B5
+                            /// .. va[ṭ]a .. /// <lb n="6"/>B6 /// + ahaṃ ā[t]m. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

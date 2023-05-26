@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Sundermann_BTTXVII">
+    <author>Sundermann, Werner</author>
+    <title level="a" lang="ger">Der Sermon vom Licht-Nous: Eine Lehrschrift des östlichen Manichäismus. Edition der parthischen und soghdischen Version.</title>
+    <title level="j" lang="ger" type="shortRef">Berliner Turfantexte XVII</title>
+    <imprint>
+      <pubPlace>Berlin</pubPlace>
+      <publisher>Akademie-Verlag</publisher>
+      <date>1992</date>
+    </imprint>
+    <keywords>parthisch</keywords>
+    <keywords>soghdisch</keywords>
+    <keywords>Manichäismus</keywords>
+    <keywords>Sermon</keywords>
+    <genBibl>Berliner Turfantexte</genBibl>
+  </bibl>
+</listBibl>

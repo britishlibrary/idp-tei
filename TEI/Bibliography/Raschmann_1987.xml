@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Raschmann_1987">
+    <author>Raschmann, Simone</author>
+    <title level="a" lang="ger">Das Gelöbnis des Buyan Kälmiš</title>
+    <imprint>
+      <title level="j" lang="engl" type="shortRef">Altorientalische Forschungen</title>
+      <biblScope type="issue">14,1</biblScope>
+      <date>1987</date>
+      <biblScope type="pp">160-174</biblScope>
+    </imprint>
+    <keywords>Gelöbnis</keywords>
+    <keywords>Buyan</keywords>
+    <keywords>Kälmiš</keywords>
+    <genBibl>Altorientalische Forschungen</genBibl>
+  </bibl>
+</listBibl>

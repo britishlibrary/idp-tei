@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Cerensodnom_Taube_BTTXVI">
+    <author>Cerensodnom, Dalantai</author>
+    <author>Taube, Manfred</author>
+    <title level="a" lang="ger">Die Mongolica der Berliner Turfansammlung</title>
+    <title level="j" lang="ger" type="shortRef">Berliner Turfantexte XVI</title>
+    <imprint>
+      <pubPlace>Berlin</pubPlace>
+      <publisher>Akademie-Verlag</publisher>
+      <date>1993</date>
+    </imprint>
+    <keywords>Mongolica</keywords>
+    <keywords>Turfansammlung</keywords>
+    <genBibl>Berliner Turfantexte</genBibl>
+  </bibl>
+</listBibl>

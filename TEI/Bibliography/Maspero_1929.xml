@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Maspero_1929">
+    <author>Maspero, H.</author>
+    <title level="a" lang="fre">L'astronomie chinoise avant les Han</title>
+    <imprint>
+      <title level="j">T'oung Pao (Tong Bao)</title>
+      <biblScope type="vol">26</biblScope>
+      <biblScope type="pp">267-356</biblScope>
+      <date>1929</date>
+    </imprint>
+    <note/>
+    <keywords/>
+    <genBibl>astronomy</genBibl>
+  </bibl>
+</listBibl>

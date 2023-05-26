@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="HuJi_1995">
+    <author lang="chi" n="1">&#x80E1;&#x621F;</author>
+    <author lang="chi" n="2">&#x5085;&#x679A;</author>
+    <title level="m" lang="chi">&#x6566;&#x714C;&#x53F2;&#x8BDD;</title>
+    <imprint>
+      <pubPlace>&#x5317;&#x4EAC;</pubPlace>
+      <publisher>&#x4E2D;&#x83EF;&#x66F8;&#x5C40;</publisher>
+      <date>1995</date>
+    </imprint>
+  </bibl>
+</listBibl>

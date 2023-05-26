@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Francke_1914">
+    <author>Francke, A.H.</author>
+    <title level="a" lang="eng">Notes on Sir Aurel Stein's Collection of Tibetan
+            Documents from Chinese Turkestan</title>
+    <imprint>
+      <title level="j">Journal of the Royal Asiatic Society</title>
+      <biblScope type="pp">37-59</biblScope>
+      <date>1914</date>
+    </imprint>
+    <keywords>Tibetan</keywords>
+  </bibl>
+</listBibl>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Wang_Yuexing_2000">
+  <author lang="chi-Latn">Wang Yuexing deng</author>
+  <author lang="chi-Hant">&#x738B;&#x6708;&#x661F;&#x7B49;</author>
+  <title level="m" lang="chi-Latn">Xixia ling</title>
+  <title level="m" lang="chi-Hant">&#x897F;&#x590F;&#x9675;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Yinchuan</pubPlace>
+    <publisher>Ningxia renmin chubanshe</publisher>
+    <date>2000</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>Historical remains</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

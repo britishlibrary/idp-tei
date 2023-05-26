@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<bibl id="Monumenta Serica">
+  <title level="j" lang="eng">Monumenta Serica</title>
+  <imprint>
+    <pubPlace>Peiping</pubPlace>
+    <publisher>H.Vetch</publisher>
+  </imprint>
+  <genBibl>journals</genBibl>
+</bibl>

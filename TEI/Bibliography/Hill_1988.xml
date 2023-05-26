@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Hill_1988">
+    <author>Hill, J.E</author>
+    <title level="a" lang="eng">Notes on the Dating of Khotanese History</title>
+    <imprint>
+      <title level="j">Indo Iranian Journal</title>
+      <biblScope type="issue">31</biblScope>
+      <biblScope type="pp">179-90</biblScope>
+      <date>1988</date>
+    </imprint>
+    <keywords>I-History</keywords>
+    <keywords>Khotan</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

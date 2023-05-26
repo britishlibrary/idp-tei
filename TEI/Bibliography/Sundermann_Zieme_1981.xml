@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Sundermann_Zieme_1981">
+    <author>Sundermann, Werner</author>
+    <author>Zieme, Peter</author>
+    <title level="a" lang="ger">Soghdisch-türkische Wortlisten</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">Scholia: Beiträge zur Turkologie und Zentralasienkunde. 
+			Annemarie von Gabain zum 80. Geburtstag am 4. Juli 1981 dargebracht von Kollegen, Freunden und Schülern.</title>
+      <biblScope type="issue">Veröffentlichungen der Societas Uralo-Altaica 14</biblScope>
+      <date>Wiesbaden 1981</date>
+    </imprint>
+    <keywords>Soghdisch</keywords>
+    <keywords>türkisch</keywords>
+    <keywords>Wortlisten</keywords>
+    <keywords>Turkologie</keywords>
+    <keywords>Zentralasienkunde</keywords>
+  </bibl>
+</listBibl>

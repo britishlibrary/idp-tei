@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Matsumura_1993">
+    <author>Matsumura, Hisashi</author>
+    <title level="a" lang="eng">Marginalia to the Sanskrit Fragments of Some Buddhist Texts</title>
+    <imprint>
+      <title level="j" lang="eng" type="shortRef">CAJ</title>
+      <biblScope type="issue">37.1-2 </biblScope>
+      <date>1993</date>
+      <biblScope type="pp">120-149</biblScope>
+    </imprint>
+    <keywords>manuscripts</keywords>
+    <keywords>sanskrit</keywords>
+    <keywords>SHT</keywords>
+    <keywords>turfan</keywords>
+  </bibl>
+</listBibl>

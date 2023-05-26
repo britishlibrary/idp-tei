@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Translation of the Dunhuang Star Chart (Or.8210/S.3326)</title>
+        <author>Imre Galambos</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>First edition</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>International Dunhuang Project</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2009</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Electronic</p>
+        <bibl>
+          <ref>Galambos_2009</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Translation</projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This is a translation of the text of the manuscript Or.8210/S.3326. It starts from the first entry which contains continuous text and ends with the author’s note at the end of this section. The second part is the technical text accompanying the astronomical charts. The parts where the manuscript is worn and illegible are marked in square brackets; I marked such places with missing text dots inside the brackets: [...]. Where the missing text could be reconstructed on the basis of the context, I
+ included the translation within the brackets.</p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.3326</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <q lang="eng">
+              <p>Whenever [...] day, at midnight examining the four directions; when
+                                this cloud is present, the land will be inundated with great water
+                                and the hundred rivers will overflow. Wu Xian says that this is the
+                                vapour of the essence of the sea. When the sea moves its vapour, in
+                                the place where following this the cloud is seen, there will
+                                inevitably be a great flood, the hundred rivers will overflow, the
+                                people will lose their homes, the dead will outnumber the living,
+                                their white bones will fill the gullies and ravines.</p>
+              <p>Whenever this vapour is present in villages and towns, those who see
+                                it will inevitably go through a great mourning; troops and weapons
+                                will fill the land, blood will flow like a river. Fan Zeng says that
+                                this is the vapour of the cruel general. If it is seen, underneath
+                                troops will inevitably gather.”</p>
+              <p>Whenever this vapour is present in [villages] and towns, those who
+                                see it will not move [...], and underneath it will be the one is to
+                                rise to the throne. Wu Xian says that his land will inevitably
+                                produce one of the highest ministers or someone from here will
+                                receive the title of a prince.</p>
+              <p>Whenever a five-colour vapour is seen above someone’s house and it
+                                remains there steadily during the last days of the month, the first
+                                day of the following one [...] morning, and if [the vapour above]
+                                the house has mostly greenish-blue, this is the vapour of a dead
+                                body; if mostly red, it is the vapour of gold and jade; if mostly
+                                yellow, this house will go through extensive renovation works; if
+                                mostly white, this land has copper and iron; if mostly black, this
+                                house will serve as the abode of the divine spirit (shen).</p>
+              <p>Whenever there is an irregular vapour over [...], there will
+                                inevitably be a treasure underneath. The five colours [...] — the
+                                [...] colour means metal and copper; red means jade; [...] colour
+                                means [...], [...] colour means the presence of golden treasure
+                                hidden underneath the house, not deeper than three zhang and [not
+                                shallower] than eight chi. [If looked for it,] the treasure will
+                                certainly be found.</p>
+              <p>Whenever there is a five-colour vapour inside [...], and it appears
+                                mostly greenish-blue, this means a dragon; mostly red means a
+                                thousand [...] as odd; mostly yellow means that a dragon is hidden
+                                inside it; mostly white means death and mourning. Chen Ping says
+                                that whosoever’s family is about to be annihilated, his gates will
+                                mostly have black colour: his home will be exterminated by robbers
+                                and bandits within one year.</p>
+              <p>Lü Buwei said that whenever you approach a mound on a plain and there
+                                is vapour in the shape of a thousand zhang long staff reaching high
+                                up into the sky, straight and vertical; if it is yellow, it is the
+                                colour of the Son of Heaven; blue, red, white and black all mean
+                                that there shall be tears and grief. Your servant Chunfeng says that
+                                such towns will inevitably produce dukes and knights. If its colour
+                                is greenish-blue it means illness; white means that a war will break
+                                out; black means that the towns will be flooded with robbers and
+                                thieves.</p>
+              <p>Whenever vapours are present in towns, the examiner may divine them
+                                according to their colour. If it is mostly greenish-blue, this is
+                                the vapour of the highest ministers; if mostly red, the vapour of
+                                the prefect (taishou); if mostly yellow, the vapour of [...]. If it
+                                has more white, then underneath there is a great worthy or saint. If
+                                it has more black, then beneath there is a hidden dragon and if it
+                                does not come out, in one hundred days there will be a flood
+                                disaster.</p>
+              <p>Whenever there a white vapour is present at common people’s houses,
+                                and it appears inside the house, this is a scattered vapour and
+                                means that grave illness will strike; if its colour is murky black
+                                and it covers the top of the house, then someone from the family
+                                will die in battle. If not, then the whole family will be
+                                annihilated.</p>
+              <p>Whenever a vapour is present inside someone’s home and garden, and it
+                                is in the form of a leaping or crouching wolf or tiger, the family
+                                will certainly bear a son who will become a general and will be
+                                conferred a rank of nobility. This will happen within three
+                                years.</p>
+              <p>Whenever a man travels traverses rivers and uncultivated territories
+                                and this vapour is present, if he sees a red vapour in the shape of
+                                a [...], this means an old tomb of a monarch: it definitely cannot
+                                be crossed. This vapour means certain death within three years.</p>
+              <p>When in the wilderness this vapour is seen, shaped like a pagoda,
+                                underneath there inevitably be a cache of silver, not deeper than
+                                three zhang and not shallower than two zhang.</p>
+              <p>If between the trees of the forest a red vapour is seen in the shape
+                                of vines creeping up the tree, this is a creeping vapour. It has
+                                already been discussed by Fan Zeng who says that wherever it creeps
+                                up, underneath this place there is copper; if not, then coins. Mozi
+                                says that this is a vapour of golden treasure.</p>
+              <p>Whenever you proceed through a forest at the hill of a mountain,
+                                there may be a white vapour rolling in and out. This has already
+                                been discussed by Mozi, according to whom this means that underneath
+                                this place are jade ornaments. Lü Buwei says that there are jade
+                                objects underneath. Chen Ping says that there is gold
+                                underneath.</p>
+              <p>Whenever somebody traverses a mountain and sees that a white vapour
+                                is present in the shape of a person, he definitely should not pass
+                                through. This vapour will affect the man and straight away kill him.
+                                He should wait for the day with a correct vapour and then the
+                                destruction can be averted. Underneath there inevitably be some
+                                treasure, which is also called [...]. See this in Chen Ping’s
+                                Zhoulun.</p>
+              <p>If when traversing a mountain you see a black vapour as if covering
+                                the place from the top, underneath there will be a hidden current:
+                                the spring will be not deeper than two zhang and not shallower than
+                                eight chi. If you search for it, you will inevitably find a spring.
+                                Fan Zeng says that what is explained here is that underneath there
+                                is a non-flowing spring. See this in Mozi.</p>
+              <p>Whenever a man traverses a mountain and sees that a white vapour is
+                                present in the shape of a sword, there will inevitably be weapons
+                                underneath. You will certainly find them if you look for them. See
+                                this also in Lü Buwei.</p>
+              <p>I have formerly joined together the above forty-eight entries on
+                                vapour divination. My own experiments showed them to be reliable,
+                                this is why I recorded them. I did not dare to include in this
+                                scroll the ones I have not tested for divination. Disregarding my
+                                ignorance and incapacity, with foolish enthusiasm I dared to collect
+                                and record these, all in the same manner as earlier entries. [...]
+                                My apologies, this is all my fault!</p>
+            </q>
+          </msItem>
+          <msItem n="2">
+            <q lang="eng">
+              <p>From Nü 8° to Wei 15°. This is associated with the terrestial branch
+                                zi, and is called Xuanxiao, or Dark Emptiness. Dark means black,
+                                this is the colour of North; Emptiness means exhaustion. In the 11th
+                                month the Yang vapours descend and the Yin vapours ascend, the
+                                myriad things are dominated by darkness and death, there is no
+                                living thing around, Heaven and Earth are bare and empty. This is
+                                why it is called Dark Emptiness. This division corresponds to the
+                                Kingdom of Qi.</p>
+              <p>From Wei 16° to Kui 4°. This is associated with the terrestial branch
+                                hai, and is called Zouzi. Zouzi means to sigh. This division
+                                corresponds to the Kingdom of Wei. From Kui 4° to Wei 6°. This is
+                                associated with the terrestial branch xu, and is called Jianglou, or
+                                Descending Warp. This division corresponds to the Kingdom of Zeng.
+                                From Wei 7° to Bi 11°. This is associated with the terrestial branch
+                                you, and is called Daliang, or Great Beam. Beam means strength. In
+                                the 8th month the autumn dew starts to descend and the myriad things
+                                because of this are solid, mature and strong. This is why it is
+                                called Great Beam.</p>
+              <p>From Bi 12° to Jing 15°. This is associated with the terrestial
+                                branch shen, and is called Shichen, or Full Sinking. In the 7th
+                                month the myriad things are fully prospering, the Yin vapours are
+                                heavy and sink downward, permeating the myriad things. This is why
+                                it is called Full Sinking. This division corresponds to the Kingdom
+                                of Wei. From Jing 16° to Liu 8°. This is associated with the
+                                terrestial branch wei, and is called Chunshou, or Quail Head. The
+                                seven southern constellations have the shape of a bird, with the
+                                eight stars of the Jing signifying the head and the Liu the beak.
+                                Head here refers to the [bird’s] head. This is why it is called
+                                Quail Head. This division corresponds to the Kingdom of Qin.</p>
+              <p>From Liu 9° to Zhang 17°. This is associated with the terrestial
+                                branch wu, and is called Chunhuo, or Quail Fire. The fire
+                                corresponds to the South. In the 5th month the Yang vapours begin to
+                                prosper, the Fire Star (i.e. Mars) obscures the seven central stars
+                                at the place of the Vermillion Bird. This is why it is called Quail
+                                Fire. This division corresponds to the Kingdom of Zhou.</p>
+              <p>From Zhang 18° to Zhen 1° (correctly should be 11°). This is
+                                associated with the terrestial branch si, and is called Chunwei, or
+                                Quail Tail. In the seven southern constellations forming the
+                                Vermillion Bird, Zhen represents the tail. This is why it is called
+                                Quail Tail. This division corresponds to the Kingdom of Chu.</p>
+              <p>From Zhen 12° [to Di 4°]. This is associated with the terrestial
+                                branch chen, and is called Shouxing, or Life Star. In the 3rd month
+                                the myriad things begin penetrating the Earth, the spring vapours
+                                spread around and nurture the myriad things, and thus each fulfils
+                                its inborn nature, without violating [the rules of] Heaven. This is
+                                why it is called the Life Star. This division corresponds to the
+                                Kingdom of Zheng.</p>
+              <p>From Di 5° to Wei 9°. This is associated with the terrestial branch
+                                mao, and is called Dahuo, or Great Fire. East corresponds to wood,
+                                and the Heart Star is associated with mao -- fire comes forth from
+                                the heart (i.e. inside) of wood, this is why it is called Great
+                                Fire. This division corresponds to the Kingdom of Song.</p>
+              <p>From Wei 10° to Dou 12° (correctly should be 11°). This is associated
+                                with the terrestial branch yin, and is called is Simu, or Split
+                                Wood. Wei in the East represents the end of the Wood constellation,
+                                Dou in the North represents the beginning of the Water
+                                constellation. This station is between the two of them, separating
+                                water from wood, this is why it is called Split Wood. This division
+                                corresponds to the Kingdom of Yan.</p>
+              <p>From Dou 12° to Xunü 7°. This is associated with the terrestial
+                                branch chou, and is called Xingji, or Star Register. Star Register
+                                refers to keeping track of the [beginning and] end of the myriad
+                                things. This is why it is called Star Register. This division
+                                corresponds to the Kingdom of Yue.</p>
+            </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

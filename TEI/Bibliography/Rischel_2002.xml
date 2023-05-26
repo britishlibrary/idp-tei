@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<bibl id="Rischel_2002">
+  <author>Rischel, Anna-Grethe</author>
+  <title level="a" lang="eng">Preliminary analysis of the Danish Collection of Dunhuang manuscripts</title>
+  <imprint>
+    <title level="j" lang="eng">Manuscripta Orientalia, International Journal for Oriental Manuscript Research</title>
+    <biblScope type="issue">8.3</biblScope>
+    <biblScope type="pp">53-58</biblScope>
+    <date>2002</date>
+  </imprint>
+  <genBibl>collections_da</genBibl>
+</bibl>

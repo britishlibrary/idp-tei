@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Sims-Williams_1989">
+    <author>Sims-Williams, Nicholas</author>
+    <title level="a" lang="eng">Sogdian</title>
+    <imprint>
+      <title level="m" lang="eng">Schmitt_1989</title>
+      <biblScope type="pp">173-192</biblScope>
+      <date>1989</date>
+    </imprint>
+  </bibl>
+</listBibl>

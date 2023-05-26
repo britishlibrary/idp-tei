@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Mirsky_1977">
+    <author>Mirsky,J </author>
+    <title level="m" lang="eng">Sir Aurel Stein: Archaeological Explorer</title>
+    <imprint>
+      <pubPlace>Chicago</pubPlace>
+      <publisher>The University of Chicago Press</publisher>
+      <date>1977</date>
+    </imprint>
+    <keywords>Stein</keywords>
+    <keywords>Archaeologist</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Miller_1977">
+    <author>Miller, R.A</author>
+    <title level="a" lang="eng">I-ching San-tsang in Uigur</title>
+    <imprint>
+      <title level="j">Central Asiatic Journal</title>
+      <biblScope type="issue">21</biblScope>
+      <biblScope type="pp">118-125</biblScope>
+      <date>1977</date>
+    </imprint>
+    <keywords>I-ching</keywords>
+    <keywords/>
+    <keywords>t</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

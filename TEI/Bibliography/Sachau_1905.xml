@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Sachau_1905">
+    <author>Sachau, Eduard</author>
+    <title level="a" lang="ger">Litteratur-Bruchstücke aus Chinesisch-Turkistan.</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">SPAW</title>
+      <date>1905</date>
+      <biblScope type="pp">964-978</biblScope>
+    </imprint>
+    <note>1 Tafel</note>
+    <keywords>manuscripts</keywords>
+    <keywords>Christianism</keywords>
+    <keywords>Syriac</keywords>
+    <keywords>n</keywords>
+    <keywords/>
+    <keywords>Chinesisch-Turkistan</keywords>
+    <genBibl>SPAW</genBibl>
+  </bibl>
+</listBibl>

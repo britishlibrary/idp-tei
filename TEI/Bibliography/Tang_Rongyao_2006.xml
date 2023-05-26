@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Tang_Rongyao_2006">
+  <author lang="chi-Latn">Tang Rongyao</author>
+  <author lang="chi-Hant">&#x5510;&#x69AE;&#x582F;</author>
+  <title level="m" lang="chi-Latn">Wangchao yanmie:wei xixia diguo jiaohun</title>
+  <title level="m" lang="chi-Hant">&#x738B;&#x671D;&#x6E6E;&#x6EC5;&#xFF1A;&#x70BA;&#x897F;&#x590F;&#x5E1D;&#x570B;&#x53EB;&#x9B42;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Beijing</pubPlace>
+    <publisher>Guangming ribao chubanshe</publisher>
+    <date>2006</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>History</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

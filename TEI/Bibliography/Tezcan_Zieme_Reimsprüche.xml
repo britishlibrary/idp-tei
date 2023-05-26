@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Tezcan_Zieme_Reimsprüche">
+    <author>Tezcan, Semih</author>
+    <author>Zieme, Peter</author>
+    <title level="a" lang="ger">Alttürkische Reimsprüche. Ein neuer Text.</title>
+    <imprint>
+      <title level="j" lang="engl" type="shortRef">Journal of Turkology</title>
+      <biblScope type="issue">2,2</biblScope>
+      <date>1994</date>
+      <biblScope type="pp">259-271</biblScope>
+    </imprint>
+    <keywords>Alttürkisch</keywords>
+    <keywords>Reimsprüche</keywords>
+    <keywords>Turkology</keywords>
+    <keywords>Text</keywords>
+  </bibl>
+</listBibl>

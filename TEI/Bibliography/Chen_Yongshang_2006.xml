@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Chen_Yongshang_2006">
+  <author lang="chi-Latn">Chen Yongsheng</author>
+  <author lang="chi-Hant">&#x9673;&#x6C38;&#x52DD;</author>
+  <title level="m" lang="chi-Latn">Xixia falv zhidu yanjiu</title>
+  <title level="m" lang="chi-Hant">&#x897F;&#x590F;&#x6CD5;&#x5F8B;&#x5236;&#x5EA6;&#x7814;&#x7A76;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Beijing</pubPlace>
+    <publisher>Minzu chubanshe</publisher>
+    <date>2006</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>Law</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

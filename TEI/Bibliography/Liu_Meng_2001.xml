@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Liu_Meng_2001">
+    <author n="1">Liu Shiping</author>
+    <author n="2">Meng Xianshi</author>
+    <title level="m" lang="chi-Latn">Dunhuang bai nian</title>
+    <imprint>
+      <pubPlace>Taipei</pubPlace>
+      <publisher>Yuanliu chuban gongsi</publisher>
+      <date>2001</date>
+    </imprint>
+    <note>This book was published in 2000 as Dunhuang bainian - yige minzu de xinling licheng by Guangdong jiaoyu chubanshe</note>
+    <keywords>Dunhuang/history/Collections_ch</keywords>
+  </bibl>
+</listBibl>

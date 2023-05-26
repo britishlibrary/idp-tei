@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Horie_1987">
+    <author n="1">Horie, V.</author>
+    <title level="m" lang="eng">Materials for Conservation : Organic Consolidants, Adhesives, and Coatings</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>Butterworths</publisher>
+      <date>1987</date>
+      <idno type="ISBN">0408015314 : 9780408015318</idno>
+    </imprint>
+    <keywords>Consolidants</keywords>
+    <keywords>Conservation</keywords>
+    <keywords>Chemistry</keywords>
+    <genBibl>Conservation</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Hosoda_1989a">
+    <author>Hosoda, Noriaki</author>
+    <title level="a" lang="eng">A Study of the Xylographic Fragments of the Saṃyuktāgama from Chinese Turkestan, Published by R. Pischel</title>
+    <imprint>
+      <title level="j" lang="eng" type="shortRef">IBK</title>
+      <biblScope type="issue">37.2</biblScope>
+      <biblScope type="pp">540-546</biblScope>
+      <date>1989</date>
+    </imprint>
+    <keywords>manuscripts</keywords>
+    <keywords>sanskrit</keywords>
+    <keywords>SHT</keywords>
+    <keywords>turfan</keywords>
+  </bibl>
+</listBibl>

@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Buddhism: Art and Faith</title>
+        <editor>Zwalf, W.</editor>
+        <respStmt id="FW">Wood, Frances</respStmt>
+        <respStmt id="JPL">Losty, J. P. L.</respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>British Museum Press</publisher>
+        <pubPlace>London</pubPlace>
+        <date>1985</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Printed Book</p>
+        <bibl>
+          <ref>Zwalf_1985</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Input and marked up by Susan Whitfield. Imported to 4D on 08/11/05 by
+Susan Whitfield.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Catalogue of an exhibition held at the British Museum in 1985. This electronic version is incomplete, containing only those entries relevant to material on IDP. The aim of the exhibition and catalogue, as the editor says in his preface, was 'to follow the course of Buddhist art and doctrine as they appear from the indian beginnings of patronage and use of durable materials, some centuries after the Buddha, to recent times.</p>
+    </head>
+    <body>
+      <msDescription n="31" type="FW">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.3548</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="eng">The Book of Middle-length Sayings</title>
+            <note>
+              <p>
+Scroll of 
+<title lang="chi">
+Zhong a han jing 
+</title>
+( 
+<title lang="san">
+Madhyamagamasutra 
+</title>
+) in Chinese. Ink on paper. This title corresponds to the Pali 
+<title lang="san">
+Majjhimanikeya 
+</title>
+, or collection of middle-length sutras, and treats of the Buddha's early life and the Four Noble Truths. It was translated by a monk from Kashmir, 
+<name type="person" lang="san">
+Samghadeva 
+</name>
+, in the late 4th century. 
+</p>
+              <p>
+Paper, invented in China, was common use by the 5th century AD. The paper scroll follows an earlier form of document where inscribed bamboo slips were tied together and rolled up for storage. Sheets of paper were pasted together and backed to form a scroll. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="33" type="JPL">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.103</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">The Book of Kindred Sayings</title>
+            <note>
+              <p>
+From a 
+<term lang="san">
+stupa 
+</term>
+at 
+<name type="place">
+Khadalik 
+</name>
+, Xinjiang, China. 
+<term lang="san">
+Pothi 
+</term>
+manuscript of 
+<title lang="san">
+Samyuktagama 
+</title>
+in Sanskrit. Fragments of 15 folios. Gupta script. Ink on birch bark. The Samyuktagama is the Sanskrit version of the 
+<title lang="pal">
+Samyuttanikaya 
+</title>
+, the third of the four Pali books of the Buddha's sermons. It owes its name to the grouping of its sutras. The Pali version which, unlike the Sanskrit, is complete, comprises 2,889 sutras. This 
+<name type="school">
+Sarvastivada 
+</name>
+version was known only in Chinese and Tibetan until parts were discovered in 
+<name type="place">
+Central Asia 
+</name>
+. This now fragmentary manuscript was written in the 
+<name type="place">
+Himalayan region 
+</name>
+on birch bark, the usual writing material for that area, before being taken to Central Asia. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="35" type="JPL">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 379</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="eng">The Book of Exalted Utterances</title>
+            <note>
+Pothi manuscript of 
+<title lang="san">
+Udanavarga 
+</title>
+in Sanskrit. Slanting Gupta script. Ink on paper. 
+<p>
+The Udanavarga is a 
+<name type="school" lang="san">
+Sarvastivadin 
+</name>
+compilation, attributed to 
+<name type="person" lang="san">
+Dharmatrata 
+</name>
+(1st century AD?), of popular ethical verse maxims. It significantly overlaps with an old north-west Indian (Gandhari) 
+<title lang="san">
+Dharmapada 
+</title>
+and Pali canonical 
+<title lang="pal">
+Dharmmapada 
+</title>
+which belongs to the 
+<name type="school" lang="san">
+Khuddakanikaya 
+</name>
+or Minor Tradition, the collection of mainly verse texts not considered as spoken by the Buddha but sufficiently ancient to have entered the Canon before the first schisms. The script suggests a scribe from 
+<name type="place">
+Kucha 
+</name></p></note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="38" type="FW">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.797</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="eng">Rules for Monks</title>
+            <note>
+Scroll of 
+<title lang="san">
+Pratimoksasutra 
+</title>
+in Chinese. Ink on paper. AD 406. 
+<p>
+This scroll, the earliest dated manuscript found at Dunhuang, was written only fifty years after the first cave temple was excavated, and the copier, a monk, apologies for his handwriting hoping that no-one will laugh at it. The text sets out the 
+<title lang="san">
+Pratimoska 
+</title>
+of the 
+<name type="school">
+Sarvastivadin School 
+</name>
+which flourished in Gandhara and north-west Inida. Kashmiri monks, including 
+<name type="person" lang="san">
+Punyatrata 
+</name>
+who translated this particular work, translated Sarvastivadin literature into Chinese in the late 4th century. 
+</p></note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="40" type="JPL">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1682</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">Rules for Bathing</title>
+            <note>
+              <p>
+Wooden board, perhaps part of a wooden pothi manuscript, with inked inscription of Vinaya texts in Prakrit. Kharosthi script. Most of the numerous wooden documents found at Niya in Kharosthi characters (a north-west Indian script derived from Aramaic and found mostly in Gandhara and the Panjab) are official missives in Prakrit. This board, however, contains a Vinaya text. It extols the performance of a certain bathing ritual, and the blessing conferred thereby even on the bath attendants. Its purpose is not clear, nor the reason for its being in an archive of official documents in the local magistrate's house. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="42" type="JPL">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/75(A)</idno>
+          <idno type="current">Or.8212/75(B)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">Treasury of the Higher Doctrine</title>
+            <note>
+Bound volume containing a Uyghur commentary, with some Chinese, on 
+<name type="person">
+Sthriamati 
+</name>
+'s commentary on 
+<name type="person">
+Vasubandhu 
+</name>
+'s 'Abhidharmakosa'. Ink on paper. 64 folios (each folio double). 
+<p>
+Vasubandhu, who lived probably in the 5th century AD, belonged to the 
+<name type="school">
+Sautrantika school 
+</name>
+whose doctrines were based solely on the sutras, rejecting the interpretation in the Sarvastivada Abhidharma. Even the Sautrantikas, however, needed answers to the basic questions posed in the Abhidharma controversies, and Vasubandu wrote this extremely influential work on the basis of the Hinayana Sutrapitaka. 
+</p><p>
+The Uyghurs, Turks from the north of the Tianshan, built an empire in western China in the late 1st millennium AD, including Dunhuang. Although found in the walled-up library, this and other late volumes were added by the priest-in-charge between the discovery in 1900 and Stein's visit in 1907. 
+</p></note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="44" type="FW">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.293</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="eng">Sutra of the Great Departure</title>
+            <note>
+Scroll manuscript of 
+<title lang="san">
+Abhiniskramanasutra 
+</title>
+in Chinese. Ink on paper. 
+<p>
+This sutra, translated by Jnanagupta of the Sui dynasty (c. 589-618), is a biography of the Buddha associated with the Dharmagupta school which was most active in promoting Buddhism in Central Asia and China. Its tradition lived on in the rules of discipline for religious communities after the introduction of the Mahayana. 
+</p><p>
+The stupa cult was also introduced by the Dharmagupta school with which this sutra is associated, and Emperor Wen of the Sui dynasty put up 111 stupas between 601 and 604 to house relics, in deliberate imitation of Asoka. 
+</p></note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="47" type="FW">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.5662</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">Sutra of the Practice of the True Law</title>
+            <note>
+              <p>
+Manuscript of the 
+<title lang="san">
+Saddharmasmrtyupasthanasutra 
+</title>
+in Chinese. Ink on paper, folding book format. This Mulasarvastivada sutra provides exercises for monks. It covers much basic doctrine emphasising 'self-possession' achieved by observing the body, sensations, thought and phenomena to eliminate desire and cultivate aversion from the world. It was translated by Prajnaruci in AD539. The folding-book format illustrates the first development beyond the paper scroll, towards the traditional printed book with its folded leaves. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="54" type="JPL">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 416</idno>
+          <idno type="current">IOL San 418</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">Hymn in 150 verses</title>
+            <note>
+Incomplete pothi manuscript of 
+<title lang="san">
+Satapancasatikastotra 
+</title>
+of Matrctea in Sanskrit. Slanting Gupta script. Ink on paper. 
+<p>
+Hymns in praise (stotra) of the divine characterise both Hinduism and Buddhism from about the 1st century AD. Even in the Hinayana the Buddha's development of a super-human, transcendent personality made such hymns possible. The most famous Buddhist hymn-writer wa Matcrceta (2nd century AD) who seems to have worshipped Siva before becoming a Buddhist. He is supposed to have been converted by Aryadeva, disciple of Nagarjuna. 
+</p><p>
+The simple beauty of these Sanskrit hymns appealed to Hinayanists and Mahayanists alike, as for example: 'Revilers have you overcome by mildness, the malicious by making them secure, liars by the truth and the malevolent by your friendship" (v.122). Such non-sectarian sentiments were ideally suited to communal chanting in monasteries where monks of both persuasions dwelt together. 
+</p></note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="55" type="FW">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.351</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="eng">The Gem-heap Sutras</title>
+            <note>
+              <p>
+Scroll of the 
+<title lang="san">
+Ratnakutapariprcchasutra 
+</title>
+in Chinese. Ink on paper. The earliest Mahayana 
+<term lang="san">
+sutras 
+</term>
+appear to be those collected in the Ratnakuta, or 'Gem heap', a collection of forty-nine separate works from different periods made before the 2nd century AD. Some had previously been translated separately into Chinese, but the collection as a whole represents the earliest Mahayana group. This scroll contains the forty-seventh work in the collection, the Ratnakutapariprccha, the Bodhisattva Ratnakuta's assembly, translated by Fa Hu of the Western Jin dynasty (AD 265-316). The paper scroll is attached to its original wooden roller and the silk tie, showing the complete form of the early 'book' in China. Various 
+<term lang="san">
+sutras 
+</term>
+in this collection attempt the first systematic statement of the way of the Bodhisattva. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="56" type="FW">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.2117</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="eng">Sutra of Eternal Life</title>
+            <note>
+              <p>
+Scroll of 
+<title lang="san">
+Sukhavativyuha 
+</title>
+in Chinese. Ink on paper. The principal 
+<term lang="san">
+sutra 
+</term>
+of the Pure Land school (which began in China in the early 5th century and was later exported to Japan) is the Sukhavativyuha which exists in a long and a short version. There are several translations of both; this is an example of the shorter version, the Amitayuhsutra, translated by a Soghdian, Kang Senhui (or Samghavarman), in AD 252. Both versions contain detailed descriptions of the Pure Land, or Paradise of Amitabha (in the east in Sanskrit and Khotanese, in the west in Chinese). Rebirth in the Pure Land results from meritorious deeds combined with faith and devotion to Amitabha in the longer version, faith and prayer alone in the shorter version. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="57" type="JPL">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot 60/1</idno>
+          <idno type="current">IOL Khot 60/2</idno>
+          <idno type="current">IOL Khot 60/3</idno>
+          <idno type="current">IOL Khot 60/4</idno>
+          <idno type="current">IOL Khot 61/1</idno>
+          <idno type="current">IOL Khot 61/2</idno>
+          <idno type="current">IOL Khot 61/3</idno>
+          <idno type="current">IOL Khot 61/4</idno>
+          <idno type="current">IOL Khot 62/1</idno>
+          <idno type="current">IOL Khot 62/2</idno>
+          <idno type="current">IOL Khot 62/3</idno>
+          <idno type="current">IOL Khot 62/4</idno>
+          <idno type="current">IOL Khot 63/1</idno>
+          <idno type="current">IOL Khot 63/2</idno>
+          <idno type="current">IOL Khot 63/3</idno>
+          <idno type="current">IOL Khot 63/4</idno>
+          <idno type="current">IOL Khot 64/1</idno>
+          <idno type="current">IOL Khot 64/2</idno>
+          <idno type="current">IOL Khot 64/3</idno>
+          <idno type="current">IOL Khot 64/4</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">Incantation of the Sutra of Eternal Life</title>
+            <note>
+Pothi manuscript of 
+<title lang="san">
+Aparaimutayuhsutrasharani 
+</title>
+in Khotanese. Upright Gupta script. Ink on paper, with 1 miniature in gouache. 20 folios. 
+<p>
+This brief text is a dharani, or incantation, explaining the rewards gained by reciting the sutra of its title. Like all works it repeats endlessly the same basic formulae, varying only the number of persons, times, or years involved. Whoever recites the sutra in praise of Aparmimutayuh, or has it written, will repeatedly have his life extended by 100 years, until he finally dies he will obtain rebirth in the paradise (buddhaksetra) of Aparimitayuh. Although the basic texts of the Pure land School are Indian in origin, its ideas attracted little interest in India itself, no doubt because fo the discrepancies between its sensual paradise and the orthodox Middle Way. 
+</p><p>
+At the beginning of this manuscript is a small roundel of two concentric ciircles with a coloured seated Buddha (apparently Amitabha) superimposed against the inner circle. Amitayuh and Aparimitayuh mean the same thing - Endless Life - and are the alternative names fo the Buddha Amitabha (Endless Radiance). Khotanese was the anicent language of western Xinjiang and has now been identified as one of the Saka or Scythian languages of the Iranian group. 
+</p></note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="58" type="FW">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.3286</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="eng">The Dcotrine of the Middle Way</title>
+            <note>
+              <p>
+Scroll manuscript of 
+<title lang="san">
+Madhyamakasastra 
+</title>
+in Chinese. Ink on paper. The Middle Way, rejecting doctrinal extremes, is associated with Nagarjuna (2nd century AD). It was introduced into China through Kumarajiva's translations and Seng Zhao's interpretations. Seng Zhao continued Nagarjuna's arguments on Emptiness and the unreality of all forms of existence. In his essay 'Prajna is not knowledge' he expresses ideas approaching Chinese Daoist philosophy which also stresses the Middle Way, and closeness to Taoism is sometimes cited as one of the reasons for the success of the Madhyamaka doctrines in 4th- and 5th-century China. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="60" type="JPL">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/56</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">The Perfection of Wisdom in 8,000 Sections</title>
+            <note>
+              <p>
+4 folios from a pothi manuscript of 
+<title lang="san">
+Astasahasrika Prajnaparamita-sutra 
+</title>
+in Sanskrit. Upright Gupta script. The title 'Perfection of Wisdom' embraces numerous scriptures written on the twin theme of the way the Bodhisattva (the six perfections) and the doctrine of Emptiness. Some of these texts are as long as 100,000 slokas (a unit of thirty-two syllables); others as short as a few hundred (nos 64-9). The earliest of these, and perhaps the earliest of all Mahayana sutras, is this version in 8,000 slokas produced probably in Andhara in southern India in the 1st century AD. Its philosophy may be succinctly stated thus:'The nature of all phenomena (dharmas) is non-nature and their non-nature is their nature. Their one characteristic is having a non-characteristic.' Even emptiness is not a characteristic: entities are empty because they do not exist. The non-perception of these non-entities is called the Perfection of Wisdom. The Prajnaparamita was one of the earliest texts translated into Chinese, and many manuscripts were produced in Central Asia. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="61" type="JPL">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/174(a)</idno>
+          <idno type="current">Or.8212/174(b)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="end">The Perfection of Wisdom</title>
+            <note>
+              <p>
+From a stupa at Khadalik. 8th century AD. Two fragments of a pothi manuscript of Prajnaparamita in Sanskrit. Upright Gupta script. Ink and gouache on paper. Roundel originally 5.5cm diamter. The seated Buddha is a larger version of that in the Aparimitayuhsutra [57], but corresponding to that in the Vajracchedika [66] in position. The Indian-script manuscripts with miniatures or illuminations found in Central Asia are all either in the Iranian language Khotanese or found in the Iranianised districts of south-western Xinjiang near Khotan itself. The ancient Iranians loved richly illuminated manuscripts, and explored the decorative possibilities of the large roundels found in Indian manuscripts. The roundels can serve as chapter markers, which sometimes are elaborately drawn dharmacakras. As so few surviving Central Asian manuscripts have decorations of this sort, it would seem that illumination was rarely attempted. The reason lies perhaps in a respect for the calligraphic austerity of the original Indian models. This is the only extant illustrated manuscript from the Khotan area, all the others being from Dunhuang. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="63" type="FW">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.227</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="eng">The Exposition of the Perfection of Wisdom</title>
+            <note>
+              <p>
+Scroll manuscript of 
+<title lang="san">
+Mahaprajnaparamitasastra 
+</title>
+in Chinese. Ink on paper. This work is a commentary by Nagarjuna II on the perfection of Wisdom in 25,000 slokas, translated by Kumarajiva (AD 384-417). Nagarjuna I, his teacher, founded the Madhyamaka, or 'Intermediate' school, which stressed a middle path between the extremes of believing in existence and non-existence. Nagarjuna II linked his master's philosophy directly with the Perfection of Wisdom texts. Through his translations Kumarajiva established the school in China where it was called the 'School of the Three Treatises'. Kumarajiva was not Chinese but half Brahmin, half Kuchean and studied Buddism in Kashmir and Kashgar. He set up a translation bureau of 1,000 monks in the Chinese capital, which translated Sanskrit works, many of them now known only in Chinese. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="64" type="JPL">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 1492</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="ff.1-69">
+            <title lang="eng">The Perfection of Wisdom in 100,000 Sections</title>
+            <note>
+              <p>
+Incomplete pothi manuscript of 
+<title lang="san">
+Satasahasrika Prajnaparamitasutra 
+</title>
+in Sanskrit. Late Gupta script. Ink on palm leaves. 69 folios. Among the most precious relics found at Dunhuang was a large palm-leaf manuscript of the longest recension of the Prajnaparamita, which must have originally been written in northern India before undertaking its perilous journey to Dunhuang, perhaps through Tibet as this was the period of the Tibetan occupation of Dunhuang. The manuscript must originally have contained some 1,000 folios. Dated to 8th century AD. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="66" type="JPL">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot 57/1</idno>
+          <idno type="current">IOL Khot 57/2</idno>
+          <idno type="current">IOL Khot 57/3</idno>
+          <idno type="current">IOL Khot 57/4</idno>
+          <idno type="current">IOL Khot 58/1</idno>
+          <idno type="current">IOL Khot 58/2</idno>
+          <idno type="current">IOL Khot 58/3</idno>
+          <idno type="current">IOL Khot 58/4</idno>
+          <idno type="current">IOL Khot 59/1</idno>
+          <idno type="current">IOL Khot 59/2</idno>
+          <idno type="current">IOL Khot 59/3</idno>
+          <idno type="current">IOL Khot 75/1</idno>
+          <idno type="current">IOL Khot 75/2</idno>
+          <idno type="current">IOL Khot 75/3</idno>
+          <idno type="current">IOL Khot 75/4</idno>
+          <idno type="current">IOL Khot 76/1</idno>
+          <idno type="current">IOL Khot 76/2</idno>
+          <idno type="current">IOL Khot 76/3</idno>
+          <idno type="current">IOL Khot 76/4</idno>
+          <idno type="current">IOL Khot 77/1</idno>
+          <idno type="current">IOL Khot 77/2</idno>
+          <idno type="current">IOL Khot 77/3</idno>
+          <idno type="current">IOL Khot 77/4</idno>
+          <idno type="current">IOL Khot 78/1</idno>
+          <idno type="current">IOL Khot 78/2</idno>
+          <idno type="current">IOL Khot 78/3</idno>
+          <idno type="current">IOL Khot 78/4</idno>
+          <idno type="current">IOL Khot 79/1</idno>
+          <idno type="current">IOL Khot 79/2</idno>
+          <idno type="current">IOL Khot 79/3</idno>
+          <idno type="current">IOL Khot 79/4</idno>
+          <idno type="current">IOL Khot 80/1</idno>
+          <idno type="current">IOL Khot 80/2</idno>
+          <idno type="current">IOL Khot 80/3</idno>
+          <idno type="current">IOL Khot 80/4</idno>
+          <idno type="current">IOL Khot 81/1</idno>
+          <idno type="current">IOL Khot 81/2</idno>
+          <idno type="current">IOL Khot 81/3</idno>
+          <idno type="current">IOL Khot 81/4</idno>
+          <idno type="current">IOL Khot 82/1</idno>
+          <idno type="current">IOL Khot 82/2</idno>
+          <idno type="current">IOL Khot 82/3</idno>
+          <idno type="current">IOL Khot 82/4</idno>
+          <idno type="current">IOL Khot 82/5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">The Diamond Cutter Perfection of Wisdom</title>
+            <note>
+              <p>
+Pothi manuscript of 
+<title lang="san">
+Vajracchedika Prajnaparamitasutra 
+</title>
+in Khotanese. Upright Gupta script. Ink on paper. 2 roundels 6 cm diameter approx. 
+</p>
+              <p>
+The Vajracchedika is a summary in 300 sections of the Prajnaparamita, it and the Heart Sutra being the most frequently found of these summaries. There are versions extant in Sanskrit, Khotanese, Sogdian, Tibetan and Chinese (four times translated between AD 400 and 800). This Khotanese manuscript, with the Aparmitayuhsutra (57), proved the keys to one of the two 'unknown languages' of Xinjiang (Khotanese), since both texts are fairly literal translations from known Sanskrit originals. The Vajracchedika is illustrated with two line drawings of the Buddha meditating. in roundels, at the beginning and end of the text, while on another folio the roundel is drawn without the Buddha. On the final folio the roundel against which the Buddha is drawn is a dharmacakra. In addition, there is a small coloured dharmacakra on the opening folio on the corner and on the closing folio the same with the Buddha depicted against it. These tiny circles echo that on 57. On the recto of the first folio is a date equivalent to AD 941. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="67" type="FW">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.5646</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">The Diamond-Cutter Perfection of Wisdom</title>
+            <note>
+              <p>
+Manuscript in booklet form of 
+<title lang="san">
+Vajracchedika Prajnaparamitasutra 
+</title>
+in Chinese. 4 pages of drawings. The Vajracchedika in Kumarajiva's translation was one of the most popular texts in 7th-century Dunhuang judging from the number Stein collected there; it comes second only to the Lotus Sutra. In it Sakyamuni Buddha instructs his disciple Subhuti in the Perfection of Wisdom. This booklet with its rather crude drawings of Bodhisattvas and Lokapalas (World-protectors) represents a stage in the development of the Chinese book, beyond the scroll form. The later traditional book in China consisted of thin leaves folded at the outer margin, but the booklets from Dunhuang are generally written on very thick paper sewn at the inner margin. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="68" type="FW">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.4289</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="eng">Heart of the Perfection of Wisdom Sutra</title>
+            <title lang="san">Prajnaparamitahrdayasutra</title>
+            <note>
+              <p>
+Scroll of Prajnaparamitahrdayasutra in Chinese. Ink on paper. The brief Heart Sutra can be written on a single sheet of paper, here in the diagrammatic form of a 
+<term lang="san">
+stupa 
+</term>
+or pagoda. This presentation recalls the 
+<term lang="san">
+stupa 
+</term>
+-building activities of emperor Wen (601-4) in emulation of King Asoka. The translation is by Xuanzang (c.602-64), one of the best-known translators of Buddhist works into Chinese, also famous for his epic journey to bring back scriptures. His travels lasted sixteen years, and he returned to China with 657 titles packed in 520 cases. His translations are smooth and fluent, revealing his mastery of both Sanskrit and Chinese, and they are more detailed than many others. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="69" type="JPL">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/77</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="eng">The Heart of the Perfection of Wisdom</title>
+            <note>
+              <p>
+Single sheet with text of Prajnaparamita in Tibetan. Ink on paper. The Heart Sutra is a succinct summery of the Prajnaparamita. Beautifully written Tibetan translation. The Tibetans occupied Dunhuang for about 100 years frm AD 766. 
+</p>
+            </note>
+          </msItem>
+          <msItem n="V.1">
+            <title lang="eng">Letter</title>
+            <note>
+              <p>
+A draft letter in Old Turkish by a military official, which is datable to the 9th century. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="72" type="FW">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.6983</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">The Lotus of the Good Law</title>
+            <note>
+              <p>
+Manuscript in booklet form of 
+<title lang="san">
+Saddharmasmrtyupasthanasutra 
+</title>
+in Chinese, 25th section. Ink on paper, with coloured illustrations. The Lotus Sutra outnumbers all others brought back from Dunhuang by Stein. The most popular section was the 25th which describes how a person in distress, threatened by fire, thieves or drowning, can be saved by calling on the bodhisattva Avalokitesvara, whose name is translated into Chinese as 'The one who hears the cries of the world' (Guanshiyin). This booklet illustrates the earliest stage of what was to become an immensley popular form of book production, particularly with the enormous development of printing in the early Ming (1368-1644), where each page contains both text and illustration. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="74" type="JPL">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.159</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="eng">The Teaching of Vimalakirti</title>
+            <note>
+              <p>
+Scroll of part of 
+<title lang="san">
+Vimalakirtinirdesasutra 
+</title>
+in Sogdian, written on the reverse of a Chinese sutra. Ink on paper. The teaching of Vimalakirti is another exposition of the Emptiness doctrine. It takes the form of a conversation between the layman Vimalakirti, pretending to be ill, and the Bodhisattva Manjusri, sent by the Buddha to enquire after his health. At first the sutra is a witty account of earlier conversations between Vimalakirti and the disciples and Bodhisattvas attendant on the Buddha, all of whom have been worsted in earlier discussions through Vimalakirti's exposition of 'empty' conversation - nothing can be taken for granted because nothing is capable of ultimate confirmation - and hence refuse to go to Vimalakirti's bedside. After exchanges of this sort with Manjusri, Vimalakirti finally explains the way of the Bodhisattva in terms of the Emptiness doctrine (how the Bodhisattva lives in the world but apart from it, etc.) 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="75" type="FW">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.1412</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="eng">Collected Commentaries on the Sutra of Vimalakirti's
+Teaching</title>
+            <note>
+              <p>
+Scroll of commentaries on 
+<title lang="san">
+Vimalakirtinirdesasutra 
+</title>
+in Chinese. Ink on paper. This sutra has long been popular in China, the character of Vimalakirti explaining its success, for he was a brilliant conversationalist and lived in comfort though a disciplined follower of Buddha. For the Chinese who believed it essential for family members to look after each other and care for their ancestral spirits, monasticism was the antithesis of family life and worship. This sutra, with its emphasis on the layman, suited the Chinese view. The commentaries on the sutra were written by Kumarajiva and his disciples Seng Zhao (374-414), who was converted to Buddhism by this sutra, and Dao Sheng (c.360-434), who spent much time on the beutiful holy mountain of Lu Shan, and Seng Rui. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="76" type="JPL">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.9609A</idno>
+          <idno type="current">Or.9609B</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">Sutra of Golden Light</title>
+            <note>
+              <p>
+Pothi manuscript of 
+<title lang="san">
+Suvarnaprabhasasutra 
+</title>
+in Khotanese. Upright Gupta script. The Suvarnaprabhasasutra continues the ideas on Emptiness of the Prajnaparamita and on the eternality of the Buddha from the Lotus Sutra, but introduces many Hindu gods and goddesses, all anxious to advance Buddhism. The idea of the mantra, the charm for warding off evil and magically gaining one's desires, is advanced, as is material reward for the promulgation of this particular sutra. Such ideas were to develop into the Vajrayana. The manuscript contains roundels with coloured and uncoloured dharmacakras, intermediary perhaps between uncoloured dharmacakras and roundels enclosing pictures of the Buddha. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="77" type="FW">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.1963</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="eng">Sutra of Golden Light</title>
+            <note>
+              <p>
+Scroll of 
+<title lang="san">
+Suvarnaprabhasasutra 
+</title>
+in Chinese. Ink on paper. Late 8th century AD. The protective idea of the 
+<term lang="san">
+mantra 
+</term>
+, advanced in the sutra, is given further significance in the colophon. 
+</p>
+            </note>
+            <colophon lang="eng"><locus>End of text</locus>The Buddhist disciple Lu, on behalf of her
+deceased ancestors of seven previous incarnations and her kinsfolk....
+and because she herself has fallen into the hands of foreign barbarians
+[Tibetans],has reverently caused one roll of the sutra to be copied,
+praying that the two countries [<name type="place" lang="eng">
+    China</name>and<name type="place" lang="eng">Tibet</name>] may live
+in amity, that hostilities may ceased and that all homeless people may
+speedily reach their native villages.</colophon>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="78" type="FW">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.2724</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="eng">Garland Sutra</title>
+            <title lang="san">Buddhavatansakasutra</title>
+            <note>
+              <p>
+The 
+<title lang="eng">
+Garland Sutra 
+</title>
+, one of the 
+<term lang="san">
+Mahayana 
+</term>
+idealist sutras, appears to have been composed in the 3rd century AD.There are three Chinese translations; this is the first, made by 
+<name type="person" lang="san">
+Buddhabhadra 
+</name>
+in AD 418-20. These sutras are concerned with the Bodhisattva's quest for truth and establishing a view of the world in which all principles are related. A totalistic system is envisaged with everything leading to the centre, the Buddha. The 
+<name type="school" lang="chi">
+Huayan 
+</name>
+, or 
+<name type="school" lang="eng">
+Garland school 
+</name>
+, flourished in China from the early 8th to the late 9th centuries and is supposed to have been popular with the ruthless 
+<name type="person" lang="eng">
+Empress Wu 
+</name>
+, as it provided a religious sanction for her totalitarian schemes. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="79" type="FW">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.5311</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="eng">Crossing to the island of Lanka</title>
+            <note>
+              <p>
+Crossing to the island of Lanka, c. 7th cent. AD. The sutra was translated by Gunabhadra in 443 but is particularly associated in China with one of the later schools, the Chan (Japanese Zen), traditionally founded by Bodhidharma who sat in front of a wall for nine years in the early 6th century. The Lankavatarasutra is named after its setting in Sri Lanka, and its subject is the Doctrine of Inner Enlightenment, accepting Consciousness as the only existent principle. Transcendence of mental discriminations is made possible by the presence in everyone of the embryo of the future Buddha. A Chan, or Zen, aspect is that comunication of ideas is not necessarily verbal. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="84" type="JPL">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 46</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">Incantations and other esoteric sutras</title>
+            <note>
+              <p>
+Scroll of 
+<term lang="san">
+dharani 
+</term>
+and sutras in Sanskrit and Khotanese. Upright Gupta script. Ink on paper, headpiece of gouache on cloth. The six texts in this scroll form a ritual collection of esoteric sutras. At the beginning is a rectangle of cloth painted with two geese standing on lotuses holding stems of lotus buds in their mouths. The effect resembles the later Islamic 'unvan, or headpiece opening a text, and like the latter doubteless derives from later classical andByxantine headpieces. There are four colophons, giving a date equivalent to AD 943. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="86" type="JPL">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.12551A</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">Incantation</title>
+            <note>
+              <p>
+Block-printed sheet in 4 sections, each containing an identical Uighur 
+<term lang="san">
+dharani 
+</term>
+with glosses in Sanskrit in Gupta script. Ink on paper. Each leaf 26 x 11 cm. Block-printing allowed the rapid dissemination of a charm among an enormous number of people. This charm in Uighur contains an interlinear Sanskrit translation, to be read at 90' to the Uyghur. Dated 10th-11th century. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="95" type="JPL">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/1594</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="eng">Buddhist text on silk</title>
+            <note>
+              <p>
+Folio from a pothi manuscript in Sanskrit. Indian Gupta script. Ink on a chalk ground on silk. In Central Asia Indian tradition was adapted to suit new languages and manuscript materials. Paper, used in China since the 1st century AD, was widespread in Central Asia probably by the 3rd century. Silk also was an ancient Chinese writing material. This single folio is the only known example of a Sanskrit silk manuscript cut to Pothi shape. It was covered with a chalk ground and the script was written with a pen. This does not suit the material (which the Chinese wrote on with a soft brush) as much of the chalk has lifted off taking the writing with it. The scribe, writing writing in Indian Gupta script, was perhaps unfamiliar with the usual method. The folio was found below a niche, once apparently containing a statue, surrounding the base of a brick stupa inside the fort at Bash-Koyumal. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="96" type="FW">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.2872</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="eng">List of sutras translated into Chinese by AD 254</title>
+            <note>
+              <p>
+Manuscript in Chinese. Ink on paper. Thirty-six works, mostly shorter Mahayana texts, were supposed to have been translated by Zhi Qian between AD 220 and 252. These included a version of the Dharmapada and one of the Vimalakirtinirdesasutra, both of which survive. Though his family had lived in China for some generations, Zhi Qian was of Central Asian origin. He worked closely with an Indian master Vighna, particularly on their new version of the Dharmapada, in which the preface, usually attributed to Zhi Qian, raises the question of how Buddhist texts should be translated. The alternatives were faithful, literal and perhaps inelegant, the style advocated by Vighna, or a more polished version attractive to the literate Chinese public, which was Zhi Qian's method and the one favoured in the better-known translations of Xuanzang. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="97" type="FW">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.276</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.3">
+            <title lang="eng">Eulogy of Fo Tu Deng</title>
+            <note>
+              <p>
+Manuscript in Chinese. Ink on paper roll, with part of a calendar on the reverse. This fragmentary text, entitled 'In praise of the lohan and monk Fo Tu Deng', records episodes in the life of the monk who was, like so many early Buddhist translators and teachers in China, of Central Asian origin. He arrived in north China early in the 4th century to set up a religious centre, but warfare prevented him from doing so. His magical achievements included producing a lotus from a bowl of water and drawing water from dry wells with a toothpick, but more in keeping with the Doctrine he tried to persuade rulers to eschew violence in war and government. His success as a missionary was such that 893 monasteries and temples were said to have been built at his instigation, two entire tribes of 'barbarians' were converted, and 10,000 disciples instructed by him. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="98" type="FW">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.381</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.2">
+            <title lang="san">To add</title>
+            <note>
+              <p>
+Kumarajiva and Xuanzang are the most famous early translators and teachers in Chinese Buddhism. Kumarajiva (AD 344-c.413) as born in Kucha of a Brahmin father and a Kuchean princess. His fame was such that rulers in different parts of China competed to possess him at court and he was held a virtual prisoner by a general in Kucha for seventeen years. He was a stylish and innovative translator who tried to produce an elegant version faithful to the text. He believed that no translation could capture the flavour of the original and is supposed to have said that reading the sutras in translation was like eating rice that someone else had already chewed. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="100" type="JPL">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 24</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="eng">Syllabary of Khotanese Gupta script</title>
+            <note>
+              <p>
+Scroll of alphabet and syllabaries of cursive Gupta on reverse of Chinese scroll. Ink on paper. The 'cursive' Gupta of Central Asia was a hand developed in the Khotan region from the upright form for secular use. In the walled-up library at Dunhuang several rolls like this were found with syllabaries of the cursive script. Though far from Khotan, the phonology of the syllabaries indicates that they were written by Khotanese scribes. Such syllabaries are described in Xuan Zang and other sources as xi tan xhang, ie. siddham sections. The work begins with the Sanskrit alphabet, and the syllabary proper consists of each consonant in combination with the twelve vowels, followed by a variable number of sections of ligatures (consonant clusters), each with the twelve vowels. Each section (xhang) in this scroll begins with the word siddham (perfect, or auspicious) which is the name by which the indian Gupta script became known on China and Japan. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="101" type="JPL">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/175</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="eng">Incantation to the Blue-throated Avalokitesvara</title>
+            <note>
+              <p>
+Scroll of 
+<title lang="san">
+Nilakanthadharani 
+</title>
+in Sanskrit. Alternate lines of late Gupta (Siddham) and Soghdian scripts. Ink on paper. A dharani in honour of Avalokitesvara as Nilakantha, blue-throated, a sobriquet borrowed from the Hindu god Siva. The Gupta script has been influenced by later developments (post-Gupta) in India itself; the Soghdian is not a translation but a transliteration of the Sanskrit sounds into the Soghdian alphabet, which is derived from Estrangela Syriac, brought to Central Asia by the Nestorian Christians. Since Soghdian is written in vertical columns, the scribe, who wrote both scripts but allowed his native Soghdian to influence his spelling of Sanskrit, had to turn the scroll through a quater circle at the beginning of each Soghdian line. Soghdian colonies existed in Xinjiang during the Tang dynasty, and the paper used in the Soghdian manuscripts resembles that of the Chinese manuscripts found at Dunhuang of the Tang period. Some Soghdian translations also seem to be taken from the Chinese. The evidence therefore suggests that the Dunhuang Soghdian manuscripts were local products rather than far away Soghdiana (western Turkistan between Oxus and Jaxartes). 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="102" type="JPL">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/195</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">The Heart of the Perfection of Wisdom</title>
+            <note>
+              <p>
+Folding book containing 
+<title lang="san">
+Prajnaparamitahrdayasutra 
+</title>
+in Sanskrit. Alternate columns of late Gupta (Siddham) and Chinese scripts. 18 folds, each of 5 columns. Unlike Or.8212/175, where the Soghdian transliteration is forced to accomodate the Sanskrit version, this folding book accomodates both Chinese and Sanskrit scripts perfectly. The Siddham script is written in vertical columns with a brush, lending the script some of the idiosyncrasy of Chinese calligraphy, while the Chinese characters representing the Sanskrit sounds occupy the adjacent column. The script continued to be used in China and Japan for Sanskrit, both in manuscript and block-printed forms. One of its most famous masters was the Japanese monk Jiun Sonja. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="103" type="FW">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.3961</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="eng">Sutra of the Ten Kings of Hell</title>
+            <note>
+              <p>
+The apocryphal sutra of the Ten Kings of Hell appears to have been composed during the 10th century but probably reflects earlier ideas. It describes the ten stages through which the soul must pass after death. Of the Ten Kings who preside over the stages four are Buddhist (including Yama and the Wheelturner of the Five Gati), one is borrowed from traditional Chinese belief, and the rest are unidentifiable. The paintings in the manuscript depict the tortures of sinners. The kings and attendants are dressed as officials with black ear-flapped hats; the imagery is a mixture of traditional Chinese and Buddhist iconography. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="113" type="JPL">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/168</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">Salistamba's sutra</title>
+            <note>
+              <p>
+Fragments of a pothi manuscript of Salistambasutra in Tibetan. This sutra is a Mahayana restatement of Dependent Origination (Pratityasamutpada), on the analogy of the rice plant from the seed to the grain. The fragments of 15 folios of the Salistambasutra were found before images round the Buddhist temple at Endere, deposited to propiate the divinities. They must date from the Tibetan occupation of this part of Xinjiang and before the temple was abandoned in the mid-8th century. The manuscript was almost certainly written not in Xinjiang but in Tibet, as it uses daphne fibres. Daphne species grow in the high Himalaya and the Tibetan plateau and were early used by Nepalese and Tibetans for paper manufacture. These and other Tibetan fragments found at Endere represent the earliest known Tibetan manuscripts, scarcely a century after the introduction of the script. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="272" type="JPL">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.1355</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">Tablet (takhti) with drafts of letters</title>
+            <note>
+              <p>
+Ink on wood in Pakrit. 5 lines of Kharosthi script. This interesting document contains a letter from two Buddhist monks, Bamgusena and Pacgoyae, addressed to the cojhbos Namtasena and Cataroyae, saying that they have heard with great sorrow of the death of Anasena, but 'that is something beyond even the powers of a Buddha, or a Pratyekabuddha, or an Arhat or a Universal Monarch. All come to the same end. Care must be exercised how we go, virtuous acts performed and purity maintained'. 
+</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

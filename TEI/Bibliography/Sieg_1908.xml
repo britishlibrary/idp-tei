@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Sieg_1908">
+    <author>Sieg, Emil</author>
+    <title level="a" lang="ger">Neue Bruchstücke der Sanskrit -Grammatik aus Sängim Aġïz, Chinesisch-Turkistan</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">SBAW</title>
+      <biblScope type="issue">VIII</biblScope>
+      <date>1908</date>
+      <biblScope type="pp">182-206</biblScope>
+    </imprint>
+    <note>1Tafel (Kat.-Nr. 489, 534, 644)</note>
+    <keywords>manuscripts</keywords>
+    <keywords>buddhism</keywords>
+    <keywords>sanskrit</keywords>
+    <keywords>grammar</keywords>
+    <keywords>SHT</keywords>
+    <keywords>turfan</keywords>
+    <genBibl>SBAW</genBibl>
+  </bibl>
+</listBibl>

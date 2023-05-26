@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="galambos_2004a">
+    <author>Galambos, Imre</author>
+    <title level="a" lang="eng">The myth of the Qin unification of writing in Han sources</title>
+    <imprint>
+      <title level="j" lang="eng">Acta Orientalia Academiae Scientarium Hungaricae</title>
+      <biblScope type="issue">57</biblScope>
+      <biblScope type="pp">181-203</biblScope>
+      <date>2004</date>
+    </imprint>
+    <keywords>Chinese writing</keywords>
+    <keywords>Han</keywords>
+    <keywords>Qin</keywords>
+    <keywords>unification of writing</keywords>
+    <genBibl>galambos</genBibl>
+  </bibl>
+</listBibl>

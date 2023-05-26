@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Hartmann_1989">
+    <author>Hartmann, Jens-Uwe</author>
+    <title level="a" lang="ger">Fragmente aus dem Dīrghāgama der Sarvāstivādins</title>
+    <imprint>
+      <title level="s" lang="ger">Sanskrit-Texte aus dem buddhistischen Kanon: Neuentdeckungen und Neueditionen</title>
+      <biblScope type="issue">I</biblScope>
+      <title level="s" lang="ger">Sanskrit-Wörterbuch der buddhistischen Texte aus den Turfan-Funden : Beiheft</title>
+      <biblScope type="issue">2</biblScope>
+      <biblScope type="pp">37-67</biblScope>
+      <pubPlace>Göttingen</pubPlace>
+      <date>1989</date>
+    </imprint>
+    <keywords>manuscript</keywords>
+    <keywords>sanskrit</keywords>
+    <keywords>turfan</keywords>
+    <keywords>SHT</keywords>
+    <keywords>buddhism</keywords>
+  </bibl>
+</listBibl>

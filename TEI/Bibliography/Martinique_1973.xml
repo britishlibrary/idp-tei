@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Martinique_1973">
+    <author>Edward Martinique</author>
+    <title level="a" lang="eng">The Binding and Preservation of Chinese Double-leaved Books</title>
+    <imprint>
+      <title level="j" lang="eng">Library Quarterly</title>
+      <biblScope type="issue">43</biblScope>
+      <biblScope type="pp">227-236</biblScope>
+      <date>1973</date>
+    </imprint>
+    <keywords>Bookbinding</keywords>
+    <keywords>Preservation</keywords>
+    <genBibl>Conservation</genBibl>
+  </bibl>
+</listBibl>

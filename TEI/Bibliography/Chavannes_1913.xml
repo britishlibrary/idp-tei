@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Chavannes_1913">
+    <author>Chavannes, E.</author>
+    <title level="a" lang="fre">L'instruction d'un futur empereur de Chine
+            en l'an 1193</title>
+    <imprint>
+      <title level="m">Mémoires concernant l'Asie Orientale</title>
+      <biblScope type="vol">1</biblScope>
+      <biblScope type="pp">16-64</biblScope>
+      <date>1913</date>
+    </imprint>
+    <note/>
+    <keywords/>
+    <genBibl>astronomy</genBibl>
+  </bibl>
+</listBibl>

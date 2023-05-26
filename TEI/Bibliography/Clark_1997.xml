@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Clark_1997">
+    <author>Clark, Larry</author>
+    <title level="a" lang="engl">The Turkic Manichaean Literature</title>
+    <imprint>
+      <title level="j" lang="engl" type="shortRef">Emerging from Darkness. Studies in the Recovery of Manichaean Sources, ed. by P. Mirecki and J. BeDuhn.</title>
+      <date>Leiden New York Köln(Brill) 1997</date>
+      <biblScope type="pp">89-141</biblScope>
+    </imprint>
+    <keywords>Turkic</keywords>
+    <keywords>Manichaean</keywords>
+    <keywords>Literature</keywords>
+  </bibl>
+</listBibl>

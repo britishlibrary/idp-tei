@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Gao_1992">
+    <author>Gao Hanyu</author>
+    <translator>Whitfield, Susan</translator>
+    <translator>Scott, Rosemary</translator>
+    <title level="m" lang="eng">Chinese Textile Designs</title>
+    <title level="m" lang="chi-Latn">Zhongguo lidai zhi ran xiu tulu</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>Viking</publisher>
+      <date>1992</date>
+    </imprint>
+    <genBibl>whitfield_susan</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An edition of the Sanskrit fragment IOL 913</title>
+        <author>Suzuki, Kenta</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>IDP</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2007</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Kenta SUZUKI, “A Sanskrit Fragment of the Prajñāpāramitāstotra in the Stein Collection,” in: Buddhist Manuscripts from Central Asia: The British Library Sanskrit Fragments, Volume I, ed. by Seishi KARASHIMA and Klaus WILLE, Tokyo: The International Research Institute for Advanced Buddhology at Soka University, 2006, pp. 261-262.</p>
+        <bibl>
+          <ref>Suzuki_2006</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Input and marked up by IRIAB.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This catalogue contains transliterations of Sanskrit manuscripts in the Stein Collection at the British Library.</p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 913</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V">
+            <title lang="skt">[Prajñāpāramitāstotra]</title>
+            <note>Prajñāpāramitāstotra 62.4ff. [ed. by Michael Hahn, in: Inddology and Indo-Tibetology: Thirty Years of Indian and Indo-Tibetan Studies in Bonn, ed. by Helmut Eimer, Bonn 1988 (indica et Tibetica 13), pp. 62-73.]</note>
+            <q type="transliteration" lang="skt"><lb n="a"/>/// + .[dh]. .[m]. + + + + + + + + + + + + + + ///<lb n="b"/>/// .[y].ti • ta[th]. + + + + + + + + + + + + + ///<lb n="c"/>/// [tm]y.[ṃm] atul(a)ṃ + + + + + + + + + + + + + ///<lb n="d"/>/// janayitrī ca [m]. + + + + + + + + + + + ///<lb n="e"/>/// [le]khā (’)va tārābh[i] .. + + + + + + + + + + ///<lb n="f"/>/// + tvāṃ prāpya pralaṃ[y]. + + + + + + + + + + ///<lb n="g"/>/// [ṣ]va[ṅ]gas tvaṃnāthasya na vidyat[e] • t.sy. .. k(a) + + + ///<lb n="h"/>/// [na] paśyanti prapadyante ca sādhavaḥ prapadya ca .. + ///<lb n="i"/>/// [si] gambhīrāsi yaśasvinī • sudurbodhā[s]i + ///<lb n="j"/>/// + .e (’)[p]i jinā naravarā astaṃgatā apra + + ///<lb n="k"/>/// + + + .. .[ā] + .. .. + + .. .[i]layānā .. ///</q>
+          </msItem>
+          <msItem n="R">
+            <title lang="skt"/>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>[blank]</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

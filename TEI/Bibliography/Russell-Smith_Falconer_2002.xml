@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Russell-Smith_Falconer_2002">
+  <author n="1">Russell-Smith, Lilla</author>
+  <author n="2">Falconer, John</author>
+  <title level="a" lang="eng">Catalogue of Photographs Taken or Collected by Sir Aurel Stein</title>
+  <imprint>
+    <title level="m" lang="eng" type="shortRef">Apor_Wang_2002</title>
+    <biblScope type="pp">159-350</biblScope>
+  </imprint>
+  <note/>
+</bibl>

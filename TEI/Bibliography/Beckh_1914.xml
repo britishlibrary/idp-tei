@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Beckh_1914">
+    <author>Beckh, Hermann</author>
+    <title level="m" lang="ger">Verzeichnis der Tibetischen Handschriften der Koniglichen Bibliothek zu Berlin</title>
+    <imprint>
+      <title level="s">Die Handschriften-Verzeichnisse der Koniglichen Bibliothek zu Berlin</title>
+      <biblScope>Vol. 24</biblScope>
+      <pubPlace>Berlin</pubPlace>
+      <publisher>Behrend Co.</publisher>
+      <date>1914</date>
+    </imprint>
+  </bibl>
+</listBibl>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transliteration of IOL San 650 in the India Office Library, London</title>
+        <author>Karashima, Seishi</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>IDP</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2007</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Seishi KARASHIMA, “A Sanskrit Fragment of the Saddharmapuṇḍarīkasūtra in the Stein Collection,” in: Buddhist Manuscripts from Central Asia: The British Library Sanskrit Fragments, Volume I, ed. by Seishi KARASHIMA and Klaus WILLE, Tokyo: The International Research Institute for Advanced Buddhology at Soka University, 2006, pp. 173-175.</p>
+        <bibl>
+          <ref>Karashima_2006a</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Input and marked up by IRIAB.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This catalogue contains transliterations of Sanskrit fragments in the Stein Collection at the British Library.</p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 650</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Parallel to: KN. 324.11-325.10</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + .. + .[y]. + + + + + + +
+
+
+<lb n="2"/>+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + .. k(a)lpasahasrakoṭyaḥ [n]a ca cyavā(m)[ī] + + + + +
+
+
+<lb n="3"/>+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + (p)i [ce](da)[ṃ] [mama] b(uddhakṣe)traṃ  [pa]ripūrṇa bh(o)t(ī) [m](a)[r]u(mān)u-
+
+
+<lb n="4"/>+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + (r)[v](a)tair  drū[m](ais ta)[th](ā) (pu)ṣpaphalô[pa]petaiḥ 12 upariṃ
+
+
+<lb n="5"/>+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + (pras)[th](itā vi)[d]u [1]3 evaṃ ca [m]e [kṣ]e(tram) i(da)[ṃ s]adā sthi-
+
+
+<lb n="6"/>+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + (n)āmâpi (ś)ṛṇonti jātu ta(thā)[ga]tānāṃ bahu[k](a)-
+
+
+<lb n="7"/>+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + .. .ā ś ca  utpan(na bhont)ī(ha man)u[ṣ]yalo[k]e [•] ut[p]an[n](a) .. +
+
+
+
+
+
+
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Parallel to: KN. 325.10-326.13</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + .. ś(a)kāmanan(tā)[m](* t)[e](nā ahaṃ dṛ)ṣ[ṭ]u cirasya bh[om](i) .. +
+
+
+<lb n="2"/>+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + .. [m]e dīrgha[m a]na(n)[ta]kalpā  (sa)mupārjit(aṃ) pū-
+
+
+<lb n="3"/>+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + (m)[y a](ham e)ta vāca(ṃ  m)ṛ[ṣ]ā hi m[e] naiva kadāci vāg bha-
+
+
+<lb n="4"/>+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + .. [t]aṃ tu śrū(y)[ā](t taṃ) vīdya vijño na mṛṣeṇa codayet* [20]
+
+
+<lb n="5"/>+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + [l](ān an)[i]rvṛto (n)[i]rvṛti darśayāmi 21 kiṃ [k]ā[ra](ṇa)ṃ (ma-)
+
+
+<lb n="6"/>+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + .. nti durgatim* 22 c(ar)y[āṃ] cari jñ[ā] ... + + + +
+
+
+<lb n="7"/>7 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + .. .. + + .. .ī .e .. 
+
+
+
+
+
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

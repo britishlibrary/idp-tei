@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Sims-Williams_1993">
+  <author>Sims-Williams, Nicolas</author>
+  <title level="a" lang="eng">The Sogdian Inscriptions of Ladakh</title>
+  <imprint>
+    <title level="m" lang="eng" type="shortRef">Jettmar_1989</title>
+    <biblScope type="pp">151-163</biblScope>
+  </imprint>
+  <note/>
+  <keywords>Sogdian</keywords>
+  <keywords>Ladakh</keywords>
+</bibl>

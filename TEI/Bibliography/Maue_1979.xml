@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Maue_1979">
+    <author>Maue,Dieter and Klause, Rohrborn</author>
+    <title level="a" lang="ger">Ein Caityastotra aus dem alturkischen Goldglanz-sutra</title>
+    <imprint>
+      <title level="j">Zeitschrift der Deutschen Morgenlandischen Gesellschaft</title>
+      <biblScope type="issue">129</biblScope>
+      <biblScope type="pp">282-320</biblScope>
+      <date>1979</date>
+    </imprint>
+    <keywords>Buddhist</keywords>
+    <keywords>Sutra</keywords>
+    <keywords>Golden light</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listbibl>
+  <bibl id="Soymie_1991">
+    <editor>Soymie, Michel</editor>
+    <title level="m" lang="fre">Catalogue des Manuscits Chinois de Touen-Houang</title>
+    <imprint>
+      <biblScope type="vol">IV</biblScope>
+      <pubPlace>Paris</pubPlace>
+      <date>1991</date>
+    </imprint>
+    <keywords>catalogue</keywords>
+    <genBibl>collections_fr</genBibl>
+  </bibl>
+</listbibl>

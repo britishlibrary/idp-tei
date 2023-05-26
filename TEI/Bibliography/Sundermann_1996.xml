@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Sundermann_1996b">
+    <author>Sundermann, Werner</author>
+    <title level="a" lang="engl">Three Fragments of Sogdian Letters and Documents</title>
+    <title level="j" lang="ger" type="shortRef">La Persia e l'Asia Centrale da Alessandro al X secolo.</title>
+    <imprint>
+      <pubPlace>Roma</pubPlace>
+      <publisher>Accademia Nazionale dei Lincei</publisher>
+      <date>1996</date>
+    </imprint>
+    <keywords>fragments</keywords>
+    <keywords>Sogdian</keywords>
+    <keywords>letters</keywords>
+    <keywords>documents</keywords>
+  </bibl>
+</listBibl>

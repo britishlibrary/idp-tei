@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<bibl id="Singer_1996">
+  <author>Singer, Jane Casey</author>
+  <title level="a" lang="eng">"Tibetan Painting"</title>
+  <imprint>
+    <title level="m" lang="eng" type="shortRef">Turner_1996</title>
+    <biblScope type="pp">827-835</biblScope>
+  </imprint>
+  <keywords>Tibet</keywords>
+  <keywords>History</keywords>
+  <genBibl>tibet</genBibl>
+</bibl>

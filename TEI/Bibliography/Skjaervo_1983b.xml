@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="`Skjaervo_1983">
+    <author>Skjaervo, P.O</author>
+    <title level="m" lang="eng">Suvarnabhasottamasutra</title>
+    <imprint>
+      <pubPlace>Mainz</pubPlace>
+      <publisher/>
+      <date>1983</date>
+    </imprint>
+    <keywords>Khotan</keywords>
+    <keywords>Sutra</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

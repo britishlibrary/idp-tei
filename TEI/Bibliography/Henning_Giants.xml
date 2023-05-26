@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Henning_Giants">
+    <author>Henning, Walter B.</author>
+    <title level="a" lang="engl">The Book of the Giants</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">Bulletin of the School of Oriental and African Studies</title>
+      <biblScope type="issue">BSOAS (1943)</biblScope>
+      <biblScope type="pp">52-74</biblScope>
+    </imprint>
+    <keywords>Book</keywords>
+    <keywords>Giants</keywords>
+    <keywords>BSOAS</keywords>
+  </bibl>
+</listBibl>

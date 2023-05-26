@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<listbibl>
+  <bibl id="Sundermann_1985">
+    <author>Sundermann, Werner</author>
+    <author>SGeissler, Friedmar</author>
+    <title level="m" lang="ger">Ein manichaeisch-soghdisches Parabelbuch</title>
+    <imprint>
+      <title level="m" lang="ger">Schriften zur Geschichte und Kultur des Alten Orient</title>
+      <bibliScope type="vol">3</bibliScope>
+      <title level="m" lang="ger">Berliner Turfantexte</title>
+      <bibliScope type="vol">XV</bibliScope>
+      <pubPlace>Berlin</pubPlace>
+      <publisher>Akademie-Verlag</publisher>
+      <date>1985</date>
+    </imprint>
+    <keywords>manichaean</keywords>
+    <keywords>sogdian</keywords>
+  </bibl>
+</listbibl>

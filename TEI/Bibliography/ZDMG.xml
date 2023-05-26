@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="ZDMG">
+    <title level="j" lang="ger">Zeitschrift der Deutschen Morgenländischen Gesellschaft</title>
+    <imprint>
+      <pubPlace>Wiesbaden</pubPlace>
+      <publisher>Deutsche Morgenländische Gesellschaft</publisher>
+      <date>1847-</date>
+    </imprint>
+    <genBibl>journals</genBibl>
+  </bibl>
+</listBibl>

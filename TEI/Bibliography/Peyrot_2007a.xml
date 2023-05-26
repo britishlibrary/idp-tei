@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Peyrot_2007a">
+    <author>Peyrot, Michaël</author>
+    <title level="a" lang="eng">A concordance of Hoernle and IOL Toch Press Marks</title>
+    <imprint>
+      <title level="m">Malzahn_2007</title>
+      <biblScope type="pp">113-127</biblScope>
+      <date>2007</date>
+    </imprint>
+  </bibl>
+</listBibl>

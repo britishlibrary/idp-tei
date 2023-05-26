@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Iwao_vanSchaik_2008">
+  <author>Iwao, Kazushi</author>
+  <author>van Schaik, Sam</author>
+  <title level="a" lang="eng">Fragments of the Testament of Ba from Dunhuang</title>
+  <imprint>
+    <title level="j" lang="eng" type="shortRef">JAOS</title>
+    <biblScope type="issue">128.3</biblScope>
+    <biblScope type="pp">477–487</biblScope>
+  </imprint>
+  <note>Actual publication year: 2009</note>
+  <keywords>Tibet</keywords>
+  <keywords>History</keywords>
+  <genBibl>tibet</genBibl>
+  <genBibl>tantric</genBibl>
+  <genBibl>vanSchaik</genBibl>
+</bibl>

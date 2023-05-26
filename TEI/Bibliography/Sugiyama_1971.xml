@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Sugiyama_1971">
+    <author>Sugiyama, Jiro</author>
+    <title level="m" lang="eng">Illustrated Catalogue of Tokyo Museum: Central Asian Objects brought back by the Otani Mission</title>
+    <imprint>
+      <pubPlace>Tokyo</pubPlace>
+      <publisher>Tokyo National Museum</publisher>
+      <date>1971</date>
+    </imprint>
+    <genBibl>collections_ja</genBibl>
+  </bibl>
+</listBibl>

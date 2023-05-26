@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="NingKe_1997">
+    <author lang="chi" n="1">&#x5B81;&#x53EF;</author>
+    <author lang="chi" n="2">&#x90DD;&#x6625;&#x6587;</author>
+    <title level="m" lang="chi">&#x6566;&#x714C;&#x793E;&#x9091;&#x6587;&#x4E66;&#x8F91;&#x6821;</title>
+    <imprint>
+      <pubPlace>&#x5357;&#x4EAC;</pubPlace>
+      <publisher>&#x6C5F;&#x82CF;&#x53E4;&#x7C4D;&#x51FA;&#x7248;&#x793E;</publisher>
+      <date>1997</date>
+    </imprint>
+  </bibl>
+</listBibl>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Schwartz_1991">
+    <author>Schwartz, Martin</author>
+    <title level="a" lang="ger">A page of a Sogdian Liber Vitae</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">Corolla Iranica. Papers in honour of Prof. Dr. David Neil MacKenzie
+			(ed. R.E. Emmerick and D. Weber)</title>
+      <date>Frankfurt 1991</date>
+      <biblScope type="pp">157-166</biblScope>
+    </imprint>
+    <keywords>manuscripts</keywords>
+    <keywords>Sogdian</keywords>
+    <keywords>Christian</keywords>
+    <keywords>n</keywords>
+  </bibl>
+</listBibl>

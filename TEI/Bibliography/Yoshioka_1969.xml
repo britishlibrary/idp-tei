@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Yoshioka_1969">
+    <author lang="jap">&#x5409;&#x5188;&#x4E49;&#x4E30;</author>
+    <title level="m" lang="jap">&#x30B9;&#x30BF;&#x30A3;&#x30F3;&#x5C06;&#x6765;&#x5927;&#x82F1;&#x535A;&#x7269;&#x9986;&#x85CF;&#x6566;&#x714C;&#x6587;&#x732E;&#x5206;&#x7C7B;&#x76EE;&#x5F55;</title>
+    <imprint>
+      <pubPlace>&#x6771;&#x4EAC;</pubPlace>
+      <publisher>&#x6771;&#x6D0B;&#x6587;&#x5EAB;</publisher>
+      <date>1969</date>
+    </imprint>
+  </bibl>
+</listBibl>

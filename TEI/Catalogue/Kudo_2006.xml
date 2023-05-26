@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transliteration of IOL San 396 in the India Office Library, London</title>
+        <author>KUDO, Noriyuki</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>IDP</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2007</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Noriyuki KUDO, “A Sanskrit Fragment of the Caityacatuṣka- and Tripusabhallikasūtra,” in: Buddhist Manuscripts from Central Asia: The British Library Sanskrit Fragments, Volume I, ed. by Seishi KARASHIMA and Klaus WILLE, Tokyo: The International Research Institute for Advanced Buddhology at Soka University, 2006, pp. 263-264.</p>
+        <bibl>
+          <ref>Kudo_2006</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Input and marked up by IRIAB.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This catalogue contains transliteration of Sanskrit manuscripts in the Stein Collection at the British Library.</p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 396</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Caityacatuṣkasūtra</title>
+            <note>First published in Louis de la Vallée Pouśin, “Nouveaux fragments de la collection Stein,” in: Journal of the Royal Asiatic Society 1913, pp. 843-855, esp. p. 847: “3. Folio 2 (Stein) numéroté au verso 25.” See also Aurel Stein, Serindia, vol. III, Appendix F: Inventory List of Manuscripts in Sanskrit, Khotanese, and Kuchean, prepared by A. F. Rudolf Hoernle, “IV Manuscripts in Sanskrit, Khotanese and Kuchean from Walled-up Chapel of Ch‘ien-fo-tung, Tun-huang,” pp. 1448-1455, esp. p. 1450 (registered as “Ch. 00262.a-c”).</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>.. .[y]. .. .. .. .. .. .. .. .. .. .. + .. .. .. + + + + +<lb n="2"/>mall[e]ṣu ca ◯ sa bhagavāṃ .. .. [gav]. .. .. .[ṛ] .. .. .. .. .. .. ..<lb n="3"/>tya : bhaga ◯ vān āptamanasas te bhikṣavo bhagavat[o] bhāṣi[t]. ..<lb n="4"/>bhyanandam* || caityacatuṣkasūtraṃ || evaṃ mayā śrutam ekasmiṃ samaye</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Tripusabhallikasūtra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>bhagavāṃ urubilvāyāṃ viharati nadyā nairaṃjanāyāṃs tīre bodhimūle a<lb n="2"/>cirābhisaṃ ◯ buddha vimuktiprītisukhapratisaṃvedī buddho bhagavāṃ<lb n="3"/>saptāham e ◯ kaparyaṃkenā[tin]āma[yati] sa na kena[c]i p[i]ṇḍake[na]<lb n="4"/>prati[pā]di[t]a˙ [tena khalu] .. .. [y]. .. .. .. .. .. [lli] .. .. .. .. + +</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

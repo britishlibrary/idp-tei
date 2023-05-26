@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Yang_Zhanhe_2005">
+  <author lang="chi-Latn">Yang Zhanhe</author>
+  <author lang="chi-Hant">&#x694A;&#x4F54;&#x6CB3;</author>
+  <title level="m" lang="chi-Latn">Xixia shihua</title>
+  <title level="m" lang="chi-Hant">&#x897F;&#x590F;&#x53F2;&#x756B;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Lanzhou</pubPlace>
+    <publisher>Gansu renmin meishu chubanshe</publisher>
+    <date>2005</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>History</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

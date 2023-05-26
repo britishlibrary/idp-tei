@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Schiefner_1882">
+    <author>Schiefner, Anton</author>
+    <author>Ralston, William Raldston Sheddon</author>
+    <title level="m">Tibetan Tales, derived from Indian sources</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>Tr&#xFC;bner and Co.</publisher>
+      <date>1882</date>
+    </imprint>
+    <note>Translated from the Tibetan of the Kah-gyur, by F. Anton von Schiefner. Done into English from the German, with an introduction, by W.R.S. Ralston, M.A.</note>
+    <keywords>Tibet</keywords>
+  </bibl>
+</listBibl>

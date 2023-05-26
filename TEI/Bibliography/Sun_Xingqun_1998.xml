@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Sun_Xingqun_1998">
+  <author lang="chi-Latn">Sun Xingqun</author>
+  <author lang="chi-Hant">&#x5B6B;&#x661F;&#x7FA4;</author>
+  <title level="m" lang="chi-Latn">Xixia liao jin yinyue shigao</title>
+  <title level="m" lang="chi-Hant">&#x897F;&#x590F;&#x907C;&#x91D1;&#x97F3;&#x6A02;&#x53F2;&#x7A3F;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Beijing</pubPlace>
+    <publisher>Zhongguo qingnian chubanshe</publisher>
+    <date>1998</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>Music</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

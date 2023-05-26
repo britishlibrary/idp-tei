@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<bibl id="Whitfield_1992">
+  <translator>Whitfield, Susan</translator>
+  <translator>Scott, Rosemary</translator>
+  <title level="m" lang="eng">Chinese Textile Designs</title>
+  <imprint>
+    <pubPlace>London</pubPlace>
+    <publisher>Viking</publisher>
+    <date>1992</date>
+  </imprint>
+  <genBibl>whitfield_susan</genBibl>
+</bibl>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<bibl id="Wu_Li_1999">
+  <author n="1" lang="chi-Latn">Wu Wenjun</author>
+  <author n="1" lang="chi-Hant">&#x5433;&#x6587;&#x4FCA;</author>
+  <author n="2" lang="chi-Latn">Li Di</author>
+  <author n="2" lang="chi-Hant">&#x674E;&#x8FEA;</author>
+  <title level="m" lang="chi-Latn">Zhongguo shuxue shi daxi.diliujuan:xixia jin yuan ming</title>
+  <title level="m" lang="chi-Hant">&#x4E2D;&#x570B;&#x6578;&#x5B78;&#x53F2;&#x5927;&#x7CFB;&#x2022;&#x7B2C;&#x516D;&#x5377;&#xFF1A;&#x897F;&#x590F;&#x91D1;&#x5143;&#x660E;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Beijing</pubPlace>
+    <publisher>Beijing shifan daxue chubanshe</publisher>
+    <date>1999</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>Mathematics</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

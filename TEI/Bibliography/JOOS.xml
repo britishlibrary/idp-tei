@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<bibl id="JOOS">
+  <title level="j" lang="eng">Journal of Oriental Studies</title>
+  <imprint>
+    <pubPlace>Hong Kong</pubPlace>
+    <publisher>Hong Kong University Press</publisher>
+  </imprint>
+  <genBibl>journals</genBibl>
+</bibl>

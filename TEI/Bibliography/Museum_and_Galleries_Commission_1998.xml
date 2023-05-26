@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Museums and Galleries Commission_1998">
+    <author>Museums and Galleries Commission</author>
+    <title level="m" lang="eng">Ours for keeps? : a Resource Pack for Raising Awareness of Conservation and Collection Care</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>Museum and Galleries Commission</publisher>
+      <date>1998</date>
+      <idno type="ISBN">0948630558 9780948630552</idno>
+    </imprint>
+    <keywords>Conservation</keywords>
+    <keywords>Collection Care</keywords>
+    <genBibl>conservation</genBibl>
+  </bibl>
+</listBibl>

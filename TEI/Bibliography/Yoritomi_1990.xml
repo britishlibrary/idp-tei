@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Yoritomi_1990">
+  <author>Yoritomi, M</author>
+  <title level="a" lang="eng">An iconographic Study of the Eight Bodhisattvas in Tibet</title>
+  <imprint>
+    <title level="m" lang="eng" type="shortRef">Skorupski_1990</title>
+    <biblScope type="pp">323-332</biblScope>
+  </imprint>
+  <note/>
+  <keywords>Tibet</keywords>
+  <keywords>bodhisattvas</keywords>
+  <genBibl>tibet</genBibl>
+</bibl>

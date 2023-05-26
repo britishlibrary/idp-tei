@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Hirth_1920">
+    <editor>Hirth, Friedrich</editor>
+    <title type="s" lang="eng">Festschrift für Friedrich Hirth zu seinem 75. geburtstag 16.
+            april 1920</title>
+    <imprint>
+      <pubPlace>Berlin</pubPlace>
+      <publisher>Oesterheld and Co.</publisher>
+      <date>1920</date>
+    </imprint>
+  </bibl>
+</listBibl>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<bibl id="Dongfang_2004">
+  <title level="m" lang="chi-Latn">Dongfang jinzita:xixia huangling:zhongguo bainian kaogu da faxian</title>
+  <title level="m" lang="chi-Hant">&#x6771;&#x65B9;&#x91D1;&#x5B57;&#x5854;&#xFF1A;&#x897F;&#x590F;&#x7687;&#x9675;&#xFF1A;&#x4E2D;&#x570B;&#x767E;&#x5E74;&#x8003;&#x53E4;&#x5927;&#x767C;&#x73FE;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Tianjin</pubPlace>
+    <publisher>Tianjin guji chubanshe</publisher>
+    <date>2004</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>Historical remains</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

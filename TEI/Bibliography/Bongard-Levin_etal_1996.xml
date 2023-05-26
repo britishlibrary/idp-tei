@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Bongard-Levin_etal_1996">
+    <author n="1">Bongard-Levin, G.</author>
+    <author n="2">Boucher, D.</author>
+    <author n="3">Fukita, T.</author>
+    <author n="4">Wille, K.</author>
+    <title level="a" lang="eng">The Nagaropamasūtra: An Apotropaic Text from the Saṃyuktāgama, A Transliteration, Reconstruction, and Translation of the Central Asian Sanskrit Manuscripts</title>
+    <imprint>
+      <title level="s" lang="ger">Sanskrit-Texte aus dem buddhistischen Kanon</title>
+      <biblScope type="issue">III</biblScope>
+      <title level="s" lang="ger"> Sanskrit-Wörterbuch der buddhistischen Texte aus den Turfan-Funden : Beiheft</title>
+      <biblScope type="issue">6</biblScope>
+      <biblScope type="pp">7-131</biblScope>
+    </imprint>
+    <note/>
+    <keywords>manuscript</keywords>
+    <keywords>sanskrit</keywords>
+    <keywords>turfan</keywords>
+    <keywords>SHT</keywords>
+    <keywords>buddhism</keywords>
+  </bibl>
+</listBibl>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Nobel_1950">
+    <author>Nobel, Johannes</author>
+    <title level="m" lang="ger">Suvarnabhasomasutra, Das Goldglanz-Sutra, ein Sanskrittext des Mahayana Buddhismus: Die tibetischen Ubersetzungen mit einem Worterbuchii. Worterbuch Tibetisch-Deutsch-Sanskrittta</title>
+    <imprint>
+      <pubPlace>Leiden</pubPlace>
+      <publisher>E.J.Brill</publisher>
+      <date>1950</date>
+    </imprint>
+    <keywords>Mahayana</keywords>
+    <keywords>Buddhism</keywords>
+    <keywords>Sutra</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

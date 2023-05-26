@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<bibl id="Li_Fanwen_2005">
+  <author lang="chi-Latn">Li Fanwen</author>
+  <author lang="chi-Hant">&#x674E;&#x8303;&#x6587;</author>
+  <title level="m" lang="chi-Latn">Xixia tongshi</title>
+  <title level="m" lang="chi-Hant">&#x897F;&#x590F;&#x901A;&#x53F2;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Yinchuan</pubPlace>
+    <publisher>Ningxia renmin chubanshe</publisher>
+    <pubPlace>Beijing</pubPlace>
+    <publisher>Renmin chubanshe</publisher>
+    <date>2005</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>History</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

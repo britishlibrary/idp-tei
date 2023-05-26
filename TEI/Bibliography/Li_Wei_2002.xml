@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Li_Wei_2002">
+  <author lang="chi-Latn">Li Wei</author>
+  <author lang="chi-Hant">&#x674E;&#x851A;</author>
+  <title level="m" lang="chi-Latn">Xixia shi ruogan wenti tansuo</title>
+  <title level="m" lang="chi-Hant">&#x897F;&#x590F;&#x53F2;&#x82E5;&#x5E72;&#x554F;&#x984C;&#x63A2;&#x7D22;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Lanzhou</pubPlace>
+    <publisher>Gansu wenhua chubanshe</publisher>
+    <date>2002</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>History</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

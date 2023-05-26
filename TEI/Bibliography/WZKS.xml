@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="WZKS">
+    <title level="j" lang="ger">Wiener Zeitschrift für die Kunde Südasiens</title>
+    <imprint>
+      <pubPlace>Wien</pubPlace>
+      <publisher>Verlag der Österreichischen Akademie der Wissenschaften</publisher>
+      <date>2003-</date>
+    </imprint>
+    <genBibl>journals</genBibl>
+  </bibl>
+</listBibl>

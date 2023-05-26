@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Sundermann_1984">
+  <author>Sundermann, W.</author>
+  <title level="a" lang="ger">Probleme der Interpretation manischäisch-soghdischer Briefe</title>
+  <imprint>
+    <title level="m" lang="eng" type="shortRef">Harmatta_1984</title>
+    <biblScope type="pp">289-316</biblScope>
+  </imprint>
+  <note/>
+  <keywords>Manichaeans</keywords>
+  <keywords>Sogdians</keywords>
+  <genBibl/>
+</bibl>

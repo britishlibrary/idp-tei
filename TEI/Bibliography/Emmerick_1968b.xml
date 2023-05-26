@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Emmerick_1968">
+    <author>Emmerick, R.E</author>
+    <title level="m" lang="eng">The Book of Zambasta: A Khotanese Poem on Buddhism</title>
+    <imprint>
+      <pubPlace>New York</pubPlace>
+      <publisher>Oxford University Press</publisher>
+      <date>1968</date>
+    </imprint>
+    <keywords>Khotan</keywords>
+    <keywords>Buddhism</keywords>
+    <keywords>Poems</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

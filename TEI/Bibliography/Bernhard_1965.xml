@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Bernhard_1965">
+    <author>Bernhard, Franz</author>
+    <title level="m" lang="ger">Udānavarga</title>
+    <imprint>
+      <title level="s">Abhandlungen der Akademie der Wissenschaften in Göttingen</title>
+      <biblScope type="issue">3. Folge, Nr. 54</biblScope>
+      <title level="s">Sanskrittexte aus den Turfanfunden</title>
+      <biblScope type="issue">10</biblScope>
+      <pubPlace>Göttingen</pubPlace>
+      <publisher/>
+      <date>1965</date>
+    </imprint>
+    <note/>
+    <keywords>manuscript</keywords>
+    <keywords>sanskrit</keywords>
+    <keywords>turfan</keywords>
+    <keywords>SHT</keywords>
+    <keywords>buddhism</keywords>
+  </bibl>
+</listBibl>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Du_Jianlu_1998">
+  <author lang="chi-Latn">Du Jianlu</author>
+  <author lang="chi-Hant">&#x675C;&#x5EFA;&#x9304;</author>
+  <title level="m" lang="chi-Latn">Xixia jingji shi yanjiu</title>
+  <title level="m" lang="chi-Hant">&#x897F;&#x590F;&#x7D93;&#x6FDF;&#x53F2;&#x7814;&#x7A76;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Lanzhou</pubPlace>
+    <publisher>Gansu wenhua chubanshe</publisher>
+    <date>1998</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>Economy</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

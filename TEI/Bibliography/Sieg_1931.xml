@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Sieg_1931">
+    <author>Sieg, Emil</author>
+    <author>Siegling, Wilhelm</author>
+    <author>Schulze, Wilhelm</author>
+    <title level="m" lang="ger">Tocharische grammatik im auftrage der Preussischen akademie der wissenschaften</title>
+    <imprint>
+      <pubPlace>G&#xF6;ttingen</pubPlace>
+      <publisher>Vandenhoeck and Ruprecht</publisher>
+      <date>1931</date>
+    </imprint>
+    <keywords>Tocharian</keywords>
+  </bibl>
+</listBibl>

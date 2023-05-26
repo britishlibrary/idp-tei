@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="HuangZheng_1999">
+    <author lang="chi" n="1">&#x9EC4;&#x5F81;</author>
+    <author lang="chi" n="2">&#x7A0B;&#x60E0;&#x65B0;</author>
+    <title level="m" lang="chi">&#x52AB;&#x5C18;&#x9057;&#x73E0;&#xFF0D;&#xFF0D;&#x6566;&#x714C;&#x9057;&#x4E66;</title>
+    <imprint>
+      <pubPlace>&#x5170;&#x5DDE;</pubPlace>
+      <publisher>&#x7518;&#x8083;&#x6559;&#x80B2;&#x51FA;&#x7248;&#x793E;</publisher>
+      <date>1999</date>
+    </imprint>
+  </bibl>
+</listBibl>

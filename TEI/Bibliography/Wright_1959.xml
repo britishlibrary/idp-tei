@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Wright_1959">
+    <author>Wright, Arthur F.</author>
+    <title level="m" lang="eng">Buddhism in Chinese History</title>
+    <imprint>
+      <pubPlace>Standford</pubPlace>
+      <publisher>Stanford University Press</publisher>
+      <date>1959</date>
+    </imprint>
+    <genBibl>Buddhism</genBibl>
+  </bibl>
+</listBibl>

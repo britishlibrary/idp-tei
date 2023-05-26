@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Sundermann_1974b">
+    <author>Sundermann, Werner</author>
+    <title level="a" lang="ger">Einige Bemerkungen zum syrisch-neupersischen Psalmenbruchstü(c)k aus Chinesisch-Turkistan.</title>
+    <imprint>
+      <title level="j" lang="fran" type="shortRef">Mémorial Jean de Menasce (ed. Ph. Gignoux and A. Tafazzoli)</title>
+      <date>Louvain 1974</date>
+      <biblScope type="pp">441-452</biblScope>
+    </imprint>
+    <keywords>syrisch</keywords>
+    <keywords>neupersisch</keywords>
+    <keywords>Psalmen</keywords>
+    <keywords>Chinesisch-Turkestan</keywords>
+    <genBibl>AOF</genBibl>
+  </bibl>
+</listBibl>

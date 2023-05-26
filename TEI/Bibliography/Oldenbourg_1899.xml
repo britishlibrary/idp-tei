@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Oldenbourg_1899">
+    <author>Oldenbourg, S</author>
+    <title level="a" lang="rus">Mahā-māyūrī-vidya-rājñī</title>
+    <imprint>
+      <title level="j" lang="rus">Zapiski vostochnago otdelenija Imp. Russk. Archeol. obschestva</title>
+      <biblScope type="vol">II</biblScope>
+      <biblScope type="pp">218-261</biblScope>
+      <pubPlace>St. Petersburg</pubPlace>
+      <date>1899</date>
+    </imprint>
+    <note/>
+    <keywords/>
+  </bibl>
+</listBibl>

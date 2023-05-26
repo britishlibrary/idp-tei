@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Mannerheim_1990">
+    <author>Mannerheim, Gustaf Emil</author>
+    <editor>Sandberg, Peter</editor>
+    <title level="m" lang="eng">Photographs by C.G. Mannerheim from his Journey across Asia 1906-1908</title>
+    <imprint>
+      <pubPlace>Helsinki</pubPlace>
+      <publisher>Finno-Ugrian Society</publisher>
+      <date>1990</date>
+    </imprint>
+    <genBibl>collections_fin</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="IDPSites_2005">
+    <respStmt n="1" type="contributor" id="SW">Whitfield, Susan</respStmt>
+    <respStmt n="2" type="contributor" id="SvS">van Schaik, Sam</respStmt>
+    <respStmt n="3" type="contributor" id="IG">Galambos, Imre</respStmt>
+    <respStmt n="4" type="contributor" id="AM">Morrison, Alastair</respStmt>
+    <title level="e" lang="eng">IDP Site Information</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>IDP</publisher>
+      <date>2005</date>
+      <edition>Last updated
+            <date>2005</date>
+        </edition>
+    </imprint>
+    <note/>
+    <keywords/>
+    <genBibl>sites</genBibl>
+  </bibl>
+</listBibl>

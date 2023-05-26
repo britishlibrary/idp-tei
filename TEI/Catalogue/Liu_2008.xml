@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Catalogue entry for 1998-116 by Cary Liu, Curator, Princeton University Art
+                    Museum. </title>
+        <author> Liu, Cary </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher> The International Dunhuang Project </publisher>
+        <pubPlace> London </pubPlace>
+        <date> 2008 </date>
+      </publicationStmt>
+      <editionStmt>
+        <edition>First edition</edition>
+      </editionStmt>
+      <sourceDesc>
+        <p>
+                    No printed source: created as electronic file.
+                </p>
+        <bibl>
+          <ref> Liu_2008 </ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc> Catalogue </projectDesc>
+      <editorialDecl> Input by Susan Whitfield. Imported to 4D on 4/4/08 by Susan Whitfield.
+            </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This catalogue, describing a single manuscript, was generously provided to IDP by Cary Liu.</p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement> Princeton </settlement>
+          <repository> Princeton University Art Museum </repository>
+          <collection/>
+          <idno type="current">1998-116</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R1">
+            <title lang="chi-Hant"> 索紞道得經 </title>
+            <title lang="eng"> Ｄaodejing </title>
+            <note>
+              <p>Signed by <name type="person" lang="eng">Suo Dan </name><name type="person" lang="chi-Hant">索紞</name> (ca. 250-ca. 325) and dated 270</p>
+              <p>Daode jing, chapters 51-81</p>
+              <p>Handscroll (fragment); ink on sutra paper</p>
+              <p>Original: 30.8 x 208.2 cm.; colophons 30.8 x 524.4 cm.</p>
+              <p>Bequest of John B. Elliott, Class of 1951</p>
+              <p>1998-116  (formerly L.1985.52)</p>
+              <p>Name</p>
+              <p>Signed <q lang="chi-Latn">Jianheng er nian gengyin wu yue wu ri Dunhuang jun Suo Dan xie si</q><q lang="chi-Hant">建衡二年庚寅五月五日燉煌郡索紞寫巳</q></p>
+            </note>
+            <note>
+              <p>Title</p>
+              <p>Wrapper title: <q lang="chi-Latn">Sanguo Jianheng er nian Suo Dan shu taishang xuanyuan Daode jing juan</q><q lang="chi-Hant">三國建衡二年索紞書太上玄元道德經卷 </q></p>
+              <p>Signed: <q lang="chi-Latn">Houxue Zhang Hong shu</q><q lang="chi-Hant">後學張虹署</q> (on Zhang Hong [poss. the name of Zhang Guchu] see colophon and provenance sections below).</p>
+              <p>Seal: <q lang="chi-Latn">Shunde Zhang Hong</q><q lang="chi-Hant">順德張虹</q> sq. intaglio.  Note: Shunde is a site in Guangdong province.</p>
+              <p>2. Rao Zongyi, "Wu Jianheng er nian Suo Dan xie ben Daode jing can juan kaozheng": incorrectly trans. as "The Su Tan Manuscript Fragment of the Tao-tê Ching (A.D. 270)"</p>
+            </note>
+            <note>
+              <p>Text</p>
+              <p>Calligraphy in clerical-script style, 118 columns.
+                                Fragment. Transcribed by <ref target="Rao_1955"/></p>
+            </note>
+            <note>
+              <p>Provenance</p>
+              <p>Dunhuang caves.  Removed in 1910 for Beijing.  Ended up in the <name type="place" lang="eng">Fanjiang Ge </name><name type="place" lang="chi-Hant">凡將閣</name> hall of <name type="person" lang="eng">Li Shengduo (Muzhai) </name><name type="person" lang="chi-Hant">李盛鐸 (木齋 )</name> of <name type="place" lang="eng">Dehua </name><name type="place" lang="chi-Hant">德化</name>. After Li Shengduo died, the work was purchased in 1947 (dinghai) by <name type="person" lang="eng">Zhang Guchu </name><name type="person" lang="chi-Hant">張谷雛 </name>  (1890-1968; i.e., Zhang Hong, a Cantonese painter working in an art publishing firm in the 1930s)  [recorded in his "Jichuanan suo cang Dunhuang shishi tulu" 寄傳庵所藏敦煌石室圖案 manuscript copy]. <name type="person" lang="eng">Ye Gongchuo </name><name type="person" lang="chi-Hant">葉恭綽</name> was one of the few people to see this work when it was in Li Shengduo's collection. After it went to Zhang Guchu,it was viewed by <name type="person" lang="eng">Huang Binhong</name><name type="person" lang="chi-Hant">黃賓虹 </name> and Ye. When Rao Zongyi wrote about this piece, it was still in Zhang Guchu's collection. In 1960, it became part of the Peng family collection in Hong Kong, and it entered the John B. Elliott coll. in 1985.</p>
+            </note>
+            <note>
+              <p>Colophon1</p>
+              <p><name type="person" lang="eng">Huang Binhong </name><name type="person" lang="chi-Hant">黃賓虹</name> (1865-1955).</p>
+              <p>Signed, "Binhong"; dated wuzi year (1948)</p>
+              <p>Seal: "Huang Binhong," square intaglio</p>
+            </note>
+            <note>
+              <p>Colophon2</p>
+              <p><name type="person" lang="eng">Ye Gongchuo </name><name type="person" lang="chi-Hant">葉恭綽</name> (1880-ca. 1968; t. Yufu, Yuhu, Yufu; h. Xia-an, Shujuyuan).</p>
+              <p>Signed, <q lang="chi-Latn">Ye Gongchuo zhi</q><q lang="chi-Hant">志</q>; dated 1948.</p>
+              <p>Seal: <q lang="chi-Latn">Gongchuo changshou</q><q lang="chi-Hant">恭綽長壽</q> sq. intaglio.</p>
+              <p>Text: Partly cited <ref target="Rao_1955">2</ref> and partly trans. in ranscribed by <ref target="Mote_1986">42</ref>: <q lang="eng">His calligraphy is a mutation wholly derived from zhangcao, similar in style to that of the wooden strips (mujian) dating from the beginning of the Jin dynasty (ca. 265); moreover, here and there it carries the flavor of clerical script.</q></p>
+            </note>
+            <note>
+              <p>Colophon3</p>
+              <p>
+                <name type="person" lang="eng">Ye Gongchuo</name>
+              </p>
+              <p>Signed, <q lang="chi-Latn">Xiaweng zai zhi</q><q lang="chi-Hant">遐 翁 再 識</q></p>
+            </note>
+            <note>
+              <p>Colophon4 and Facsimile</p>
+              <p>
+                <name type="person" lang="eng">Ye Gongchuo</name>
+              </p>
+              <p>Signed, <q lang="chi-Latn">Xia-weng</q></p>
+              <p>Facsimile:  Jin period fragment of San guo zhi (Wu zhi, Zhang Wen juan) with a colophon by Bai Jian; used in a stylistic comparison to the Suo Dan.  Facsimile is followed by printed notes.</p>
+              <p>Seal: <q lang="chi-Latn">Ye Gongchuo yin</q>, sq. relief</p>
+              <p>Collectors' seals:</p>
+              <p>Zhang Hong (modern; see below))</p>
+              <p><q lang="chi-Latn">Zhang []</q> (his seal?) tall rect. relief (front of colophon, bottom over joint line)</p>
+              <p><q lang="chi-Latn">Zhang</q> square relief (after facsimile, top over joint)</p>
+              <p><q lang="chi-Latn">Jichuan-an</q> square relief (after facsimile, bottom)</p>
+              <p>Unidentified***</p>
+              <p>Pictorial bird seal, sq. relief (front of colophon, top over joint line)</p>
+              <p><q lang="chi-Latn">Xia-an Jushi</q> square relief (after notes, top)</p>
+              <p><q lang="chi-Latn">Wangji-an</q> tall rect. relief (after notes, bottom)</p>
+              <p>Zhang Hong 張虹 (20th century; h. Guchu 谷雛)</p>
+              <p>Signed, <q lang="chi-Latn">Zhang Hong zhi yu Jichuan-an</q>; dated 1949.</p>
+              <p>Seal:  <q lang="chi-Latn">[]-zhai Zhang Hong</q>, square relief (left, top)</p>
+              <p><q lang="chi-Latn">Guchu</q>, square relief (left, bottom)</p>
+              <p><q lang="chi-Latn">Jichuan-[]</q>, tall rect. relief (right, top)</p>
+              <p>Unidentified (h. Shao Bi?***)</p>
+              <p>Dated 1948 (?)</p>
+              <p>Unidentified</p>
+              <p>Zhang Hong (see above)</p>
+              <p>Dated 1949</p>
+              <p>Seals: <q lang="chi-Latn">Zhang Hong</q>, square relief (top)</p>
+              <p><q lang="chi-Latn">Guchu suo []</q>, sq. intalio (middle)</p>
+              <p><q lang="chi-Latn">Zhang zi fen ming</q>, sq. intaglio (bottom)</p>
+              <p>Peng Songyin? (hsüeh?) (20th century)</p>
+              <p>Dated 1960</p>
+              <p>Seal: <q lang="chi-Latn">Muzhai</q>, tall rect. relief</p>
+              <p><q lang="chi-Latn">San wei</q> (Peng seal?), tall rect. relief (front, top)</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Boltz_1996" type="no"/>
+              </bibl>
+              <bibl>
+                <ref target="Edgren_1995" type="no"/>
+              </bibl>
+              <bibl>
+                <ref target="Harrist_Fong_1999" type="no"/>
+              </bibl>
+              <bibl>
+                <ref target="Mote_1986" type="no"/>
+              </bibl>
+              <bibl>
+                <ref target="Mote_Chu_1988" type="no"/>
+              </bibl>
+              <bibl>
+                <ref target="Osaka_2003" type="no"/>
+              </bibl>
+              <bibl>
+                <ref target="Rao_Joby_1965" type="no"/>
+              </bibl>
+              <bibl>
+                <ref target="Rao_1955" type="no"/>
+              </bibl>
+              <bibl>
+                <ref target="Zhang_nd" type="no"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

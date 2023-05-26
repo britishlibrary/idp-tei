@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Bailey_1937">
+    <author>Bailey, H.W</author>
+    <title level="a" lang="eng">Hvatanica I </title>
+    <imprint>
+      <title level="j">Bulletin of the School of Oriental and African Studies</title>
+      <biblScope type="issue">8</biblScope>
+      <biblScope type="pp">923-36</biblScope>
+      <date>1937</date>
+    </imprint>
+    <keywords>Khotanese</keywords>
+    <keywords>Texts</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

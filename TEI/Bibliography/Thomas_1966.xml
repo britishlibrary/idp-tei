@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Thomas_1966">
+    <author>Thomas, Werner</author>
+    <title level="a" lang="ger">Tocharische Udānastotras der Bibliothèque Nationale in Paris</title>
+    <imprint>
+      <title level="j" lang="ger">Zeitschrift für Vergleichende Sprachforschung</title>
+      <biblScope type="issue">80</biblScope>
+      <biblScope type="pp">163-181</biblScope>
+      <date>1966</date>
+    </imprint>
+  </bibl>
+</listBibl>

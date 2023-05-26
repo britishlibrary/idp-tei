@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Ludvik_2004">
+    <author>Ludvik, C</author>
+    <title level="a" lang="eng">A Harivamsa Hymn in Yijing's Chinese Translation of the Sutra of Golden Light</title>
+    <imprint>
+      <title level="j">Journal-American Oriental Society</title>
+      <biblScope type="issue">124, no.4</biblScope>
+      <biblScope type="pp">707-734</biblScope>
+      <date>2004</date>
+    </imprint>
+    <keywords>Ijing</keywords>
+    <keywords>Golden light Sutra</keywords>
+    <keywords>t</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

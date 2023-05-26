@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Dunhuang Manuscripts in the Royal Library of Copenhagen (Petersen
+                    1998)</title>
+        <author>Petersen, Jens O.</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>IDP</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2011</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <ref>Petersen_1988</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Input and marked up by Hu and Sam van Schaik in November
+                2011.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>The Dunhuang manuscripts in the Royal Library of Copenhagen were donated by Arthur
+                Bollerup Sørensen (1880–1932) on 29 November 1915. The Dunhuang collection of the
+                Royal Library of Copenhagen consists of 16 manuscripts in 14 rolls. Except for one
+                Daoist scripture, the manuscripts are Buddhist. The text of MS 2c seems to have been
+                transmitted nowhere else but this collection. MSS 12 and 16 present texts
+                transmitted only in the form of Dunhuang manuscripts in other collections. Both of
+                these are of special interest as they are supplied with colophons.</p>
+    </head>
+    <body>
+      <msDescription n="MS 1" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-1</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Title at beginning:<title lang="chi-Hant">大般涅盤經(...)第十七</title></p>
+              <p>Mutilated</p>
+              <p>Title at end:<title lang="chi-Hant">大般涅盤經第十七</title></p>
+              <p>Juan 17 and the beginning of juan 18 of the<title lang="skt">Mahāparinirvāṇa-sūtra</title>, T no. 374. Beginning of text
+                                corresponding to T vol. 12 p.436b.10-463c.7 (復次 to 有四), and, joined
+                                to this, text corresponding to T vol. 12, pp. 463c.7-468c.25 (無礙 to
+                                普逝) written in another hand.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 2a" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-2a-l</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Title at beginning:<title lang="chi-Hant">佛說濟諸方等學經一卷</title></p>
+              <p>Following title:<title lang="chi-Hant">天竺薩和 曰僧迦</title>The above
+                                is repeated once.</p>
+              <p>End missing.</p>
+              <p>Part of the<title lang="chi-Latn">Ji zhu fangdeng xuejing</title><title lang="chi-Hant">濟諸方等學經</title>T no.274. The MS contains one
+                                line of text, corresponding to vol. 9, p. 374c.6 (聞如 to 比丘).</p>
+              <p>Roll 2 has been made to supply paper for calligraphy practice. Sheets
+                                from various texts have been pasted together and the latter part of
+                                the recto has been covered with doodles, including a short text. A
+                                large 兑 is found on the verso, indicating that a sheet was discarded
+                                because it contained lacunae. Among the doodles one finds three
+                                names: Zhai Huixing 翟會興 Wang Dingyuan 王定員 and Dao Gaolong 道高龍. The
+                                MSS of this roll are, with the exception of MS 2f, written in the
+                                same hand. At least two persons have written the doodles.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 2b" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-2a-l</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Title at beginning:<title lang="chi-Hant">華嚴經論如來光明覺品五</title></p>
+              <p>The rest of the line has been filled up with :<title lang="chi-Hant">華嚴經論如來光明覺</title></p>
+              <p>End missing.</p>
+              <p>Part of the<title lang="chi-Latn">Huayanjing lun</title><title lang="chi-Hant">華嚴經論</title>, a commentary on the<title lang="skt">Avataṃsaka-sūtra</title>. T no.278, written by
+                                lingbian 靈辨 in 520. The MS contains one line of text, corresponding
+                                to Z sec.1, vol.93, p.468c.4 (光明 to 佛智). After this line, the
+                                chapter heading has been written several times. From the
+                                introductory part of the commentary to T vol.9, pp.
+                                422b.17-427a.1.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 2c" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-2a-l</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Title at beginning:<title lang="chi-Hant">華嚴經論佛昇須彌頂品第九十五</title></p>
+              <p>End missing.</p>
+              <p>Part of juan 15 of the<title lang="chi-Latn">Huayanjing lun</title>(see MS 2b). 25 lines of text (此處是第三 to 說爾時如來). MS 2c seems to be
+                                unique in transmitting this part of the<title lang="chi-Hant">Huayanjing lun</title>, a work originally in 100 juan, only one
+                                of which (juan 10) is preserved in the Zoku Zōkyō (Z sec.1, vol.93,
+                                pp.468b-472b). S.3987 and possibly S.3986 transmit other fragments
+                                of the same work. The text is part of the introduction to the
+                                commentary to T no.278, vol. 9, p. 441b.5-441c.19.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 2d" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-2a-l</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Beginning and end missing.</p>
+              <p>24 lines of commentary (行正往故所 to 者遠離浄一) on the<title lang="skt">Avataṃsaka-sūtra</title>, possibly to T no.278, vol. 9, p.
+                                562b.9-11. Presumably the<title lang="chi-Latn">Huayanjing
+                                    lun</title>(see MS 2b).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 2e" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-2a-l</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Title at beginning:<title lang="chi-Hant">持人菩薩經持施王品第四二</title></p>
+              <p>End missing</p>
+              <p>Part of juan 2 of the<title lang="chi-Latn">Chiren pusa jing</title><title lang="chi-Hant">持人菩薩經</title>, T no.481. The MS corresponds
+                                to T vol. 14, p. 629b.18-629b.28 (佛告 to 欄楯 ).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 2f" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-2a-l</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Beginning and end missing</p>
+              <p>Part of juan 2 of<title lang="skt">Lalitavistara</title>, T no. 186.
+                                The MS corresponds to T vol. 3, p. 489bl-489c.1 (今誰 to 五趣).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 2g" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-2a-l</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Title at beginning :<title lang="chi-Hant">普矅經降神處胎第四二</title></p>
+              <p>Following this: 晉永嘉年竺法護譯</p>
+              <p>End missing.</p>
+              <p>Part of juan 2 of the<title lang="skt">Lalitavistara</title>, T no.
+                                186. The MS corresponds to T vol. 3, p. 489a.19-489a.29 (於是 to
+                                頌曰).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 2h" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-2a-l</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Beginning and end missing.</p>
+              <p>9 lines of commentary (之所汙故 經 to 盡念藏未曾) on the<title lang="skt">Avataṃsaka-sūtra</title>, T no.278, vol. 9, p. 478a.20-22.
+                                Presumably the<title lang="chi-Latn">Huayanjing lun</title>(see MS
+                                2b).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 2i" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-2a-l</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Beginning and end missing.</p>
+              <p>Part of juan 3 of the<title lang="Chi-Latn">Chiren pusa
+                                jing</title>, T no.481.The MS corresponds to T vol. 14, p.
+                                634b.23-634c.22 (無以 to 清浄).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 2j" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-2a-l</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>9 lines of commentary (者遍一切處 to 門答上普光) on the<title lang="skt">Avataṃsaka-sūtra</title>, presumably the<title lang="Chi-Latn">Huayanjing lun</title>(see MS 2b).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 2k" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-2a-l</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Beginning and end missing.</p>
+              <p>10 lines (羅國有罪之 to 閍者聞說是) of an āgama dealing with the topic of
+                                色縛.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 2l" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-2a-l</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Title at beginning:<title lang="chi-Hant">阿昆靈智犍度.</title>.The above
+                                is crossed out; added:華嚴<title lang="chi-Hant">華嚴經第九八十.</title></p>
+              <p>One next line: 阿昆靈智犍度修x渠第（this is crossed out）四卷弟十一. Added:<title lang="chi-Hant">華嚴經論.</title></p>
+              <p>End missing.</p>
+              <p>Part of juan 11 of<title lang="skt">Abhidharmajñānaprasthāna-śāstra</title>, T no.1543. The MS
+                                corresponds to T vol. 26, P. 821a.15-29 (攝成 to 法智).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 3" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-3</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Beginning missing.</p>
+              <p>Title at end:<title lang="chi-Hant">大般若波羅密多經卷第一百六十六</title>.</p>
+              <p>Part of juan 166 of the<title lang="skt">Mahāprajñāpāramitā-sũtra</title>, T no.220. The MS corresponds
+                                to T vol. 5, pp. 892a.4-897a.10 (及不 to 出故)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 4" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-4</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Title at beginning:<title lang="chi-Hant">大般若波羅密多經卷第二百四.</title></p>
+              <p>Following this at beginning: 初分難信解品第卅四之卄三.三藏法師玄奘奉詔譯.</p>
+              <p>Part of juan 204 of the<title lang="skt">Mahāprajñāpāramitā-sūtra</title>, T no.220. The MS corresponds
+                                to T vol. 6, pp. 16b.12-20c.26 (復次 to 斷故)，Beginning of text
+                                mutilated.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 5" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Title at beginning:<title lang="chi-Hant">大般若波羅密多經卷第二百七十二.初分難信解品第卅四之九十一.</title></p>
+              <p>Following this: 三藏法師奉詔譯.</p>
+              <p>End missing.</p>
+              <p>On the verso of the beginning:<title lang="chi-Hant">大般若波羅密多經卷第二百七十二. 卄八. 二. 界.</title></p>
+              <p>Part of juan 272 of the<title lang="skt">Mahāprajñāpāramitā-sũtra</title>, T no.220. The MS corresponds
+                                to T vol.6, pp. 376c.13-377b.6 (善現 to 門清). The inscription on the
+                                verso indicatas that the MS was the second roll in the 28th wrapper
+                                in a library (not the tripitaka library) in the Sanjie 三界 Monastery.
+                                The Sanjie Monastery was established about 830-840.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 6" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-6</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Title at beginning:<title lang="chi-Hant">大般若波羅密多經第二百八十三.
+                                    初分難信解品第卅四之一百二.</title></p>
+              <p>Following this: 三藏法師玄(...)Multilated.</p>
+              <p>End missing.</p>
+              <p>Part of juan 283 of the<title lang="skt">Mahāprajñāpāramitā-sũtra</title>, T no.220. The MS corresponds
+                                to T vol. 6, p. 436a.25-436b.20 (善現 to 解脫).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 7" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-7</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Beginning missing.</p>
+              <p>Title at end:<title lang="chi-Hant">妙法蓮花經卷第二.</title></p>
+              <p>Part of juan 2 of the<title lang="skt">Saddharmapuṇḍarīka-sūtra</title>, T no.262. Mutilated at the
+                                beginning. The MS correspongs to T vol. 9, pp. 12a.7-19a.11 (部衆 to
+                                說三).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 8" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-8</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Beginning missing.</p>
+              <p>Title at end:<title lang="chi-Hant">大般若波羅密多經卷第三百五十四.</title></p>
+              <p>At end, name of copyist: 法應.</p>
+              <p>Part of juan 354 of the<title lang="skt">Mahāprajñāpāramitā-sũtra</title>, T no.220. The MS corresponds
+                                to T vol. 6, pp. 821c.7-825c.4 (離世 to 遠離).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 9" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-9</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Title at end:<title lang="chi-Hant">大般若波羅密多經卷第五百五十七.</title></p>
+              <p>Part of juan 557 of the<title lang="skt">Mahāprajñāpāramitā-sūtra</title>, T no.220. The MS corresponds
+                                to T vol.7, pp. 872c.16-877b.29 (食遇 to 勝利).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 10" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-10</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Beginning and end missing.</p>
+              <p>Verso at beginning: 第七祑. Immediately following in another
+                                hand:兑經.</p>
+              <p>Part of juan 557 of the<title lang="skt">Mahāprajñāpāramitā-sūtra</title>, T no.220. The MS corresponds
+                                to T vol. 7, pp. 872c.16-877b.2 (十方 to 生類). The inscription on the
+                                verso read: "The 7th wrapper. Sūtra with lacunae".</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 11" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-11</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Beginning mutilated.</p>
+              <p>Title at end:<title lang="chi-Hant">妙法蓮花經第二.</title></p>
+              <p>Part of juan 2 of the<title lang="skt">Saddharmapuṇḍarīka-sūtra</title>, T no.226. The MS corresponds
+                                to T vol.9, pp. 10b.29-19a.11 (起合 to 說三).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 12" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-12</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Title at beginning and end:<title lang="chi-Hant">瑜珈師地論卷第一.</title></p>
+              <p>Following this at bedinning: 彌勒菩薩說, 無著菩薩造; subtitle on the next line:
+                                本地分中五識身相應地第一之一.</p>
+              <p>Colophon in red: 大中九年三月十五日智惠山隨學聽.</p>
+              <p>Juan 1 of the<title lang="skt">Yogacarābhūmi-śāstra</title>,
+                                translated by Facheng 法成. The colophon reads: [Note written on copy
+                                of śāstra made] to attend lectures with on the 15th of the 3rd month
+                                of the 9th year of Dazhong 大中（A.D.855）by Zhihuishan 智惠山." A copy of
+                                the same text made by the same person was in the possession of
+                                Wuzhen 悟真（816－895). The text consists of 370 lines (云何瑜珈師 to 處最初入之).
+                                The MS translates the same text that Xuanzang translates in T
+                                no.1579, vol. 30, pp. 279a.8-283a.20. Facheng's translation has only
+                                been transmitted in the form of Dunhuang manuscripts.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 13" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-13</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Title at beginning and end:<title lang="chi-Hant">瑜珈師地論卷第卌一.</title></p>
+              <p>Following this at beginning: 彌勒菩薩說，沙門玄奘奉詔譯，subtitle on the next line:<title lang="chi-Hant">本地分中菩薩地十五初持瑜處［sic!］戒品弟十之二.</title>Juan
+                                41 of the<title lang="skt">Yogacarābhūmi-śāstra</title>, T no.1579
+                                (Xuanzang's translation). The MS corresponds to T vol.30,
+                                pp.51a.8-521c.19 (如是 to 了知). Marks in red.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 14" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-14</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Beginning mission,no title at end.</p>
+              <p>Part of juan 9 of<title lang="chi-Latn">Taixuan zhenyi benji
+                                    jing</title><title lang="chi-Hant">太玄真一本際經.</title>Juan 9 of this Taoist text
+                                is also known as the<title lang="chi-Latn">Taishan dongxuan lingbao
+                                    kaiyan mimi zang</title><title lang="chi-Hant">太上洞玄靈寶開演祕密藏</title>, the title it bears in
+                                the Daozang.</p>
+              <p>P 3280 has been reproduced in the edition of this work made by Wu
+                                chi-yu. The present MS corresponds to lines 59-278 (皆虛 to 而去)
+                                according to Wu's numbering.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 15" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-15</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Title at beginning:<title lang="chi-Hant">大智論釋第卌四品上卷弟六十六.</title></p>
+              <p>Title at end:<title lang="chi-Hant">大智論卷六十六</title>. In small
+                                script:<title lang="chi-Hant">釋第卌四品上.</title></p>
+              <p>Juan 66 of the<title lang="skt">Mahāprajñāpāramita-upadeśa</title>,
+                                T no.1590. The MS corresponds to T vol. 25, pp. 522a.14-527a.28 (爾時
+                                to 著故). Beginning mutilated.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="MS 16" type="JP">
+        <msIdentifier>
+          <settlement>Copenhagen</settlement>
+          <repository>The Royal Library</repository>
+          <collection>Sørensen</collection>
+          <idno type="current">OA 102-MS-16</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Title at beginning:<title lang="chi-Hant">四分戒本疏卷第一.</title></p>
+              <p>Following this: 沙門慧述.</p>
+              <p>Title at end:<title lang="chi-Hant">四分戒本疏卷第一.</title></p>
+              <p>Colophon: 亥年十月卄二日比丘法賢就莫高窟抄寫勘校記.</p>
+              <p>Juan 1 of the<title lang="chi-Latn">Si fen jie ben shu</title><title lang="chi-Hant">四分戒本疏</title>, written by the ṡramana Hui
+                                慧. Marks in red. The text of this juan has been edited and
+                                introduced by Tsukinowa Kenryu and Tsuchihashi Shuko. The copist of
+                                the present MS was the same as that of the MS (Ryukoku University
+                                catalogue no.46) used for their edition. The colophon reads: "Note
+                                written by the bhikṣu Faxian after proceeding to the Grottoes of
+                                Unsurpassable Height to copy and proofread on the 22nd day of the
+                                10th month of a hai 亥 year." Every twelfth year contains the
+                                cyclical character<term lang="chi-Latn">hai</term>. The<title lang="chi-Latn">Si fen jie ben shu</title>has only been
+                                transmitted in the form of Dunhuang manuscripts.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

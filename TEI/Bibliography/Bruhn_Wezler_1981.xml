@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Bruhn_Wezler_1981">
+    <editor n="1">Bruhn, Klaus</editor>
+    <editor n="2">Wezler, Albrecht</editor>
+    <title level="m" lang="ger">Studien zum Jainismus und Buddhismus : Gedenkschrift für Ludwig Alsdorf</title>
+    <imprint>
+      <title level="s">Alt- und neuindische Studien</title>
+      <biblScope type="vol">23</biblScope>
+      <pubPlace>Wiesbaden</pubPlace>
+      <publisher>Steiner</publisher>
+      <date>1981</date>
+    </imprint>
+    <note/>
+    <keywords>manuscript</keywords>
+    <keywords>sanskrit</keywords>
+    <keywords>turfan</keywords>
+    <keywords>SHT</keywords>
+    <keywords>buddhism</keywords>
+  </bibl>
+</listBibl>

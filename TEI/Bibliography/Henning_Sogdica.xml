@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Henning_Sogdica">
+    <author>Henning, Walter B.</author>
+    <title level="a" lang="ger">Sogdica.</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>James G. Forlong Fund 21</publisher>
+      <date>1940</date>
+    </imprint>
+    <keywords>Sogdica</keywords>
+    <keywords>sogdisch</keywords>
+    <keywords>manichäisch</keywords>
+    <keywords>Turfan</keywords>
+  </bibl>
+</listBibl>

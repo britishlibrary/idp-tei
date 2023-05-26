@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Pulleyblank_1952">
+  <author>Pulleyblank, Edwin G.</author>
+  <title level="a" lang="eng">A Sogdian Colony in Inner Mongolia</title>
+  <imprint>
+    <title level="j" lang="eng" type="shortRef">T'oung Pao</title>
+    <biblScope type="issue">XLI</biblScope>
+    <biblScope type="pp">317-356</biblScope>
+    <date>1952</date>
+  </imprint>
+  <note/>
+  <keywords>Sogdian</keywords>
+  <keywords>Inner Mongolia</keywords>
+</bibl>

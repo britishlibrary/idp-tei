@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="ZiemeKara_1976">
+    <author>Kara, Gyorgy</author>
+    <author>Zieme, Peter</author>
+    <title level="m" lang="ger">Fragmente tantrischer Werke in uigurischer &amp;Uuml;bersetzung</title>
+    <imprint>
+      <pubPlace>Berlin</pubPlace>
+      <publisher>Akademie-Verlag</publisher>
+      <date>1976</date>
+    </imprint>
+    <note>Includes Uighur text of Mss. U557, Berliner Turfansammlung, Akademie der Wissenschaften, Berlin, with transliteration and German translation. Includes bibliographical references.</note>
+    <keywords>Uighur</keywords>
+    <genBibl>translations</genBibl>
+  </bibl>
+</listBibl>

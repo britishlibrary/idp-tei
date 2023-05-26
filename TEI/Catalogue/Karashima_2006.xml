@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transliterations of The Saddharmapuṇḍarīkasūtra Manuscript from Farhād-Bēg in the Stein Collection (1)</title>
+        <author>KARASHIMA, Seishi</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>IDP</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2007</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Seishi KARASHIMA, “The Saddharmapuṇḍarīkasūtra Manuscript from Farhād-Bēg in the Stein Collection (1),” in: Buddhist Manuscripts from Central Asia: The British Library Sanskrit Fragments, Volume I, ed. by Seishi KARASHIMA and Klaus WILLE, Tokyo: The International Research Institute for Advanced Buddhology at Soka University, 2006, pp. 155-172.</p>
+        <bibl>
+          <ref>Karashima_2006</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Input and marked up by IRIAB.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This catalogue contains transliteration of Sanskrit manuscripts in the Stein Collection at the British Library.</p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 482</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Folio No. 5; Parallel to: KN. 247.6~247.13</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>gatanarakatiryagyoniyamalokapretāsurakāyāḥ te ca sarvasatvā (’)nyalokadhātuṣūpanikṣiptāḥ tāny api buddhakṣetrāṇya
+
+
+<lb n="2"/>vaiḍuryamayāni parisaṃsthā[pa]yati saptaratnahemajālapracchannāni kiṅkiṇījālālaṃkṛtāni mandāravamahāmandā-
+
+
+<lb n="3"/>ravapuṣpasaṃstīrṇāni (d)i(vyav)i[tā]navitāni{tāni}  divyapuṣpadāmābhi{ḥ}pralaṃbitāni divyagandhadhūpanaparidhūpitāni
+
+
+<lb n="4"/>ratnavṛkṣopaśobhitāni • ◯ sar[v](v)e ca ratnavṛkṣāḥ paṃcayojanaśatapramāṇāḥ parisaṃsthāpayām āsa : paṃcayojanapramā-
+
+
+<lb n="5"/>ṇāṃni ca siṃhāsanāni pra◯jñaptāny abhinirmiṇoti • tatra {s}  te tathāgatā niṣīdanti sma pṛthak pṛthak siṃhāsaneṣu ratna-
+
+
+<lb n="6"/>vṛkṣamūle paryaṃkaṃ bad(dhv)ā (tena) khalu punaḥ samayena bhagav[[at]]ā{ṃ}  Śākyamuninā ye nirmitā{ṃ}s tathāgatā{ṃ}ḥ pūrvasyāṃ diśi dharmaṃ
+
+
+<lb n="7"/>deśayaṃnti • pañcāśatsu gaṅgānadīvālikāsameṣu buddhakṣetrakoṭinayutaśatasahasreṣu tadātirekavālikāsa-
+
+
+<lb n="8"/>meṣu lokadhātukoṭinayutaśatasahasre[[ṣu]] ye [t]attra tattra lokadhātuṣu satvānāṃ dharmaṃ deśayanti • te tathāgatā sarvve
+
+
+
+
+
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Parallel to: KN. 247.13~248.6</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>iha Sahe lokadhāto āgatā babhūva yathā pūrvāya diśāya te tathāgatā āgaminsu evaṃ sa[mant]ābhyo digbhyaḥ ā-
+
+
+<lb n="2"/>gaminsu • daśabhyo digbhya (’)gatāgatāś ca tathāgatā{ṃ}  aṣṭasu dikṣu niṣīdinsu • tena ca khalu punaḥ samayenāyaṃ Saho lokadhātu
+
+
+<lb n="3"/>ekaikāyāṃ d(i)śi ca(tv)ā(r)iṃśa(catv)[ār]i[ṃ]śa lokadhātukoṭinayutaśatasahasrāṇy aṣṭasu dikṣu {:}  samant[e]na {s}  tebhis tathāgatebhi-
+
+
+<lb n="4"/>r ākkrāntā babhūva{n*}  [a]◯(tha) khalu te daśa{g}bhyo di[[g]]bhy(’) āgatā[[gatā]]s tathāgatāḥ svakasvakeṣu siṃhāsaneṣūpaviṣṭāḥ svakasvaka-
+
+
+<lb n="5"/>m upasthāyakaṃ preṣa[y](a◯nti bha)[ga]vataḥ Śākyamunes tathāga[[ta]]syāntikaṃ ratnapuṣpapuṭāni datvā : evaṃ ca te tathāgatāṃ-
+
+
+<lb n="6"/>m upasthāyakāṃnām ava[c](ānti •gaccha)tha kulaputrā Gṛddhrakūṭe parvvataṃ Śākyamuniṃ tathāgataṃ darśanāya : vandanāya : paryu-
+
+
+<lb n="7"/>pāsanāya : tattra ca gatvā Śākyamuni[[ṃ]] tathāgataṃ vanditvā : namaskṛtvā{ṃ}  pradakṣiṇīkṛtvā : mama vacanāt ta[[ṃ bhagavantaṃ]] cChākyamuni
+
+
+<lb n="8"/>{s} tathāgatam arhanta[ṃ] samyaksaṃbuddha[[ṃ]] alpābādhatāya paripṛcchati alpātaṅkatāya : laghusthāmatāya balaṃ
+
+
+
+
+
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 483</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Folio No.6; Parallel to: KN. 248.6~248.13</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>ca phāṣavihāratāya ca : paripṛcchatha sārdhaṃ bodhisatvagaṇena śrāvakagaṇena ca anena ca nānāratnapuṣparāśinā tadbhagava-
+
+
+<lb n="2"/>nta[[ṃ]] Śākyamuni[[ṃ]] {s}  tathāgata[m a]rhanta[[ṃ]] samyaksaṃbuddhaṃm abhyavakiratha evaṃ ca vadatha dadati sa bhagavāṃs tathāgatau cchandam etasya
+
+
+<lb n="3"/>mahāratnastūpasyod[ghāṭ](anā)[ya] evam eva sarve te tathāgatā{ṃ}  svakasvakam upasthāyakai praiṣayanti bhagavataḥ Śākya-
+
+
+<lb n="4"/>munais tathāgatasyān[t]i[k]aṃ ◯ [ra](tna)puṣpapuṭāni datvā{ṃ}  atha khalu tasyāṃ velāyā[ṃ] tathāgataḥ Śākyamuniḥ svakasvakāṃ
+
+
+<lb n="5"/>nirmitā[[ṃ]]s tathāga[t](ā)[[ṃ]] sa◯rvān aśeṣeṇa ih(’) āgatāṃ viditvā{ṃ}  pṛthak pṛthak ca si[[ṃ]]hāsaneṣu {n}niṣaṇṇā[[ṃ]] viditvā{ṃ} tā[[ṃ]]ś copasthāya-
+
+
+<lb n="6"/>kā[[ṃ]]s teṣā[[ṃ]] samyak[s]aṃbud(dh)ānām ā[gat]āṃ viditvā teṣā[[ṃ]] ca tathāgatopasthāyakānāṃm antikā tathāgatānāṃ cchandārocanaṃ vi-
+
+
+<lb n="7"/>ditvā dattacchan[da]ṃ [ca] tebhis [t]athāgatebhir ārocitam iti viditvā{s}  tasyā[[ṃ]] vailāyā[[ṃ]] svakāṃ dharmāsanād utthāyopari vihāya-
+
+
+<lb n="8"/>sy antarīkṣe (’)sthāsīt* sarvvāś ca tāś catasraḥ pariṣadaḥ utthāy(’) āsanebhyo daśanakham añjalī pragṛhya bhaga[vanta]m ulokayiṣu
+
+
+
+
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Parallel to: KN. 248.14~249.10</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>atha khalu bhagavāṃ cchākyamunis tathāgata upari vihāya[se] (’)ntarīkṣe sthitas taṃ mahāratnastūpaṃ dakṣiṇayā hastāṅgulyā maddhye pāṭa-
+
+
+<lb n="2"/>yām āsa • pāṭitvā dve bhittī visārayām āsa : tad yathāpi nāma mahānagaradvāreṣu mahānagarakavāṭasamūhatā arga-
+
+
+<lb n="3"/>ṭapramuktā apāvṛṇyanti [e](vam) [e](va) bhagavāṃ Śākyamunis taṃ mahāratnastūpaṃ dakṣiṇayā hastāṅgulyā maddhye samutpā-
+
+
+<lb n="4"/>ṭayitvā dve bhi[tt]ī visā[r](a)◯[ya]ti sma • samanantaravivṛtasya khalu punas tasya tathāgataratnastūpasyātha khalu
+
+
+<lb n="5"/>[[sa]] bhagavāṃ Prabhū[taratna]◯(s ta)thāgato (’)rhā[[ṃ]] samyaksaṃbuddhaḥ si[[ṃ]]hāsanopaviṣṭaḥ paryaṃkena baddhena : apariśuṣka-
+
+
+<lb n="6"/>gātro [a]saṃ[ghaṭ]i[takāyo ya]thā samādhisamāpannako{s} tathā saṃdṛśyate • evaṃ ca sa bhagavāṃ vācaṃ bhāṣa-
+
+
+<lb n="7"/>ti • sādhu sādhub hagavāṃ Śākyamuni : subhāṣi[[ta]]s te (’)yaṃ Saddharmapoṇḍarīkaṃ dharmaparyāyaḥ sādhu khalu [p]unas tvaṃ [bh]agavāṃñ cChākyamu-
+
+
+<lb n="8"/>nis subhāṣitas te (’)yaṃ dharmaparyāyo (’)sya cāhaṃ bhagavāṃ dharmaparyāyasya śravaṇārthāya-m-ihodgataḥ atha khalu tā-
+
+
+
+
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 484</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Folio No. 7; Parallel to: KN. 249.10~250.5</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>ś catasraḥ pariṣadaḥ {s}  taṃ bhagavantaṃ Prabhūtaratnaṃ tathāgatam arhanta[[ṃ]] samyaksaṃbuddhaṃ bahukalpakoṭinayutaśatasahasra-
+
+
+<lb n="2"/>parini[[r]]vṛt{t}aṃ tathā[[gataṃ]] bhāṣamāṇa[[ṃ]] dṛṣṭvā paramāścaryaprāptā babhūvur adbhutaprāptāḥ āścaryaprāptāś ca te taṃ bhagavantaṃ Prabhū-
+
+
+<lb n="3"/>taratnaṃ tathāgataṃ [Ś](ākyamuniṃ) ca tathāgataṃ divyamānuṣyakebhi puṣpaibhi ratnapuṣparāśibhir abhyavakirinsu • tasyāṃ
+
+
+<lb n="4"/>ca velāyā[ṃ] sa [bha]gavāṃ Pra◯[bhū]taratnas tathāgato (’)rhā samyaksaṃbuddhaḥ bhagavataḥ Śākyamunes tathāgatasya tasmiṃn e-
+
+
+<lb n="5"/>va si[[ṃ]]hāsanai (’)rdā[sa]nam a◯[d]āsīt* tasyaiva mahāratnastūpasyābhyantare • evaṃ ca sa bhagavāṃ Prabhūtaratna-
+
+
+<lb n="6"/>s tathāgato vāc(āṃ) [bh](āṣat)ī(ha) bhagavā[ṃ] Ś[ā]kyamuni pravaikṣyatu ratnastūpamaddhyai • niṣīdatu bhagavāṃ Śākyamuni mama
+
+
+<lb n="7"/>ardhāsane • atha [kh](a)lu bhagavāṃ Śākyamunis tasmiṃ ratnastūpai praviṣṭvā tasya tathāgatasyārdhāsane niṣasāda : tai-
+
+
+<lb n="8"/>naiva tathāgatena sārdham* ubhau ca to tathāgatau tasya mahāratnastūpamaddhyai siṃhāsana niṣaṇṇau vihāyasy a-
+
+
+
+
+
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Parallel to: KN.250.5~250.16</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>ntarīkṣe sthito dṛśyata : tasmi[[ṃ]] si[[ṃ]]hāsan{n}ai niṣaṇṇau paryaṃkaṃ baddhvā : atha khalu tāsā[[ṃ]] catasṛṇāṃ pariṣadām etad abhavat* atidūrībhū-
+
+
+<lb n="2"/>tā{ṃ}  vayam imeṣā[[ṃ]] tathāgatānāṃ yan nūna vayam api tathāgatasyānubhāvena vaihāyasy aivāntarīkṣe-m-abhyudgacchema iti atha
+
+
+<lb n="3"/>khalu bha[gavāṃ tāsā](ṃ) [c](ata)[s](ṛ)[ṇ]ā[ṃ] pariṣadāṃ caitasaiva cittāni vyavalokayitvā ṛddhibal[e]na sarvvās tā catasraḥ pari-
+
+
+<lb n="4"/>ṣada : upari vihāyasy [ā]◯[ntar]ī[kṣ]e parisaṃsthāpayām āsa : bhagavāṃś ca Śākyamunis tasyā velāyā tā[ś] catasraḥ
+
+
+<lb n="5"/>pariṣadaḥ āma(nt)rayat[i] ◯ [sma] : ko bhikṣavo yuṣmākaṃm utsahati • mama parinirvṛtasyaiha{ṃ}  Sahāyā l[o]kadhātā{ṃ}-
+
+
+<lb n="6"/>v imaṃ dharmaparyyāyaṃ [sa](ṃprak)āśayitum ayaṃ kālo aya[[ṃ]] samayaḥ saṃmukhībhūtas [t]athāgataḥ [p]arinirvvā-
+
+
+<lb n="7"/>yitukāmo bhikṣavas tathāgataḥ upanikṣipanto imaṃ dharmaparyāyaṃ [•] atha khalu [bha]gavāṃ tasyā[ṃ] v[e]lāyā-
+
+
+<lb n="8"/>m imā gāthā addhyabhāṣat*  //  ayam āgata nirvṛtako maharṣī ratnamayaṃ stūpa praviśya nāyakaḥ śravaṇā-
+
+
+
+
+
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="4">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 485</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Folio No. 8; Parallel to: KN. 250.16~251.11</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>rtha dharmasya imasya bhikṣavaḥ ko dharmaheto jananeta vīryam* [ba]hukalpakoṭīparinirvṛtau (’)pi sa nāma adyāpi śṛṇoti dharmam*
+
+
+<lb n="2"/>tahiṃ tahiṃ gacchati dharmahetauḥ s[u]durrlabhaṃ dharmam ay(’) evarūpam*  praṇidhānam etasya vināyakasya niṣevitaṃ pūrvvabhave-
+
+
+<lb n="3"/>ṣu āsi parinirvṛto (’)pi i[ma] [sarvva]lokaṃ paryaṇṭhate sarvvadaśaddiśāsu 3 ime ca mahyaṃ bahu ātmabhāvā{ṃ}[ḥ] sahasrako-
+
+
+<lb n="4"/>ṭyo yatha gaṃgavālikāḥ ◯ te dharma[kār]yasya kṛtena āgatā{ṃ}ḥ parinirvṛtaṃ draṣṭu{ṃ} imaṃ vināyakam* 4  cchoritva kṣetrā-
+
+
+<lb n="5"/>ṇi sva[k]asvakāni tatha ◯ ś[r]āva[k]ā naramaruṇaś ca sarvve : ih(’) āgatā sarvvi sa{d}dharmahetauḥ yathā ciraṃ [ti]ṣṭhiya dha-
+
+
+<lb n="6"/>rmanetrī ..  ete .. .. .. .. (n)iṣīdanārtha[[ṃ]] bahulokadhātūna sahasrakoṭayaḥ saṃkkrāmitā me tatu sarvva-
+
+
+<lb n="7"/>satvā{n}  ṛddhibalena pariśodhitāś ca 6  etādṛśī utsukavā ayaṃ mama kathaṃ prakāśe ima dharmaṃnetrī ime ca
+
+
+<lb n="8"/>buddhā sthita aprameyā drumamūli śobhanti yathaiva padmāḥ 7 dra«dru»mamūlakoṭīya anantakāni siṃhāsanasthebhiḥ vi- [dra-: erased]
+
+
+
+
+
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Parallel to: KN.251.11~253.1</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>nāyakebhiḥ śobhanti dīpyanti ca nityakālaṃ hutāśano vā yatha andhakāre 8 gandho manujño daśasu [[d]]diśāsu pravāyate lokahitāna sāntike
+
+
+<lb n="2"/>yena ime mūrcchita sarvvasatvā vātena vāyant(i) ca nityakālam* 9 mama nirvṛtasmi ko hy eta[[ṃ]] dharmaparyāya dhārayet* kṣipraṃ vyāharatu
+
+
+<lb n="3"/>vācā[ṃ] lokanāthāna [sa]ṃ[mukham*] (10 par)[ini]r(vṛt)o [(’)p]y ayaṃ buddhaḥ Prabhūtaratano muni • si[[ṃ]]hanādaṃ śruṇet tasya [v]yavasāyaṃ ya kurvvati 11
+
+
+<lb n="4"/>ahaṃ dvitīyo bahav[o i](me) ◯ ca [y]ā ko[ṭa]ya āgata nāyakānāṃm* vyavasāya śroṣyāma jinā{ṃ}tmajānāṃ ya utsahe dha-
+
+
+<lb n="5"/>rmam imaṃ prakāśi[tum]* [1]2 ◯ aha(ṃ) [ca] tena bhavi pūjita sadā Prabhūtaratnaś ca jina svayaṃbhuḥ yo gacchati diśavidiśā-
+
+
+<lb n="6"/>ś ca nityaṃ śr[uṇa]nāya dharmam i(ma)m eva[r](ū)[pa]ṃ 13 ime ca ye āgata lokanāyakā{ṃ}  vicittritā śobhati yer iyaṃ mahī • te-
+
+
+<lb n="7"/>ṣā[[ṃ]] pi pūjā vipulā a[k](a)l[p](i)kā kṛtā bhavet sūtraprakāśanena 14 ahaṃ ca dṛṣṭo iha āsanasmi[ṃ] bhagavāṃś ca yo (’)ya[ṃ] sthi-
+
+
+<lb n="8"/>ta stūpamaddhye ime ca anye bahulokanāyakāḥ ye āgatā{ṃ}  kṣetrasahasrakoṭibhi 15 cinte{n[ā]}tha yūyaṃ kulaputrāho
+
+
+
+
+
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="5">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 486</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Folio No. 9; Parallel to: KN.253.1~254.6</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>sarvasatvānukaṃpayā : suduṣkaram idaṃ sthānaṃ utsāhenti vināyakā 16 bahusūtrasahasrāṇi yatha ga[[ṃ]]gāya vālikāḥ ttā[[ṃ]]ś caiva
+
+
+<lb n="2"/>yaḥ prakāśeta na ta[[d]] duṣka[[ra]]kaṃ bhavet* 17 yaś ca Sumeru hastena adyālaṃbitva pāṇinā{ṃ} : kṣepeta kṣetrakoṭīṣu na tad bhavati duṣkaram* 18
+
+
+<lb n="3"/>yathaivaimaṃ tṛsahasr(āṃ) pā(d)[āṅ](gu)[ṣ](ṭh)ai(na) kaṃpayait* kṣipeta kṣetrakoṭīṣu na tad bhavati duṣkaram* 19 yaś ca bhavāgra tiṣṭhe[ta] dharmaṃ bhā-
+
+
+<lb n="4"/>ṣe naro iha anyasūtra◯sa[ha]srāṇi na tad bhavati duṣkaram* 20 nirvṛtasya mama loke paścākāle sudāruṇe ya imaṃ dhāraye
+
+
+<lb n="5"/>sūtraṃ bhāṣed vā [ta]ṃ sudu[ṣka]◯ram* 21 ākāśadhātuḥ yat sarvvam ekamuṣṭismi prakṣipet* prakṣipitvā vraje dūraṃ na ta[[d]] duṣkarakaṃ
+
+
+<lb n="6"/>bhavet* 22 yas [tu] et[ā](d)[ṛ](śaṃ s)ūtraṃ (ni)rvṛtasmi mayi tadā{ṃ}  : paścākāle likhed vā pi idaṃ duṣkarakaṃ bhave[t]* 23 pṛthividhātu-
+
+
+<lb n="7"/>ś ca yaḥ sarvva[ṃ] nakhaprāntasmi prakṣipet* prakṣipitvā ca gaccheta brahmalokaṃ ca āruhet* 24 na ta[[d]] duṣkaraka[ṃ] asya nāpy asya vīrya
+
+
+<lb n="8"/>tātakam* ta[[d]] duṣkaraṃ karitvāna sarvvalo[[ka]]sy(’) ihāgrato{ḥ} 25 ato duṣkarataraṃ tasya nirvṛtasya mama va tadā : paścākāle idaṃ sū- [va: erased]
+
+
+
+
+
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Parallel to: KN.254.6-255.12</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>traṃ vācaye yo muhūrttikaṃm* 26 na ta[[d]] duṣkarakaṃ bhoti kalpodāyasmi yo naraḥ maddhye gacche adahyantas tṛṇabhāraṃ ca gṛhṇiyāt* 27 a-
+
+
+<lb n="2"/>to duṣkara{ṃ}taraṃ tasya nirvṛtasya mamātyayāt* dhārayitvā imaṃ sūtraṃm ekasatvaṃ pi śrāvayet* 28 dharmaskandhasahasrāṇi aśīti yaś ca
+
+
+<lb n="3"/>dhārayet* sopadeśā yathā-u(kt)ā(ṃ) [deśa]yai[t pr](ā)ṇakoṭināṃm* 29 na eta[[d]] duṣkaraṃ bhoti tasmi kālesmi bhikṣuṇāṃ vineyāc chrāvakā
+
+
+<lb n="4"/>mahyaṃ yaś cābh[i]jñā[su] sthāpa◯y(et*) 30 tasyaita[[d]] duṣkarataraṃ ya imaṃ sūtra dhārayet* śraddhadhed adhimucyeta bhāṣeyā ca punaḥ [[punaḥ 31]]
+
+
+<lb n="5"/>koṭi[sa]hasra ba(hava)ḥ a◯(rha)tv[e] yaś ca sthāpayet* ṣaḍabhijñā mahābhāgā yathā gaṃgāya vālikāḥ 32 ato bahu-
+
+
+<lb n="6"/>taraṃ karma karoti [s]a {n}naro(t)[t](amaḥ pa)[r]i[nirv]ṛ[ta]sya yo mahya sūtraṃ dhāreti (’)maṃ varaṃ 33 lokadhātusahasreṣu bah(ū) [m]e dharma bhā-
+
+
+<lb n="7"/>ṣitāḥ adyāpi cāha(ṃ) bhāṣāmi buddhajñānasya kāraṇam* 34 idaṃ tu sarvvasūtreṣu agraṃ sūtra(ṃ) pra-ucyate dhāreti yo
+
+
+<lb n="8"/>imaṃ sūtraṃ dhāreti jinavigraham* 35 bhāṣatha vāca kulaputrā saṃmukhan tu{s} tathāgataḥ yo utsahati yuṣmā-
+
+
+
+
+
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 487</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Folio No. 10; Parallel to: KN.255.12-256.6, 266.4, 267.1~3</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>{yuṣmā}[[kaṃ]] paścākālesmi dhāritum* 36 mama priyaṃ kṛtaṃ bhavati lokanāthe{na}ṣu sarvasu : durdhāraṇam idaṃ sūtraṃ yo dhāreta muhū-
+
+
+<lb n="2"/>rttakam* 37 saṃvarṇitaś ca so bhoti lokanāthebhi{:}  sarvvaśaḥ śūro śoṭīrya so bhoti kṣiprābhijñaś ca bodhiya : 38 dhurāvahaś ca
+
+
+<lb n="3"/>so bhoti lokanāthāna [o]rasaḥ dānta[bh]ūmim anuprāptaḥ sūtraṃ dhāreti yo imam* 39 cakṣubhūtaś ca so bho[t]i loke sama-
+
+
+<lb n="4"/>rumānuṣ[e] idaṃ sūtraṃ prakā◯śi[t]vā nirvṛtasya vināyake 40 vandanīyaś ca so bhoti sarvvasatvāna paṇḍitaḥ paścime kāli
+
+
+<lb n="5"/>yo bhāṣi sūtram eta(ṃ) m[[uh]]ū◯[rtta](ka)m* : 4[[1]] // Saddharmapoṇḍarīke mahāvaitulyasūtraratnai Stūpadarśanapari[va]rtto nāmai-
+
+
+<lb n="6"/>kādaśamaḥ samāp[t]aḥ 11 ◎ atha khalu Bhaiṣajyarājā bodhisatvo mahāsatvaḥ Mahāpratibhānaś ca bodhisatvo ma-
+
+
+<lb n="7"/>hāsatvaḥ te vi[ṃ]śadbodhisa◎tvaśatasahasraparivārāḥ bhagavataḥ purata-m-imā(ṃ) vācā(ṃ) bhāṣinsu : alpotsu-
+
+
+<lb n="8"/>ko bhagavāṃ bhavatv asmi(ṃ) sthāne ◎ vayam etad dharmaparyāyaṃ tathāgatasya parinirvṛtasyaimasmi(ṃ) Sahai lokadhātau {:}  [[satvānāṃ]]
+
+
+
+
+
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Parallel to: KN.267.3~267.12</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>deśayiṣyāmaḥ saṃprakāśayiṣyāmaḥ ki[[ṃ]] cāpi bhagavāṃ krūrāḥ kakkhaṭ(ā)s tasmiṃ samayai paścimai kāle satvā bhaviṣyanti parittaku-
+
+
+<lb n="2"/>śalamūlā adhimānikā{ṃ}ḥ lābhasatkārasa(ṃ)niśṛtā{ṃ}ḥ akuśalamū[la]pratipannā{ṃ}ḥ durdamāḥ kaṭuṅkāḥ adhimuktiviharitā{ṃ}ḥ
+
+
+<lb n="3"/>anadhimu[k]tibahulā[ḥ] (a)[pi] (tu) [khalu] punar bhagavāṃ vayaṃ kṣāntibalam upadarśayitvā tasmi(ṃ) sa[ma]ye : paścime kāle
+
+
+<lb n="4"/>imaṃ sū[t]ra(m) ude(kṣ)y(āmaḥ) ◯ (dhāra)yiṣyāmaḥ vācayiṣyāmaḥ deśayiṣyāmaḥ saṃprakāśayiṣyāmaḥ likhiṣyāmaḥ
+
+
+<lb n="5"/>satkariṣyāmo [:] (gurukar)[i]◯(ṣyāma)[ḥ māna]yiṣyāmaḥ pūjayiṣyāmaḥ kāyaṃ ca jīvitaṃ ca vayaṃ bhagavāṃ parityaktvā
+
+
+<lb n="6"/>imam eva guṇa[j](ātīyaṃ s)ū[t]raṃ (p)r(a)kāśa[yi]ṣyāmaḥ alpotsuko bhagavāṃ bhavatu : atha khalu tataḥ pariṣāyaḥ pañca-
+
+
+<lb n="7"/>bhikṣuśatāni śaikṣāś[aik]ṣ(āṇāṃ) bhikṣūṇāṃ te ekasvareṇa bhagavantam etad avocur vayam api bhagavān utsahāma imaṃ
+
+
+<lb n="8"/>dharmaparyāya(ṃ) tathāgatasya parinirvṛtasyaimasmi(ṃ) sahe lokadhāto saṃprakāśayituṃ apy ānyāsu lokadhātuṣu
+
+
+
+
+
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

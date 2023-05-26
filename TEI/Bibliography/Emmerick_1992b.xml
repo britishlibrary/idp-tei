@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Emmerick_1992b">
+    <author>Emmerick, R.E</author>
+    <title level="m" lang="eng">The Sutra of the Golden Light</title>
+    <imprint>
+      <pubPlace>Oxford</pubPlace>
+      <publisher>Pali Text Society</publisher>
+      <date>1992</date>
+    </imprint>
+    <keywords>Buddhism</keywords>
+    <keywords>Sutra</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

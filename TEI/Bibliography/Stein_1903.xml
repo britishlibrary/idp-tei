@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Stein_1903">
+    <author>Stein, M. Aurel</author>
+    <title level="m" lang="eng">Sand-buried ruins of Khotan; personal narrative of a journey of archaeological and geographical exploration in Chinese Turkestan</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>T. Fisher Unwin</publisher>
+      <date>1903</date>
+    </imprint>
+    <keywords>archaeology</keywords>
+    <keywords>exploration</keywords>
+    <genBibl>collections_en</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<bibl id="Petersen_1988">
+  <author>Petersen, Jens O.</author>
+  <title level="a" lang="eng">The Dunhuang manuscripts in the Royal Library of Copenhagen</title>
+  <imprint>
+    <editor>Leif Littrup</editor>
+    <title level="m" lang="eng">Analecta Hafniensia, 25 years of East Asian Studies in Copenhagen</title>
+    <pubPlace>Copenhagen</pubPlace>
+    <publisher>Curzon Press</publisher>
+    <date>1988</date>
+    <biblScope type="pp">112-117</biblScope>
+  </imprint>
+  <genBibl>collections_da</genBibl>
+</bibl>

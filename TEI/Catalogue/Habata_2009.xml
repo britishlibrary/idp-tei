@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Mahāparinirvāṇa-mahāsūtra Manuscripts in the Stein and Hoernle
+                    Collections (1)</title>
+        <author>Habata, Hiromi</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>IDP</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2010</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Hiromi Habata, “The Mahāparinirvāṇa-mahāsūtra Manuscripts in the Stein and
+                    Hoernle Collections (1),” in: Buddhist Manuscripts from Central Asia: The
+                    British Library Sanskrit Fragments, Volume II.1 (Texts), ed. by Seishi KARASHIMA
+                    and Klaus WILLE, Tokyo: The International Research Institute for Advanced
+                    Buddhology at Soka University, 2009, pp. 551-588.</p>
+        <bibl>
+          <ref>Habata_2009</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Input and marked up by IRIAB.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This catalogue contains transliterations of Sanskrit fragments in the Stein
+                Collection at the British Library.</p>
+    </head>
+    <body>
+      <msDescription n="Or.15010/139">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/139</idno>
+          <idno type="Hoernle">H.143. SC. 137</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note>Tib. P16b5-17b7; C17a5-18a6; D16a4-17a5; N24a6-25b7; L62a3-63a8;
+                            T58b5-60a3; S63a5-64b4 ; ChinD 370a24-c6; ChinF 856b20-c16; Matsuda C-6;
+                            Folio No. not preserved.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// .. yārditānāṃ [dh]armakathikathikānāṃ
+                            [dh]arma[n]aitrī .[r]. /// <lb n="2"/>/// [k]ā[n]ta(r)[e v]ā
+                            [a]ṭavīkāntāre vā [na](d)ī(k)ān(t)ā(r)e /// <lb n="3"/>/// [y].
+                            [nt]. (v)i[g]atamā◯raśaṭṭhyo bhū /// <lb n="4"/>/// na khalu te
+                            pāpī◯ .ā /// <lb n="5"/>/// [ṣ](ṇ)[ī]m abhūt* [dv]is trir a◯(p)[i]
+                            /// <lb n="6"/>/// [ro] [d]e[v]a[p]u[t]r[o] [pra] .. /// <lb n="7"/>/// .ya p[ū]jā .. .. /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// [y](e)[na] bhaga[v](āṃs) [t](ena) /// <lb n="2"/>/// [v]ann asmā[danuka] .. /// <lb n="3"/>/// d(i)gbhā[g]e ito
+                            bu◯ .. /// <lb n="4"/>/// (r)hā saṃmyak[s]aṃbu◯ddh(a)[ḥ] /// <lb n="5"/>/// (pa)[r]i[n]irvvāsyati na ◯ c[i]rā saḥ .. /// <lb n="6"/>/// .. bhuṃ[j]ya parinirvvātu tathāga[to] bhagavān
+                            (i)t(i) /// <lb n="7"/>/// (bodhi)[sa]tvo mahāsatvaḥ sādv iti ・
+                            sudhitāya taṃ tathāga[taṃ] /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/46">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/46</idno>
+          <idno type="Hoernle">H.143. SB. 72</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note>Tib. P43b7-45a1; C44a3-45a5; D43b4-44b6; N64a5-65b7; L96a3-97b1;
+                            T91a8-92b5; S98a7-99b6 ; ChinD 382a20-b25; ChinF 865b2-c10; Matsuda C-2;
+                            Folio No. 39</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>iṣiṇḍakā iva gorasasya te puna brahmacaryāheto parad.
+                            [r]. .. rjanāheto[ḥ] /// <lb n="2"/>sāvaśeṣaṃ te mātṛpitṛpūjā
+                            īdṛśeti na jānanti tṛśaraṇagamanam a[p]i na jānanti ・ pa[r]. /// <lb n="3"/>mṛṣā tena [l]o[k]i[kā] saṃjānanti tathā◯gataḥ anitya
+                            adhruva iti tasmā[d] anitya[ḥ pr]. /// <lb n="4"/>kasya bhāgī
+                            [c]a[kk]ravarttī rājā loke ◯ [ut]padyata ・ te ca iṣiṇḍakāś
+                            cakkravarttipuṇyānu /// <lb n="5"/>s taṃ v[r]ajam utsṛjyānyatra ga
+                            .. yu[ḥ] tato rājña cakkravarttino gṛhapatiratnaṃ taṃ vrajaṃ
+                            pratipadyeta ・ /// <lb n="6"/>gavo (’)(p)[i] dviguṇāta[raṃ] kṣī[raṃ]
+                            .. [dy]u rājñaś cakkravartti[n]aḥ [pu](ṇ)[y]e[n]a evam eva
+                            dharmacakkrapravarttī buddho /// <lb n="7"/>gata[m] evānugacchati ・
+                            lokikā iṣiṇḍakā iva gatim api na prāpnuvaṃti ・ buddhaśabdaga .. /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>tvānāṃm arthe dharmakṣīraṃ ca duhate ・ anena kāraṇena
+                            kulaputra tathāgato nityo dhruvaḥ śāśvata /// <lb n="2"/>eva(ṃ)
+                            jānīhi ・ evaṃ ku[la]putreṇa vā kuladuhitā vā nityo bhagavāṃ buddha
+                            śāśvato bhagavāṃ .. /// <lb n="3"/>va mama gatim anūnām ana[ti]rekāṃ
+                            ya◯syanti : yadā kulaputra iti dvyakṣarabhāvanāṃta[r].[i] /// <lb n="4"/>dharmatā ・ āha [s]ma ・ buddhānāṃ dharma◯[t]eti ・ asya bhāṣitasya
+                            ko (’)rthaḥ icchāmy ahaṃ [bh]. /// <lb n="5"/>ma śarīratyāgaḥ
+                            śarīratyāgo nāma digvādaḥ eṣa iti jānīhi ・ āha sma ・ [ś]arīraṃ tya ..
+                            /// <lb n="6"/>cchedo (’)yaṃ tadyathā nāma kulaputra asaṃjñināṃ va
+                            rūpaskandhaḥ saṃjñāskandhas tataḥ te satvāḥ ka /// <lb n="7"/>ccheyā
+                            mā bhūt* yaḥ kulaputra evaṃ prākṣīḥ kathaṃ nirdeṣṭavyā[n]i + +
+                            [saṃ]jñināṃ satvān(ā)[ṃ] /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/65">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/65</idno>
+          <idno type="Hoernle">H.143. SB. 102</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note>See also Or.15010/137 (H.142. SC. 152) (right portion). Tib.
+                            P50b1-51a5; C50b2-51a6; D50a4-50b7; N73b6-75a1; L104a2-106a1;
+                            T99a4-100a3; S107a2-108a3 ; ChinD 384c3-23; ChinF 867b17-c10 Matsuda A-3
+                            (H.143. SB. 102) and A-4 (H.142. SC. 152) ; Folio No. 5745 </note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>jānāti ・ balāṃsīyam api jānāti ・ du(r)[b]. + + + + + + +
+                            + + + + + + + <lb n="2"/>karoti ・ kathaṃ vainayikavaśaṃ jānāti ・
+                            asti .. + + + + + + + + + + + + + <lb n="3"/>traicchati ・ antargṛhe
+                            maṇḍale vā ◯ sthāpayitvā [p]atnīnaṭīmaṇḍapaṃ vidh. + .ṛ + + + + + <lb n="4"/>bhikṣor vvā ・ bahūni varṣāṇy aṃ◯targrāme prakkrīḍituṃ ・
+                            na tu śrāvaka[y]. + <lb n="5"/>līyā nāma yā dṛṣṭvārtho◯tpattiṃ
+                            tathāgataḥ śikṣāpadaṃ praj[ñ]. + + <lb n="6"/>tura pārājikān yadi
+                            yūyaṃ kariṣyatha nāsti pravrajyā ti ・ sa bal[ī] + + <lb n="7"/>utpādayet* tacchikṣāpadaṃ na gāḍhaṃ kuryyāt* tathāgata[ḥ] trir api
+                            taṃ dṛṣṭvā paraṃ + + </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>[nā]ma sā[v]aśeṣaṃ vi[nay]a pramāṇaṃ karoti ・
+                            yatrākal[p]i[k]adānapraśaṃsā .. + + <lb n="2"/>śīla kāṣāyaiḥ
+                            sā(r)[dh](aṃ) [ma](hā)kumāro bhavati ・ yas tad api vinayaṃ pramā .. + +
+                            + <lb n="3"/>t pratirūpe buddhavaca[ne] .. [d/dd]e [ś]. ya[t]i [・]
+                            .. ta udhṛtya tam api vinayaṃ vadāmi + + + + <lb n="4"/>ti ・ sa
+                            tādṛśo [lo]k[o] vina◯yadharaḥ ayaṃm ucya[te] vina .. .. + <lb n="5"/>th[āga]to (’)sy acintya ・ āha sma ・ ◯ bāḍaṃ bhagavān* acintyas
+                            tathā[g]a .. + + <lb n="6"/>gavān etāt* avocat* [s]ādhu [s]ā[dhu
+                            m]ahākāśya[p]. + .o + + .[ā] + + + + + + + <lb n="7"/>na bhavitavyaṃ
+                            ・ vajrābhedyakāyas tathā[g]. + + + + + + + + + + + + + + + + </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/137">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/137</idno>
+          <idno type="Hoernle">H.142. SC. 152</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note>See Or.15010/65 (left portion)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>+ + + + + + + + + .[i] ・ vinayaṃ pramāṇaṃ <lb n="2"/>+ + + + + + .. kālau nāma na vidyate ・ sa ya <lb n="3"/>+ + +
+                            + (s)[th](ā)payitvā ・ bodhisatvasya kṣamate [・] <lb n="4"/>..
+                            [sy](a) [b](a)[l](ī)yāṃsa durbalaṃ ca ・ kathaṃ jānāti ・ ba <lb n="5"/>+ + + ..ṃ [d]ṛṣṭvā dvir apy evaṃ na karttavyaṃ : punaḥ punaḥ ca
+                                <lb n="6"/>+ + + + (d)[u]rbalaṃ nāma imāṃ kaścid ekām
+                            arthotpattiṃ <lb n="7"/>+ + + [t]i saṃpūrṇaṃ nisaraṇam ity ucyate ・
+                            ta duḥrbala </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>+ + + .. ṇaṃ karoti ・ vinaye śikṣate kṣepaṃ kṛt[vā] {:}
+                            duḥ <lb n="2"/>+ + ye sa dṛśyate ・ tatrāsya paramasaṃtuṣṭi ・ ya <lb n="3"/>+ + .. kākṣaraṃ jānāti ・ yaḥ ekākṣaraṃ jā[n](ā) <lb n="4"/>+ + [ntikaḥ] evam aprameyaṃ tathāgataśāsanaṃ ・ ta <lb n="5"/>+
+                            + + + + + .. .. iti ・ parebhyo deśayiṣyāmi ・ [bh]a <lb n="6"/>+ + +
+                            + + + + + [e]va[ṃ] samyagdarśanaśikṣā[k]. .[e] <lb n="7"/>+ + + + +
+                            + + + + + .. .. [da]r[ś](a) .. + + </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/105">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/105</idno>
+          <idno type="Hoernle">H.143. SC. 64</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note>See IOL San 1458 (Stein Kha. i. 316) (right portion). Tib. P59a7-60a6;
+                            C59b7-61a1; D58b3-59b2; N86b4-88a4; L115b3-116b5; T110a2-111a5;
+                            S118a7-119b3; ChinD 388a4-25; ChinF 870b2-24 ; Matsuda A-16 (H.143. SC.
+                            64) and A-15 (Stein Kha. i. 316); Folio No. not preserved.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// ti ・ āha sma ・ sādhu bhagavan* nira <lb n="2"/>/// .. ・ tad yathā rāj[āc](akk)[r](a) + + + + + + + <lb n="3"/>/// [na] mṛtasaṃjñā kalpa[y]. + + + + + + + <lb n="4"/>///
+                            [s]aṃjñā na kalpayi .. + + + + + <lb n="5"/>/// .ya niṣkleśo
+                            bhagavān* vividhadh[ār]. + <lb n="6"/>/// [ga]taḥ āha sma ・
+                            asaṃkhyeyakalpakoṭ[ī] <lb n="7"/>/// [tr]ā saha kāmān anusevitavān*
+                            rāhula .. </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// (ku)[l](a)putra tathāgatān arhataḥ samyaksaṃbuddhan*
+                            [p]r. <lb n="2"/>/// [i]ti mahāparinirvvāṇam iti ・ mahānityā <lb n="3"/>/// .. bo[dh]isatvo mahāsatvaḥ sumeruṃ parvva[ta] .. <lb n="4"/>/// [k]ā syāt* na ca te sa[tvā] (j)[ā] + + + + <lb n="5"/>/// [ṣa]paphalako[ś]e (’)bhi[p]r. + + + + + <lb n="6"/>/// tra
+                            mahāparinirvvā[ṇa] + + + + + + <lb n="7"/>/// .[e] + + + + + + + + </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="IOL San 1458">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 1458</idno>
+          <idno type="Stein">Stein Kha.i.316</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note>See Or.15010/105 (left portion)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/><lb n="2"/>/// + + + + (mu)[hūr]ta udyānaṃ nigacchet* [s]a tatra <lb n="3"/>/// + + + (ta)thāgato dharmatāhīno bhaviṣya[t]i + <lb n="4"/>/// + + .ā udyānaṃ praviśya prakkrīḍa{ra}ti ・ [ta] + + +
+                                <lb n="5"/>/// + + ganā[n]āpuṣpodhyāne pra[v]iśya [k](k)[r]ī + +
+                            + + <lb n="6"/>/// kle[ś]asa(m)udrā nistīrṇa tathā[ga] .. + + + + +
+                                <lb n="7"/>/// + + + + [r].i ..ṃ[ta]s(m)ā + + + + + + + + </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// + + + + + .. [t]r[ā] .. + + + + + + + under 1///
+                            [rāh]ulapi[t]ṛtvaṃ ca /// <lb n="2"/>/// khyāta(ṃ) śṛṇ[u t]a nā[t]ya
+                            [m]anaskā .. + + + + + + <lb n="3"/>/// + + (t)āv(a)d
+                            u(n)[n](a)[d]dhaṃ ・ tāva vi[s](t)īrṇa .. + + + + + <lb n="4"/>/// +
+                            .[ā] ・ kva vā prakṣiptāḥ kva vā nītā [i] + + + <lb n="5"/>/// + + +
+                            + [pu]na svasthāne [s]thā(pa)yet* evam [e](va) <lb n="6"/>/// + + +
+                            + + + hasramahāsahasraṃ lokadhā <lb n="7"/>/// + + + + + + vā
+                            pra[kṣ]iptā iti ・ anye [sa]tvā saṃ </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/72">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/72</idno>
+          <idno type="Hoernle">H.147. SB. 109</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note>Tib. P86a1-87a1; C91a1-92a4; D84a2-84b7; N126a7-127b6; L148b6-150a2;
+                            T143a7-144b3; S156a1-157b1; ChinD 398c16-399a23; ChinF 877b18-c17 ;
+                            Matsuda C-3; Folio No. 78 </note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>ti śroṣya .. + + + + + + + + + + + + + + + + + + + + + +
+                            .. sameṣu buddheṣu .. /// <lb n="2"/>vaitulyaṃ pratikṣ[e]psy. + + +
+                            + + + + + + + + + + + + + + .[y]. ti ・ na punar arthaṃ saṃpū /// <lb n="3"/>vanteṣu bodhicittaṃm u(t)p[ā] .. + + + + + + + + + .y. ..
+                            pratikṣepsyaṃnti uddekṣyaṃnti drakṣyanti [l]. /// <lb n="4"/>jñāsyanti na punar arthaṃ saṃpū(r)[ṇa](ṃ) [bh](o)◯tsyaṃte ・ ye
+                            ṣaḍgaṃgānadīvālikasameṣu buddha bodhicittam utpā[d]. .. /// <lb n="5"/>ṣyaṃti likhiṣyaṃnti likhitvodgṛhīṣyaṃ◯nti ・ ardhadvibhāgaṃ
+                            saṃbhotsyaṃte na tv arthaṃ saṃpūrṇaṃ vijñāsyanti ・ ye aṣṭagaṃgāna .. ///
+                                <lb n="6"/>ditaṃ te paści[m]e [k]āle vaitulyaṃ na
+                            pratikṣepsyanti ・ udikṣyaṃti śroṣyaṃti likhiṣyanti likhitvodgṛhīṣya[n]ti
+                            dhārayiṣyanti ・ vāca[y]. /// <lb n="7"/>n[t]i [r]. ..
+                            [k](a)[r]iṣyaṃnti prakāśayiṣyanti sarvvalokānukaṃpārthaṃ pūjāsatkāraṃ
+                            pustakānāṃ kariṣyaṃti paraiś ca kārayiṣyanti ・ guru /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>syaṃt(i ・) [n](i)ty(o) dhruvaḥ śāśvate hy acala sukho
+                            bhagavāṃn iti tathāgatagarbhaḥ sarvvasatvānām* saṃprakāśayiṣyatīti evaṃ
+                            paryu[p]ā /// <lb n="2"/>rmam uddhariṣyaṃti saddharmapakṣadharaś ca
+                            bhaviṣyanti ye adya bodhaye cittam utpāditaṃ te paścime kāle saddharmam
+                            uddhariṣyaṃti saddharma[dh]. .. /// <lb n="3"/>nti ・ mā tvaṃ
+                            kulaputra evaṃ dr[ā]kṣī ・ a◯nāgatānāṃ satvānāṃ saddharmasyoddhārakāṃnāṃ
+                            ye (’)ddhya bodhaye cittam utpā[day]i ..[ṃ] /// <lb n="4"/>saddharmam uddhariṣyāmīti ・ [j]ā .ī .. ◯ ye (’)dya kulaputra neṣāṃ
+                            bahirdhā na durmanasaḥ prahṛṣṭā saṃvṛttā ma[h]ā /// <lb n="5"/>smākaṃ lābhasatkāra .i r.. + + + + + + + [l]. + .[o] + [v]iṣyatīti
+                            prahṛṣṭamanasa buddho .. /// <lb n="6"/>vajāḥ sūtraṃ pra[t]i .e + +
+                            + + + + + + + + + + + + + + + + + [nv]āgatāḥ satvā te ma /// <lb n="7"/>laputrā .. + + + + + + + + + + + + + + + + + + + + + + + +
+                            .[y]ākhyānāni134 kṣa[yaṃ] /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15009/287">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15009/287</idno>
+          <idno type="Hoernle">H.149.add. unnumbered</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note>Tib. P106a8-107a8; C114a8-115b2; D103b5-104b4; N156b7-158a7;
+                            L175a6-176b3; T169b8-171a4; S185a7-186b5; ChinD 407c2-408a2; ChinF
+                            883b29-c16 ; Matsuda B-7; Folio No. not preserved</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// lakāya sta <lb n="2"/>/// .. det* mā sma pi <lb n="3"/>/// .. .. + + + + + + stanābhyāṃ udi <lb n="4"/>///
+                            .[ā]pte sā nā[r]. .. [p]u[t]r. [m]. v. vadet* svasta[n]au [pra] <lb n="5"/>/// .[t]. māno necchet* mā tvaṃ tra daṇmukho bhavet* sā
+                            punar e <lb n="6"/>/// .. ya ni(ṃ)bapatrakalke .. stano praliptā* mā
+                            te viṣama <lb n="7"/>/// .. va kulaputrāhaṃ prā[g] v[ai]neyavaśena
+                            sarvvadharmā an[ā]tmāna <lb n="8"/>/// .. yate a[ha]ṃ .. ..
+                            parityaktvā nirvv[ā] .. m adhigacchaṃti bhikṣūṇāṃ bālaghṛ <lb n="9"/>/// .[m]y. saṃdarśa[n]. + + [lo]kikāt[ma] + + .āt[va]ṃ .. ..
+                            [n]āya nairātmabhāva </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// [li](ṃ)pet* evam . [h]. [śū]nyatā bhāva[y]. + +
+                            [rvv]. dh. .. + nātmāna ity uktavān* <lb n="2"/>/// .. [va]dati
+                            [pū]rvv. [t]. .gṛtajaraṇāya .. .. tau stanau pātuṃ idānī pipeti ta <lb n="3"/>/// [t](a)thāgatagarbho (’)stīti de .. [yā]mi mā bhikṣavo
+                            bhaiṣṭa bālavat* ya <lb n="4"/>/// .. .. asmākam u[p]ari
+                            [t]athāgatagarbho (’)stīti vimṛśya bhāva[n]āyā <lb n="5"/>/// .. ..
+                            jñāno bhavati ajñāne paṭatvaṃ na yuj[y]ate ya <lb n="6"/>/// .[m].
+                            ti vadā[m]i .. .ā .. [j](ñ)ānena ca satā ni[t]yā <lb n="7"/>/// ..
+                            [ṇ]ā + + + + + + .. karmaviśaiṣaiḥ <lb n="8"/>/// .. .i sā
+                            paradravya <lb n="9"/>/// .. rā śṛṇu </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/161">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/161</idno>
+          <idno type="Hoernle">H.143. SC. 174</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note>Tib. P126b5-127b2; C137a1-137b6; D122b7-123b4; N186a7-187b2;
+                            L200b3-202b2; T194b5-195b4; S213a7-214b2; ChinD 416a28-b23; ChinF
+                            890b7-27 ; Matsuda A-14; Folio No. not preserved</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// [t]e jāṃbudvīpakās saṃjānaṃ[t](i) /// <lb n="2"/>/// (ca)ndram ity anye saṃjānaṃti ・ [n]. .c. /// <lb n="3"/>/// (tathāga)[to] (’)rhaṃ sa◯myaksaṃ[b]. /// <lb n="4"/>/// ..
+                            [k]vaci utpa◯dyamā/// <lb n="5"/>/// .āyā candravat* ◯ lekhaś[ā] ///
+                                <lb n="6"/>/// t[e] ・ astaṃgatam iva parini /// <lb n="7"/>/// [n]aṃ[t]i ・ kecid utpannotpattiṃ ; na [c]. /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// (sar)[vv]atra dṛśyate : udake (’)py ara[ṇy]e /// <lb n="2"/>/// .. [ta]trāyaṃ [s]a [c]andraḥ mam ev[ā] /// <lb n="3"/>/// .āyaṃ candra iti bāla /// <lb n="4"/>/// .. .. [nna] ..
+                            [ḥ] [paṃ]◯cāśa /// <lb n="5"/>/// [sv]aṃ [v]ijñā[n]a ◯ [v]ika .. ///
+                                <lb n="6"/>/// .. ti [mama] .. [rak]e vasati ・ .. /// <lb n="7"/>/// .. t(i ・) badh[i]ra[kuṇḍānu]yamo /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/1</idno>
+          <idno type="Hoernle">H.143. SA. 6</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note>Tib. P132b8-133b7; C143b1-144b2; D129a1-129b7; N195b4-197a4;
+                            L209a7-210b3; T202a3-203a6; S221a7-222b3; ChinD 418b13-419a2; ChinF
+                            892b8-c7 ; Matsuda C-4; Folio No. 134</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>kṛtā[ny a]pi kṣi[p]ra[ṃ] pra[r]. .. [t]. + + +
+                            [m]a(ṃ)jarīv[aṃ]ti bhavaṃt[i] [ś]ā[kh]ā vi[ṭa]pa[va]ṃti
+                            [bh](a)[v](aṃt)[i] vṛkṣasaṃkhya[ṃ ca] ga[cch]aṃ[t]i [na] .. laṃ [ya]di
+                            toyaṃ la[bhaṃte] ・ evam e <lb n="2"/>vehaṃ (ś)āsane
+                            pārājikāna(ṃ)taryakāri[ṇaḥ] śallakīka .i [kā]ravat*
+                            tālamastaka[cch](i)[nn](ā) asya [s]ūtrasya śrava[ṇam]ātreṇa alaṃ cittā
+                            [a]pi bodhau ro[haṃ] <lb n="3"/>ti narakuṃjarāḥ ya[th]ā
+                            khadira◯tin[d]ukavṛkṣā cchinnā naiva rohaṃti dagdhabījavat* evam
+                            icchan[t]ikāḥ satv[ā] bahuś[o] (’)pīdaṃ sūtraṃ [ś]rutvā bodhau naiva vi
+                                <lb n="4"/>rohaṃti da[gdh]abījavat* yathā ◯ var[ṣ]atsv api
+                            mahā[m]e[p]u ekaghanena salilaṃ naivāvati[ṣ]ṭhate ・ evam asmiṃ
+                            sūtrameghe dharmaṃ varṣaṃ pravarṣati [bo] <lb n="5"/>dhihetur
+                            icchaṃtike [n]aivāvatiṣṭhate ◯ ekaghano hi sa vajravat* icchaṃtikāḥ
+                            kalyāṇakṛtaṃ na paśyataḥ paśyati tu pāpaṃ nidiśituṃ garhitaṃ ca yaḥ <lb n="6"/>sukṛ[t](a)ṃ (b)o[dh]i[r] ity arthaḥ na vyaiti na
+                            gacchatīty arthaḥ sandheti kalyāṇam ity arthaḥ
+                            saṃndhākarmaviśiṣṭakalyāṇaṃ kasya nāgacchati bhadrakarma icchaṃtikasya
+                            nāgac[ch]a <lb n="7"/>ti + + + + + + + laṃ satva icchaṃtikā iti [v]i
+                            .. + + + + + .. .. + + .. [k]iṃ mūlāgaṃ sūtrapratikṣepaḥ tasmād
+                            bhetavyaṃ sūtrapratikṣepako hi dāruṇaṃ : </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>ta + + + + + + + ḥ dhīrā mahāpathai saṃti
+                            [s]aṃ[sk](ā)[r]. + + + + + .. .. .. + .y(aṃ)ti gacchaṃti goraṃ mānavaśaṃ
+                            tato nāsādayaṃti durmedhasaḥ taṃ ca[[ndra]]m uddha <lb n="2"/>raṃta
+                            ・ iv(a) v[ā]narā āsādayaṃti [t]u [p]aṇḍitā dhīrā nar[e]ndrā iva
+                            mahāpathe kaḥ kṛtaṃ na paśyati saṃsārakoṭyāṃ sa na paśyati arthaṃ
+                            bhāṣiṣye : saṃkṣepasamu <lb n="3"/>ccayaṃ tasmād bhetavya[m
+                            pa]ramadāru◯ṇā[t]* yadā sar[vbasa]tvā ekamanaso bhūtvā anuttarāṃ
+                            saṃmyaksaṃbodhim abhisaṃbotsyate ・ tadā icchaṃtika [p]ā <lb n="4"/>po (’)pi saṃ[bo]tsyate sa tadā pa◯rāṃ bodhi sarvvakṛ(ta)[ṃ] na
+                            paśyati ・ evaṃ jāṃnīṣva viśārada kasya kṛtaṃ na paśyati ・ tathāgatasya
+                            yadā sarvvas(a) <lb n="5"/>tvā anuttarāṃ saṃmyaksaṃbodhim
+                            abhi◯saṃbotsyate saṃsāra[g]a[t]ā tadā tathāgatasya kṛtaṃ na
+                            vinakṣya(t)[i t]adā parinirvvāyātyaṃtaparinirvvāṇena ・ a[n]i <lb n="6"/>tyo buddho [bh]a[v]iṣyati ・ [d]īpa ive[ndh]anak[ṣ]ayādagdhir iva
+                            ta[dv]at* icchaṃtikasya pāpa[ṃ] karma garhitaṃ nindita(ṃ) ca ・ yad api
+                            bodhihetukaṃ puṇya[ṃ] ta .y. dhi ba .. + <lb n="7"/>[t]..
+                            [u]t[s]ṛjati [t]a .. [p]i .. .. + + + + .i .ocya[t]e mahā[yān]e [n]a
+                            .u(ts)ṛjati [t]a](ta)[:] saṃ [b]. + iti nāma va .. ti [bu]ddhānām iya
+                            dharmatā ・ kṣīra[ṃ] vā pāpakaṃ </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/63">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/63</idno>
+          <idno type="Hoernle">H.143. SB. 99</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note>See Or.15010/118 (H.143. SC. 91) (right portion). Tib. P136b4-137b3;
+                            C147b2-148b1; D132b3-133b1; N201b1-202b5; L214a4-215a6; T206b2-207b4;
+                            S226a1-227a3; ChinD 420a15-b18; ChinF 893b29-c16 ; Matsuda C-5 (Or.
+                            15010/63); Folio No. not preserved</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>[r]vv(a)j[ā](ṃ)budvīpakānāṃ satvānāṃ kṛṣṭvādikarma
+                            karttuṃ yogo nāsti te [s]ū(r)[y]. + + + + + + + + + + + + + + + <lb n="2"/>.. vam eva mahāyānīyānāṃ sarvvasūtrasamādhīn śrutvā
+                            bhāvayitvā mahāp(a)r(i)[n]. + + + + + + + + <lb n="3"/>+ + +
+                            (mah)ās(ū)tre saṃdhāvacanaṃ ◯ śrutvā saddharmasthāne karmārabhaṃte ・
+                            tataḥ ya + + + + + + + + + + + <lb n="4"/>+ + + + + + .e ..ṃ
+                            (ma)hā◯me[gh]atathā[[gata]]gar[bh]a[ma]hāsūtraśravaṇadharmavṛ .. + + + +
+                            + + + + <lb n="5"/>+ + + + + + + + .. ・ suśī◯tīnām iva
+                            mahāśrāvakānāṃ saddharmapauṇḍar[ī]k(a)[m]. + + + + + + + + <lb n="6"/>+ + + + + + (icchaṃ)tikam* tadyathā nāma kulaputra mahāvaidyo
+                            bhūtapra[h]ītasya + + + + + + + + + <lb n="7"/>+ + + + + + + + ca
+                            vadati kṣipram idam oṣadhaṃ nīyatāṃ nītvā ca ta{ṃ}d upa .. + + + + + + +
+                            + + + + </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>+ + + + + + + + .. ・ [a]ham evāgac[ch]āmi mā s[m]ā[sa]v
+                            anayavyasanaṃ gacche + + + + + + + + + + + <lb n="2"/>+ + + + + + +
+                            + [c]a su[kh]ī [bh]avati ・ eva[m] e(v)e[da]ṃ (mah)[ā](par)inirvvāṇaṃ
+                            mahāsū(traṃ) + + + + + + + + <lb n="3"/>+ + + + + + + + [v]ā śrutvā
+                            ◯ mahāvīryaṃ [m]a[h]ā[sūt](ra)ṃ .. .. [ṃ] [bo]dhihetur bhava[t]i [y]. +
+                            + + + + + + (pārāji) <lb n="4"/>+ + + + + +
+                            (mahāvai)[d]y(ada)r[ś]a◯nā[d] evāpi [nt/kt]a .. .. (bha)[v]aṃti
+                            bodhisatvā ma(hāsatvāḥ) + + + + + + + <lb n="5"/>+ +
+                            (pus)t(aga)t(aṃ) vā[c]ayitvā vā ◯ likhitvā vā śrutvā vā te kathaṃ na
+                            bhaviṣyaṃti b[o](dhisatvā mahāsatvāḥ) + + + + <lb n="6"/>[na]
+                            śṛṇonti tathaivaicchaṃt[ika]ḥ idaṃ [s]ūtraṃ śrotuṃ na labhate ・
+                            nirhetukaḥ sa i .i .. .. + + + + + + + + + <lb n="7"/>[d](ṛ)ṣ(ṭv)ā
+                            [ta]va mahārājaṃ marasamo vyā[dh]ir bhaviṣyatīti vyākuryāt* sa .. + .. +
+                            + + + + + + + + + + + + </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/118">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/118</idno>
+          <idno type="Hoernle">H.143. SC. 91</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note>See Or.15010/63 (H.143. SB. 99) (left portion).</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>+ + + + + (ā)d(i)karmārabh. + + + <lb n="2"/>+ + + +
+                            .i kṛṣyarthisa[t]va .. + + <lb n="3"/>+ + + [r].. vati ・ subhikṣaś
+                            caiv(a)ṃ + + <lb n="4"/>.. [k]. ra[maṇī]yakārī [m](ahā) + + + <lb n="5"/>(niṣ)[p](a)ttiniṣṭhā dhānyānām i .. + + + <lb n="6"/>
+                            (gu)ḍikā agadaṃ vā preṣa(yati) + + <lb n="7"/> (ya)[kṣ]arākṣa[s]. +
+                            + + + + + + + </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>+ dṛṣṭvā taṃ maṃ .. + + + + + + <lb n="2"/>(ta)to
+                            bahirdhā vāny. a .. + + + <lb n="3"/>[k]ānaṃntaryakarmabhūta [p]i +
+                            + + <lb n="4"/>.. [ma]hās[ū](t)[r](a)[v]īryahetoḥ .[e] + + + <lb n="5"/>+ + + + yathā hi badhirāḥ [ś](abdaṃ) <lb n="6"/>+ + +
+                            + .. rataṃtrajño vai[d]ya rā .. + <lb n="7"/>+ + + + + + + vaidya
+                            tam e .. + + </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15009/246">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15009/246</idno>
+          <idno type="Hoernle">H.149.add. unnumbered</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note>See SI P/88d (St. Petersburg) (here in round brackets). Tib.
+                            P156a1-156b7; C168a4-169a3; D150a5-151a2; N230a5-231b3; L238a5-239a7;
+                            T230a3-231a5; S249b6-251a2; ChinD 428a2-b12; ChinF 899b8-c23 ; Matsuda
+                            A-10 (Or.15009/246); Folio No. 178</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>5 ([tyeka]buddher api buddhaviṣayaḥ idam ava
+                            (’)cityāṃtvāt* atha devamanuṣ)yā(s)u(r)āḥ (ekakaṇḍā bhagavantaṃ
+                            gāthābhir adhyabhāṣatā || buddhāciṃtyā ・ a) <lb n="2"/>6 (cintya
+                            dharma ・ pravakta dharmaḥ saṃghaś cāśrito tvaryy ajasraṃ ・ tasmā nātha
+                            i)hāvātiṣṭhasva tāta yāvan naitaḥ kāśyapānandabhi[kṣ]ū (rājā vaidiho
+                            (’)jātaśatruḥ mahā) <lb n="3"/>7 (tmā [tvayy
+                            atyaṃ]tasnehasaṃrūḍhamūla nādyāpeti tvaṃ tato ma sma niṣ[ṭh]ā)ṅ gā
+                            sarvvajña cchindi ta ・ saṃśayās tvaṃ ・ atha bha[g]avā[ṃ]s tān
+                            icamadhyabhāṣa .. (+ + + putra kāśya) </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Mahāparinirvāṇa-mahāsūtra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 (po + + + + ḥ dh[ī]māś cānanda ・ cchetsyate saṃśayān
+                            taḥ yūyaṃ y)āsyadhve pryekṣya pādau vaṃdā me ・nityānityatvam tena mā
+                            kārṣā śokaṃ || atha tāḥ [sa] (+ + + + [ma]hat. pū) <lb n="2"/>2 (jā
+                            mahatī bhagavati vidhāyā anuttarāyāṃ samyaksaṃbodhau
+                            praṇidhā)[n(’)a]kṛṣata : tatra gaṃgara ・bibhara ・gaṃgāvālikasaṃkhyāḥ
+                            satvā ci[t](t)ā[n](y u[tp](ā)[dya] .r. + [ma]bhūmau bodhisa) <lb n="3"/>3 ([t](v)asthānaṃ ・ pratilapsyata ・ atha bhagavāṃ manyuśriyaṃ ca
+                            kumārakabhūtaṃ ma)[h]ākāśyapasago([tra])ṃ ([ca brāhmaṇa]) mahā[s]āla
+                            ma(trya cuṃda karmāraputraṃ bodhāv abhiṣicya) </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

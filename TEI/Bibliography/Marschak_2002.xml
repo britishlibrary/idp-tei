@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Marschak_2002">
+  <author>Marschak, Boris</author>
+  <title level="a" lang="fre">La thématique sogdienne dans l'art de la Chine de la seconde moitié du VIe siécle</title>
+  <imprint>
+    <title level="j" lang="fre" type="shortRef">Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres</title>
+    <biblScope type="pp">227-264</biblScope>
+    <pubPlace>Paris</pubPlace>
+    <date>2002</date>
+  </imprint>
+  <note>séances de l'année 2001</note>
+</bibl>

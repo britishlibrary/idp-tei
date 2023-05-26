@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Whitfield_2007a">
+    <author>Whitfield, Susan</author>
+    <title level="a" lang="eng">The Perils of Dichotomous Thinking: Ebb and Flow rather than East and West</title>
+    <imprint>
+      <title level="m" lang="eng">Marco Polo and the Encounter of East and West</title>
+      <editor>Akbari, Suzanne Conklin</editor>
+      <editor>Iannucci, Amilcare A.</editor>
+      <pubPlace>Toronto</pubPlace>
+      <publisher>University of Toronto</publisher>
+      <date>2007</date>
+    </imprint>
+    <genBibl>whitfield_susan</genBibl>
+  </bibl>
+</listBibl>

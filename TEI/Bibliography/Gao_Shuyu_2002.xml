@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Gao_Shuyu_2002">
+  <author lang="chi-Latn">Gao Shuyu</author>
+  <author lang="chi-Hant">&#x9AD8;&#x6A39;&#x6986;</author>
+  <title level="m" lang="chi-Latn">Xixia yanyi</title>
+  <title level="m" lang="chi-Hant">&#x897F;&#x590F;&#x6F14;&#x7FA9;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Yinchuan</pubPlace>
+    <publisher>Ningxia renmin chubanshe</publisher>
+    <date>2002</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>History</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

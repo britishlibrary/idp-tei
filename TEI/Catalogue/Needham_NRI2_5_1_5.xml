@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Notebook written by Joseph Needham of his visit to Dunhuang 12–17 July 1958. (Unpublished manuscript, 84pp. with two inserts (postcards).</title>
+        <author id="JN">Joseph Needham</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The British Library</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2015</date>
+      </publicationStmt>
+      <editionStmt>
+        <edition>First electronic edition</edition>
+        <date>2015</date>
+        <respStmt>
+                    Converted to XML encoding by
+                    <name>Sam van Schaik
+                    </name>
+                </respStmt>
+      </editionStmt>
+      <sourceDesc>
+        <p>Notebook, pressmark NR12/5/1/5.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Imported to 4D on 09/01/2015 by Sam van Schaik.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>PDF prepared by: IDP. Copyright: The Needham Research Institute.</p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>The Needham Research Institute</repository>
+          <collection>Needham</collection>
+          <idno type="current">NRI2/5/1/5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">Notebook written by Joseph Needham of his visit to Dunhuang 12–17 July 1958. (Unpublished manuscript, 84pp. with two inserts (postcards).</title>
+            <author>Joseph Needham</author>
+            <note>
+              <p>
+                <link url="http://idp.bl.uk/downloads/NRI2_5_1_5_images.pdf">All images available here as a single PDF.</link>
+              </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

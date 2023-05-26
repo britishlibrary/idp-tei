@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Landi_1985">
+    <author>Landi, S.</author>
+    <title level="m" lang="eng">The Textile Conservator's Manual</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>Butterworths</publisher>
+      <date>1985</date>
+      <idno type="ISBN">0408106247 : 9780408106245</idno>
+    </imprint>
+    <keywords>Textile</keywords>
+    <keywords>Conservation</keywords>
+    <genBibl>Conservation</genBibl>
+  </bibl>
+</listBibl>

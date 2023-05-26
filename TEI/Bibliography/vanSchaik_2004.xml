@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="vanSchaik_2004">
+    <author>van Schaik, Sam</author>
+    <title level="a" lang="eng">The Early Days of the Great Perfection</title>
+    <imprint>
+      <title level="j" lang="eng">Journal of the International Association of Buddhist Studies</title>
+      <biblScope type="issue">27.1</biblScope>
+      <biblScope type="pp">165-206</biblScope>
+      <date>2004</date>
+    </imprint>
+    <keywords>Tibet</keywords>
+    <keywords>Buddhism</keywords>
+    <genBibl>vanschaik</genBibl>
+  </bibl>
+</listBibl>

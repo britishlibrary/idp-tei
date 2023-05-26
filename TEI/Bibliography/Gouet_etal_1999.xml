@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Gouet_etal_1999">
+    <author n="1">Valerie Gouet</author>
+    <author n="2">Gu Xiangmei</author>
+    <author n="3">Yuan-li Hou</author>
+    <title level="a" lang="eng">The Treatment of Chinese Portraits: An Introduction to Chinese Painting Conservation Technique</title>
+    <imprint>
+      <title level="j" lang="eng">American Institute of Conservation Book and Paper Group Annual</title>
+      <biblScope type="issue">18</biblScope>
+      <date>1999</date>
+    </imprint>
+    <keywords>Conservation</keywords>
+    <keywords>Painting</keywords>
+    <keywords>Chinese</keywords>
+    <genBibl>Conservation</genBibl>
+  </bibl>
+</listBibl>

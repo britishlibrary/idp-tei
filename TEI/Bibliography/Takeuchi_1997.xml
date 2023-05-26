@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Takeuchi_1997">
+    <author>Takeuchi Tsuguhito</author>
+    <title level="m" lang="eng">Old Tibetan Manuscripts from East Turkestan in the Stein Collection of the British Library</title>
+    <imprint>
+      <pubPlace>Tokyo</pubPlace>
+      <pubPlace>London</pubPlace>
+      <publisher>The Centre for East Asian Cultural Studies for Unesco, The Toyo Bunko
+                &amp; The British Library Board</publisher>
+      <date>1997</date>
+    </imprint>
+    <genBibl>collections_en</genBibl>
+  </bibl>
+</listBibl>

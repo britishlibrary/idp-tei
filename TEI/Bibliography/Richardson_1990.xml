@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Richardson_1990">
+  <author>Richardson, H.E.</author>
+  <title level="a" lang="eng">The Cult of Vairocana in Early Tibet</title>
+  <imprint>
+    <title level="m" lang="eng" type="shortRef">Skorupski_1990</title>
+    <biblScope type="pp">271-274</biblScope>
+  </imprint>
+  <note/>
+  <keywords>Tibet</keywords>
+  <keywords>History</keywords>
+  <genBibl>tibet</genBibl>
+</bibl>

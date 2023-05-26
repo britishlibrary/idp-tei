@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Wang_Chao_2006">
+  <author lang="chi-Latn">Wang Chao</author>
+  <author lang="chi-Hant">&#x738B;&#x8D85;</author>
+  <title level="m" lang="chi-Latn">Jinge tiema de jiaohui:liao xixia jin</title>
+  <title level="m" lang="chi-Hant">&#x91D1;&#x6208;&#x9435;&#x99AC;&#x7684;&#x4EA4;&#x532F;&#xFF1A;&#x907C;&#x897F;&#x590F;&#x91D1;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Changchun</pubPlace>
+    <publisher>Jilin chuban jituan youxian zeren gongsi</publisher>
+    <date>2006</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>History</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

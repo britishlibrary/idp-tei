@@ -1,0 +1,3608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>List of Manuscripts in languages of Central Asia and Sanskrit</title>
+        <author id="LB">Barnett, Lionel D.</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>British museum handlist only</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Unpublished</publisher>
+        <pubPlace>London</pubPlace>
+        <date>No date</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Printed book</p>
+        <bibl>
+          <ref>Barnett_</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This catalogue was compiled as a handlist for the manuscripts in languages of Central Asia and Sanskrit in the British Museum (now in the British Library).</p>
+    </head>
+    <body>
+      <msDescription n="1" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/3</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/7</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Omitted in report.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Saddharmapuṇḍarīkasūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="4" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/11</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Saddharmapuṇḍarīkasūtra</title>
+          </msItem>
+          <listBibl>
+            <bibl>
+              <ref target="T_262"/>
+            </bibl>
+          </listBibl>
+        </msContents>
+      </msDescription>
+      <msDescription n="5" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/13</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p/>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/15</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p/>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/16</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/17</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="9" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/18</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p/>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/19</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="11" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/20</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p/>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="12" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/23</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/24</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/25</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="15" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/26</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="16" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/27</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra(?)</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="17" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/28</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="18" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/29</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="19" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/30</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/31</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="21" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/32</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p/>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="22" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/33</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p/>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="23" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/34</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="24" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/35</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p/>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="25" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/36</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Non-Sanskritic (Proto-Tibetan?). Brahmi</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="26" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/39</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Birch-bark fragments.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="27" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/43</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Prajnaparamitasutra</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="28" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/44</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p/>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="29" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/45</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="30" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/46</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+            <note>
+              <p>Fol. 352 of Prajñāpāramitāsūtra.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="31" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/47</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p/>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="32" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/48</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p/>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="33" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/49</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="34" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/50</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="35" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/52</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra(?)</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="36" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/54</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+            <note>
+              <p>Prajñāpāramitāsūtra (fol. 732)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="37" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/55</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="38" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/56</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+            <note>
+              <p>Prajñāpāramitāsūtra (fol. nos. 126, 127, 128, 129)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="39" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/57</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="40" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/58</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="41" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/60</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Grammatical text.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="42" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/61</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Omitted in report.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="43" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/62</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Vajracchedikasūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="44" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/63</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="45" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/64</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="46" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/65</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Saddharmapuṇḍarīkasūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="47" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/66</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="48" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/67</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p/>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="49" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/68</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p/>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="50" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/69</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="51" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/70</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="52" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/71</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="53" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/72</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="54" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/75(A)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A work on Buddhist doctrine, in Uighur, with Chinese rubrics. 2 vols, written on rice paper in the manner of Chinese MSS.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="55" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/76 (1-3)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Three fragments of a Turki register, in "Runic" script, of names of persons leaving the fort at Miran during its occupation by a Turki garrison, apparently not later than circa 750 A.D. Published in J.R.A.S., 1912, p.181.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="56" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/77</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>On the back, a Tibetan version of<title lang="san">Prajñāpāramitāhṛdaya</title>. From the Caves of the Thousand Buddhas.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="57" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/77</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Turki letter in 'Runic' script, written by a person named<name type="person" lang="tur">Baghatur Chigshi</name>, perhaps a military official, apparently in the 9th century, giving an account of some arrangments of the military staff, and making complaints about the commissariat.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="58" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/78 (1-5)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>One large and four smaller fragments in Kok Turki.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="59" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/79</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>One small fragment in Kok Turki.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="60" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/80(A)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Four and a half folios of<title lang="san">Vessantara Jātaka</title>in Sogdian. Published by Gauthiot in Journal Asiatique, 1912, pp. 163 &amp; 429.</p>
+            </note>
+          </msItem>
+          <listBibl>
+            <bibl>
+              <ref target="Gauthiot_1912">429</ref>
+            </bibl>
+          </listBibl>
+        </msContents>
+      </msDescription>
+      <msDescription n="61" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/80(B)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>One folio, 93 lines, of a Sogdian work.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="62" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/81</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Large fragment of document in Sogdian. Chinese docket on back.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="63" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/82</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fragment in Sogdian. With Chinese on back.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="64" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/83</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fragment in Sogdian. With Chinese on back.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="65" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/84</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p/>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="66" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/85</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Roll containing a Buddhist text (Abhidharma?) in Sogdian. 402 lines.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="67" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/86</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Paper fragment, probably of the Tang period. One one side, part of a Sutra in Chinese, on both sides is writing in an alphabet resembling the Uighur, in a language which is apparently debased Sogdian. The name of title<name lang="tur">Allp Tar</name>an occurs twice; the names<name lang="tur">Il-bars</name>,<name lang="tur">Qutluq</name>,<name lang="tur">Pansar</name>, etc., are found.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="68" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/87</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Small fragment, on one side of the paper Sogdian, on the other Chinese.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="69" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/88</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fragment of a roll with 29 lines of Sogdian writing.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="70" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/89</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Large sheet of paper containing a letter (21 lines), in Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="71" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/90</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A wooden slip, with inscrition in Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="72" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/91</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Small fragment of wood, with illegible writing, apparently Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="73" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/92(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Large fragment of paper document in early Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="74" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/92(3)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Large fragment of paper document in early Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="75" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/92(2)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Large fragment of paper document in early Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="76" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/92(4)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Large fragment of paper document in early Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="77" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/93</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Large fragment of paper document in early Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="78" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/94(A)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Large fragment of paper in early Sogdian. Forms part of the same document as Or.8212 (100).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="79" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">or.8212/94(B)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Large fragment of paper in early Sogdian. Forms part of the same document as Or.8212 (100).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="80" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/94(C)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Large fragment of paper in early Sogdian. Forms part of the same document as Or.8212 (100).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="81" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/95</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Document in early Sogdian, on a sheet of paper.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="82" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/96</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Large fragment of paper document in early Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="83" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/97</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Large fragment of paper document in early Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="84" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/98</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Document in early Sogdian on a sheet of paper.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="85" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/99(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fourteen fragments of documents in early Sogdian on silk, paper, and coarse linen.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="86" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/99(4)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fourteen fragments of documents in early Sogdian on silk, paper, and coarse linen.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="87" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/99(3a)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fourteen fragments of documents in early Sogdian on silk, paper, and coarse linen.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="88" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/99(3b)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fourteen fragments of documents in early Sogdian on silk, paper, and coarse linen.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="89" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/99(3c)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fourteen fragments of documents in early Sogdian on silk, paper, and coarse linen.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="90" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/99(2a)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fourteen fragments of documents in early Sogdian on silk, paper, and coarse linen.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="91" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/99(2b)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fourteen fragments of documents in early Sogdian on silk, paper, and coarse linen.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="92" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/99(2c)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fourteen fragments of documents in early Sogdian on silk, paper, and coarse linen.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="93" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/99(2d)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fourteen fragments of documents in early Sogdian on silk, paper, and coarse linen.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="94" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/99(2e)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fourteen fragments of documents in early Sogdian on silk, paper, and coarse linen.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="95" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/99(2f)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fourteen fragments of documents in early Sogdian on silk, paper, and coarse linen.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="96" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/99(2g)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fourteen fragments of documents in early Sogdian on silk, paper, and coarse linen.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="97" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/99(2h)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fourteen fragments of documents in early Sogdian on silk, paper, and coarse linen.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="98" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/99(2i)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fourteen fragments of documents in early Sogdian on silk, paper, and coarse linen.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="99" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/99(2j)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fourteen fragments of documents in early Sogdian on silk, paper, and coarse linen.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="100" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/99(2k)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fourteen fragments of documents in early Sogdian on silk, paper, and coarse linen.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="101" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/99(2l)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fourteen fragments of documents in early Sogdian on silk, paper, and coarse linen.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="102" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/100</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fragment of a paper document in early Sogdian. Forms part of same document as Or. 8212 (94)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="103" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/99(2m)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fourteen fragments of documents in early Sogdian on silk, paper, and coarse linen.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="104" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/101.1</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Twelve small fragments of a paper document in early Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="105" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/101.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Twelve small fragments of a paper document in early Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="106" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/101.3</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Twelve small fragments of a paper document in early Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="107" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/101.4</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Twelve small fragments of a paper document in early Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="108" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/101.5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Twelve small fragments of a paper document in early Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="109" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/101.6</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Twelve small fragments of a paper document in early Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="110" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/101.7</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Twelve small fragments of a paper document in early Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="111" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/101.8</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Twelve small fragments of a paper document in early Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="112" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/101.9</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Twelve small fragments of a paper document in early Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="113" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/101.10</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Twelve small fragments of a paper document in early Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="114" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/101.11</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Twelve small fragments of a paper document in early Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="115" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/101.12</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Twelve small fragments of a paper document in early Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="116" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/101.13</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Twelve small fragments of a paper document in early Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="117" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/102</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A small fragment of a paper document in early Sogdian.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="118" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/103</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Fragments, including some nearly complete pages, of a book written on birch-bark containing the<title lang="san">Samyuktakāgama</title>, a Sanskrit Buddhist scripture (corresponding to the Pali<title lang="pal">Samyutta-nikaya</title>), in upright Gupta script of about the end of the 4th century A.D. Published in J.R.A.S., 1913, p. 569 f. 2 sheets glass.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="119" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/104</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>There are a few letters of Kok Turki on the verso.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="120" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/104</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A large roll of 466 lines, in good Uighur writing, containing a Buddhist Sutra entitled<title lang="tur">Sakiz yukmak boguluk arvis</title>,<title lang="eng">"the eight magical miracles"</title>. It is defective at the beginning. A translation of the Chinese<title lang="chi-Hant">Tian di ba yang zhou jing</title>differing considerably in vocalism from the MS. found by the Japanese expedition.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="121" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/105</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Half of a wooden circular tray, 4 inches in diameter, with Uighur writing in top and bottom.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="122" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/106</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Large paper document in Uighur, 12 1/2 in. wide and same height. Bought at<name type="place" lang="eng">Yarkhoto</name>, 26 Nov. 1907. A bill of sale of land, dated on the 1st day of the 12th month of a certain year. The names of the animals of the cyclic year are effaced (line 1, first two words). Issued by<name type="person" lang="tur">Adis (Adi) tarpan</name>. Mentions the names<name type="place" lang="eng">Khoco</name>and<name type="person" lang="tur">Alp Tas Singguk Sangun</name>.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="123" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/107</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Three fragments of a paper MS. containing Uighur writing on one side and Chinese (a<title lang="san">Buddha-nāma-sūtra</title>) on the other.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="124" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/108</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Buddhist religious book of 38 ff., 5 7/8 in. wide and 7 3/4 in. high. Uighur writing, with occasional Chinese. See note at end.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="125" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/109</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Buddhist religious book of 63 ff., 5 1/4 in. wide and 5 3/4 in. high.</p>
+            </note>
+            <colophon><locus>fol. 46b</locus>On the 4th day of the 6th month of the 10th year of Cu Cing, the year of the tiger, Xulutmak, who is living in the city of Uc-luk-cug (?), copied (this text) by order of Asudai Orul, who has newly learned (Buddhism?) and is the governor of Salir (-uirur?). Dadhu! adgu!</colophon>
+            <note>
+              <p>The 10th year of Cu Cing, 'tiger year', corresponds to A.D. 1350. Cu Cing is probably a corrupt form of zhi zheng of the Yuan Dynasty.)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="126" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/111. 1</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Six fragments of a paper document with Sogdian writing.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="127" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/111. 2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Six fragments of a paper document with Sogdian writing.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="128" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/111. 3</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Six fragments of a paper document with Sogdian writing.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="129" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/111. 4</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Six fragments of a paper document with Sogdian writing.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="130" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/111. 5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Six fragments of a paper document with Sogdian writing.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="131" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/112</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A small fragment of Sogdian paper document. From Mazar Tagh</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="132" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/113</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A small fragment of a paper document in Sogdian. From Mazar Tagh.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="133" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/114</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A fragment of a paper document in Sogdian. From Mazar Tagh.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="134" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/115</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Five fragments of a paper document in Uighur, with impressions of a Chinese or Tibetan seal. Purchased at Yarkhoto, 29 Nov. 1907.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="135" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/115(c)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Five fragments of a paper document in Uighur, with impressions of a Chinese or Tibetan seal. Purchased at Yarkhoto, 29 Nov. 1907.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="136" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/116</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Vajracchedikasūtra</title>
+            <note>
+              <p>A large sheet of paper, probably of the Tang period, 18 1/2 in. wide and 9 5/8 in. high. On recto, a fragment of the<title>Vajracchedika Prajñā-pāramitā sūtra</title>, in Chinese, in writing of about 700 A.D. On verso, Uighur phrases in a large hand, apparently exercises.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="137" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/117</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A piece of paper, 12 in. wide and 7 1/4 in. high, with Uighur writing on both sides, relating to gifts of white and red shawls.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="138" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/118</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A piece of paper, fragmentary, 7 1/2 in. wide and 6 in. high, with Uighur writing on both sides. From a translation of a Jataka.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="139" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/119</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="san">Prajñāpāramitāsūtra</title>
+            <note>
+              <p>A large sheet of paper, 2 ft. 2 1/8 in. wide and 9.3/4 in. high, containing on one side a fragment of a Chinese Sutra of the<title lang="san">Prajñāpāramitā sūtra</title>class, and on the other Uighur writing, apparently referring to gifts to some institution.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="140" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/120</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A sheet of paper written on both sides, containing a Uighur dhāraṇī. Written in Sa-cou. 12 in. wide and 7 1/8 in. high.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="141" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/121</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A piece of paper written on both sides, containing a part of<title lang="san">Sukhāvatīvyūha sūtra</title>in Uighur. 11 1/4 in. wide and 8 1/4 in. high.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="142" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/122</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A sheet of paper, 16 in. wide and 10 in. high, containing on one side a fragment of the Chinese text of the<title lang="san">Vimalakīrtinirdeśa sūtra</title>in a hand of ca. 800 A.D.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="143" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/122</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Uihgur Buddhist text, with phrases of invocation to the Triratna, Buddhas, Bodhisattvas, etc., each repeated twice after line 18.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="144" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/123</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A sheet of bamboo paper written on both sides, 11 5/8 in. wide and 9 in. high.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="145" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/124</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A sheet of paper, probably of the Tang period. On recto, a fragment of the<title lang="san">Vajracchedika Prajñāpāramitā sūtra</title>in Chinese, of the 7th century.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="146" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/125</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A sheet of paper, 5 1/2 in. wide and 6 1/2 in. high, written on both sides in Uighur. 19 lines.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="147" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/126</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Five fragments of paper MSS., one being Uighur and three Chinese with Uihgur on verso. (No. d. looks like print.)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="148" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/126</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Five fragments of paper MSS., one being Uighur and three Chinese with Uihgur on verso. (No. d. looks like print.)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="149" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/127</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Three paper fragments with Uighur writing on both sides.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="150" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/128</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A fragment of paper with Chinese on recto and Uighur on verso.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="151" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/129</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Four fragments of a paper document with Uighur writing.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="152" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/130</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Three fragments of a paper document with Uighur writing.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="153" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/131</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Two paper fragments with Uihgur writing. From bill of sale, dated 1st month of Dragon year. With impression of seal.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="154" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/132</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>One medium and one small fragment of an Uighur document on paper, with seal impression.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="155" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/133</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Eight fragments, mostly illegible, of an Uighur document on paper, purchased at Yar-khoto, 29 Nov. 1907.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="156" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/134</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>One small fragment of a paper document with Uighur writing.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="157" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/135</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>One fragment of a paper document with Uighur writing.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="158" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/136</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Three fragments of a paper document with Uighur writing.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="159" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/137</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>One fragment of a paper document with Uighur writing.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="160" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/138</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A fragment of paper, inscribed with Uighur on one side and Chinese on the other.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="161" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/139</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A fragment of an Uighur letter on paper, with remains of the original silk envelope.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="162" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/140</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A paper fragment of an Uighur letter.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="163" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/141</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Two fragments of an Uighur document on paper. Bill of sale.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="164" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/142</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>One Uighur paper fragment. With seal impression.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="165" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/143</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Two Uighur paper fragments. With seal impression.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="166" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/144</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Five fragments of an Uighur paper document or letter, and a small rectangular piece of cloth.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="167" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/145</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A paper fragment of an Uighur letter.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="168" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/146</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A large fragment of an Uighur bill of sale on paper.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="169" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/147</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A fragment of an Uighur letter on paper, with impression of a seal.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="170" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/148</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Two fragments, on paper, of an Uighur letter or book.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="171" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/149</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Three fragments of a paper Uighur letter or document.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="172" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/150</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Two fragments of an Uighur Buddhist religious text on paper.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="173" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/151</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>One paper fragment of an Uighur document. A bill of sale, dated 1st day of the 8th month of ... year</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="174" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/152</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Four paper fragments, three with Uighur writing and one with both Uighur and Chinese, together with a small piece of yellow silk.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="175" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/152.c</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Four paper fragments, three with Uighur writing and one with both Uighur and Chinese, together with a small piece of yellow silk.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="176" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/153</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>One small piece of paper containing Uighur writing.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="177" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/154</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Three paper fragments of an Uighur letter or document.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="178" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/155</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Two fragments of an Uighur Buddhist text.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="179" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/156</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A number of paper fragments of Uighur books, mostly very minute. One is on the verso of a Chinese MS.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="180" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/157</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Uighur fragments similar to the preceding.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="181" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/158</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A fragment of a paper roll. On one side is part of a Sogdian text, the Padmacintāmāṇi-dhāraṇī, in 76 cols., partly imperfect; on the other side, part of a Chinese work on the Abhidharma with commentary.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="182" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/159</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A paper roll, containing on one side part of the Vimalakīrtinirdeśa in Sogdian (208 lines), and on the other part of a Chinese Sutra. (Ch. 00352. Discarded no. 74. iv. 22.)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="183" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/160</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p/>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="184" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/161</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A small paper book, 5 1/2 in. by 3 1/2 in., containing a tract on divination in Kok Turki (published in J.R.A.S. 1912), preceded and followed by Buddhist devotional verses in Chinese. 58 ff.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="185" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/162</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A paper roll, containing on the recto the Chinese text of the<title lang="san">Saddharmapuṇḍarīka sūtra</title>, juan 3, pin 7 (somewhat imperfect at the beginning), and on the verso a text in Brahmi script (Khotanese) (Ch. 32.)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="186" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/163</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A fragment of paper, about 9 in. by 3 in., written in slanting Central Asian script. See "Ancient Khotan," vol. I. p.438, and vol. II. pl. cix.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Stein_1907">I: 438</ref>
+              </bibl>
+            </listBibl>
+            <listBibl>
+              <bibl>
+                <ref target="Stein_1907">II: pl.CIX</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="187" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/165</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A large leaf, imperfect in the middle, forming fol. 32 of a MS. of the Sanskrit text of the<text lang="san">Śatasāhasrikā-prajñāpāramitā</text>, and containing the end of chap. 8 (<term lang="san">Bhūmi-parivarta</term>). See "Ancient Khotan", vol. 1. p.295, and vol. 2. pl. cvii.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Stein_1907">I: 295</ref>
+              </bibl>
+            </listBibl>
+            <listBibl>
+              <bibl>
+                <ref target="Stein_1907">II: pl.CVII</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="188" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/166</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A large paper fragment containing a letter in Persian in Hebrew character. "See Ancient Khotan", vol. 1. p. 306, 571., and vol. 2. pl. cxix.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Stein_1907">I: 306, 571</ref>
+              </bibl>
+            </listBibl>
+            <listBibl>
+              <bibl>
+                <ref target="Stein_1907">II: pl.CXIX</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="189" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/167</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A number of small paper fragments, mostly with Uighur writing on one side and Chinese on the other. The Chinese is at least in three different hands, the oldest being of about the 5th cent. Found stuck together in a mass.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="190" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/167(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A number of small paper fragments, mostly with Uighur writing on one side and Chinese on the other. The Chinese is at least in three different hands, the oldest being of about the 5th cent. Found stuck together in a mass.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="191" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/167(2)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A number of small paper fragments, mostly with Uighur writing on one side and Chinese on the other. The Chinese is at least in three different hands, the oldest being of about the 5th cent. Found stuck together in a mass.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="192" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/167(3)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A number of small paper fragments, mostly with Uighur writing on one side and Chinese on the other. The Chinese is at least in three different hands, the oldest being of about the 5th cent. Found stuck together in a mass.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="193" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/168</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A number of fragments from a MS. of the Tibetan version of the<title lang="san">Śālistamba Sūtra</title>. Published in "Ancient Khotan", vol. 1. p. 548 ff.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="194" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/169</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A fragment of paper containing two Tibetan passages on ritual. See "Ancient Khotan", vol. 1. p. 548 ff.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Stein_1907">I: 548ff.</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="195" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/170</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Two fragments of a slip of brownish coarse paper, daubbed with red paint, with a Tibetan inscription of religious content. See "Ancient Khotan", vol. 1. p.558.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Stein_1907">I: 558</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="196" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/171</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Two fragments of white paper with Tibetan writing, of religious content. See "Ancient Khotan", vol. 1, p. 558.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Stein_1907">I: 558</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="197" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/172</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Eight fragments of paper with Tibetan writing, of religious content. See "Ancient Khotan", vol. 1, p. 559</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Stein_1907">I: 559</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="198" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/173</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A sheet of paper containing two religious poems in Tibetan. Published in "Ancient Khotan", vol. 1. p. 561</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Stein_1907">I: 561</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="199" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/174</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Two fragments of a paper MS. of a<title lang="san">Prajñā-pāramitā</title>text, one of them containing the remnants of a delicately coloured painting (figure of Buddha in circle), of which a head only remains. Found close to the W. outer wall near the S.W. corner. Second expedition.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="200" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/175</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Long roll, 5 1/2 in. wide, containing the Nila-kantha-dhāraṇī in Sanskrit and Sogdian. Imperfect at beginning. Published (with exception of part at beginning) in J.R.A.S., 1912, p. 629, by Gauthiot and Poussin. No 11.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="201" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/176</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A fragment of a paper roll containing a Sogdian text, 10 in. by 9 1/2 in., 25 lines. Fine large writing. Found among the Chinese MSS.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="202" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/177</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A small fragment, 2 1/2 in. by 3 7/8 in., of a paper roll (?) containing a Sogdian text. Superscribed with a Chinese letter or document on both sides. 4 lines. Found among the Chinese MSS.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="203" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/178</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Small Manichean Turki roll, published in J.R.A.S., 1911, p. 277 ff. by A. von Lecoq.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="204" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/179</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A letter in Uighur, from ...gan Shigshi, 11 3/4 in. by 6 1/8 in., on paper. Found among the Chinese MSS. from the Thousand Buddhas, in Sir M. A. Stein's Second Expedition.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="205" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/180</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A fragment of a letter in Uighur, 12 in. by 7 3/8 in., on paper. Found among the Chinese MSS. from the Thousand Buddhas, in Sir M.A. Stein's Second Expedition.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="206" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/181</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>An irregularly shaped fragment of a Buddhist work in Uighur, 11 7/8 in. by 9 in., consisting of six fragments of paper previously cut up and used to patch a Chinese MS.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="207" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/182</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A fragment of a document in Uighur, 10 in. by 6 in., on paper. Found among the Chinese MSS. from the Thousand Buddhas in Sir M. A. Stein's Second Expedition.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="208" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/183(A)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Five fragments of Chinese documents on paper from Sir M. A. Stein's First Expedition.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="209" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/183(B)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Five fragments of Chinese documents on paper from Sir M. A. Stein's First Expedition.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="210" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/183(C)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Five fragments of Chinese documents on paper from Sir M. A. Stein's First Expedition.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="211" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/183(D)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Five fragments of Chinese documents on paper from Sir M. A. Stein's First Expedition.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="212" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/183(E)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Five fragments of Chinese documents on paper from Sir M. A. Stein's First Expedition.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="213" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/183</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Five fragments of Chinese documents on paper from Sir M. A. Stein's First Expedition.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="214" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/186</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Paper roll, 9 ft. 4 in. long and (originally) 9 1/2 in. wide or a little more; inscribed on one side with part of<name type="person" lang="chi-Latn">Xuan Zang</name>'s Chinese translation of the<title lang="san">Mahā-prajñā-pāramitā Sūtra</title>(ending with chap. 154), and on the other 80 lines of cursive Brahmi. (Khotanese).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="215" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/187</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>Two fragments of a paper roll containing the<title lang="chi-Latn">Yao shi jing</title>in Chinese. On the reverse, Tibetan historical notices. Found among Chinese MSS. from Dunhuang.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="216" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/189</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A roll of paper, 22 1/2 in. long and 10 in. broad, containing on the obverse a fragment of the<title lang="san">Vajracchedika Prajñāpāramitā</title>, in Chinese, and on the reverse a Tibetan poem on ethical subjects, incomplete at the end. Found</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="217" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/190</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A piece of striped silk, 4 ft. 6 in. in length from the Buddhist temple at<name type="place">Miran</name>, inscribed in Kharoshthi script with Prakrit prayers for the welfare of the pious donors and their households. See Journal Asiatique, 1911, p.418 f.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="218" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/191</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A fragment consisting of the conclusion of a Buddhist religious work in Sogdian styled<title lang="sog">Mastkarak casant par un pustak</title>. (5 lines of colophon, one of title, and 31 of text). 20 1/4 in. in length, 10 in. in height. From Dunhuang?</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="219" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/192</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A fragment of an Uighur document on paper. Irregular shape: max. width 7 in., height 5 1/4 in. Found among the Chinese MSS. from Dunhuang.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="220" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/193</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A fragment of a paper roll, torn across the middle, containing on the obverse a Chinese commentary on the<title lang="eng">Diamond Sutra</title>and on the reverse a letter or memorandum in Uighur. 18 1/4 in. wide, 4 1/2 in. high.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="221" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/193</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A fragment of a paper roll, torn across the middle, containing on the obverse a Chinese commentary on the<title lang="eng">Diamond Sutra</title>and on the reverse a letter or memorandum in Uighur. 18 1/4 in. wide, 4 1/2 in. high.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="222" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/194</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p/>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="223" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/194.a</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A Tibetan official document on paper, 12 in. broad and 5 1/2-6 in. high, written in cursive dbu-med; opens with the date "Dog year, spring", and gives instruction on matters of administration. On the reverse, a fragment of a Chinese text.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="224" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/194.f</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>A paper fragment, 3 3/4 in. by 5 1/8 in., inscribed with Uighur writing.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="225" type="LB">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/195</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title/>
+            <note>
+              <p>The<title lang="san">Prajñāpāramitāhṛdayasūtra</title>, in Sanskrit, with Chinese transliteration. Imperfect. Followed by a Chinese text, viz. the<title lang="eng">"Guanyin Sutra"</title>, or chapter XXV of the<title lang="san">Saddharmapuṇḍarīka</title>. Folded sheet, 39 in. long and 10 1/4 in. high. 10th century ?</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Furman_Welcher_1962">
+    <author n="1">Furman, H.</author>
+    <author n="2"> Welcher, F.</author>
+    <title level="m" lang="eng">Standard Methods of Chemical Analysis</title>
+    <imprint>
+      <pubPlace>Toronto</pubPlace>
+      <publisher>Van Nostrand, etc.</publisher>
+      <date>1962</date>
+      <idno type="ISBN">67494032</idno>
+    </imprint>
+    <keywords>Chemistry</keywords>
+    <genBibl>conservation</genBibl>
+  </bibl>
+</listBibl>

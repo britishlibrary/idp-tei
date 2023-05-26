@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Pischel_1908">
+    <author>Pischel, Richard</author>
+    <title level="a" lang="ger">Die Turfan-Recension des Dhammapada</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">SBAW</title>
+      <biblScope type="issue">XXXIX</biblScope>
+      <date>1908</date>
+      <biblScope type="pp">968-985</biblScope>
+    </imprint>
+    <note>1 Tafel (Kat.-Nr. 447, 448, 449)</note>
+    <keywords>manuscripts</keywords>
+    <keywords>buddhism</keywords>
+    <keywords>sanskrit</keywords>
+    <keywords>SHT</keywords>
+    <keywords>turfan</keywords>
+    <keywords>SBAW</keywords>
+  </bibl>
+</listBibl>

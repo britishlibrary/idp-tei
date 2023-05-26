@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Waldschmidt_1955b">
+    <author>Waldschmidt, Ernst</author>
+    <title level="a" lang="ger">Die Einleitung des Saṅgītisūtra</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">ZDMG</title>
+      <biblScope type="issue">105</biblScope>
+      <date>1955</date>
+      <biblScope type="pp">298-318</biblScope>
+    </imprint>
+    <note/>
+    <keywords>manuscript</keywords>
+    <keywords>sanskrit</keywords>
+    <keywords>turfan</keywords>
+    <keywords>SHT</keywords>
+    <keywords>buddhism</keywords>
+  </bibl>
+</listBibl>

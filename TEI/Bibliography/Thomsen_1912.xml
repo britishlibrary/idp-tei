@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Thomsen_1912">
+    <editor>Thomsen, Vilhelm</editor>
+    <title type="s" lang="eng">Festschrift Vilhelm Thomsen zur Vollendung des siebzigsten
+            Lebensjahres am 25. Januar 1912</title>
+    <imprint>
+      <pubPlace>Leipzig</pubPlace>
+      <publisher>Otto Harrassowitz</publisher>
+      <date>1912</date>
+    </imprint>
+  </bibl>
+</listBibl>

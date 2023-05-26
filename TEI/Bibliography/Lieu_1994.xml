@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Lieu_1994">
+    <author>Lieu, Samuel N. C.</author>
+    <title level="a" lang="engl">Manichaeism in Mesopotamia and in the Roman East</title>
+    <title level="j" lang="ger" type="shortRef">Religions in the Graeco-Roman World 118</title>
+    <imprint>
+      <pubPlace>Leiden; New York, Köln</pubPlace>
+      <publisher>Brill</publisher>
+      <date>1994</date>
+    </imprint>
+    <keywords>Manichaeism</keywords>
+    <keywords>Mesopotamia</keywords>
+    <keywords>Roman</keywords>
+    <keywords>East</keywords>
+    <keywords>religions</keywords>
+    <keywords>Graeco-Roman</keywords>
+    <genBibl>Religions in the Graeco-Roman World</genBibl>
+  </bibl>
+</listBibl>

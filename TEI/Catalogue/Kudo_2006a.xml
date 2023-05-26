@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>An edition of the Sanskrit fragment IOL 534</title>
+        <author>Kudo, Noriyuki</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>IDP</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2007</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Noriyuki KUDO, “A Sanskrit Fragment of the Larger Prajñāpāramitā in the Stein Collection,” in: Buddhist Manuscripts from Central Asia: The British Library Sanskrit Fragments, Volume I, ed. by Seishi KARASHIMA and Klaus WILLE, Tokyo: The International Research Institute for Advanced Buddhology at Soka University, 2006, p. 255-59.</p>
+        <bibl>
+          <ref>Kudo_2006a</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Input and marked up by IRIAB.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This catalogue contains transliterations of Sanskrit manuscripts in the Stein Collection at the British Library.</p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 534</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Pañcaviṃśatisāhasrikā Prajñāpāramitā]</title>
+            <note>Aurel Stein, Serindia, vol. III, Appendix F: Inventory List of Manuscripts in Sanskrit, Khotanese, and Kuchean, prepared by A. F. Rudolf Hoernle, “I. Manuscripts Remains Recovered from Khādalik,” pp. 1432-1447, esp. p. 1433. Parallel to: PvsP II. 131-27133-19; T220, vol. 7, 177b24-179b; T221, vol. 8, 58c13-59a; T223, vol. 8, 299b18-300a; Tk = Peking Kanjur vol. 18, Ti, 240a3-243a; Tt = Peking Tanjur vol. 89, Ṅa 136b4-139a. (PvsP = Pañcaviṃśatisāhasrikā Prajñāpāramitā: II~III, ed. by Takayasu Kimura, Tokyo: Sankibō Busshorin, 1986; T220, tr. by Xuán zāng, Taishō vol. 7, 177b24-179b; T221, tr. by Mokṣala, T. vol. 8, 58c13-59a; T223, tr. by Kumārajīva, T. vol. 8, 299b18-300a [cf. T222, tr. by Dharmarakṣa, T. vol. 8, [corresponding part is not available]]; Tk = Peking Kanjur vol. 18, Ti, 240a3-243a.; Tt = Peking Tanjur vol. 89, Ṅa 136b4-139a.)</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + + + + + (t)v(e)na mahāsatvena tā[n](i) + + + + + + + + + + + + ///<lb n="2"/>/// + + + + .[opa]lambhasaṃjñinas tathāga + + + + + + + + + + + + ///<lb n="3"/>/// .. .. .. [saṃpa]nnaṃ ca : gandhasaṃpannaṃ ca .. + + + + + + + + + + + + ///<lb n="4"/>/// .. [rthe]na rasena ca : mukham ācchāda[ye] + + + + + + + + + + + + + ///<lb n="5"/>/// + + .. .. .. [na] cārtham ājānam[ā] + + + + + + + + + + + + + + ///<lb n="6"/>/// āõ rhant(a)[n]ā samyaksaṃbuddhānā ◯ pratham(a) + + + + + + + + + + ///<lb n="7"/>/// .. .bh(i)s t(e)bhi buddhe{d}bhir yān(i) [kuśalam]ūlāni abh(i)saṃ[sk](ṛ) + + + + + ///<lb n="8"/>/// .. pāramitāyā caradbhiḥ{r} yāni ku(śala)mūlāni : abhi ..[ṃsk]ṛ + + + + ///<lb n="9"/>/// .. .. .. .. [sthā]nāni : yāva aryāṣṭāṅgamārgaṃm bhavayamānais tathā + + + + ///<lb n="10"/>/// lamū(l)[ā]ni : abhisaṃṣkṛtā[ni] ◯ yāni ca buddhak[ṣ]etrāṇi pariśodhit. + + + ///<lb n="11"/>/// b[u]ddhānā bhagavantānā : śīlaskandhā samādhiskandhā prajñāskandho vimu(k)t(i) ///</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt"/>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// .. [ta] upekṣavihāritā ca : teṣā ca buddhānāṃ bhagavaṃtānāṃ saśrāva .. ///<lb n="2"/>/// (pra)tye(ka)[bodh]au cā teṣām api yāni kuśalamūlāni ◯ yaiś ca ta .. .. + + + ///<lb n="3"/>/// + .. (sa)r(v)āṇi kuśalamūlā[n]i piṇḍīkṛtvābhisa[[ṃ]]kṣepya ca tu .. + + ///<lb n="4"/>/// + .. .. nā nimi[t]tayogenopa[la](ṃ)[bhayo]gena ca pari[ṇām]. .. + + + ///<lb n="5"/>/// .. .. .. .. [kha]lu (’)palambha .. .. .. .. .ogaḥ sa p. pabh. + + + + + ///<lb n="6"/>/// .. .. .. .. dharmavādī ◯ ta[tra bodh]i[s]. + + + + + + + + + + + ///<lb n="7"/>/// + .. .. .. [riṇā]mitāni ca va .[i] + + + + + + + + + + + + + + ///<lb n="8"/>/// .. .. .. thaivaiha karttavyaṃ ◯ kathaṃ .. + + + + + + + + + + + + + + ///<lb n="9"/>/// .. .. .. [ku]laputraiṇa kuladuh[it]. + + + + + + + + + + + + ///<lb n="10"/>/// + + + .ā arhanta samyaksa[ṃ]buddhā + + + + + + + + + + + + + ///<lb n="11"/>/// + + + + .e [ta]thāham anum[o] .. + + + + + + + + + + + + ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

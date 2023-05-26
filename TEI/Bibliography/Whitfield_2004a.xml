@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Whitfield_2004a">
+    <author>Whitfield, Susan</author>
+    <title level="m" lang="eng">Aurel Stein and the Silk Road</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>The British Museum</publisher>
+      <date>2004</date>
+    </imprint>
+    <keywords>exploration</keywords>
+    <genBibl>whitfield_susan</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Pope_1959">
+    <author>Pope, N</author>
+    <title level="a" lang="eng">On Some Mongolian Manuscript Fragments in the Library of the India Office</title>
+    <imprint>
+      <title level="j">Central Asiatic Journal</title>
+      <biblScope type="issue">5</biblScope>
+      <biblScope type="pp">81-86</biblScope>
+      <date>1959</date>
+    </imprint>
+    <keywords>Mongolian</keywords>
+    <keywords>Indian Office Library</keywords>
+    <keywords/>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

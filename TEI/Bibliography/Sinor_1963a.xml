@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Sinor_1963">
+    <author>Sinor, Denis</author>
+    <title level="m" lang="fre">Introduction a l'etude de l'Eurasie Centrale</title>
+    <imprint>
+      <pubPlace>Wiesbaden</pubPlace>
+      <publisher>Otto Harrassowitz</publisher>
+      <date>1963</date>
+    </imprint>
+    <genBibl>Introduction</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<bibl id="Bhattacharya_Haesner_1998">
+  <author>Bhattacharya-Haesner, Chhaya</author>
+  <title level="a" lang="eng">Banners from Turfan</title>
+  <imprint>
+    <title level="m" lang="eng" type="shortRef">Ghose_1998</title>
+    <biblScope type="pp">93-101</biblScope>
+  </imprint>
+  <keywords>Banners</keywords>
+  <keywords>Turfan</keywords>
+  <genBibl/>
+</bibl>

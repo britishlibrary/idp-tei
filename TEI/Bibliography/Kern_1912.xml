@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Kern_1912">
+    <editor>Kern, Hendrik</editor>
+    <editor>Nanjio, Bunyiu</editor>
+    <title level="m" lang="san">Saddharmapu&#x1E47;&#x1E0D;ar&#x12B;ka</title>
+    <imprint>
+      <title level="s">Bibliotheca Buddhica</title>
+      <biblScope type="issue">Vol. X.</biblScope>
+      <pubPlace>St. P&#xE9;tersbourg</pubPlace>
+      <publisher>Imprimerie de l'Acad&#xE9;mie Imp&#xE9;riale des Sciences</publisher>
+      <date>1912</date>
+    </imprint>
+    <note/>
+    <keywords/>
+  </bibl>
+</listBibl>

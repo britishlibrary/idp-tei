@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Asimov_Bosworth_2000">
+  <editor n="1">Asimov, M.S.</editor>
+  <editor n="2">Bosworth, C.E.</editor>
+  <title level="m" lang="eng">The Age of Achievement: A.D. 750 to the end of the fifteenth century, Part Two: The achievements</title>
+  <imprint>
+    <title level="s">History of Civilisations of Central Asia</title>
+    <biblScope type="vol">4</biblScope>
+    <pubPlace>Paris</pubPlace>
+    <publisher>UNESCO</publisher>
+    <date>2000</date>
+    <idno type="ISBN">9231036548 9789231036545</idno>
+  </imprint>
+  <note/>
+  <keywords>history</keywords>
+  <keywords/>
+  <genBibl/>
+</bibl>

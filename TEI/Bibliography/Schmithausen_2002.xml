@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Schmithausen_2002">
+    <author>Schmithausen, L.</author>
+    <title level="a" lang="ger">Ein weiteres Fragment aus dem Prakaraṇa: SHT 1697</title>
+    <imprint>
+      <title level="j" lang="eng" type="shortRef">WZKS</title>
+      <biblScope type="issue">46</biblScope>
+      <date>2002</date>
+      <biblScope type="pp">51-104</biblScope>
+    </imprint>
+    <note/>
+    <keywords>manuscript</keywords>
+    <keywords>sanskrit</keywords>
+    <keywords>turfan</keywords>
+    <keywords>SHT</keywords>
+    <keywords>buddhism</keywords>
+  </bibl>
+</listBibl>

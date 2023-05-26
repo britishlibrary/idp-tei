@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="MacKenzie_1985">
+    <author>MacKenzie, David Neil</author>
+    <title level="a" lang="engl">Two Sogdian hwydgm'n fragments</title>
+    <imprint>
+      <title level="j" lang="engl" type="shortRef">Papers in honour of Professor Mary Boyce, ed. A.D.H. Bivar</title>
+      <date>Leiden 1985</date>
+      <biblScope type="pp">421-428</biblScope>
+    </imprint>
+    <keywords>Sogdian</keywords>
+    <keywords>hwydgm'n</keywords>
+    <keywords>fragments</keywords>
+    <keywords>papers</keywords>
+  </bibl>
+</listBibl>

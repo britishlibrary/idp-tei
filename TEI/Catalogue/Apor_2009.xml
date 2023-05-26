@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Manuscript of Sand Buried Ruins of Khotan</title>
+        <author id="EA">Éva Apor</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>International Dunhuang Project</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2013</date>
+      </publicationStmt>
+      <editionStmt>
+        <edition>First electronic edition</edition>
+        <date>2013</date>
+        <respStmt>
+          <resp>XML encoding</resp>
+          <name>
+            <persName>Sam van Schaik</persName>
+            <orgName>International Dunhuang Project</orgName>
+          </name>
+        </respStmt>
+      </editionStmt>
+      <sourceDesc>
+        <p>Original electronic document</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>XML (TEI) mark up of electronic text prepared by Éva Apor.</projectDesc>
+      <editorialDecl>Imported to 4D on 05/11/2013 by Sam van Schaik.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This biography of Stein 25 was prepared in 2009 by Éva Apor, Director of the Stein
+                Project, Library of Hungarian Academy of Sciences, Budapest, as part of the IDP-CREA
+                project.</p>
+      <p>IDP-CREA was a collaboration between six IDP partners in Europe (from the UK,
+                Hungary, France and Germany) and three associate partners from China with the
+                support of the Culture Programme of the European Union.</p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>Budapest</settlement>
+          <repository>LHAS</repository>
+          <collection>Stein</collection>
+          <idno type="current">653/1-2</idno>
+          <idno type="catalogue">Stein 25</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note><p><title lang="eng">Sand Buried Ruins of Khotan</title>is the one
+                                volume popular account of his First Central Asian expedition
+                                (1900-01) written by M. Aurel Stein and published in 1903 by T.
+                                Fischer Unwin in London. Stein mainly wrote the manuscript in
+                                England during leave from his post in India in 1903. It was then
+                                checked by two friends before being passed on to the publishers.</p><p>This object biography looks at the story of the original manuscript of
+                                the book, which is now in the Library of the Hungarian Academy of
+                                Sciences. The manuscript is bound in two leather volumes. It is in
+                                Stein’s original pagination, Vol.1.: 434 ff. and Vol. 2.: 435-812
+                                ff., marked as completed in London, 6 February 1903. Bound at the
+                                end of the second volume there are also two sections from Stein’s
+                                diary written during his return journey to Europe from his First
+                                Expedition, namely from Osh, dated 8 Jun 1901 (13 ff.) and
+                                Samarkand, dated 15 Jun 1901 (6 ff.). The volumes also contain dried
+                                flowers, probably picked by Stein during his periods at his summer
+                                camp in Mohand Marg in Kashmir. The stories of each of these
+                                elements form part of this biography.</p><p>The story starts with Stein’s First Expedition between 1900-01, where
+                                he collected the notes, maps, plans and photographs later used in
+                                his book. On his return to Europe in 1901 he stops in Osh and
+                                Samarkand, making extensive diary entries in each place, before
+                                returning across Eurasia by train and steamer. In 1903 in London he
+                                finishes the original manuscript and after publication of the book,
+                                probably packs it up the with his diaries and the rest of his papers
+                                for return by ship to Bombay and from there to his home in Lahore,
+                                then in British India.</p><p>In India, the manuscript was later bound into two leather volumes,
+                                combined with sections of Stein’s travel diary. He probably took the
+                                volumes with him to Mohand Marg in Kashmir, where he spent many
+                                summers writing and researching. Photographs of his summer camp
+                                there always show vases of flowers on his desk. He also placed
+                                flowers in his books to be pressed, and some are found in these two
+                                volumes. Later he packed the volumes away with many of his
+                                books.</p><p>During 1922 Stein spent the winter in a friend’s bungalow in Kashmir,
+                                Almond Cottage, sorting through boxes of books from storage. He made
+                                a list of books he planned to present to the Library of the
+                                Hungarian Academy of Sciences in Budapest. This was the town of his
+                                birth and childhood and he had used the library as a young scholar:
+                                the Hungarian Academy of Sciences is on the River Danube, just
+                                around the corner from Stein’s birthplace. The Academy had been the
+                                first among the scholarly bodies of the world to elect Stein as a
+                                member in 1895.</p><p>Stein’s gift to the Academy consisted of about two thousand books on
+                                India, Central Asian philology and archaeology, along with the two
+                                volumes of the bound manuscript, and other manuscripts and papers.
+                                They initially travelled with him from India to Port Dais. Here
+                                Stein caught a train for Cairo and then went on a tour of the Near
+                                East and Egypt before arriving in Budapest in 5th May 1924. His
+                                eight boxes of books continued on by ship (to Venice) and train (via
+                                Trieste) without him and they arrived in the Library in Budapest in
+                                March 1924. The two volumes of the manuscript were acquisitioned
+                                into the Library’s collections in autumn 1925 with the pressmark No.
+                                653/1-2.</p><p>This was Stein’s first donation of books to the Library of the
+                                Hungarian Academy of Sciences. In his will, he gave all his printed
+                                books, part of his manuscripts, photographs (about 7000 prints, the
+                                most comprehensive collection of the 1900-1901 expedition), maps,
+                                impressions of inscriptions, and letters to the Academy.</p><p>Stein’s collections of photographs and manuscripts were catalogued by
+                                a joint Hungarian-British team of scholars during 1998-2001 and the
+                                resulting Catalogue of the Collections of Sir Aurel Stein was
+                                published by the Academy in 2002. The manuscript was given the
+                                catalogue number, Stein 25.</p><p>The book which resulted from the manuscript sold very quickly, with
+                                500 copies (two thirds fo the print run) being sold by September
+                                1903. Stein bought the printing blocks – and therefore the rights –
+                                from the publisher for 24 shillings and arranged for republication
+                                in a more affordable edition by the London publishers Hurst and
+                                Blackett in 1904.</p><p>It was translated by Gyula Halász into Hungarian and published as<title lang="hun">Homokba temetett városok: régészeti és
+                                    földrajzi utazás Indiából Kelet-Turkesztánba
+                                    1900-1901-ben</title>by the Hungarian Geographical Society in
+                                1908 with a preface by Stein’s friend, the geologist and geographer
+                                Lajos Lóczy.</p>A<p>Chinese translation,<title lang="chi-Hant">沙埋和阗废墟记</title>, appeared in 1994, published by Xinjiang meishu
+                                sheying chubanshe in Urumqi and as<title lang="chi-Hant">斯坦因中国探险手记</title>, published in 2004 in Shenyang.</p><p>Qumgha kömülgan Khotan kharabiliri, a Uighur translation, was
+                                published by Shinjang Khalq Nashriyati in Urumqi in 1901.</p>The<p>English version has been reprinted since 2000 by Indian, American
+                                and UK publishers.</p></note>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

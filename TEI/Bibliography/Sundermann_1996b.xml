@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Sundermann_1996b">
+    <author>Sundermann, Werner</author>
+    <title level="a" lang="engl">Three Fragments of Sogdian Letters and Documents</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">La Persia e l'Asia Centrale da Alessandro al X secolo.</title>
+      <biblScope type="place">Roma</biblScope>
+      <date>Roma 1996</date>
+      <biblScope type="pp">105-111</biblScope>
+    </imprint>
+    <keywords>Fragments</keywords>
+    <keywords>Documents</keywords>
+    <keywords>Letters</keywords>
+    <keywords>Sogdian</keywords>
+  </bibl>
+</listBibl>

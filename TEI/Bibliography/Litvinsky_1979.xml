@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Litvinsky_1979">
+    <author>Litvinsky, B.A.</author>
+    <title level="a" lang="eng">Significance of the Archaeological Sources for the Study of History and Culture of Central Asia</title>
+    <imprint>
+      <editor>Harmatta, J</editor>
+      <title level="m">Prolegomena to the Sources on the History of Pre-Islamic Central
+                Asia</title>
+      <biblScope type="pp">335-339</biblScope>
+      <pubPlace>Budapest</pubPlace>
+      <publisher>Akad&#xE9;miai Kiad&#xF3;</publisher>
+      <date>1979</date>
+    </imprint>
+    <note>Only on the Russian expeditions.</note>
+    <keywords>archeology/history</keywords>
+  </bibl>
+</listBibl>

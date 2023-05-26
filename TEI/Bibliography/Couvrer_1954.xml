@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Couvreur_1954">
+    <author>Couvreur, Walter</author>
+    <title level="a" lang="ger">Kutschische Vinaya- und Prātimokṣa-Fragmente aus der Sammlung Hoernle</title>
+    <imprint>
+      <title level="m" type="shortRef">Schubert_Schneider_1954</title>
+      <biblScope type="pp">43-52</biblScope>
+      <date>1954</date>
+    </imprint>
+  </bibl>
+</listBibl>

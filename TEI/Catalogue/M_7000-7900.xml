@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Iranische Handschriften der Berliner Turfansammlung. M 7000-7900.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>print edition</edition>
+      </editionStmt>
+      <sourceDesc>
+        <p>electronic</p>
+        <p>Input and marked up by Susann Rabuske. Imported to 4D on 10/23/13 by Susann Rabuske.</p>
+        <bibl>
+          <ref>M_7000-7900</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Beschreibung der iranischen Manuskripte aus der Berliner Turfansammlung</p>
+    </head>
+    <body>
+      <msDescription n="7340">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">M 7340</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="syr-Latn">Pharmakologischer Text.</title>
+            <note>
+              <p>Fundort Toyoq; 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_04">E37/1</ref>
+              </bibl>
+              <bibl>
+                <ref target="Boyce_1960"/>
+              </bibl>
+              <bibl>
+                <ref target="Sims-Williams_2011"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

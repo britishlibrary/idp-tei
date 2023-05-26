@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Serinde_1995">
+    <author>Gi&#xE8;s, Jacques</author>
+    <author>Cohen, Monique</author>
+    <title level="m" lang="fre">Serinde, Terre de Bouddha: Dix si&#xE8;cles d'art de la Route de la Soie</title>
+    <imprint>
+      <pubPlace>Paris</pubPlace>
+      <publisher>R&#xE9;union des Mus&#xE9;es Nationaux</publisher>
+      <date>1995</date>
+    </imprint>
+    <note>Exhibition: Galeries nationales du Grand Palais, Paris 24 octobre 1995-19 fe&#x301;vrier 1996</note>
+    <genBibl>exhibition</genBibl>
+  </bibl>
+</listBibl>

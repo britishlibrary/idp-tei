@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Dunhuang Chinese Sky: A Comprehensive Study of the Oldest Known Star
+                    Atlas</title>
+        <author>Jean-Marc Bonnet-Bidaud</author>
+        <author>Françoise Praderie</author>
+        <author>Susan Whitfield</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Journal of Astronomical History and Heritage 12.1: 39-59</publisher>
+        <pubPlace>Townsville, Australia</pubPlace>
+        <date>2009</date>
+      </publicationStmt>
+      <editionStmt>
+        <edition>First edition</edition>
+      </editionStmt>
+      <sourceDesc>
+        <p>Journal of Astronomical History and Heritage 12 (1): 39–59</p>
+        <bibl>
+          <ref>Bonnet_Bidaud_2009</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>A single-entry catalogue for the article "The Dunhuang Chinese Sky: A Comprehensive
+            Study of the Oldest Known Star Atlas". Text is from the original article in the <title lang="eng">Journal of Astronomical History and Heritage</title> 12.1 (2009): 39–59.</p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.3326</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>This paper presents an analysis of the star atlas included in the
+                                medieval Chinese manuscript Or.8210/S.3326 discovered in 1907 by the
+                                archaeologist Aurel Stein at the Silk Road town of Dunhuang and now
+                                housed in the British Library. Although partially studied by a few
+                                Chinese scholars, it has never been fully displayed and discussed in
+                                the Western world. This set of sky maps (12 hour-angle maps in
+                                quasi-cylindrical projection and a circumpolar map in azimuthal
+                                projection), displaying the full sky visible from the Northern
+                                Hemisphere, is up to now the oldest complete preserved star atlas
+                                known from any civilisation. It is also the earliest known pictorial
+                                representation of the quasi-totality of Chinese constellations.<link url="/education/astronomy_researchers/index.a4d">Full article
+                                    here</link>.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

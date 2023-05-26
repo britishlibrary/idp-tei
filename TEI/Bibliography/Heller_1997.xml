@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<bibl id="Heller_1997">
+  <author>Heller, Amy</author>
+  <title level="a" lang="eng">Eight- and Ninth Century Temples and Rock Carvings of Eastern Tibet </title>
+  <imprint>
+    <title level="m" lang="eng" type="shortRef">Singer_Denwood_1997</title>
+    <biblScope type="pp">86-103</biblScope>
+    <date>1997</date>
+  </imprint>
+  <note/>
+  <keywords>Tibet</keywords>
+  <keywords>History</keywords>
+  <genBibl>tibet</genBibl>
+</bibl>

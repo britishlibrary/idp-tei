@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="galambos_2009b">
+    <author>Galambos, Imre</author>
+    <title level="a" lang="eng">Manuscript copies of stone inscriptions in the Dunhuang corpus: Issues of dating and provenance</title>
+    <imprint>
+      <title level="j" lang="eng">Asiatische Studien/Etudes asiatiques</title>
+      <biblScope type="issue">LXIII, 4</biblScope>
+      <biblScope type="pp">809-826</biblScope>
+      <date>2009</date>
+    </imprint>
+    <keywords>inscriptions</keywords>
+    <keywords>dating</keywords>
+    <keywords>provenance</keywords>
+    <keywords>Dunhuang manuscripts</keywords>
+    <genBibl>galambos</genBibl>
+  </bibl>
+</listBibl>

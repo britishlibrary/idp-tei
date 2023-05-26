@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="LinJiaping_1992">
+    <author lang="chi" n="1">&#x6797;&#x5BB6;&#x5E73;</author>
+    <author lang="chi" n="2">&#x5B81;&#x5F3A;</author>
+    <author lang="chi">&#x7F57;&#x534E;&#x5E86;</author>
+    <title level="m" lang="chi">&#x4E2D;&#x56FD;&#x6566;&#x714C;&#x5B66;&#x53F2;</title>
+    <imprint>
+      <pubPlace>&#x5317;&#x4EAC;</pubPlace>
+      <publisher>&#x5317;&#x4EAC;&#x8BED;&#x8A00;&#x51FA;&#x7248;&#x793E;</publisher>
+      <date>1992</date>
+    </imprint>
+  </bibl>
+</listBibl>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Lawson_1988">
+    <author>Lawson, Peter</author>
+    <title level="a" lang="eng">Conservation of Chinese materials in the British Library</title>
+    <imprint>
+      <title level="m">Wood_1988</title>
+      <biblScope type="pp">181-186</biblScope>
+      <date>1988</date>
+    </imprint>
+    <note/>
+    <keywords>DH/BL/conservation</keywords>
+  </bibl>
+</listBibl>

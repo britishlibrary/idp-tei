@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Burrow_1940b">
+    <author>Burrow,T</author>
+    <title level="m" lang="eng">A Translation of the Kharosthi Documents from Chinese Turkestan</title>
+    <imprint>
+      <imprint>
+        <pubPlace>London</pubPlace>
+        <publisher>The Royal Asiatic Society</publisher>
+        <date>1940</date>
+      </imprint>
+    </imprint>
+    <keywords>Inscriptions</keywords>
+    <keywords>Kharosthi</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

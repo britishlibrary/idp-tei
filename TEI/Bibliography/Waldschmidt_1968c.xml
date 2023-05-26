@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Waldschmidt_1968c">
+    <author>Waldschmidt, Ernst</author>
+    <title level="a" lang="ger">Ein Textbeitrag zur Udayana-Legende</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">NAWG</title>
+      <biblScope type="issue">5</biblScope>
+      <biblScope type="pp">101-125</biblScope>
+      <date>1968</date>
+    </imprint>
+    <note/>
+    <keywords>manuscript</keywords>
+    <keywords>sanskrit</keywords>
+    <keywords>turfan</keywords>
+    <keywords>SHT</keywords>
+    <keywords>buddhism</keywords>
+  </bibl>
+</listBibl>

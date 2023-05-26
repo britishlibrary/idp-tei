@@ -1,0 +1,2591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title lang="chi-Hans">李约瑟博士的摄影——战时的中国 (1942-1946), 敦煌千佛洞</title>
+        <title lang="eng">A Catalogue of Joseph Needham's Photographs — Wartime China (1942-1946), the Thousand Buddha Caves at Dunhuang</title>
+        <author id="LHQ" lang="chi-Hans">罗华庆</author>
+        <author id="LHQ" lang="eng">Luo Huaqing</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>International Dunhuang Project</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2014</date>
+      </publicationStmt>
+      <editionStmt>
+        <edition>First edition</edition>
+      </editionStmt>
+      <sourceDesc>
+        <p>Electronic</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>A catalogue of photographs of the Mogao Caves and surrounding areas, taken by Joseph Needham during his visit to Dunhuang in 1943.</p>
+      <p>Translated by Shaochen Wang and Na Zhang (UCL).</p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/1/22</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>敦煌城东12公里处五墩</p>
+            </note>
+            <note>
+              <p>Five Beacon Towers, 12 km east of Dunhuang</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/1/23</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>敦煌县城门</p>
+            </note>
+            <note>
+              <p>Town gate of Dunhuang</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/1/24</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>敦煌县城内大街</p>
+            </note>
+            <note>
+              <p>Dunhuang street scene</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="4">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/1/25</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>敦煌县城内大街</p>
+            </note>
+            <note>
+              <p>Dunhuang street scene</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="5">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/1/26</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>敦煌县城内大街</p>
+            </note>
+            <note>
+              <p>Dunhuang street scene</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/1/27</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>卖哈密瓜的瓜农</p>
+            </note>
+            <note>
+              <p>A farmer selling Hami melons</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/1/28</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>购买吊蛋的吴作人</p>
+            </note>
+            <note>
+              <p>Wu Zuoren buying <term lang="chi-Latn">diaodan</term> fruit</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/1/29</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>寺院前的人</p>
+            </note>
+            <note>
+              <p>People in front of the temple</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="9">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/1/30</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>从莫高窟九层楼上东望三危山</p>
+            </note>
+            <note>
+              <p>Looking east from the top of the Nine Storey Building at Mogao Caves towards Sanwei Mountains</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/1/31</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>从莫高窟九层楼上北望窟前</p>
+            </note>
+            <note>
+              <p>Looking north from the top of the Nine Storey Building at Mogao Caves towards the cliff</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="11">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/1/32</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>从莫高窟九层楼上望窟前上寺、中寺</p>
+            </note>
+            <note>
+              <p>Looking from the top of ninth-storey of Mogao Caves to the upper and middle temples in front of the cliff</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="12">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/1/33</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>从莫高窟九层楼上东望三危山、窟前</p>
+            </note>
+            <note>
+              <p>Looking east from the top of the Nine Storey Building at Mogao Caves towards the Sanwei Mountains and cliff</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/1/34</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>从莫高窟九层楼上北望窟前园林</p>
+            </note>
+            <note>
+              <p>Looking north from the top of the Nine Storey Building at Mogao Caves towards the trees</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/1/35</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>从莫高窟九层楼上东望三危山、窟前</p>
+            </note>
+            <note>
+              <p>Looking east from the top of the Nine Storey Building at Mogao Caves towards the Sanwei Mountains and cliff</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="15">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/1/36</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>从莫高窟九层楼上北望窟前圆林</p>
+            </note>
+            <note>
+              <p>Looking north from the top of the Nine Storey Building at Mogao Caves towards the trees</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="16">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/1/37</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>从莫高窟九层楼上望窟前上寺、中寺及大泉河东岸</p>
+            </note>
+            <note>
+              <p>Looking from the top of the Nine Storey Building at Mogao Caves to the upper and middle temples in front of the cliff and the east bank of the Daquan River</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="17">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/1/38</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>从莫高窟九层楼上望窟前大泉河东岸、三危山</p>
+            </note>
+            <note>
+              <p>Looking from the top of the Nine Storey Building at Mogao Caves to the east bank of the Daquan river and the Sanwei Mountains</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="18">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/4</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>从莫高窟中寺院内望九层楼</p>
+            </note>
+            <note>
+              <p>Looking towards the Nine Storey Building at the Mogao Caves from inside the middle temple</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="19">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>从大泉河东岸望九层楼</p>
+            </note>
+            <note>
+              <p>Looking from the east bank of Daquan River towards the Nine Storey Building at Mogao Caves</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/6</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>从大泉河东岸望窟区南段</p>
+            </note>
+            <note>
+              <p>Looking from the east bank of Daquan River towards the southern caves</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="21">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/7</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>大泉河东岸舍利塔</p>
+            </note>
+            <note>
+              <p>Reliquary stupas on the east bank of the Daquan River</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="22">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/8</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>大泉河东岸王圆箓道士塔</p>
+            </note>
+            <note>
+              <p>Stupa of the Daoist cave guardian Wang Yuanlu, on the east bank of the Daquan River</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="23">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/9</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟北区洞窟</p>
+            </note>
+            <note>
+              <p>Northern section of the Mogao Cave complex</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="24">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/10</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>从大泉河东岸望窟区舍利塔、千相塔及窟区</p>
+            </note>
+            <note>
+              <p>Looking east from the east bank of Daquan River towards the reliquary and tributary stupas and cave area</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="25">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/11</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟北区残窟</p>
+            </note>
+            <note>
+              <p>Remains of Northern Mogao Caves</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="26">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/12</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟北区洞窟</p>
+            </note>
+            <note>
+              <p>Northern Mogao Caves</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="27">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/13</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟南区洞窟北端</p>
+            </note>
+            <note>
+              <p>Northern end of southern Mogao Cave complex</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="28">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/14</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟南北区交界处洞窟</p>
+            </note>
+            <note>
+              <p>Caves at the boundary of the southern and northern Mogao cave complexes</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="29">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/15</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟前舍利塔(已毁)</p>
+            </note>
+            <note>
+              <p>Ruined stupa in front of the Mogao Caves </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="30">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/16</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第259窟残景和窟前积沙</p>
+            </note>
+            <note>
+              <p>View of ruined caves and accumulated sand in front of Mogao Cave 259</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="31">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/17</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第249窟及以南洞窟和窟前积沙</p>
+            </note>
+            <note>
+              <p>Accumulated sand in front of Mogao Cave 249 and other caves to the south</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="32">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/18</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第249、250、251窟残景及下层洞窟</p>
+            </note>
+            <note>
+              <p>View of ruined Mogao Caves 249, 250, 251 and others below</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="33">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/19</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟九层楼及以北洞窟残景</p>
+            </note>
+            <note>
+              <p>Ninth storey of the Mogao Caves and caves directly to the north of it</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="34">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/20</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟九层楼及窟前水沟</p>
+            </note>
+            <note>
+              <p>Ninth storey of the Mogao Caves and the stream in front of it</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="35">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/21</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟九层楼以北洞窟残景</p>
+            </note>
+            <note>
+              <p>Caves directly to the north of the Nine Storey Building at the Mogao Caves</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="36">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/22</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟洞窟残景</p>
+            </note>
+            <note>
+              <p>View of ruined Mogao Caves</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="37">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/23</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第130窟以北洞窟</p>
+            </note>
+            <note>
+              <p>Mogao Cave 130 and others to the north</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="38">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/24</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第150窟前室画道教神将</p>
+            </note>
+            <note>
+              <p>Painting of Daoist divine general at the entrance to Mogao Cave 150</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="39">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/25</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第138窟前及以南洞窟景象</p>
+            </note>
+            <note>
+              <p>From Cave 138 looking south at the Mogao Caves</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="40">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/26</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第138窟前及以南洞窟景象</p>
+            </note>
+            <note>
+              <p>View of Mogao Cave 138 and others to the south</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="41">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/27</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>从莫高窟前望三危山</p>
+            </note>
+            <note>
+              <p>Looking from the Mogao Caves to the Sanwei Mountains</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="42">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/28</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>残破壁画</p>
+            </note>
+            <note>
+              <p>Damaged wall painting</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="43">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/29</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第130窟中层，甬道南壁菩萨像</p>
+            </note>
+            <note>
+              <p>Painting of bodhisattvas on the middle section of the south wall of the corridor in Mogao Cave 130</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="44">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/30</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第103窟南壁东侧观经变之未生怨壁画</p>
+            </note>
+            <note>
+              <p>Painting on the eastern side of the south wall in Mogao Cave 103 depicting Ajātaśatru from the <title lang="san-Latn">Amitāyurdhyāna Sūtra</title></p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="45">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/31</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟张大千编号第41窟</p>
+            </note>
+            <note>
+              <p>Zhang Daqian's Cave 41 at Mogao, Dunhuang</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="46">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/32</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第243窟（P.094）</p>
+            </note>
+            <note>
+              <p>Mogao Cave 243 (P.094)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="47">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/33</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第85窟（P.092）前室西壁北侧壁画</p>
+            </note>
+            <note>
+              <p>Mural on the north side of the western wall of the antechamber in Mogao Cave 85(P. 092)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="48">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/34</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第266窟外景</p>
+            </note>
+            <note>
+              <p>View into Mogao Cave 266 from the outside</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="49">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/35</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第285窟西披壁画</p>
+            </note>
+            <note>
+              <p>Mural on ceiling above the western wall of Mogao Cave 285</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="50">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/2/36</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第285窟东披壁画</p>
+            </note>
+            <note>
+              <p>Mural on ceiling above the eastern wall in Mogao Cave 285</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="51">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第422窟西壁佛龛内北侧塑像</p>
+            </note>
+            <note>
+              <p>Statues on the north side of the Buddha niche on the west wall of Mogao Cave 422</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="52">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/3</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第422窟西壁佛龛内北侧塑像</p>
+            </note>
+            <note>
+              <p>Statues on the north side of the Buddha niche on the west wall of Mogao Cave 422</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="53">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/4</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第415窟西壁佛龛内佛像</p>
+            </note>
+            <note>
+              <p>Buddha statue in niche on west wall of Mogao Cave 415</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="54">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第415窟，西壁佛龛内北侧天王像</p>
+            </note>
+            <note>
+              <p>Statue of Heavenly King on north side of Buddha niche on west wall of Mogao Cave 415</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="55">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/6</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第412窟前室西壁菩萨像</p>
+            </note>
+            <note>
+              <p>Bodhisattva statue on west wall of antechamber in Mogao Cave 412</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="56">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/7</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟三清宫（下寺）外景观</p>
+            </note>
+            <note>
+              <p>View of Sanqing Temple (lower temple) at the Mogao Caves</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="57">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/8</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟北区出土将军手、公主脚</p>
+            </note>
+            <note>
+              <p>Hand and feet from the statues of a military general and a princess excavated from the northern area of the Mogao Caves</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="58">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/9</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>路易•艾黎查看残菩萨头像</p>
+            </note>
+            <note>
+              <p>Rewi Alley looking at the remains of the head of a statue of a bodhisattva</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="59">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/10</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>罗芳在莫高窟中寺外骑马</p>
+            </note>
+            <note>
+              <p>Luo Fang on horseback outside the middle temple at the Mogao Caves</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="60">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/11</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>邝威和宇新德在莫高窟</p>
+            </note>
+            <note>
+              <p>Kuang Wei and Yu Xinde at the Mogao Caves</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="61">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/12</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>从莫高窟第138窟前及以北洞窟</p>
+            </note>
+            <note>
+              <p>Front of Mogao Cave 138 and other caves to the north</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="62">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/13</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟窟区南端胡杨林</p>
+            </note>
+            <note>
+              <p>Poplars at the south end of the Mogao cave complex</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="63">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/14</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第142窟前室</p>
+            </note>
+            <note>
+              <p>Antechamber of Mogao Cave 142</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="64">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/15</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第138窟外北壁天王像</p>
+            </note>
+            <note>
+              <p>Painting of Heavenly King on the north wall outside Mogao Cave 138</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="65">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/16</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第138窟外北壁天王像</p>
+            </note>
+            <note>
+              <p>Painting of Heavenly King on the north wall outside Mogao Cave 138</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="66">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/17</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第138窟外北壁天王像</p>
+            </note>
+            <note>
+              <p>Painting of Heavenly King on the north wall outside Mogao Cave 138</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="67">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/18</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第138窟外北壁天王像</p>
+            </note>
+            <note>
+              <p>Painting of Heavenly King on the north wall outside Mogao Cave 138</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="68">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/19</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第138窟外北壁天王像</p>
+            </note>
+            <note>
+              <p>Painting of Heavenly King on the north wall outside Mogao Cave 138</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="69">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/21</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第458-459窟(P.118P-118Q)</p>
+            </note>
+            <note>
+              <p>Mogao Caves 458-459 (P.118P-118Q)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="70">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/22</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第442、441、440窟(P.120S-120U)</p>
+            </note>
+            <note>
+              <p>Mogao Caves 442, 441, 440 (P.120S-120U)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="71">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/23</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第417、416、415窟(P.136h、136i、136j)</p>
+            </note>
+            <note>
+              <p>Mogao Caves 417, 416, 415 (P.136h, 136i, 136j)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="72">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/24</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第12窟前室南壁天王像</p>
+            </note>
+            <note>
+              <p>Statue of Heavenly King on the south wall of antechamber of Mogao Cave 12</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="73">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/25</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第12窟前室北壁天王像</p>
+            </note>
+            <note>
+              <p>Statue of Heavenly King on the south wall of antechamber of Mogao Cave 12</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="74">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/26</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟张编157窟</p>
+            </note>
+            <note>
+              <p>Zhang Daqian's Cave 157 at Mogao, Dunhuang</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="75">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/27</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第417、416窟(P.136h-136i)</p>
+            </note>
+            <note>
+              <p>Mogao Caves 417 and 416 (P.136h-136i)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="76">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/28</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第259窟西壁佛龛及塑像</p>
+            </note>
+            <note>
+              <p>Buddha niche and statues in west wall of Mogao Cave 259</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="77">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/29</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第254窟中心柱及龛内塑像</p>
+            </note>
+            <note>
+              <p>Central pillar and statues in Buddha niche in Mogao Cave 254</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="78">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/31</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第415窟西壁佛龛内佛像</p>
+            </note>
+            <note>
+              <p>Buddha statue in niche on western wall of Mogao Cave 415</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="79">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/33</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟窟前园林</p>
+            </note>
+            <note>
+              <p>View of the trees in front of the Mogao Caves</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="80">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/35</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第449—454窟段（未确定）</p>
+            </note>
+            <note>
+              <p>Section of cliffs showing Mogao Caves 449–454 (uncertain)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="81">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/36</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第249、251窟</p>
+            </note>
+            <note>
+              <p>Mogao Caves 249 and 251</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="82">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/37</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第231窟至244窟段</p>
+            </note>
+            <note>
+              <p>Section of cliffs showing Mogao Caves 231–244</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="83">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/5/38</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第231—236窟及上层第233窟</p>
+            </note>
+            <note>
+              <p>Section of cliffs showing Mogao Caves 231–236 and the upper level of Cave 233</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="84">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/1</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第273—275窟段外景</p>
+            </note>
+            <note>
+              <p>Cliff showing exposed Mogao Caves 273–275</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="85">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第266—275窟段外景</p>
+            </note>
+            <note>
+              <p>Cliff showing exposed Mogao Caves 266–275</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="86">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/3</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第272—274窟段外景</p>
+            </note>
+            <note>
+              <p>Cliff showing exposed Mogao Caves 272–274</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="87">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/4</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第268—274窟段外景</p>
+            </note>
+            <note>
+              <p>Cliff showing exposed Mogao Caves 268–274</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="88">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟窟区水渠及园林</p>
+            </note>
+            <note>
+              <p>View of irrigation canal and trees at Mogao Caves</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="89">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/6</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>王万盛莫高窟水渠洗衣</p>
+            </note>
+            <note>
+              <p>Wang Wansheng washing clothes in the irrigation canal at the Mogao Caves</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="90">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/7</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>孙光俊</p>
+            </note>
+            <note>
+              <p>Sun Guangjun</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="91">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/8</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>孙光俊</p>
+            </note>
+            <note>
+              <p>Sun Guangjun</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="92">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/9</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>王万盛莫高窟大泉河畔晾衣</p>
+            </note>
+            <note>
+              <p>Wang Wansheng hanging clothes on the banks of the Daquan River near the Mogao Caves</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="93">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/10</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟中寺前院（敦煌艺术研究所办公地）</p>
+            </note>
+            <note>
+              <p>Front courtyard of the middle temple at Mogao Caves (site of Dunhuang Art Institute offices)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="94">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/11</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟上寺喇嘛易昌恕</p>
+            </note>
+            <note>
+              <p>Lama Yi Changshu at the upper temple of Mogao Caves</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="95">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/12</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第412窟外景</p>
+            </note>
+            <note>
+              <p>View of outside of Mogao Cave 412</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="96">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/13</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟中寺前院正殿（敦煌艺术研究所办公地）</p>
+            </note>
+            <note>
+              <p>Main hall in front courtyard of the middle temple at Mogao Caves (site of the Dunhuang Art Institute offices)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="97">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/14</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟（未确定）弟子塑像（可能已无存）</p>
+            </note>
+            <note>
+              <p>Statue of a monk disciple (possibly no longer extant) at the Mogao Caves (location uncertain)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="98">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/16</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟大泉河东岸及三危山</p>
+            </note>
+            <note>
+              <p>View of east bank of Daquan River and Sanwei Mountains at Mogao Caves</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="99">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/17</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟大泉河东岸及三危山</p>
+            </note>
+            <note>
+              <p>View of east bank of Daquan River and Sanwei Mountains at Mogao Caves</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="100">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/18</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>从三危山前望莫高窟</p>
+            </note>
+            <note>
+              <p>View of the Mogao Caves from Sanwei Mountains</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="101">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/19</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>三危山西端山上五个墩台</p>
+            </note>
+            <note>
+              <p>Five beacon towers at the western end of Sanwei Mountains</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="102">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/20</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>三危山西端山上五个墩台</p>
+            </note>
+            <note>
+              <p>Five beacon towers at the western end of Sanwei Mountains</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="103">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/21</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>从三危山前望莫高窟</p>
+            </note>
+            <note>
+              <p>View of the Mogao Caves from Sanwei Mountains</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="104">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/22</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>大泉河西岸成城湾（南望）</p>
+            </note>
+            <note>
+              <p>Cheng Cheng Wan on the west bank of Daquan River (looking north)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="105">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/23</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>从成城湾北望大泉河河谷</p>
+            </note>
+            <note>
+              <p>Looking north from Cheng Cheng Wan towards Daquan River valley </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="106">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/24</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>从成城湾北望大泉河河谷</p>
+            </note>
+            <note>
+              <p>Looking north from Cheng Cheng Wan towards Daquan River valley </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="107">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/25</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>成城湾华塔</p>
+            </note>
+            <note>
+              <p>Hua Stupa at Cheng Cheng Wan</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="108">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/26</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>成城湾华塔</p>
+            </note>
+            <note>
+              <p>Hua Stupa at Cheng Cheng Wan</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="109">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/27</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>成城湾华塔</p>
+            </note>
+            <note>
+              <p>Hua Stupa at Cheng Cheng Wan</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="110">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/28</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>成城湾华塔</p>
+            </note>
+            <note>
+              <p>Hua Stupa at Cheng Cheng Wan</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="111">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/29</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>成城湾华塔旁土围墙</p>
+            </note>
+            <note>
+              <p>Earthen wall next to the Hua Stupa at Cheng Cheng Wan</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="112">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/3/30</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>成城湾华塔旁土围墙</p>
+            </note>
+            <note>
+              <p>Earthen wall next to the Hua Stupa at Cheng Cheng Wan</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="113">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/1</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>孙光俊手持模制花砖</p>
+            </note>
+            <note>
+              <p>Sun Guangjun holding a decorated brick </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="114">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>成城湾旁大泉河河谷</p>
+            </note>
+            <note>
+              <p>Daquan River valley at Cheng Cheng Wan</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="115">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/3</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>成城湾旁大泉河河谷</p>
+            </note>
+            <note>
+              <p>Daquan River valley at Cheng Cheng Wan</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="116">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/4</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>三危山下舍利塔</p>
+            </note>
+            <note>
+              <p>Stupa below the Sanwei Mountains</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="117">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>三危山下舍利塔</p>
+            </note>
+            <note>
+              <p>Stupa below the Sanwei Mountains</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="118">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/6</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>三危山下舍利塔内出土擦擦</p>
+            </note>
+            <note>
+              <p>Votive offerings in the form of stupas, excavated from stupa below Sanwei Mountains </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="119">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/7</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>路易•艾黎和孙光俊持舍利塔出土模制花砖</p>
+            </note>
+            <note>
+              <p>Rewi Alley and Sun Guangjun holding decorated brick excavated from stupa</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="120">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/8</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>从三危山远眺莫高窟</p>
+            </note>
+            <note>
+              <p>Mogao Caves seen from Sanwei Mountains</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="121">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/9</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>孙光俊在三危山</p>
+            </note>
+            <note>
+              <p>Sun Guangjun at Sanwei Mountains</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="122">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/10</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>孙光俊和王万盛在莫高窟九层楼附近</p>
+            </note>
+            <note>
+              <p>Sun Guangjun and Wang Wansheng near the Nine Storey Building at Mogao Caves</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="123">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/11</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第194窟中心佛坛上天王、菩萨像</p>
+            </note>
+            <note>
+              <p>Statues of Heavenly King and bodhisattva in centre of altar in Mogao Cave 194</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="124">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/12</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>莫高窟第196窟甬道南壁供养人像</p>
+            </note>
+            <note>
+              <p>Wall painting of donor figures on south wall of corridor of Mogao Cave 196</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="125">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/13</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>邝威在莫高窟中寺旁</p>
+            </note>
+            <note>
+              <p>Kuang Wei near the middle temple at the Mogao Caves</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="126">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/14</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>王万盛在莫高窟中寺</p>
+            </note>
+            <note>
+              <p>Wang Wansheng at the middle temple at the Mogao Caves</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="127">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/15</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>敦煌月牙泉</p>
+            </note>
+            <note>
+              <p>Yueyaquan (Crescent Moon Lake), near Dunhuang</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="128">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/16</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>敦煌月牙泉大殿</p>
+            </note>
+            <note>
+              <p>Main hall of the temple in Yueyaquan (Crescent Moon Lake), near Dunhuang</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="129">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/17</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>敦煌月牙泉大殿内神像</p>
+            </note>
+            <note>
+              <p>Daoist sculptures in main hall of temple in Yueyaquan (Crescent Moon Lake), near Dunhuang</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="130">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/18</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>敦煌月牙泉景观</p>
+            </note>
+            <note>
+              <p>Temple complex at Yueyaquan (Crescent Moon Lake), near Dunhuang</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="131">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/19</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>敦煌月牙泉景观</p>
+            </note>
+            <note>
+              <p>Temple complex at Yueyaquan (Crescent Moon Lake), near Dunhuang</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="132">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/20</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>敦煌月牙泉鸣沙山</p>
+            </note>
+            <note>
+              <p>‘Singing Sand’ (<term lang="chi-Latn">mingsha</term>) dune at Yueyaquan (Crescent Moon Lake), near Dunhuang</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="133">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/21</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>敦煌月牙泉鸣沙山</p>
+            </note>
+            <note>
+              <p>‘Singing Sand’ (<term lang="chi-Latn">mingsha</term>) dune at Yueyaquan (Crescent Moon Lake), near Dunhuang</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="134">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/22</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>敦煌月牙泉</p>
+            </note>
+            <note>
+              <p>Yueyaquan (Crescent Moon Lake), near Dunhuang</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="135">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/23</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>四人在敦煌月牙泉鸣沙山</p>
+            </note>
+            <note>
+              <p>Four people at 'Singing Sand' (<term lang="chi-Latn">mingsha</term>) dune at Yueyaquan (Crescent Moon Lake), near Dunhuang</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="136">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/24</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>四人在敦煌月牙泉鸣沙山</p>
+            </note>
+            <note>
+              <p>Four people at 'Singing Sand' (<term lang="chi-Latn">mingsha</term>) dune at Yueyaquan (Crescent Moon Lake), near Dunhuang</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="137">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/25</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>准备出发离开敦煌</p>
+            </note>
+            <note>
+              <p>Preparing to leave Dunhuang</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="138">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/26</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>敦煌城内的哈萨克牧民</p>
+            </note>
+            <note>
+              <p>Kazakh shepherd in Dunhuang</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="139">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/27</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>敦煌城内的哈萨克牧民</p>
+            </note>
+            <note>
+              <p>Kazakh shepherd in Dunhuang</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="140">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/28</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>敦煌城内的哈萨克牧民</p>
+            </note>
+            <note>
+              <p>Kazakh shepherd in Dunhuang</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="141">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/29</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>敦煌城内游城隍民俗活动</p>
+            </note>
+            <note>
+              <p>Customary procession of the City God in Dunhuang</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="142">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>Needham Research Institute</repository>
+          <collection>Needham 1943</collection>
+          <idno type="current">NRI2/10/1/1/3/4/30</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>敦煌城内游城隍民俗活动</p>
+            </note>
+            <note>
+              <p>Customary procession of the City God in Dunhuang</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

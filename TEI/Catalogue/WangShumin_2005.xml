@@ -1,0 +1,1915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Abstracts of the medical manuscripts from Dunhuang</title>
+        <author id="WS">Wang Shumin</author>
+        <respStmt>Penelope Barrett</respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>First edition</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Curzon</publisher>
+        <pubPlace>London and New York</pubPlace>
+        <date>2005</date>
+      </publicationStmt>
+      <sourceDesc>classified as Shanghan lun<p>Printed book</p><bibl><ref>WangShumin_2005</ref></bibl></sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Abstracts of 74 manuscripts containing medical information held in the British Library and the Bibliothèque nationale de France, Institute of Oriental Studies and the Russian Academy of Sciences, St Petersburg, Ryūkoku University Library and Chinese archives. These abstracts have been adpapted and amplified by Wang Shumin from the Dunhuang yiyao wenxian jijiao (The Dunhuang Texts Edited and Collated) edited by Ma Jixing. For ease of reference, they follow the same numbering system. In the course of fieldwork for this project, Wang Shumin was able to identify several fragments as belonging to a single manuscript. The relevant abstracts have been conflated, creating gaps in the original numbering. For the readers' convenience we have cross-referenced the abstracts with the library manuscript cataloguing numbers (beginning with Pelliot and Stein and finishing with the Russian, Japanese and Chinese collections).</p>
+    </head>
+    <body>
+      <msDescription n="1" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3481</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">病形脈診</title>
+            <title lang="chi-Latn">Bingxing maizhen</title>
+            <title lang="eng-Latn">The Form of the Illness and Pulse Diagnosis</title>
+            <note>
+              <p>There is a text on each side of the scroll. This treatise is on the front; on the reverse is a Buddhist sutra. The scroll, which is 27 cm. in height, is defective at the top and bottom.</p>
+              <p>Thirteen columns of the treatise survive. The original title is illegible, but a comparison with the received texts of<title lang="chi-Latn">Zhenjiu jiayi jing</title><title lang="chi-Hant">針灸甲乙經</title>(<title lang="eng-Latn">The AB Canon of Acupuncture</title>) reveals close textual similarities with parts of<title lang="chi-Latn">Bingxing maizhen, 2</title><title lang="chi-Hant">病形脈診第二</title>in Volume 4 of that work. It is therefore currently identified as<title lang="chi-Latn">Zhenjing: Bingxing maizhen</title><title lang="chi-Hant">針經·病形脈診</title>(<title lang="eng-Latn">The Needle Canon: The Form of the Illness and Pulse Diagnosis</title>). The same passages occur in surviving copies of<title lang="chi-Latn">Lingshu jing</title><title lang="chi-Hant">靈樞經</title>(<title lang="eng-Latn">The Numinous Pivot</title>),<title lang="chi-Latn">Xieqi zangfu bingxing, 4</title><title lang="chi-Hant">邪氣臟腑病形第四</title>; in<title lang="chi-Latn">Huangdi neijing taisu</title><title lang="chi-Hant">黃帝內經太素</title>(<title lang="eng-Latn">Inner Canon of the Yellow Emperor, Grand Basis</title>), Vol. 15,<title lang="eng-Latn">Pulse diagnosis of the five viscera</title>(<title lang="chi-Latn">Wuzang maizhen</title>, juan 15<title lang="chi-Hant">五臟脈診 卷十五</title>); and in<title lang="chi-Latn">Maijing</title><title lang="chi-Hant">脈經</title>(<title lang="chi-Latn">The Pulse Canon</title>) Vol. 3, Sections 1-5.</p>
+              <p>The MS does not exhibit any prohibition on the use on the character 世 (shi), which figures in the personal name,<name lang="chi-Latn" type="person">Li Shimin</name><name lang="chi-Hant" type="person">李世民</name>, of the Tang emperor<name lang="chi-Latn" type="person">Tai Zong</name><name lang="chi-Hant" type="person">太宗</name>(the graph 世 is used in the MS in error for 泄). This indicates that it predates his reign (627-649 CE).</p>
+              <p>The surviving fragment is in the form of an interrogation. The author asks:<q lang="chi-Latn">‘What types of disorders relate to a pulse that is slow (huan 緩), rapid (ji 急), slight (xiao 小), great (da 大), smooth (hua 滑), jerky (se 澀)?’</q>In his response, he expounds on the types of disorders that may arise when the pulses corresponding to each of the five viscera display these phenomena. For example,<q lang="chi-Latn">‘a rapid pulse of the heart indicates chi 瘛’ (i.e. chizong 瘛疭 , a traditional Chinese medical term referring to spasmodic symptoms); ‘a slightly accelerated pulse is related to xintong yinbei 心痛引背’</q>(i.e. xinjiao tong 心絞痛, angina pectoris). The entire text on the heart pulse is preserved as is much of the section on the lung pulse, but the sections on the liver, spleen and kidney have not survived.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3287</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">素問·三部九候論</title>
+            <title lang="chi-Latn">Suwen: Sanbu jiuhou lun</title>
+            <title lang="eng-Latn">Basic Questions: Treatise on the Three Sectors and Nine Positions</title>
+            <note>
+              <p>The MS is 28.5 cm. in height. There is a portion missing. It has ruled columns and a border at the top and bottom. The beginning of each section is marked in red ink with a circle or diagonal stroke. Altogether 149 columns of text are preserved, containing copies of five books, written continuously. In order, they are: Sanbu jiuhou lun; Shanghan lun 傷寒論 (Treatise on Cold Damage), Text B (yi ben乙本); Wangmingshi maijing, I亡名氏脈經第一種 (Canon of the Pulse of Unknown Authorship, I); Shanghan lun, Text C (bing ben丙本); and Wangmingshi maijing, II 亡名氏脈經第二種. This text, the first in the sequence, occupies columns 1-31. Although the concluding portion is preserved intact, the opening is damaged and the title is consequently missing. However, a comparison with the annotated edition of Huangdi neijing suwen 黃帝內經素問 (Inner Canon of the Yellow Emperor, Basic Questions) by the Tang scholar Wang Bing 王冰 reveals close textual similarities with substantial portions of the section entitled Sanbu jiuhou lun, 20 三部九候論第二十. We have therefore adopted that section heading as the title of this text.</p>
+              <p>The name of the original author is unknown, although the text was very early on incorporated into Huangdi neijing suwen 黃帝內經素問. The Sui editor, Quan Yuanqi 全元起 included it in Volume 1 under the title Jue sisheng pian 決死生篇 (Chapter on the determination of birth and death) (according to notes on Suwen 素問 by Lin Yi 林億 and others — Quan Yuanqi’s own edition has not survived). The Tang editor Wang Bing, however, included it in Volume 6 of his edition as Sanbu jiuhou lun, 20 三部九候論第二十. Yang Shangshan 楊上善, who was also active in the Sui-Tang period, placed it in the first section of Volume 14 of his annotated edition of Huangdi neijing taisu 黃帝內經太素 (the section title has not been transmitted). In the Wei-Jin period, Huangfu Mi皇甫謐 included it in Volume 4 of Zhenjiu jia yi jing 針灸甲乙經(The AB Canon of Acupuncture) under the heading Sanbu jiuhou, 3三部九候第三(The Three Sectors and Nine Positions, no 3).</p>
+              <p>On the evidence of character prohibitions, the MS can be dated to the reign of the Tang emperor Gao Zong 高宗 (650-683 CE). The character 順 (shun) in the personal name (Xiao Shun 蕭順) of the Liang emperor Wudi 武帝 is not subject to prohibition, neither is the character 旦 (dan) in the personal name (Li Dan 李旦) of the Tang emperor Rui Zong 睿宗. As in the texts of Shanghan lun (Text B) and Wangmingshi maijing, II, which are found in the same scroll, the name characters of the Tang emperor Gao Zu 高祖 (Li Yuan 李淵) are not subject to prohibition. However, prohibitions can be seen to apply to the name characters of the Tang emperor Tai Zong 太宗 (Li Shimin李世民), i.e. the character 世 (shi) is written with one stroke missing and the character葉 (ye) is replaced by XCVB; and also to the name characters of the Tang Emperor Gao Zong 高宗 (Li Zhi 李治), i.e. the character 治 (zhi) is written with one stroke missing.</p>
+              <p>The surviving portions of the text deal mainly with the nine divisions of the heavens (ye 野) and the nine viscera; the complementarity of xing 形 (presenting symptoms) and the pulses; diagnosis according to the nine positions, and the signs of death; diagnosis according to the ankle, with the three sectors and nine positions.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3" type="WS">
+        <msIdentifier>
+          <settlement>St Petersburg</settlement>
+          <repository>Institute for Oriental Studies of the Russian Academy of Sciences</repository>
+          <collection>Dunhuang and Heicheng collection</collection>
+          <idno type="current">Dx-163</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">無名氏注素問</title>
+            <title lang="chi-Latn">Wumingshi zhu — Suwen</title>
+            <title lang="eng-Latn">Suwen with commentary by an unnamed author</title>
+            <note>
+              <p>The beginning and end of the MS are incomplete, and the bottom half of the text is lost, leaving intact the top half of 12 lines. The MS has black rulings. The fragment lacks a title or other headings. Because it contains text from Suwen 素問 (Basic Questions), it is catalogued in E cang Dunhuang wenxian 俄藏敦煌文獻 (Documents from Dunhuang Preserved in Russia) as Huangdi neijing suwen (Inner Canon of the Yellow Emperor, Basic Questions),Volume 6 黃帝內經素問卷六. But in addition to a fragmentary text of Suwen: Sanbu jiuhou lun (Basic Questions: Treatise on the Three Sectors and Nine Positions), annotations in small characters can be discerned below the fourth line. These notes differ so completely from the two extant classical commentaries on the Neijing 內經 (i.e. Yang Shangshan’s楊上善notes on Huangdi neijing taisu 黃帝內經太素 [Inner Canon of the Yellow Emperor, Grand Basis] and Wang Bing’s王冰notes on Huangdi neijing suwen, both written in the Tang period) that they can be assumed to originate with another commentator of the Sui-Tang period. The text is currently designated as Wumingshi zhu — Suwen, Fragment.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="4" type="WS">
+        <msIdentifier>
+          <settlement>London and Paris</settlement>
+          <repository>British Library and Bibliothèque nationale de France</repository>
+          <collection>Stein collection and Pelliot collection</collection>
+          <idno type="current">Or.8210/S.202</idno>
+          <idno type="current">Or.8212/478</idno>
+          <idno type="current">P.3287</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">傷寒論</title>
+            <title lang="chi-Latn">Shanghan lun</title>
+            <title lang="eng-Latn">Treatise on Cold Damage</title>
+            <note>
+              <p>S. 202 is 27.7 cm. in height, is defective at the extremities, and bears 103 columns of text. It has no title or section headings. The text is broadly similar to the section entitled Bianmai fa, 1辨脈法第一 in the Song editions of Shanghan lun, save for three short interpolations, and it seems to belong to an early manuscript tradition of that work. It has accordingly been identified as Shanghan lun, Text A. (jia ben甲本). The MS does not exhibit any prohibition on the character堅 (jian) in the personal name (Yang Jian 楊堅) of the Sui emperor Gao Zu 高祖; the character 治 (zhi) in the name (Li Zhi 李治) of the Tang emperor Gao Zong 高宗; or the character 旦 (dan) in the name (Li Dan李旦) of the Tang emperor Rui Zong 睿宗. It is unlikely therefore to be later than the Sui period. This work covers the topics of Yin and Yang pulse diagnosis; characteristics of the pulse indicative of recovery in yin-related and yang-related disorders; diagnosis based on the wrist pulse (cunkou寸口) and fuyang 趺陽point; critical states of the pulses (juemai 絕脈) corresponding to the five viscera; and other abnormalities of the pulses.</p>
+              <p>For a description of P. 3287, please see Abstract 2. This scroll contains copies of five books in 149 columns of text. Shanghan lun, Text B (yi ben 乙本) occupies columns 32-50. This title has been adopted because the text corresponds to a series of passages towards the middle of Shanghan li, 3 傷寒例第三in the extant editions of Shanghan lun (Section 48 in the Song period copies). This MS copy is contemporary with Sanbu jiuhou lun, i.e. it probably dates from the reign of the Tang emperor Gao Zong. The text deals with the possible dangers of treating cold-induced conditions inappropriately with purgation and sweating.</p>
+              <p>Shanghan lun, Text C (bing ben 丙本) occupies columns 61-67. It corresponds substantially to a section of Bianmai fa, 1辨脈法第一in the Song texts of Shanghan lun. Since however, there are some discrepancies between this version and the corresponding passages in Shanghan lun, Text A (jia ben甲本), it is distinguished as Text C. The MS is contemporary with Text B. It deals mainly with the condition ‘juemai’ 絕脈 of the five viscera.</p>
+              <p>The fragment classified as Shanghan lun, Text D (ding ben 丁本) was discovered by Aurel Stein in his third excavation. It was reproduced in a plate in Dunhuang Baocang 敦煌寶藏 (Treasures of Dunhuang), 55, p. 337 (Catalogue no Or.8212/478 Fragment. 079). According to Les documents chinois de la troisième expédition de Sir Aurel Stein en Asie centrale by the French scholar Henri Maspéro, this fragment was unearthed at Heicheng rather than Dunhuang itself However, on the top left side of the MS there is a Dunhuang Limes site identification. Because of its importance as the earliest known exemplar of Zhang Zhongjing's Shanghan lun, it has been included here.</p>
+              <p>The fragment is defective at the extremities. Only seven fragmentary columns of the medical text survive, representing three paragraphs of text and a prescription. As a comparison with the extant medical works shows, the first two paragraphs are cited in Jinkui yaolüe fang lun 金 匱要略方論 (Treatise on the Essential Prescriptions of the Golden Casket), Volume 1, Section 9 and are also reproduced, without attribution, in Qianjin yaofang 千金要方 (Essential Prescriptions Worth a Thousand Gold Pieces), Volume 13, Section 7. The third paragraph appears in Waitai miyaofang 外台秘要方(Arcane Essential Prescriptions from the Imperial Library), Vol. 12, Xiong bi ye sai fang ‘胸痹噎塞方’, where its source is cited as Zhongjing Shanghan lun 仲景傷寒論(Zhongjing’s Treatise on Cold Damage). Since it is, however, absent from the extant Song texts of both Shanghan lun and Jinkui yaolüe fang lun, it presumably represents a lost manuscript tradition. The prescription appears in Qianjin yaofang, Volume 13, Section 7, in conjunction with the first two paragraphs. Although no source is named here, this makes it highly probable that it too is an untransmitted portion of Zhang Zhongjing’s original work. Bearing in mind that prior to the Tang period, Zhang Zhongjing’s Shanghan lun circulated in a number of different versions under various titles, and that the sections on cold damage and on other miscellaneous disorders were often conflated, we have restored that title to the text.</p>
+              <p>It is noteworthy that this fragment is not a manuscript but a xylograph. Despite its physical deterioration, it is still possible to discern the outline of the stone frame of the woodblock, including both edges of the lower rim, and regular columns are visible in the body of the page. It shows close similarities in text and format to the fragmentary Northern Song version of Sun Zhenren qianjin fang 孫真人千金方 (Sun Zhenren’s Prescriptions Worth a Thousand Gold Pieces), preserved in Japan, indicating that the two fragments come from different xylographic editions of the same lost text by Zhang Zhongjing.</p>
+            </note>
+            <note lang="chi-Hant">
+              <p>此寫本高27cm，長193cm。首尾均殘，有淡墨色行線，無框界。現存103行文字，每行書寫22至24個字。缺書名及篇名標題。將其與宋本《傷寒論》對校，基本上相同於“辨脈法第一”一篇全文，且多出宋本三條。此寫卷應是《傷寒雜病論》早期傳本之一，今據此稱爲《傷寒論·辨脈法》。</p>
+              <p>《傷寒雜病論》，東漢·張仲景撰，原書十六卷。“辨脈法”主要論述陰陽脈法、陰結與陽結病欲解愈的脈象、寸口及趺陽診脈法、五臟絕脈及其他病脈。</p>
+              <p>此寫本不避隋唐名諱，似爲隋以前寫本。</p>
+              <p>傳世的《傷寒論》“辨脈法”與“傷寒例”的作者及撰年，以往曾有多種不同意見，敦煌寫本的發現，證明此二篇必成書于宋以前，雖不能確證爲仲景所作，但可排除唐宋俗醫编撰的說法。</p>
+            </note>
+            <q type="transcription" lang="chi-Hant">
+              <p>其脉自沉而遲，不能食，身體重，大一便反堅，名曰陰結，期十四日當劇。二</p>
+              <p>問曰：病有洗沂（淅）<note type="footnote" n="1">洗沂，“沂”與“淅”形近而誤。宋本《傷寒論·辨脈法》作“洒淅”，惡寒貌。“洗”，《說文解字·水部》：“洗，洒足也。”洒，《集韻》蘇典切，上銑心，真部，寒貌。《素問·風論》：“腠理開則洒然寒，閉則熱而悶。”王冰注：“洒然，寒貌。” 《本草綱目·木部·秦皮》：“秦皮主治風寒濕痹洗洗寒氣，除熱。”</note>惡寒而後反彂熱者何？答曰：陰脉不足，陽往三從之。陽脉不足，陰往乘之。何謂陽不足？答曰：假令陽微，爲四陽不足，陰氣入陽則惡寒。何謂陰不足？答曰：尺脉弱爲陰五不足，陽氣下流入陰中，則彂熱。六</p>
+              <p>脉陽浮陰濡而弱，弱則血虛，血虛則傷 （筋）。其脉沉，營氣微。其七脉浮則汗出如流珠，衛氣衰。營氣微，加燒針留，不□□□【行更發】<note type="footnote" n="2">□□□：此三字原殘缺，宋本《傷寒論·辨脈法》作“行更發”。</note>八熱而躁煩，脉藹藹如車之蓋，名曰陽結。累累如順長竿，名曰陰九結。囁囁如吹榆莢，名曰數。瞥瞥如羹上肥者，陽氣微。縈縈如蜘十蛛糸（絲）者，陽氣衰。綿綿如淶（漆）之絕者，亡其血。十一</p>
+              <p>脉來緩，時一止復來，名曰結。十二</p>
+              <p>脉來時數，一止，名曰促。十三</p>
+              <p>脉陽盛即促，陰盛即緩。病陰陽相薄<note type="footnote" n="3">薄，通“搏”，交爭。《素問·厥論》“酒氣與穀氣相搏，熱盛於中。”</note>名曰動。陽動即汗出。十四陰動即彂熱。形冷而寒，此爲進。數脉見於關上，無頭尾，大十五如大豆，厥厥動搖，名爲動。脉浮大濡，陰浮與陽同等，故名十六之爲緩。夫脉浮緊，名爲弦。十七</p>
+              <p>脉緊者，如轉索無常。十八</p>
+              <p>脉弦，狀如弓弦，案（按）之不移。十九</p>
+              <p>脉弦而大，弦即爲蔵，大即爲<note type="footnote" n="4">，宋本《傷寒論··辨脈法》作“芤”。</note>（芤），蔵即爲寒， （芤）即爲虛，寒 （芤）二十相薄，脉即爲革，婦人即半産而漏下，男子即亡血。</p>
+              <p>問曰：病有二十一戰而汗出囙（因）得解者何？答曰：脉浮而緊，案之反 （芤），此爲本虛，二十二故當戰而汗出。其人本虛，是以彂戰。其脉反浮，故當汗出乃二十三解。若脉浮數，案之不 （芤），此人本虛<note type="footnote" n="5">虛，此字前宋本《傷寒論·辨脈法》有“不”字。</note>，若欲自解，但汗出耳，不二十四彂戰也。二十五</p>
+              <p>問曰：病有不戰復不汗出而解者何？答曰：其脉大浮而數，故二十六知汗出而解。二十七</p>
+              <p>問曰：病有不戰復不汗出而解者何？答曰：其脉自微弦，此曾二十八以彂汗，若吐，若下，若亡血，無津液，陰陽自和，自愈，故不戰不二十九汗出而解。</p>
+              <p>問曰：傷寒三日，其脉浮數而微，人涼身和何？三十答曰：是爲欲解，解以夜半。浮而解者，濈然而汗出。數而解者，必三十一能食。微而解者，而大汗出。</p>
+              <p>問曰：脉病欲知愈不，何以別三十二之？答曰：寸口、關上、尺中三處，大小、浮沉、遲疾同等。雖有寒熱不解，三十三脉陰陽爲平，當劇，今愈。</p>
+              <p>問曰：立夏得浮大脉，是其位，其人三十四病身體苦瘀痛重。彂其汗者，明日身不疼不重痛者，不須三十五彂其汗，汗  （濈濈）<note type="footnote" n="6">，宋本《傷寒論··辨脈法》作“濈濈”，汗出貌。</note>自出，明日解矣。問病者何時彂病？假令夜半三十六得病者，旦日日中愈。日中彂病，夜半愈。何以言之？立夏脉浮，是三十七其時脉，故使然，四時相救。所以言日中得夜半愈者，陽得陰三十八解。夜半得，旦日日中愈者，何以言之？陰得陽則解矣。三十九</p>
+              <p>寸口脉浮在表，沉在裏，數在府（腑），遲在蔵（臓），今脉遲，此爲在蔵（臟）。四十</p>
+              <p>趺陽脉浮而澁，少陰如經，其病在脾，法當下利。何以知之？脉四十一浮而大，氣實血虛。</p>
+              <p>趺陽脉浮而澁，故知脾氣不足，氣虛也。四十二少陰脉弦沉，纔見爲調，故稱如經。而反滑數者，故知當溺四十三膿也。</p>
+              <p>寸口脉浮緊，浮即爲風，緊則爲寒。風即傷衛，寒四十四即傷榮，榮衛俱病，骨節疼煩，當彂其汗。趺陽脉遲而緩，四十五胃氣如經。</p>
+              <p>趺陽脉浮而數，浮則傷胃，數則動脾。此非本病，四十六醫將下之所爲。榮衛內陷，其數先微，脉反但浮，其人必堅，氣噫四十七而除。何以言之？本數脉動脾，其數先微，故知脾氣而治，大便而四十八堅，氣噫而除，浮脉反微，數氣獨留，心中則飢。耶（邪）熱煞穀，朝四十九暮彂溫，數脉當遲緩，脉囙（因）前度數如前，病者則肥，數脉五十不時，則生惡創（瘡）。五十一</p>
+              <p>師曰：一日脉一病人，其脉微而澁者，此爲醫所病也。大彂其汗，五十二若數大下之，若其人亡血，病當惡寒而彂熱無休止。時五月五十三盛熱，欲著複衣。冬月盛寒，欲裸出身。所以然者，陽微即惡五十四寒，陰弱即彂熱，醫數發汗，使陽氣微，又大下之，令陰氣五十五弱。五月之時，陽氣在表，胃中虛冷，陽微不能勝之，故欲着五十六衣。十月之時，陽氣在裏，胃中煩熱，陰氣弱不能勝之，故五十七欲裸身。又陰脉復遲澁，故知亡血。脉浮而大，心下反堅，有熱。五十八屬蔵（臟），攻之，不令微汗。屬府（腑），復數即堅，汗多即愈，少汗復難。五十九遲尚未可取。趺脉微澀，少陰反堅。微即下，逆則躁煩。少陰六十緊者，復即爲難。汗出在頭，穀氣爲下，復難者愈。微溏不令六十一汗出。甚者，遂不得便，煩逆鼻鳴，上竭下虛，不得復通。脉浮六十二而洪，軀反如沾濡而不休，水漿不下，形軆不仁，乍理乍亂，此爲六十三命絕。未知何蔵（臟）受寒，汗出髮潤，喘而不休，此爲肺絕。陽反六十四獨留，形體如咽（煙），直視搖頭，此爲心絕。唇吻反青，四肢縶習，此六十五爲肝絕。還口黎（黧）黑，柔汗彂黃，此爲脾絕。復便狂語，目反直視，六十六此爲腎絕。未知何蔵（臟）前絕。陽氣前絕，其死必青。陰氣前六十七絕，陽氣後絕，其死必赤。腋下爲溫，心下溫，心下必熱。六十八</p>
+              <p>寸口脉浮大，醫反下之，此爲大逆，浮即無血，大則爲寒。寒氣相六十九薄，即爲膓鳴。醫反不知，而反飲水，令汗大出。水得於寒，氣七十冷相薄，其人即 。趺陽脉浮，浮即爲虛，浮虛相薄，故氣上 ，七十一 胃氣滑者，其人即噦。此爲醫責虛取實，守空迫血。脉浮，七十二鼻口燥者，必衄。七十三</p>
+              <p>諸浮數脉，當彂熱而洗（淅）惡寒，若有痛處，食飲如常，慉（畜）七十四積有膿。七十五</p>
+              <p>脉浮遲，其面熱而赤，戴陽六、七日，當汗出而解，反發熱。遲七十六爲無陽，不能作汗，其身必癢。七十七</p>
+              <p>脉虛而不吐、下、發汗，其面反有熱。今色欲解，不能汗出，其身七十八必癢。</p>
+              <p>寸口脉弦，陰陽俱緊，清耶（邪，下同）中上，濁耶中下。清七十九耶中上名曰渾，濁耶中下名曰緊，陰中耶名曰栗。表氣微八十虛，裏則不守，故使耶中陽。陽中耶彂熱，項強頸攣，要（腰）痛脛八十一酸，所謂陽中霧露。故曰：清耶中上，濁耶中下。陰氣爲粟（栗）<note type="footnote" n="7">粟，据上文“陰中耶名曰栗”，“粟”当是“栗”字之误。</note>，足八十二逆而冷。狂熱妄出，表氣微虛，裏氣微急，三焦相溷，內外不通。八十三上焦怫鬱，蔵（臟）氣相動，口爛食斷。中焦不治，胃氣上鼻，脾氣八十四不轉，胃中爲濁。榮衛不通，血凝不流，衛氣前通，小便赤黃，八十五與熱相薄，囙（因）熱作使，遊於經絡，出入蔵府（臟腑），熱氣所過，則爲癰八十六膿。陰氣前通，陽氣厥微，陰無所使，客氣內入，嚏而出之，聲八十七 〈嗢〉<note type="footnote" n="8">，宋本《傷寒論··辨脈法》作“嗢”。</note>便白，寒厥相追，爲熱所推，血凝目下，狀如豚肝，陰陽俱厥八十八，脾氣孤弱，五液狂下，下焦不濇，清溲下重，令便數難，齊（臍）築 八十九痛，命將難全。脉陰陽俱緊，口中氣出，唇口乾燥，踡（捲）臥，足恒九十冷，鼻中涕出者，舌上胎（苔）滑，勿妄治。到七日上，其人微熱足溫，此九十一爲欲解；或到七、八日上，反彂熱，此爲難治。設惡寒，必欲歐（嘔），腹中九十二痛者利。九十三</p>
+              <p>陰陽俱緊，至於吐利，其脉續不解，緊去人安，此爲欲解。脉遲,九十四至六、七日，不欲食，此爲晚彂，水停故也。夫爲未解，食自可者，九十五爲欲解。九十六</p>
+              <p>病六、七日，手足三部脉皆至，大煩，口噤不能言，其人躁擾，此九十七爲解。</p>
+              <p>脉和，其人大煩，目重瞼除，此爲欲解。九十八</p>
+              <p>脉浮而數，浮即爲風，數即爲虛，風即爲熱，數即惡寒。虛九十九風相薄，則洗沜（淅）<note type="footnote" n="9">沜，当为“淅”字之误。</note>而惡寒。</p>
+              <p>趺陽脉浮而微，浮則爲虛，微即一00汗出。</p>
+              <p>浮滑之脉，其脉數疾，熱汗出，此爲不治。脉散，其人形損傷 一0三</p>
+            </q>
+            <q type="translation" lang="chi-Hant">
+              <p>[問：脈有陽結與陰結，怎麼區別它們呢？答：病人的脈浮而數，能進食，大便秘結堅硬不下的，這是陽熱實証，叫做陽結，預計到十七日應當加劇。]病人的脈沉而遲，不能進食，身體沉重，大便反而秘結堅硬的，叫做陰結，預計到十四日應當加劇。</p>
+              <p>問：患病有如涼水澆身一樣怕冷，（其后）反而又出現發熱的症狀是為什麼？答：陰脈不足，陽脈就會從其虛﹔陽脈不足，陰氣就會去侵襲。問：什麼叫做陽不足？答：如果陽脈微，叫做陽不足，陰氣上侵入陽脈，就會出現怕冷的症狀。問：什麼叫做陰不足？答：尺脈弱叫做陰不足，陽氣下流入陰中，就會出現發熱的症狀。陽脈浮，陰脈濡而弱，弱脈是血虛的表現，血虛就會出現筋脈攣急。脈象沉，表示營氣微弱。脈浮，汗出像水珠流淌一樣，表示衛氣衰竭。營氣微弱的病人，用燒針治療，[就會出現營血留滯不能循行，以致更加]發熱，且煩躁不安。</p>
+              <p>脈浮盛大如車蓋一樣搖蕩的，名叫陽結脈。脈沉遲連綿不斷好似摸著長竿一樣，名叫陰結脈。脈象如同用口不斷地吹榆莢一樣，名叫數脈。脈象虛浮如同肉湯上漂起的油脂一樣，這是陽氣微弱的表現。脈象纖細如同蜘蛛絲一樣，這是陽氣衰竭的表現。脈象綿軟無力如瀉漆斷而未斷的樣子，這是失血的表現。</p>
+              <p>脈搏緩慢，有時停一下再來的，名叫結脈。脈搏快數，有時停一下再來的，名叫促脈。促脈表示陽盛，緩脈表示陰盛，這都是有病的脈象。</p>
+              <p>陰氣與陽氣互相侵擾，名叫動脈。陽脈動則出汗，陰脈動則發熱。身冷畏寒，這是入裡的表現。數脈隻見於關部，無頭無尾，如同豆大，（在指下的感覺就）如同彈出的石子那樣快速有力，這就叫動脈。</p>
+              <p>陽脈浮大而濡，陰脈與陽脈的脈象相同，所以名為緩脈。脈浮而緊的，名叫弦脈。脈緊的形狀就如同轉動的繩索而不能固定。弦脈的形狀就如同弓弦，按下去不移動。</p>
+              <p>脈弦而大，弦緊是蔵脈，大而中空是 脈。蔵就是有寒的脈象， 就是血虛的脈象。蔵脈 脈並見，就是革脈。婦人出現革脈就會患流產和漏血，男子出現革脈就會患亡血和失精。</p>
+              <p>問：疾病有因寒戰出汗而獲得痊愈的，是什麼道理呢？答：脈見浮而緊，重按反而出現 脈，這是正氣本虛，所以應當出現寒戰汗出的症狀。病人正氣本來就虛弱，因此出現了寒戰。又因為病人脈浮，（浮脈是邪氣在表的征相，）所以應當汗出而病愈。如果病人的脈浮而數，重按脈有力而不 ，這是病人正氣不虛，如果想自愈，隻要汗出就可以了，不會出現寒戰的症狀。</p>
+              <p>問：疾病有不寒戰而出汗痊愈的，是什麼道理呢？因為病人脈大有力而且浮數，（這是抵御疾病能力強的表現，）所以知道隻要出汗病就會痊愈。</p>
+              <p>問：疾病有不發生寒戰，汗不出而能自愈的，是什麼道理呢？答：病人脈象本來微而弦。這種脈象說明，曾經用發汗的方法治療過，或用催吐、或用攻下的方法治療過，或者因為失血，體內津液虧乏，隻要陰陽能夠自和，並且正氣能自己恢復的，必然會自愈。所以就不會出現寒戰汗出的症狀。</p>
+              <p>問：患傷寒病已經三天，病人的脈象浮數而微，身體涼爽舒適，這是為什麼？答：這是疾病將要痊愈的表現，病愈的時間是在半夜。脈浮而病愈的，就會微微自汗出﹔脈數而病愈的，必然食欲增進﹔脈微而病愈的，必然大汗出。</p>
+              <p>問：想通過診脈知道疾病是否將愈，根據什麼來判斷呢？答：寸口、關上、尺中三處脈的大小、浮沉、遲數同等，即使有寒熱不能解除的症狀，因為脈象已陰陽平和，所以病雖重也能痊愈。</p>
+              <p>問：立夏見浮大脈，這是夏季本來的脈象，病人患身體疼痛沉重的，要用發汗的方法治療。如果次日身體不疼痛不沉重的，就不必發汗了。如能得到連綿不斷自汗出的，次日就會病愈。問：病人何時發病的？（何時才能痊愈？答：）假如半夜得病的人，次日中午病愈﹔中午得病的，半夜病愈。為什麼這樣說呢？因為立夏見浮脈，這是時令旺盛的脈象，所以才使病痊愈。四時之脈是可以相互救助的。所以說日中得病半夜病愈的，是因為陽性病得到陰氣調和就會使病痊愈。半夜得病次日中午病愈的，根據什麼這樣說呢？根據陰性病得到陽氣調和就會使病痊愈的理論。</p>
+              <p>寸口脈浮是病在體表，脈沉是病在體內，脈數是病在腑，脈遲是病在臟。現在是脈遲，所以病在臟。</p>
+              <p>趺陽脈浮而澀，而少陰（太溪脈）是正常的，患者的病在脾，按理應當見到下利。根據什麼知道的呢？如果脈浮大的，是氣實血虛。現在，趺陽脈浮而澀，所以知道脾氣不足，症見氣虛。因為少陰脈弦而沉，剛剛出現，這是調和的脈象，所以說它是正常的。如果少陰經（太溪脈）反見滑而數的脈象，所以知道排出的小便當中應有膿。</p>
+              <p>寸口脈浮而緊，脈浮是有風邪，脈緊是有寒邪。風邪傷衛氣，寒邪傷榮血，榮氣與衛氣皆病，骨節就會劇痛，人的情緒躁悶，（此時）應當用發汗的方法治療。</p>
+              <p>趺陽脈遲而緩，為胃氣正常。趺陽脈浮而數，浮是胃氣受傷，數是脾氣受到擾動，這不是脾臟本來的病象，而是由醫生誤用攻下法造成的。榮衛內陷，數脈變微弱，脈反而隻見浮象，病人必然有大便干燥，噯氣始覺舒暢的症狀。根據什麼這樣說呢？本來數脈主傷脾氣，數脈先變微弱，所以知道脾氣旺盛、大便干燥、噯氣始覺舒暢。如果浮脈反而微弱，僅現數脈，就會出現心中感到飢餓，這是因為邪熱消食所導致的。早晚發潮熱，數脈當變的遲緩。如果脈象還是“數氣獨留”，病症如前（心中飢餓、邪熱消食），病人便會發胖。如果數脈不間斷地出現，便是要生惡瘡的征兆。</p>
+              <p>老師說：有一天，給一個病人診脈，他的脈象微而澀，這是被醫生誤治造成的。由於誤用發汗療法，用了大劑量的發汗藥，或者因屢次的瀉下，或者病人曾經失血，病人應當出現無休止地怕冷與發熱。時值五月盛熱，病人卻想穿厚衣﹔冬季盛寒，病人卻想裸露身體。所以這樣，是因為陽氣衰微就怕冷，陰氣弱就發熱。醫生數次誤用發汗法，使陽氣衰微，又用攻下法，讓陰氣衰弱。五月時節，陽氣在表，胃中虛冷，因為裡陽不足，抵御不住寒冷，所以想穿厚衣。十月的時候，陽氣在裡，胃中煩熱，因為在內的陰氣虛弱，抵御不住裡熱，所以想裸露身體。又因尺部脈遲澀，所以知道是津血不足。</p>
+              <p>脈浮而大，心下部位反而硬滿，是有熱邪。如果屬臟有熱邪，（說明熱邪已入裡，）當用攻下法治療，不讓出一點汗。如屬腑有熱邪，（說明熱邪在於表，）治療時不可利小便，利小便則大便干燥，大發其汗則病愈，汗出不透徹大便還會干燥。大便難而脈遲，不可用攻下法。</p>
+              <p>趺陽脈微而澀，少陰太溪脈反而堅硬，脈微即是下利的征兆，脈澀病人吐逆及煩躁不安。少陰太溪脈緊，也是大便艱難的脈象。隻在頭部出汗，谷氣下行，雖然大便還干燥，但病將愈。微微溏瀉的病人不可發汗。（發汗）嚴重的，於是會出現不能大便、煩躁嘔逆、呼吸鼻有響聲等症狀。這是上焦津血枯竭，下焦腎氣虛弱，不能恢復通暢的緣故。</p>
+              <p>脈浮而洪大，軀體反張，且汗水浸濕不休，湯水不能下咽，身體不知痛痒，精神忽然安靜而忽然又煩亂，這是生命將要結束的表現。不知哪一臟氣被寒邪侵襲了。如果汗出頭發濕潤，喘息不停的，這是肺氣斷絕。如果陽熱獨盛，身體有如煙熏之色，兩目直視而搖頭的，這是心氣斷絕。如果口唇青紫，四肢顫動振搖不休，這是肝氣斷絕。如果口唇周圍黑黃，出黃色冷汗的，這是脾氣斷絕。如果大小便自遺、狂言亂語、兩目上吊、呆滯凝視的，這是腎氣斷絕。不知哪一臟先受到損傷而斷絕。如果是陽氣先絕，陰氣后竭的，病人死后身體必然呈青色﹔如果是陰氣先絕，陽氣后竭的，病人死后身體必然呈赤色，腋下是溫的，心窩是熱的。</p>
+              <p>寸口脈浮大無力，醫生反用瀉下的方法治療，這是嚴重的誤治。因為浮是氣病而血不病，大是中寒而陽氣浮於外，內裡寒氣相迫，就產生腸鳴。醫生卻不知是裡寒，反而叫病人飲冷水，以使病人大汗出，這時冷水遇到時寒之氣，寒冷相互搏激，病人就會出現氣逆噎塞的症狀。</p>
+              <p>趺陽脈浮，浮是胃陽虛於外，陽浮裡虛相互逼迫，胃氣上冒噎出。如果脈滑，病人就會出現嘔噦的症狀。這些都是醫生的過錯，是用治療實証的方法去治療虛証，榮血空虛而又去發汗，以致迫血妄行。誤治后脈浮，鼻與口中干燥的，一定會衄血。</p>
+              <p>脈象浮數，應當發熱，並且身上如洒冷水一樣的怕冷，如果身體有疼痛的地方，飲食和平常一樣，這是畜積有膿的表現。</p>
+              <p>脈浮而遲，顏面赤熱，顴色淡紅如妝，到六七日應當汗出而愈。如果不汗出反而發熱，是因為遲脈是裡陽虛弱的表現，不能作汗，（邪郁肌表不能外透），皮膚一定會瘙痒。</p>
+              <p>脈虛弱，也沒有使用涌吐、瀉下、發汗等方法治療過，病人的顏面反而熱，這是病將愈的表現。這時不能發汗，發汗身上必定會瘙痒。</p>
+              <p>寸口脈弦，陰脈陽脈皆緊的，（依法應當是）霧露清邪侵害上焦，水濕濁邪侵害下焦。清邪侵害上焦，名叫“渾”﹔濁邪侵害下焦，名叫“緊”。陰經感受外邪，名叫“栗”。表氣微微虛弱，裡氣不能固守，以致使外邪乘虛侵害陽經。陽經感受外邪，（必然發熱頭痛，）項頸部痙攣，腰與脛部酸痛，這就是所謂的陽經感受了霧露之氣。所以才叫“清邪中上，濁邪中下”。陰經受到外邪的侵襲身體怕冷，寒氣好似從腳往上傳入，大小便失禁。表氣虛弱，裡氣急迫，以致三焦之氣混亂，內外壅塞不通。上焦之氣郁結，臟氣相熏，就會齒齦潰爛不能食。中焦失調，胃氣上逆，脾氣不運轉，胃生濁氣，則榮氣與衛氣失於暢通，氣血就會凝澀不流。如果衛氣能先得到暢達的，小便必然赤黃，衛氣與邪熱迫結於經絡，因有熱邪驅使，游走於經絡之內，出八於臟腑之間，邪熱從臟腑經過的地方，就要發生癰腫膿瘍。如果榮陰先得到暢達，衛氣在外的機能就會減弱，內部失去護衛，邪氣就容易侵入，裡氣抗拒外邪而產生噴嚏，聲音混濁難出，大便色白。寒厥相互追逐，是被邪熱所推動，血凝滯不行，眼的下方色澤形如豬肝。假使陰陽之氣都竭盡，脾氣衰敗，使五臟津液盡流於下，下焦失去合閉功能，小便清而大便下墜，大便次數頻繁而又困難，並且腹部絞痛，這時生命將難以保全了。</p>
+              <p>脈陰陽皆緊的，並用口進行呼吸，以致口唇干燥，身體踡臥而足部持久地逆冷，鼻塞流涕，舌苔白膩水滑，如此寒熱難明就不要亂治。等到七日，病人出現輕度發熱，兩腳溫暖的，這是病將愈的表現﹔或到了七八日以上，不但沒病將愈的征兆，反而身體發熱，此病難治。如果出現怕冷的，必然氣逆想要嘔吐﹔腹內有寒而疼痛的，必然要腹瀉。</p>
+              <p>脈陰陽皆緊，發展到上吐下瀉，如果持續陰陽皆緊是病未愈的表現，緊脈消失人就會安和，這是病將愈的表現。脈遲，到六七天后，不想進食，這是后來繼發的病証，是由於水氣停滯在胃中的緣故，屬於未愈﹔如果飲食正常，也是病將要痊愈的表現。病經六七日，手足三部脈都有，煩躁不安，不能言語，這是病要解除的表現。如果脈象調和正常，病人煩躁不安，兩眼胞微腫，這是疾病將要痊愈的現象。</p>
+              <p>脈象浮而數，浮脈是體表感受風邪的表現，數脈是陽氣虛的表現。感受風邪就會發熱，陽氣虛就會出現畏寒的症狀。寒熱相互逼迫，就會出現如同冷水洒到身上一樣怕冷的症狀。</p>
+              <p>趺陽脈浮而微，浮脈是陽虛的表現，微脈就會出虛汗。</p>
+              <p>脈象浮而滑，浮為病在陽，滑為邪氣實，陽分外熱與內實邪相合，脈象就要更加數急，衛氣循行因而失去常度，所以發熱汗出。</p>
+              <p>浮滑脈，兼見數疾脈，大熱汗出，這是不治之証。病人的脈象散漫而無根的是死証，這是因為病人形體已經損壞的緣故。</p>
+            </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="5" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3287</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">亡名氏脈經第一種</title>
+            <title lang="chi-Latn">Wangmingshi maijing di 1 zhong</title>
+            <title lang="eng-Latn">Canon of the pulse of unknown authorship, I</title>
+            <note>
+              <p>For a description of P. 3287, please see Abstract 2. The scroll contains five books in 149 columns of text.This text, the third in the sequence, occupies columns 51-60. As the original title has become illegible, it has been given the descriptive title Wangmingshi maijing, I.</p>
+              <p>Since the text cites from Maijue 脈訣 (Secret instructions on the pulse), it was probably composed during the Six Dynasties period. The MS is contemporary with that of Sanbu jiuhou lun (see above), i.e. it dates from the reign of the Tang emperor Gao Zong高宗. It deals mainly with techniques for determining whether a patient is likely to live or die on the basis of the depth of the patient's breathing.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3287</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">亡名氏脈經第二種</title>
+            <title lang="chi-Latn">Wangmingshi maijing di 2 zhong</title>
+            <title lang="eng-Latn">Canon of the pulse of unknown authorship, II</title>
+            <note>
+              <p>For a description of P. 3287, please see Abstract 2. The scroll contains five books in 149 columns of text.This text, the last in the sequence, occupies columns 67-149. As the original title and the author’s name have not survived, it has been given the descriptive title above.</p>
+              <p>Although the text cannot be dated with precision, it is likely that it was composed around the same time as Wangmingshi maijing, I, i.e. during the Six Dynasties period. The MS is contemporary with Sanbu jiuhou lun (see above), and probably dates from the reign of the Tang emperor Gao Zong 高宗.</p>
+              <p>The treatise opens with the words ‘You wen 又問…’ (Again [we may] ask…), indicating that a preceding passage has been lost. The surviving text contains an account of the nineteen categories of pulse, followed by a description of normal and abnormal pulses proper to the four seasons of the year, and a separate discussion of the characteristic properties of each of the nineteen pulses together with relevant therapeutic techniques.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.1" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.2115</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">張仲景五臟論甲本</title>
+            <title lang="chi-Latn">Zhang Zhongjing’s Wuzang lun, jia ben</title>
+            <title lang="eng-Latn">Treatise on the Five Viscera, Text A</title>
+            <note>
+              <p>The text is headed ‘Zhang Zhongjing xuan張仲景撰’ (compiled by Zhang Zhongjing). However, the work contains numerous references to the post-Han medical literature, e.g. Hua Tuo華佗 (Later Han period), Ge Hong葛洪and Liu Juanzi 劉涓子 (Jin period), Song Xia宋俠 (Northern Qi period), Tao Hongjing陶弘景(Liang period), Yao Sengyuan’s Ji yanfang姚僧垣集驗方and Lei Gong’s Paozhi lun雷公炮炙論 (Song?). The attribution must therefore be spurious;this is apparently the work of an unknown author of a much later period.</p>
+              <p>There are texts on both sides of the scroll. On the front is part of the second chapter of the Buddhist essay Qiong zha bianhuo lun 窮詐辨惑論. The reverse bears 174 columns of text, comprising copies of the two books Wuzang lun and Pingmai lüeli平脈略例(A Brief Outline of Normal Pulses) Text B (yi ben 乙本), written continuously. This text, i.e. the former, occupies columns 1-108. The title Wuzang lun appears at the beginning of the MS.</p>
+              <p>We find Zhang Zhongjing’s Wuzang lun first mentioned in the Song period, in texts including Chongwen zongmu 崇文總目, edited by Wang Yaochen 王堯臣et al.; Zheng Qiao’s 鄭樵 Tong zhi: Yiwen lüe 通志·藝文略; and Songshi: Yiwen zhi 宋史·藝文志(The bibliographical treatise of The History of the Song). The book apparently ceased to circulate or to be copied after the Song period, and is little cited in the extant medical classics. Four exemplars were preserved in the Stone Chamber at Dunhuang, and they are here distinguished as Texts A, B, C and D (jia甲, yi乙, ding丁). The present text, Text A (jia ben甲本), is the most extensive of the four. Although the MS is intact from beginning to end, the text is somewhat corrupt. Fragments of this book also appear in two other locations:<lg>1. Yifang lei ju (Collected and Classified Medical Remedies), Volume 4, Wuzang men (Study of the Five Viscera) 醫方類聚卷四’五臟門, which reproduces lost portions of text from Wuzang lun五臟論.</lg>2. An anonymous text, headed Jin: Zhang Yuansu xu 金·張元素序 (Jin Dynasty: Preface by Zhang Yuansu), which appeared as the preface to a woodblock printed book once in general circulation (the publication date is unknown). Though there are no physical remains of the printed edition, the text survives in a handwritten copy made by a celebrated physician of Zhejiang, Zhang Yicheng 張藝成, in the Qing period.</p>
+              <p>The MS exhibits prohibitions on the name characters世 (shi) and葉 (ye) of the Tang emperor Tai Zong 太宗 and the name character 治 (zhi) of the Tang emperor Gao Zong 高宗 (replaced by療), and also the character弘 (hong) in the name of Gao Zong’s son, Li Hong 李弘 (this last is simply omitted). On the other hand, no prohibition applies to the characters in the name Li Xian 李顯, another personal name of the emperor Gao Zong, or to the name characters of the Tang emperors Rui Zong 睿宗 (Li Dan李旦) and Mu Zong 穆宗 (Li Heng李恒). The MS must therefore have been written in the seventh century, at the beginning of the Tang period.</p>
+              <p>The text deals principally with the functions of the five viscera, etiology, diagnostic methodology and the virtues and applications of commonly used medicinal substances.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.2" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.5614</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">張仲景五臟論乙本</title>
+            <title lang="chi-Latn">Wuzang lun, yi ben</title>
+            <title lang="eng-Latn">Treatise on the Five Viscera, Text B</title>
+            <note>
+              <p>The MS is in simple concertina-folded format, with fourteen folds and fifteen pages. Each page is 30 cm. in height and 21 cm. wide with a single border and ruled lines, and contains thirteen or fourteen columns of text. The top of the MS is intact but the bottom is fragmentary. Altogether 195 columns of text survive, containing copies of four books, written continuously. In order, they are Zhang Zhongjing’s Wuzang lun張仲景五臟論, Text B (yi ben乙本); Pingmai lüeli (A Brief Outline of Normal Pulses), Text A平脈略例甲本; Wuzang maihou yinyang xiangcheng fa五臟脈候 陰陽相乘法(The Positions of the Pulses Corresponding to the Five Viscera and the Mutual Overcoming of Yin and Yang); and Zhan wuzang shengse yuanhou 占五臟聲色源侯(Tracing Signs of Disease to the Origin by Divination from the Sounds and Colours Corresponding to the Five Viscera). This text, the first in the sequence, occupies columns 1-83. It is identified here as Wuzang lun, in accordance with the MS heading. It is broadly similar in content to Zhang Zhongjing’s Wuzang lun, Text A (jia ben甲本).</p>
+              <p>In the opinion of Luo Fuyi 羅福頤, the MS can be dated on the strength of the script and binding type to the Five Dynasties or early Song period. However, the MS exhibits the character prohibitions of the Tang emperors Tai Zong 太宗 and Gao Zong 高宗 (葉 [ye] is replaced by XC, 世[shi] by人, 治[zhi] by療), while no prohibition applies to the name character旦 (dan) of the Tang emperor Rui Zong 睿宗 or the name character恒 (heng) of the Tang emperor Mu Zong 穆宗 and the Northern Song emperor Zhen Zong 真宗. This points, rather, to a date in the early Tang period.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.3" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.2755</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">張仲景五臟論丙本</title>
+            <title lang="chi-Latn">Wuzang lun, bing ben</title>
+            <title lang="eng-Latn">Treatise on the Five Viscera, Text C</title>
+            <note>
+              <p>The top and bottom of the scroll are damaged. It is 25.5 cm. in height and 80 cm. long, and has a text on each side. On the front is a fragmentary copy of the Daoist scripture Taishang miaofa benxiang jing 太上妙法本相經; this treatise is on the reverse. Fifty-four columns of the text are preserved. The original title is missing, but it has been identified from its content as Zhang Zhongjing’s Wuzang lun, Text C (bing ben丙本).</p>
+              <p>The substance of columns 1-31 (approximately 700 characters) of the treatise is common to Wuzang lun, Texts A and B as well as Yifang leiji: Wuzang lun 醫方類聚·五臟論 (A Classified Collection of Medical Prescriptions: Treatise on the Five Viscera) and early manuscript copies. Columns 32-54 (about 500 characters), however, contain much material that is absent from Texts A (jia ben甲本) and B (yi ben乙本). although it is found in Yifang leiju: Wuzang lun.</p>
+              <p>The MS can be dated on the evidence of character prohibitions to the early Tang period, i.e. the prohibitions of the Tang emperors Tai Zong 太宗 and Gao Zong 高宗 are observed (葉[ye] is replaced by C and治 [zhi] is replaced by療) but no prohibition is attached to the name character恒 [heng] of the Tang emperor Mu Zong 穆宗).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.4" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.2378</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">張仲景五臟論丁本</title>
+            <title lang="chi-Latn">Wuzang lun, ding ben</title>
+            <title lang="eng-Latn">Treatise on the Five Viscera, Text D</title>
+            <note>
+              <p>The scroll is 23.6 cm. in height and has a text on each side. On the front is a fragmentary copy of an unidentified Daoist scripture; on the reverse is the concluding section of this treatise, of which 46 columns now survive. The opening title is illegible, but on the basis of a colophon, the text has been identified as Zhang Zhongjing’s Wuzang lun, Text D.</p>
+              <p>The MS displays the character prohibitions of the Tang emperors Tai Zong 太宗 (Li Shimin李世民) and Gao Zong 高宗 (李治Li Zhi), i.e. 葉 (ye) is replaced byXC and治 (zhi) is replaced by療, but not the prohibition on the character 恒 (heng) of the Tang emperor Mu Zong 穆宗. It must therefore date, like Texts B (yi ben乙本) and C (bing ben丙本) of the treatise, from the early Tang period.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8.1" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.5614</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">平脈略例甲本</title>
+            <title lang="chi-Latn">Pingmai lüeli, jia ben</title>
+            <title lang="eng-Latn">A Brief Outline of Normal Pulses, Text A</title>
+            <note>
+              <p>For a description of S. 5614, please see Abstract 7.2. The scroll contains copies of four books in 195 columns of text. This text, the second in the sequence, occupies columns 83-164. It is identified as Pingmai lüeli, Text A on the basis of the MS title. It is one of four texts of Pingmai lüeli that were preserved in Dunhuang.</p>
+              <p>Pingmai lüeli is not mentioned in the ancient medical classics or other documents. However, identical passages are found throughout the first two volumes of Wang Shuhe’s Maijing王叔和脈經 (Canon of the Pulse), and part of the text corresponds to Xuan Gan maijing 玄感脈經 (Xuan Gan’s Pulse Canon). The MS can be dated to the early Tang period by the prohibited status of the name character 治 (zhi) of the Tang emperor Gao Zong 高宗 .</p>
+              <p>The text deals mainly with techniques for pulse diagnosis and the location of palpation sites, the twenty-four qimai 氣脈 (vital pulses) in the three sectors — cun寸, guan 關and chi尺 — of the left and right wrists, and the principal disorders associated with the nineteen pulse types.</p>
+            </note>
+            <q type="translation" lang="chi-Hant">
+              <p>凡是診脈的手法，開始切脈時要緩慢地按至骨。初學切脈的人所用指力大約相當於三粒大豆那樣重。寸口三部脈和諧相同，雖然得了重病，但無生命危險。三部脈是指寸脈、關脈與尺脈。寸脈主候上焦的脈象，包括從頭至手的病變。關脈主候中焦的脈象，包括從上腹部至腰部的病變。尺部主候下焦的脈象，包括從小腹至足部的病變。開始切脈時，手指用力約相當於三粒豆的重量，輕按到皮毛即可觸到的搏是肺的脈象﹔手指用約相當於六粒豆的重量，按至肌肉可觸摸到的脈搏是心的脈象﹔手指用力約相當於九粒豆的重量，按至與筋相平時觸摸到脈搏是脾的脈象﹔手指用力約相當於十二粒豆的重量，按至筋的下面觸摸到的脈搏是肝的脈象﹔手指重按至骨，抬指脈來快速有力的是腎的脈象。一說，概略地講手指用力的輕重程度約等於十銖（十黍為一銖）﹔又一說，所用指力大約相當於十二粒大豆那樣重。總之，應當用心體會診脈下指的輕重。</p>
+              <p>寸口三部脈，寸脈位於上部，靠近手掌﹔關脈位於中部﹔尺脈位於下部。三部脈各距離一寸，合為三寸。一說，寸脈的位置長八分，關脈位置長三分，尺脈位置長八分，三部合起來長一寸九分。</p>
+              <p>大凡診脈，經常在早晨日出時進行，這是為什麼？早晨的時候陰氣未動，陽氣未散，還沒有進飲食，經脈之氣尚未充盛，絡脈之氣平調均勻，氣血運行流暢不亂，所以可以進行脈象的診察。早上日出時，陰氣與陽氣全在於寸口，陰氣與陽氣尚未分開，陰陽之氣安定，所以這個時候診脈一定能觀察到調和的脈象。</p>
+              <p>正常人一呼脈氣運行三寸，一吸脈氣運行三寸，一次呼吸終了脈搏動五次。一呼一吸脈各運行三寸，這是正常的運行。正常的人一日一夜中一般呼吸一萬三千五百次，脈氣環行人身共五十周次。用銅壺盛水滴漏一晝夜水漏下一百個刻度，其間營衛之氣在白天環行人身二十五周次，在黑夜也環行二十五周次。脈氣就這樣周而復始地運行著，五十周次后會合在手太陰肺經。手太陰肺經的搏動應手之處在寸口。寸口又是五臟六腑血氣環行的起止之處，所以診寸口脈可以確定病人的生死。</p>
+              <p>大凡診脈的方法，肝和心反映在左手關部和寸部，脾和肺反映於右手關部和寸部，腎與命門分別反映於兩手的尺部。六腑屬陽。心部在左手關前的寸脈，與小腸相配合而以小腸為腑，兩經相合於上焦。肝部在左手關脈，與膽相配合而以膽為腑，兩經相合於中焦。腎脈在關后的尺脈，與膀胱相配合而以膀胱為腑，兩經相合於下焦，在胞門處。肺部在右手關前的寸脈，與大腸相配合而以大腸為腑，兩經相合於上焦，在呼吸之腑的部位。脾部在右手關脈，與胃相配合而以胃為腑，兩經相合於中焦，在脾胃之間的章門穴處。腎部在右手關后的尺脈，與膀胱相配合而以膀胱為腑，兩經相合於下焦，在子戶。</p>
+              <p>五臟是指肝、心、腎、脾、肺。六腑是指小腸、大腸、膽、胃、膀胱、三焦。六腑屬陽，五臟屬陰。[陽病証較易治療，陰病証]較難治療。陽病患者想看到人，陰病患者閉目不想見人。[如果陽病出現陰脈的脈象是病人將要死亡的征兆。]如果陰病出現陽脈的脈象是疾病即將痊愈的征兆。</p>
+              <p>脈象大、浮、數、動、[滑是陽脈，脈象沉、澀、]微、[弦]是陰脈。如果想知道疾病發生在什麼地方，一般來說，脈象沉說明[在體內，脈象浮說明在體表，脈象遲說明在]五臟，脈象數說明在六腑。寸口三部脈的關之前的寸部屬陽，關之后的尺部屬陰。[寸脈數易出現吐血的病症，尺脈數]易出現下利的病症。寸脈弦易出現頭痛的病症，尺脈弦易出現腹痛的病症。</p>
+              <p>右手寸脈浮取虛弱無力的，是大腸經不足的脈象，病人出現呼吸少氣，心下有水氣，到立秋就易患咳嗽。</p>
+              <p>右手寸脈浮取堅實有力的，是大腸經實証的脈象，易病腸中絞痛，象錐刀所刺一樣，沒有間歇之時。</p>
+              <p>右手寸脈沉取虛弱無力的，是肺經不足的脈象，易病呼吸氣短，咳嗽氣逆，喉中梗塞，噯氣呃逆。</p>
+              <p>右手寸脈沉取堅實有力，是肺經實証的脈象，易病呼吸少氣，胸中脹滿壅盛，與兩肩互相牽引疼痛。</p>
+              <p>右手浮取虛弱無力的，是胃經不足的脈象，易病吐酸水，頭痛，這是胃中有寒氣的緣故。</p>
+              <p>右手關脈浮取堅實有力的，是胃經實証的脈象，易病腸中郁結不通，病人不想吃食物，或者吃了也不消化。</p>
+              <p>右手关脉沉取虚弱无力的，是脾经不足的脉象，易病呼吸气短，下利，腹满，四肢乏力不欲动作，呕吐。</p>
+              <p>右手關脈沉取堅實有力的，是脾經實証的脈象，易病腸中藏積壅塞，似有堅硬結石之狀，大便困難。</p>
+              <p>右手尺脈浮取虛弱無力的，是命門虛的脈象，易病足部厥冷，婦人終身不孕，帶下，男子不育，前陰如同有寒氣一樣。</p>
+              <p>右手尺脈浮取堅實有力，是膀胱經實証的脈象，易病少腹脹滿，牽引腰部作痛。</p>
+              <p>右手尺脈沉取虛弱無力的，是腎經不足的脈象，易病足部厥冷，逆氣上沖於胸中作痛，夢見進入水中碰見鬼神，睡寐中容易發生惡夢，夢見黑色之物掩襲於人之上。</p>
+              <p>右手尺脈沉取堅實有力的，是腎經實証的脈象，易病腰背疼痛，骨肉寒熱往來，惡寒狀如同被涼水澆洒一樣。</p>
+              <p>左手尺脈沉取虛弱無力的，是腎經不足的脈象，易病足底發熱，兩大腿內側拘急，精氣衰竭虛少，這是由於過度勞累所導致的。</p>
+              <p>左手尺脈沉取堅實有力的，是腎經實証的脈象，易病精神恍惚，健忘，目視不明，耳聾耳鳴。</p>
+              <p>左手尺脈浮取虛弱無力的，是膀胱經不足的脈象，易病四肢厥冷，婦人月經不調及小便失禁，男人精液少，小便后余瀝不盡。</p>
+              <p>左手尺脈浮取堅實有力的，是膀胱經實証的脈象，易病四肢厥冷，脅下有邪氣牽引作痛。</p>
+              <p>左手關脈沉取虛弱無力的，是肝脈不足的脈象，易病難以對人啟齒的小便癃閉及遺尿，脅下有邪氣，易發嘔吐。</p>
+              <p>左手關脈沉取堅實有力的，是肝經實証的脈象，易病腹內跳動，肢體活動容易發生抽筋，易患痺証。</p>
+              <p>左手關脈浮取虛弱無力的，是膽經不足的脈象，易病眉頭疼痛，病人容易產生畏懼感，好象見到鬼一樣的驚慌，四肢無力。</p>
+              <p>左手關脈浮取堅實有力的，是膽經實証的脈象，易病腹中堅實不舒，身軀躁動不安。</p>
+              <p>左手寸脈沉取堅實有力的，是心經實証的脈象，易病胸中脹滿，經常嘔吐，口腔潰爛。</p>
+              <p>左手寸口脈沉取虛弱無力的，是心經不足的脈象，易病心下劇痛。</p>
+              <p>左手寸口脈浮取虛弱無力的，是小腸經不足的脈象，易病臍腹疼痛，小腸中有疝瘕，若逢小腸當旺的月份，就會出現小腹中有冷氣逆上沖心。</p>
+              <p>左手寸口脈浮取堅實有力的，是小腸經實証的脈象，易病心下拘急疼痛，小腸有邪熱，小便難且赤黃。</p>
+              <p>凡是寸脈浮，屬中風証，（可出現）發熱、頭痛的症狀。關脈浮，腹部脹滿，不欲飲食，這是虛滿。尺脈浮，小便艱澀困難。</p>
+              <p>上浮脈，手指重按感覺脈搏動不足，輕按感覺脈搏動有余，診浮脈又像手指按在蔥葉上的感覺。一說，漂浮在上，重按則無，此名浮脈。</p>
+              <p>寸脈芤，是吐血的脈象﹔微芤是衄血的脈象。關脈芤，胃中虛弱﹔微芤是吐血的脈象。尺脈芤，是便血的脈象﹔微芤是小便出血的脈象。</p>
+              <p>上芤脈，手指重按感覺脈搏動不足，輕按如同按在蔥葉上，兩邊有中央空，此名芤脈。</p>
+              <p>寸脈沉，胸中牽引脅部作痛，這是胸中有水氣的緣故。關脈沉，心下脹滿疼痛，吞吐酸水。尺脈沉，腰背疼痛。</p>
+              <p>上沉脈，手指重按感覺脈搏動有余，輕按無有，脈往來於筋中。一說，重按才能診到，所以叫做沉脈。</p>
+              <p>寸脈伏，胸中有氣逆上，這是胃中寒氣上沖胸中的緣故。關脈伏，胃中有水氣，大便溏泄。尺脈伏，飲食不能消化。</p>
+              <p>上伏脉，手指重按才可诊到，轻按感觉脉搏动不足。一说，手指重按到骨才能诊到，所以叫做伏脉。</p>
+              <p>寸脈弦，胸中緊縮，心下脹滿疼痛。關脈弦，胃中有冷氣上下快速竄動，胃氣虛弱。尺脈弦，小腹絞痛。</p>
+              <p>上弦脈，手指就如同按在琴弦上的感覺一樣，寸、關、尺三部感覺一樣，挺直而輕浮，此名弦脈。</p>
+              <p>寸脈緊，病頭痛，這是傷寒病証。關脈緊，心中滿痛。有疼痛症狀的屬於實証。尺脈緊，臍下疼痛。</p>
+              <p>上緊脈，手指如同切按在繃緊的繩索上，輕按就可感覺到脈的搏動，重按反而感覺不到脈的搏動，這就叫做緊脈。</p>
+              <p>寸脈滑，屬陽氣盛實，胸中氣逆滿脹。關脈滑，胃中有寒。滑脈是實証的脈象，所以胸中氣滿不欲飲食。尺脈滑，血與氣俱實，婦女月經后血氣不暢通。</p>
+              <p>上滑脈，在指下的感覺是往來進退流利，重按感覺脈搏動不足，輕按脈來如滾動的珠子。人在恐懼不安時，指下脈動的感覺浮而圓滑。</p>
+              <p>寸脈數，看到食物就想嘔吐，這是因為在胃脘中有邪熱上熏於胸中。關脈數，胃中有邪熱。尺脈數，惡寒，小便赤黃。</p>
+              <p>上數脈，手指重按感覺脈搏動疾快，一呼一吸脈搏動六七次，這叫做數脈。</p>
+              <p>寸脈濡，陽氣衰弱，自汗出。關脈濡，病頻繁泄瀉。尺脈濡，惡寒發熱，嘔吐，小便艱澀困難。</p>
+              <p>上濡脈，手指重按就觸摸不到，輕按感覺脈搏動有余﹔或者如同寬大的上衣與佩帶碰到手的那種與肌膚在空中柔軟接觸的感覺，這就叫做濡脈。</p>
+              <p>寸脈弱，屬陽氣虛，病症可見自汗出。關脈弱，屬胃氣虛弱，胃中有邪熱。尺脈弱，血與氣兩虛，惡寒。</p>
+              <p>上弱脈，手指輕按就可觸摸得到，重按就觸摸不到了，就好像觸摸水流的末端一樣，這就叫做弱脈。</p>
+              <p>寸脈微，病胸中惡寒。關脈微，胃中有寒，病症可見心下攣縮疼痛。尺脈微，四肢厥冷，心腹部攣縮疼痛。</p>
+              <p>上微脈，手指浮按感覺脈搏動浮薄而細，脈在皮毛中，就好像鳥的羽毛飄在水上不動的感覺，輕手可以觸摸得到，這就叫微脈。</p>
+              <p>寸脈澀，陽氣虛弱，胃氣不足。關脈澀，血虛逆冷，出現澀脈是氣血大虛的表現。尺脈澀，足脛部厥冷，小便赤黃。</p>
+              <p>上澀脈，手指重按好像觸摸在大雁的羽毛上那樣柔細，輕按脈形細小而脈行遲滯，往來艱難且有散漫之象，間或有一歇止﹔一說，浮而短，這就叫做澀脈。</p>
+              <p>寸脈遲，上焦有寒氣。關脈遲，中焦有寒氣。尺脈遲，下焦有寒氣。</p>
+              <p>上遲脈，手指重按感到脈搏堅實深在，輕按觸摸不到脈搏，一呼一吸脈來三至，脈搏來去極為遲緩，這就叫做遲脈。</p>
+              <p>寸脈緩，皮膚麻木不仁，這是風寒之氣侵襲肌肉的緣故。關脈緩，胃中有寒氣，不思飲食，這是脾氣虛衰不足的病証。尺脈緩，虛弱畏寒，小便艱澀余瀝不盡。</p>
+              <p>上緩脈，手指重按觸摸不到脈搏，輕按感到脈搏堅實深在，脈搏來去的速度均較為遲緩，但比遲脈稍快一點，這就叫做緩脈。</p>
+              <p>寸脈虛，便會惡寒。關脈虛，腹部脹滿。尺脈虛大便出血，小便余瀝不盡。</p>
+              <p>上虛脈，脈來遲緩而大，軟弱無力，重按時脈大，指下有空大無力的感覺。</p>
+              <p>寸脈洪，胸脅下脹滿。關脈洪，胃中脹滿。尺脈洪，小腹脹滿牽引陰部作痛。</p>
+              <p>上洪脈，應指極其粗大，輕取堅而不柔，重取牢實而不動，如帶鉤一樣，這就是洪脈。</p>
+              <p>寸脈實，便會產生熱証。關脈實，胃痛。尺脈實，小腹疼痛，小便余瀝不盡。</p>
+              <p>上實脈，脈形大而長，稍微強勁，按之應指幅寬且小。一說，沉取浮取均可觸摸到，這就是實脈。</p>
+              <p>寸脈牢，應指實大而長，稍微帶有弦象，脈來又近似於沉伏，這就是牢脈。</p>
+              <p>寸脈細，反胃嘔吐。關脈細，腹部脹滿。尺脈細，小便不通暢。</p>
+              <p>上細脈，重按比遲脈稍大，脈搏始終可以摸到，隻是脈形細小，這就是細脈。</p>
+            </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8.2" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">Pelliot Chinois 2115</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">平脈略例乙本</title>
+            <title lang="chi-Latn">Pingmai lüeli, yi ben</title>
+            <title lang="eng-Latn">A Brief Outline of Normal Pulses, Text B</title>
+            <note>
+              <p>On the front of the scroll is the latter part of the Buddhist essay Qiong zha bian huo lun 窮詐辨惑論. On the reverse are 174 columns of text, containing copies of two books: Zhang Zhongjing’s Wuzang lun 張仲景五臟論 (Treatise on the Five Viscera), Text A (jia ben甲); and Pingmai lüeli 平脈略 例, Text B (yi ben乙本). The latter runs from column 109 to the end. It is headed Pingmai lüeli, yi juan (Volume 1) 平脈略例一卷and is very similar in content to Text A (jia ben甲)of that work. It has therefore been designated as Text B.</p>
+              <p>The MS can be dated to the early decades of the Tang period, in the seventh century CE (see the discussion of the dating of Wuzang lun, Text A). In content, it is broadly similar to Pingmai lüeli, Text A.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="9" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.9431</idno>
+          <idno type="current">Or.8210/S.9443</idno>
+          <idno type="current">Or.8210/S.8289</idno>
+          <idno type="current">Or.8210/S.6245</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">脈書殘卷</title>
+            <title lang="chi-Latn">Maishu canjuan</title>
+            <title lang="eng-Latn">Manuscript fragments of book of the mai</title>
+            <note>
+              <p>The top and bottom of fragment S. 8289 are fragmentary as is the first half of the MS, of which 35 columns survive. In Dunhuang yiyao wenxian jijiao 敦煌醫藥文獻輯校, S. 8289 was identified, on the basis of copies of the text, under two separate titles: Unidentified medical remedies, XIX (Buzhiming yifang di 19 zhong不知名醫方第十九種(S. 8289 l. 1-17) and Wang Shuhe maijing 王叔和脈經 (Wang Shuhe’s Canon of the Pulse — S. 8289 l. 18-46). Of S. 9431v, only five columns survive. The first half of this fragment was classified in Dunhuang yiyao wenxian jijiao, as Unidentified medical remedies, 21. Fragment S. 9443, of which only six half-columns survive, was classified in Dunhuang yiyao wenxian jijiao, as Unidentified medical remedies, XXII. S. 6245v is mutilated at top, bottom and beginning, but preserves 41 columns of text. It was included in Dunhuang yiyao wenxian jijiao as Wuzang maihou yinyang xiangcheng fa五臟脈候陰陽相乘法(The Positions of the Pulses Corresponding to the Five Viscera and the Mutual Overcoming of Yin and Yang), Text B (yi ben乙本).</p>
+              <p>Between July and September 2000, we were able to piece together these four fragments, by consulting the original manuscripts in London. We have called the resultant compilation Manuscript fragments of book of the mai, as it consists chiefly of material on pulse or mai diagnosis from Pingmai lüeli平脈略例(A Brief Outline of Normal Pulses), Wuzang maihou yinyang xiangcheng fa, Zhan wuzang shengse yuanhour占五臟聲色源候(Tracing Signs of Disease to the Origin by Divination from the Sounds and Colours Corresponding to the Five Viscera) and Wang Shuhe’s Maijing王叔和脈經(Canon of the pulse).</p>
+              <p>Neither the treatise nor this copy has been dated, however the fact that the Tang taboo on the character治 (zhi) is not observed suggests that this could be a pre-Tang manuscript.</p>
+              <p>The surviving portion of the text deals chiefly with diagnosing and distinguishing conditions, and determining whether recovery or a cure is possible according to various pulse phenomena.</p>
+            </note>
+            <q type="translation" lang="chi-Hant">
+              <p>腿部經常出現抽筋的症狀，這是足麻痺証。</p>
+              <p>頭疼，常常精神恐懼，好似見到了鬼一樣驚慌害怕，身體乏力。</p>
+              <p>不安，身體惡寒。</p>
+              <p>熱，兩大腿內側抽搐疼痛，精氣衰竭虛少，這是勞累過度所導致的疾病。</p>
+              <p>精神恍惚，健忘，眼視物不清，耳聾，耳鳴。</p>
+              <p>身體寒冷，婦人月經不調，小便余瀝不盡，男子遺精。</p>
+              <p>胸脅下有邪氣，牽引急痛。</p>
+              <p>病呼吸短而不暢，心下氣脹，到立秋時節易病咳嗽。</p>
+              <p>疼痛如同針刺狀，並且持續疼痛沒有間歇。</p>
+              <p>咳嗽，嘔吐，喉中梗塞，噯氣呃逆</p>
+              <p>病呼吸短而不暢，胸中脹滿，呃逆牽動兩肩。</p>
+              <p>頭痛，胃中有寒氣，慎食冷物。</p>
+              <p>[病腸中]脹滿，不想吃食物，這是食物不能消化的緣故。</p>
+              <p>呼吸短而不暢，下利，腸中微微滿痛，四肢沉重乏力不欲動作，嘔吐。</p>
+              <p>[腸中脹滿]堅硬，排便困難。</p>
+              <p>寒冷，婦人終身不孕，並患有帶下証。男子不育，前陰有寒冷感。</p>
+              <p>腸脹滿，牽引腰部作痛。</p>
+              <p>[病兩腳]涼冷，氣上沖胸滿脹疼痛，睡夢中似見到鬼神壓迫胸口。</p>
+              <p>腰部疼痛，徹骨寒冷，不定時地惡寒發熱，顏面痛楚的色澤不斷變化。</p>
+              <p>[《脈經》  王叔和]新撰</p>
+              <p>[脈學的道理精深微妙。脈象很難分辨，弦脈和緊脈，]浮脈和芤脈，輾轉反復，相互類似，心裡雖然明白，但切脈時難以區別。如果[誤把沉脈當作伏脈，組方用藥永遠是錯誤的﹔如果誤把緩脈當作遲脈，]病將立至。何況有多種脈象同時出現的，不同病証又有[相同脈象情況呢？醫藥的使用關系到人的性命。]醫和、扁鵲是少有的高明醫生，仍然[在有疑問時反復思考。雖然張仲景明於審証，[但是他診斷疾病也要依據症候，那怕有絲毫的疑點，都會考察核對以求驗証。]所以對治傷寒病有謹慎使用承氣湯的告誡，對於嘔吐干噦症狀，急問其下焦是否通利。[前人留下的文獻含義深遠，歷代少有人能領悟使用。古代的經典著作在師徒間秘密傳承，]經典殘缺了也無人集綴，於是讓后世學醫的人，對脈理的本源蒙昧不清，反而憑借偏頗的說教。[他們隻注意炫耀自己的才能，（不注意認真地診治疾病，）致使小病轉化成重病，重病斷絕了治愈的希望，確實是有原因的啊！</p>
+              <p>現在收集了從歧伯以來，直到[華佗的經典脈學理論和辨脈的重要方法，合撰成十卷。對各種疾病根源按]類編排，病人的聲音、色澤、証候、脈象無不具備。其中[王、阮、傅、戴、吳、葛、呂、張諸醫家所傳的不同經驗，也全部記錄了。如果能夠留心探索其中隱秘的深奧道理，就可以趕上[古代名醫，后世也就沒有早死枉死的情況了。]</p>
+              <p>[脈形狀指]下秘訣第一</p>
+              <p>漂浮在手指下。滑脈的脈象往來流利， 數脈，脈來去急速。一說，呼吸一次脈搏動六次。又一說：數脈一名“進”。動脈隻出現在 弦脈，輕按感覺不明顯，重按感覺脈搏弦急好似弓弦的樣子。一說：如弓弦兩端繃緊， 有余。一說：重按時才能診到沉脈。澀脈，細微而緩慢，往來 停止，或者如同懶散的人行動遲緩。微脈，不但非常細小，而且柔軟，欲絕非絕，似有似無， 一說：手指按下如同即將沒有了。弱脈，非常柔軟而沉細，手指按下 沒有。緊脈，脈搏緊迫好似按在拉緊的繩索上一樣。一說：如同搓合繩索時，繩子左右轉動而無常位。 充實。一說：手指下沒有脈的搏動感，指的兩旁邊有脈的搏動感。洪脈，在指下感覺非常粗大。一說：指下有漂浮而大的感覺。 一說：重按脈來不充實，輕按無有。遲脈，呼吸一次脈搏動三次 又一說：重按最堅固，輕按沒有。緩脈，來去也是 細脈，稍微比微脈大些，脈搏始終可以摸到，隻是脈形細小而已。促脈 沒有，輕按充足。又一說：脈的搏動細小的狀況如同軟脈的脈象。虛脈，非常遲緩而 實脈，粗大而長，微微有點強勁。按之應指堅實有力 再來。什麼叫代脈，什麼叫結脈呢？一說：代脈 稱作代脈。結脈，初來遲緩，且有不規律間歇，止后再來，再來稍微急速。</p>
+              <p>侵襲肝臟，金克木，百分百的死亡，屬不治之証。 克母，雖然生病，，但是可以自愈。 母之克子，雖然生病，但是可以自愈。 畏懼肝木，無生命危險。</p>
+              <p>所以把心脈取象類比為鉤。心主血脈，神居於血脈之中，尺恐思虛太過 洪大而浮散，是正常的脈象。 水克火，百分百的死亡，屬不治之証。 子，雖然 畏懼心火，雖然生病，但是可以自愈。 母，雖然生病，但是可以自愈。</p>
+              <p>不同，受土之福澤者為數眾多，屈曲蠕動的昆虫，全都蒙受土的恩惠 然而正常的脾脈體現於四時常脈中，有柔軟和緩之象而不能單獨出現。而脾臟的病脈是可以觀察到的。 脾臟受到損傷便會出現心胸悶亂、四肢沉重運動不利的症狀。春夏秋冬四季土氣當令旺盛。它 百分百的死亡，屬不治之証。 母克子，雖然生病，應當可以痊愈。 水懼怕土，所以應當痊愈。 子克母，所以應當痊愈。 [脈象浮微而]毛，肺主藏氣，魄居於氣之中，人喜樂過度則傷魄， 脈象浮澀而且短的，稱為平脈。 百分百的死亡，屬不治之証。 母克子，所以應當痊愈。 子克母，也可以痊愈。 所以應當痊愈。</p>
+              <p>陰氣上升，脈遲緩無力，病為裡証。 下法。腎貯存五臟六腑精氣，志居於精氣中，如果大怒不止，就 腎臟的脈象沉濡而滑，這是正常脈象。 土克水，所以百分百的死亡，屬不治之証。 子克母，所以應當痊愈。 母克子，也可以痊愈。 所以會快速痊愈。</p>
+              <p>心有病的人，氣息微弱，不願說話，並且憎惡別講話及呼喚。腎有病的人，耳聽不到聲音，並且常發出哈欠及呻吟的聲響。 用這些外在症狀就可以判斷出疾病發生在哪個部位。</p>
+              <p>沉取虛弱無力的，是心虛不足的脈象。病見心下 瘡瘍或口腔潰爛。 憂愁怨恨，神情不安，惱怒煩悶。 小腸中有疝瘕，若逢小腸當旺的月份，即出現小腹中有冷氣上沖心，引發心痛。 小便艱澀，或小便赤黃。 有難言之隱，胸脅下有邪氣，易發嘔吐。</p>
+            </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.5614</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">五臟脈候陰陽相乘法</title>
+            <title lang="chi-Latn">Wuzang maihou yinyang xiangcheng fa</title>
+            <title lang="eng-Latn">The Positions of the Pulses Corresponding to the Five Viscera and the Mutual Overcoming of Yin and Yang</title>
+            <note>
+              <p>For a description of S. 5614, please see Abstract 7.2. The scroll contains copies of four books in 195 columns of text.. This text, the third in the sequence, extends from column 165 to column 191. The title Wuzang maihou yinyang xiangcheng fa appears in the MS.</p>
+              <p>This text is not mentioned in the ancient medical classics or other catalogues. The MS must date from the early Tang period, since it exhibits the prohibition on the character治 (zhi) of the Tang emperor Gao Zong 高宗 , but is free from the character prohibitions of the Tang emperors Rui Zong 睿宗 and Mu Zong 穆宗 and the Northern Song emperor Zhen Zong 真宗. In content, it resembles passages from Volume 3 of Wang Shuhe’s Maijing王叔和脈經 (Canon of the Pulse). It deals mainly with the pulse manifestations, pathogenesis and prognosis of conditions of the five viscera.</p>
+            </note>
+            <q type="translation">
+              <p>肝的特性與東方生發之木氣相類似，春天萬物開始生發，生發之氣微弱，人應生發之氣，故脈氣來時溫和軟弱，寬虛通利，所以脈呈現出弦象，如果出現如同新張開的弓弦那樣強勁的肝脈的人，往往預示著不治而亡。肝是容納血的地方，血中舍居著魂，悲傷過度就容易損傷魂魄，魂魄受到損傷后便會使人精神失常。春天，肝木當旺，肝脈象弦細而長，這是肝的平脈（正常的肝脈），如果反而診得浮澀而短的脈象，這是肺氣侵襲肝的脈象，這是金來克木，死亡率百分百，屬不治之証﹔反而診得洪大而散的脈象，這是心氣侵襲肝的脈象，子來克母，雖然生病，但是可以痊愈﹔反而診得沉濡而滑的脈象，這是腎氣侵襲肝的脈，母來克子，雖然生病，但是可以痊愈﹔反而診得大而緩的脈象，這是脾氣侵襲肝的脈象，土來克木，（在五行學說中木克土。）土畏懼木，所以既使有病也會很快痊愈，沒有生命危險。</p>
+              <p>心的生理特性與南方氣候火熱之象相類似，在夏日炎熱的氣候下，萬物生長旺盛，枝繁葉茂而呈現下垂彎曲之象，所以把心脈取象類比為鉤。心主藏血脈，血脈中舍居著神，思虛過度與長時間的情神緊張就會損傷神，神受到損傷后就易心情恐懼。夏季，心火當旺，肝脈浮洪而舒散，這是肝的平脈，如果反而診得沉濡而滑的脈象，這是腎氣侵襲心的脈象，水來克火，死亡率百分百，屬不治之証﹔反而診得弦而長的脈象，這是肝氣侵襲心的脈象，母來克子，雖然生病，但是可以痊愈﹔反而診得微澀而短的脈象，這是肺氣侵襲心的脈象，母來克子，（在五行學說中火克金。）金畏懼火，雖然生病，但是可以痊愈﹔反而診得大而緩的脈象，這是脾氣侵襲心的脈象，子來克母，雖然生病，但是可以痊愈。</p>
+              <p>脾的生理特性與土的特性相似，土性敦厚而造福萬物，養育著種類眾多、色彩不一的萬物，所以說受土之福澤者為數眾多，就連蚊蛾蠓蚋一類體形極小的昆虫，也是仰仗土的恩惠而生存繁衍。（季夏脾土當旺，）脾脈和緩而遲，（這是脾的平脈。）脾在五行屬土，位居人體中央，主管輸送水谷精微以滋養四邊的肝心肺腎四臟，所以叫做孤臟。正常的脾脈體現於四時常脈中，有柔軟和緩之象而不能單獨出現。脾臟的病脈是可以觀察到的。脾臟主藏營氣，而精神活動中的意念是寄附於營氣之中的，憂愁過度而長期得不到消除就會損傷意，意受損傷后就會心煩意亂、四肢無力活動。春夏秋冬四季脾土都應旺盛，脾脈洪大而緩，這是脾的平脈，如果反而診得弦長而短急的脈象，這是肝氣侵襲脾的脈象，木來克土，這是大逆賊邪，死亡率百分之百，屬不治之証﹔反而診得浮而大洪的脈象，這是心氣侵襲脾的脈象，母來克子，雖然生病，但是可以痊愈﹔反而診得沉濡而滑的脈象，這是腎氣侵襲脾的脈象，水畏懼土，雖然生病，但是可以痊愈﹔反而診得微澀而短的脈象，這是肺氣侵襲脾的脈象，子來克母，病可以痊愈。</p>
+              <p>肺的生理功能與五行中位於西方的金相似，肺氣旺於秋季，故其功能又與萬物結束生長而成熟的秋季相類似。肺的脈象微浮如毛，微浮澀而短的脈象是肺的平脈，如果反而診得浮大而洪的脈象，這是心氣侵襲肺的脈象，火來克金，是大逆賊邪，死亡率百分之百，屬不治之証﹔反而診得大而緩的脈象，這是脾氣侵襲肺的脈象，母來克子，雖然生病，但是可以痊愈﹔反而診得沉濡而滑的脈象，這是腎氣侵襲肺的脈象，子來克母，病也可以痊愈﹔反而診得弦而長的脈象，這是肝氣侵襲肺的脈象，木畏懼金，所以雖然生病，但可痊愈。</p>
+              <p>腎在五行屬水，位應北方。腎氣旺於萬物潛藏的冬季。此時陽氣下潛，陰氣上升，所以腎的脈象淹沉。沉脈屬陰脈，主裡証，所以不可發汗。冬季，陰氣在表而陽氣在裡，慎不可用下法。腎貯存五臟六腑的精氣，而精神思維活動中的記憶、決心等“志”的功能舍居其中。如果大怒不止就會損傷志，志受到損傷后就會使人健忘。冬季腎氣旺，腎脈沉濡而滑緊，這是腎的平脈，如果反而診得浮大而緩的脈象，是脾氣侵襲腎的脈象，土來克水，這是大逆賊邪，死亡率百分之百，屬不治之証﹔反而診得弦而長的脈象，是肝氣侵襲腎的脈象，子來克母，雖然生病，但是可以痊愈﹔反而診得微濡而澀的脈象，是肺氣侵襲腎的脈象，母來克子，雖然生病，但是可以痊愈﹔反而診得浮大而洪的脈象，是心氣侵襲腎的脈象，心火畏腎水，雖然生病，但可以痊愈。</p>
+              <p/>
+            </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="11" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.5614</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">占五臟聲色源候</title>
+            <title lang="chi-Latn">Zhan wuzang shengse yuanhou</title>
+            <title lang="eng-Latn">Tracing Signs of Disease to the Origin by Divination from the Sounds and Colours Corresponding to the Five Viscera</title>
+            <note>
+              <p>For a description of S. 5614, please see Abstract 7.2. The scroll contains copies of four books in 195 columns of text. This text, the fourth in the sequence, occupies columns 192-195. The title Zhan wuzang shengse yuanhou appears in the MS. It was probably copied at the same time as Wuzang lun, Text B, i.e. in the Tang period.</p>
+              <p>The text discusses the principal symptoms of disorders of the five viscera.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="12" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3655</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">明堂五臟論</title>
+            <title lang="chi-Latn">Mingtang wuzang lun</title>
+            <title lang="eng-Latn">Illuminated Hall Treatise on the Five Viscera</title>
+            <note>
+              <p>The MS is concertina bound (jingzhe zhuang 經折裝). It is 28.8 cm. in height and has eight folds and eighteen pages with 79 columns of text. It is virtually intact. It contains copies of three books, written continuously on the front and back of the page. In order, they are Mingtang wuzang lun 明堂五臟論, Qibiao bali sanbu mai 七表八裏三部脈(The Seven Superficial and Eight Deep Pulses in the Three Sectors) and Qing Wu Zi maijue青烏子脈訣 (Master Qing Wu’s Secret Instructions on the Pulse). This text, the first in the MS, runs from column 1 to column 44. The title given here appears in the original.</p>
+              <p>Mingtang wuzang lun is not mentioned in the ancient medical classics or catalogues. The work quotes from the lost text Yukui zhenjing玉匱針經 (Jade Casket Needle Canon) by Lü Guang 呂廣who lived in the Wu state during the Three Kingdoms period. This suggests that it was composed during the Six Dynasties period. The MS must, however, date from the beginning of the Tang period, since the name characters of the Tang emperor Tai Zong 太宗 (Li Shimin李世民) are subject to prohibition, (葉[ye] is written VBC) but not those of the Tang emperor Gao Zong 高宗 (Li Zhi李治) (the character治 [zhi] is used freely).</p>
+              <p>The text is preserved in its entirety, except for a few chapter headings, which are effaced. It consists of a general introduction followed by five chapters, dealing separately with each of the five viscera. It discusses the manifestations of the internal organs.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3655</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">七表八裏三部脈</title>
+            <title lang="chi-Latn">Qibiao bali sanbu mai</title>
+            <title lang="eng-Latn">The seven superficial and eight deep pulses in the three sectors</title>
+            <note>
+              <p>For a description of P. 3655, please see Abstract 12. The MS contains copies of three books in 79 columns of text. This text, the second in the sequence, runs from column 44 to column 64. The original title is lost; Qibiao bali sanbu mai has been adopted as a collective heading for the three sections of this piece.</p>
+              <p>Qibiao bali sanbu mai is not mentioned in the ancient medical classics or catalogues. The text falls into three sections: 1) Qibiao七表 (the seven externals) deals with seven types of pulse indicative of external disorder; 2) Bali八裏 (the eight internals) deals with eight types of pulse related to internal disorder; 3) San bu mai三部脈discusses the five types of pulse observable in each of the three sectors (cun寸, guan關and chi尺) of the wrist. The entire text is written in heptasyllabic metre. It is broadly similar to the extant copies of Wang Shuhe’s Maijue 王叔和脈訣 (Secret Instructions on the Pulse), except that it lacks certain sections, such as Jiu dao mai九道脈, which suggests that it belongs to an early manuscript tradition. On the grounds summarised under no 12 above, it can be dated to the early Tang period.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3655</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">青烏子脈訣</title>
+            <title lang="chi-Latn">Qing Wu Zi maijue</title>
+            <title lang="eng-Latn">Master Qing Wu’s Secret Instructions on the Pulse</title>
+            <note>
+              <p>For a description of P. 3655, please see Abstract 12. The MS contains copies of three books in 79 columns of text. This text, the third in the sequence, runs from column 64 to column 79.</p>
+              <p>Qing Wu Zi maijue is not mentioned in the ancient medical classics or catalogues. Qing Wu Zi (Master Blue Crow) is a soubriquet. However, Jiu Tang shu: Jing jizhi 舊唐書·經籍志(the bibliographical treatise of the Old History of the Tang) lists under the Wuxing lei五行類 (Category of the Five Phases) three volumes of Qing Wu Zi and various series of Zang jing 葬經(funerary classics) in eight, ten and two volumes, all by the author Xiao Ji 蕭吉. It appears then that Master Qing Wu is to be identified with Xiao Ji.</p>
+              <p>Xiao Ji was active around the end of the sixth century CE, in the Six Dynasties period. His life is documented both in Beishi北史, Vol. 89 and in Suishu隋書(History of the Sui Dynasty), Vol. 78. He was the grandson of Xiaoyi蕭懿, King of Changsha, and the elder brother of the Wudi 梁武 emperor of the Liang period. An expert on Yin and Yang divination, he edited a compendium of Yin and Yang studies from the earliest times to the Sui period. His published writing included the thirty volume work Jin hai 金海 (Sea of Gold), the eight volume Zhai jing 宅經 (Canon of the Siting of Dwellings), the twenty volume Yue pu 樂譜 (Musical Scores?) and the two volume Diwang yangsheng fang 帝王養生方 (Prescriptions of the Divine Kings for Physical Cultivation). In the book catalogue Mishu sheng xu bian dao si ku que shumu 秘書省續編到四庫闕書目, there is an entry under Wuxing bushi lei 五行蔔筮類 which reads: ‘Zhai gu ji by Master Qing Wu, one volume. Missing.’ (青烏子撰宅骨記一卷。缺).</p>
+              <p>This apparently refers to Zhai jing or a similar work. Songshi: Yiwen zhi 宋史·藝文志(the bibliographical treatise of The History of the Song) lists ‘Qing Wu Zi lun. One volume.’ (青烏子論一卷) and ‘Qing Wu Zi feng jing . One volume.’ (青烏子風經一卷) in the category of Medical Books (Yi shu lei醫書類); and the verse work ‘Qing Wu Zi gejue (two volumes).’(青烏子歌訣二卷) in the category of the Five Phases (Wuxing lei五行類). These are presumably also works by Xiao Ji.</p>
+              <p>The work can be dated before the Sui period by the occurrence in the MS of the graph飰for飯 (fan). According to the Qing period scholar Wang Yun王筠 (See Shuo wen ju du 說文句讀), the character 飯 (fan) was taboo in the Six Dynasties period and was accordingly replaced by 飰. There seems to be a textual relation between Qing Wu Zi maijue and the Zuoyou shou zhenmai ge左右手診脈歌 in the extant versions of Wang Shuhe’s Maijue 王叔和脈訣(Secret Instructions on the Pulse), and it may in fact be an early variant of the latter.</p>
+              <p>The text includes seven verses, all in heptasyllabic metre (qiyan gejue七言歌訣). The first is an overview of pulse diagnostics, while the following verses deal in turn with the pulses in the cun寸, guan關and chi尺positions of the left and right wrists.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="15" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3477</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">玄感脈經</title>
+            <title lang="chi-Latn">Xuan Gan maijing</title>
+            <title lang="eng-Latn">Xuan Gan’s Pulse Canon</title>
+            <note>
+              <p>The scroll is 27 cm. in height and contains 69 columns of text. The top is largely intact but portions are missing at the bottom. The text is not mentioned in the ancient medical classics or catalogues. According to Luo Fuyi 羅福頤, there is an entry in Jiu Tang zhi 舊唐志Jiu Tang shu: Jing ji zhi: Jishu 舊唐書·經籍志·技術 (the ‘Techniques and arts’ section of the bibliographical treatise of the Old History of the Tang) on ‘Xuan Gan zhuan shi fang. One volume.’ (玄感傳屍方一卷), which gives the author as Su You. Luo Fuyi notes that, since Xuan Gan was a name adopted by Su You, it is probable that Maijing is by the same writer.</p>
+              <p>Xin Tang shu: Yiwen zhi 新唐書·藝文志 (the bibliographical treatise of the New History of the Tang) contains the entry: ‘Tai yi tie yin shen dan fang, three volumes, by Su You.’ (太一鐵胤神丹方三卷，蘇遊撰). Jiu Tang shu: Jing ji zhi 舊唐書·經籍志 (the bibliographical treatise of the Old History of the Tang) has ‘Su You, Tiefen lun, one volume.’ (蘇遊鐵粉論一卷). Ishinpō 醫心方(Prescriptions at the Heart of Medicine), Vol. 10, Shuipi bing水癖病, and Vol. 25, Xiao’er bing 小兒病 (paediatric disorders), each cite two passages from lost texts by Xuan Gan. The Northern Song catalogue Mishu sheng xu bian dao si ku que shumu秘書省續編到四庫闕書目 has under Daoist texts (Dao shu lei道書類): ‘Shen danfang, one volume, by Xuan Gan. Missing.’ (蘇遊撰神丹方一卷，缺). Songshi: Yiwen zhi 宋史·藝文志(The bibliographical treatise of The History of the Song) has in the classification Physicians ( Yi jia lei醫家類): ‘Su You, Tie fen lun, one volume; Xuan Gan zhuanshi fang, one volume ‘ (蘇遊鐵粉論一卷、玄感傳屍方一卷)’ A further entry states ‘Su Chan (original note: scilicet You), Xuan Gan lun, one volume (蘇巉（原注：一作遊）玄感論一卷). All this corroborates the identification of Xuan Gan with the physician Su You and the attribution to him of Xuan Gan maijing.</p>
+              <p>The text does not exhibit the Tang prohibition on the character 治 (zhi), which indicates that it was composed at the beginning of the Tang period or earlier. There are two instances of the character旦(dan) which are significant for the date of copying: the first is written ASH with one stroke missing, while the second is realised as a sequence of 口 plus 一. The latter is clearly a copyist’s error, attributable to unfamiliarity with the character prohibitions of the Tang emperor Rui Zong 睿宗, which suggests that the MS was written in the Five Dynasties period.</p>
+              <p>The MS contains two section headings: Nian mai zhixia qing zhong mai minglei xingzhuang, 2撚脈指下輕重脈名類形狀第二and Yinyang ni chengfu, 3陰陽逆乘伏第三 (The contrary ascendance and prostration of Yin and Yang, 3). Of the three sections of the treatise represented here, the text but not the title of the first piece survives, and the title but not the text of the third, i.e. the first two sections are all that remains of the entire treatise. The first section is mainly concerned with the locations for pulse diagnosis, the three sectors and nine positions, the seven diagnoses, and diagnosis on the basis of the cunkou 寸口wrist pulse. The second section examines 23 abnormal pulse phenomena, including fast and slow pulses, light and heavy pulses, aspects of the relation to respiratory rate, strong, floating and smooth pulses; as well as six fatal pulse phenomena including wulou 屋漏 (leaky house) and quezhuo 雀啄 (sparrow peck). This account of the methodology of the three sectors and nine positions, uniquely refers to a medical theory that ‘consciousness’ resides at the toujiao頭角 (corners of the head).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="16" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8212/1343</idno>
+          <idno type="other">Fragment 181</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">不知名脈法</title>
+            <title lang="chi-Latn">Buzhiming maifa</title>
+            <title lang="eng-Latn">Unidentified fragment on pulse diagnosis</title>
+            <note>
+              <p>Incomplete MS without title or author’s name. The beginning and end, top and bottom are damaged and illegible. Four fragmentary columns of text survive. The British Library arranges this and other fragments on a single sheet. The third and fourth columns of the fragment are also found, in inverted order, in Nanjing: 2 nan 難經·二難 (Canon of Difficulties: Second Difficulty) and in Wang Shuhe’s Maijing (Canon of the Pulse), Vol. 1, Bian chicun yinyang rong wei du shu, 4 辨尺寸陰陽榮衛度數第四. The first two columns do not however appear in the above works. There is evidence that this text consisted of extracts from ancient texts relating to pulse diagnostic techniques. It has therefore been given the descriptive title Unidentified fragment on pulse diagnosis.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2" type="WS">
+        <msIdentifier>
+          <settlement>Beijing</settlement>
+          <repository>Chinese Medicine Research Institute of China 中國中醫研究院</repository>
+          <collection>From the archive of Zhang Wonan 張偓南舊藏</collection>
+          <idno type="current"/>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">輔行訣臟腑用藥法要</title>
+            <title lang="chi-Latn">Fuxing jue zang fu yong yaofa yao</title>
+            <title lang="eng-Latn">Secret Instructions for Assisting the Body: Essential Methods for the Application of Drugs to the Viscera and Bowels</title>
+            <note>
+              <p>The MS was formerly part of the collection of Zhang Guangrong 張光榮 (styled Wonan 偓南), a doctor of Chinese medicine of Wei County 威縣, Hebei Province. Dr Zhang had obtained it from the Thousand Buddha Cave at Dunhuang shortly after the foundation of the Chinese Republic (1912) by means of a sizable payment to the resident Daoist priest. On his death, Dr Zhang bequeathed the scroll to his grandson Zhang Dachang 張大昌, styled Jing 靖, also a doctor of Chinese medicine. Dr Zhang Dachang used it as a teaching text and had three copies made. Sadly, the original was destroyed in 1966 in the course of the Cultural Revolution, although all three copies escaped unscathed. In 1974, Dr Zhang Dachang presented a copy to the Chinese Medicine Research Institute of China, under the name ‘the barefoot doctor’.</p>
+              <p>Ma Jixing 馬繼興, research fellow of the Institute and Professor Zhang Zhenglang 張政烺and Professor Li Xueqin 李學勤of the Chinese Academy of Social Sciences have published appraisals of the text. Ma Jixing writes: ‘This is not a modern or contemporary imitation, thus its date of composition is certainly not later than the beginning of the Northern Song period. It merits serious attention.’ Professors Zhang Zhenglang and Li Xueqin state: ‘This is not a modern counterfeit, but neither can it date back as far as the Liang period. It is a copy of an ancient text, and as such it must be preserved.'</p>
+              <p>At Ma Jixing’s request, a group of scholars including Wang Xuetai 王雪苔, Wang Shumin 王淑民and Tao Guangzheng 陶廣正made two field trips to Wei County to carry out further research and interview Dr Wang Dachang. During their second visit in particular, they kept very detailed records, including audiotapes; and on that occasion, they were able to see the other two copies of Dr Wang’s legacy, which was of great assistance in establishing the original text.</p>
+              <p>The text of the copy is virtually intact. It consists of one volume, bearing the title Fuxingjue zangfu yongyao fayao輔行訣臟腑用藥法要(Secret Instructions for Assisting the Body: Essential Methods for the Application of Drugs to the Viscera and Bowels). The section headings and the wording of the text are without parallel in the extant compendia, monographs and catalogues. It bears the superscription Liang Huayang yinju Tao Hongjing zhuan ‘梁華陽隱居陶弘景撰’ (composed in the Liang period by Tao Hongjing, the hermit of Huayang). However, the words ‘Thus spoke Tao/the hermit Tao/Hongjing’ recur throughout the text, indicating that it was compiled from recollections of the master’s lectures by a disciple or other recipient of the oral tradition. The text contains annotations and other evidence of subsequent editorial intervention. However the absence of Northern Song character prohibition phenomena, such as the substitution of玄武for真武 (zhen wu), shows that any revisions cannot be later than the Northern Song period.</p>
+              <p>The book draws mainly on three sections of Tangye jingfa 湯液經法(Canonical Methods for Brews and Decoctions), a classic book of remedies of the Han period: 1) Rules of reinforcing and reducing methods for the five viscera (wuzang buxie fa li五臟補瀉法例). This section contains a theoretical discussion of the treatment of symptoms of excess and deficiency of the five viscera. It includes 34 remedies. 2) This section deals with the five phases in relation to medicinal substances and the production and transformation of the five flavours.It sets out the signs of the way the five phases contain each other, and the application of the transformations of the five flavours, and reveals the rules governing the use of medicinal substances in canonical prescriptions. 3) This section presents sixteen remedies for infectious diseases (tianxing 天行) and traces the origins of their formulation. It is thought to be the earliest Chinese collection of remedies for infectious diseases.</p>
+              <p>In all the book contains 56 remedies. Most of these also appeared in Shanghan lun 傷寒論 (Treatise on Cold Damage) by the Eastern Han master Zhang Zhongjing 張仲景. Through the extant versions of Shanghan lun and Jinkui yaolüe fang lun 金匱要略方論(Treatise on the Essential Prescriptions of the Golden Casket), they have been handed down in a continuous line of transmission to the present day.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="18" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3378</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">雜療病藥方</title>
+            <title lang="chi-Latn">Za liaobing yaofang</title>
+            <title lang="eng-Latn">Drug remedies for various treatments</title>
+            <note>
+              <p>The scroll is 27.8 cm. in height and 88 cm. long, and has a border at the top and bottom. There is a text on each side. On the front are chapters 3-7 of Xiao Jing 孝經. The book of remedies is on the reverse. The beginning is intact but the end is damaged and there are lacunae in the text. The title Za liaobing yaofang is taken from the heading of the scroll.</p>
+              <p>Za liaobing yaofang is not mentioned in the early catalogues of medical texts. Because the end of the scroll is fragmentary, there is no way of telling how many volumes it originally comprised. Twenty-five miscellaneous remedies survive, including prescriptions for fengchuang風瘡, chili 赤痢and baili 白痢, and susun 勞損.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="19" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.9987A</idno>
+          <idno type="current">Or.8210/S.9987B</idno>
+          <idno type="current">Or.8210/S.3395</idno>
+          <idno type="current">Or.8210/S.3347</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">備急單驗藥方卷</title>
+            <title lang="chi-Latn">Beiji danyan yaofang</title>
+            <title lang="eng-Latn">Single Ingredient Empirical Remedies to Prepare for Emergencies</title>
+            <note>
+              <p>S. 9987B is 14 cm. high and 8 cm. wide and contains nine columns of text. S. 9987A is 16.5 cm. high and extends in part to 33 cm. in length. The top of the fragment is mostly intact, but the beginning and end and the lower part are fragmentary. It has 44 columns of text. S. 3395 is 14.5 cm. high and 27.5 cm. long. The beginning and end and the top half are fragmentary. It has 31 columns of text.</p>
+              <p>S. 3347 is 28 cm. high and 105 cm. long, and is fragmentary at the top and bottom. It preserves 129 columns of text: the beginning of approximately the first 30 columns and the end of approximately the last 90 columns are missing.</p>
+              <p>In 1989 Professor Wang Jiqing 王冀青 of the University of Lanzhou, undertook an examination of the Dunhuang manuscripts in the British Library, in the course of which he discovered that the four fragments catalogued as S. 3347, S. 3395, S. 9987A and S. 9987B corresponded exactly in content, paper type, calligraphy, script, style and ink type, and concluded that they were fragments of the same manuscript. See Chinese Journal of Medical History (Zhonghua yishi zazhi 中華醫史雜誌), 1991, 21 (2), pp. 71-75. On consulting the Dunhuang medical manuscripts in the British Library in July 2001, we were able to see how fragments S. 9987A, S. 3395 and S. 3347 fitted together, and we have now completed an editorial reconstruction.</p>
+              <p>According to the preface, this prescription book originally contained 108 single ingredient empirical remedies. It was a patient’s emergency handbook, devoted chiefly to remedies for such common diseases as chili赤痢, baili白痢, cholera, peripartum infections (chanfu fengyi産婦風疾), acute generalised inflammation (bianshen hongzhong遍身洪腫), vomiting and gastric reflux (fanwei反胃), pianfeng 偏風, and sores and ulcers (sheng chuan生瘡). Seventeen specific remedies survive intact and there are traces of a further 84.</p>
+              <p>No date of composition or copying is given in the MS. However, there is a reference to Ge Shi 葛氏(Master Ge), which commonly designates the Eastern Jin physician Ge Hong 葛洪 (283-343 A.D.). It implies that some of Ge Hong’s prescriptions had already fallen into disrepute, which suggests a date of compilation some time after his death, probably in the Six Dynasties period (420-589 A.D.) or later. In addition, the writer states in the preface that he intends to have the book engraved on a rock so that it may be widely diffused among the people. There exists at the Longmen cave temples in Henan province a stone stele with an engraved text known as the Longmen prescriptions (Longmen yaofang龍門藥方), dating from 650-653 A.D. (the first to the third year of the Yonghui reign period of the Tang emperor Gao Zong 高宗 ), which has various textual parallels with this volume and according to Zhang Ruixian belongs to the same tradition.</p>
+              <p>It can be deduced from these two circumstances that this book of prescriptions was compiled in the Six Dynasties or early Tang period.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.2565</idno>
+          <idno type="current">P.2662</idno>
+          <idno type="current">P.3731</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">唐人選方</title>
+            <title lang="chi-Latn">Tangren xuanfang</title>
+            <title lang="eng-Latn">Selected remedies from Tang authors</title>
+            <note>
+              <p>The top and bottom of the MS are defective. The original title and the author’s name are missing and many passages are incomplete or vestigial. The three surviving segments are held in the Bibliothèque nationale de France, Paris under three separate catalogue numbers. However, all three are identical as regards script, style and format. The text is eclectic in character, comprising a selection of remedies by pre-Tang physicians, whose names are cited in full. The three segments all contain new character forms introduced in the Wu-Zhou period (e.g. new forms of 天 [tian], 地 [di], 人 [ren], 年 [nian], 月 [yue], 日 [ri]), showing that they were written during the reign of the woman emperor Wu Zetian 武則天. The above provides evidence that the three pieces are dispersed fragments of a single MS of the same work. They have therefore been given the collective title Tangren xuanfang (zhu) 唐人選方（注） (Selected remedies from Tang authors [annotated]).</p>
+              <p>The fragments are distinguished as Text A (jia juan 甲卷 — P. 2565), Text B (yi juan乙卷 — P. 2662) and Text C (bing juan 丙 — P. 3731). Altogether there are 226 columns of text: 104 in Text A; 83 in Text; and 3 in Text C. Regarding the relationship between the three fragments: the torn end of fragment A fits together with the beginning of Text B, completing the interrupted text, so that the two texts can be reunited as a continuous scroll; but Text C cannot be placed in sequence since it does not follow on directly from either of the other two, indicating that a considerable portion of the MS is lost.</p>
+              <p>The work contains miscellaneous remedies drawn from clinical practice, without any signs of classification. Text A includes 21 remedies, Text B includes 27 remedies as well as an essay, and Text C includes eight; i.e. altogether 56 remedies are preserved.</p>
+              <p>N.B. In Dunhuang guyiji kaoshi 敦煌古醫籍考釋(Annotations on the Ancient Medical Texts from the Dunhuang Cave Library), this work is identified as Tangren xuanfang di 1 zhong 唐人選方第一種(Selected remedies from Tang authors, I), to distinguish it from Selected remedies from Tang authors, II, another collection of remedies compiled by an unknown master, which was discovered at Turfan in Xinjiang. The latter is not transcribed here as it does not form part of the Dunhuang corpus.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="21" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3960</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">黑帝要略方</title>
+            <title lang="chi-Latn">Heidi yaolüe fang</title>
+            <title lang="eng-Latn">The Black Emperor’s Essential and Simple Remedies</title>
+            <note>
+              <p>There are texts on both sides of the scroll. On the front is a heptasyllabic verse composition called Gu xian ji 古賢集; this text is on the reverse. It consists of twenty-seven lines, of which the lower part only is preserved, as the top of the MS is mostly missing or damaged. The book title Heidi yaolüe fang , which has been adopted here, appears at the conclusion of the text on l. 20. The succeeding columns contain six prescriptions and appear to be an appendix. Most of this section is fragmentary: although 22 separate prescriptions can be discerned, only nine are intact.</p>
+              <p>Heidi yaolüe fang is not mentioned in the early medical texts or catalogues. The author is unknown. Heidi (the Black Emperor), one of the mythic Five Heavenly Emperors of Chinese tradition, was the divinity of the North. According to Huangdi neijing: Lingshu jing (Inner Canon of the Yellow Emperor: Numinous Pivot), ‘Twenty-five persons of Yin and Yang’, no 6, 14 黃帝內經·靈樞經’陰陽二十五人篇第六十四’:<lg>The person is of the watery element, able to ascend to the heavens, like the Black emperor. That person is of black complexion… 水形之人，比於上羽，似于黑帝。其人黑色……</lg>Given that the kidney is the watery organ and is associated with the colour black, it may be assumed that the text contained remedies for disorders of the kidneys. Those portions of the text that can be deciphered do indeed make mention of the effects of sexual excess (fangsun) and disorders of the female and male genitalia, which are classified as kidney related disorders.</p>
+              <p>The characters治 (zhi) and療 (liao) are used indifferently in this text; and the character 葉(ye) is subject to prohibition * but not the character旦 (dan). This indicates that the MS was written around the late Tang or Five Dynasties period.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="22" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.2666</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">單藥方</title>
+            <title lang="chi-Latn">Dan yaofang</title>
+            <title lang="eng-Latn">Single ingredient remedies</title>
+            <note>
+              <p>The scroll has a text on each side. On the front is a Daoist scripture; this text is on the reverse. The top of the scroll has portions missing but the lower part is intact. There is a border at the top and bottom and at the end, but no ruled lines. Altogether 89 columns of text survive. Each remedy is one or two columns long and starts on a fresh line. Nearly all are preceded by a red dot and/or outlined in red. The title, headings and author's name are missing.</p>
+              <p>All the remedies in this text involve a one-to-one relationship between a disease and a single ingredient (only rarely dual ingredients) or a single moxibustion point, as is implied by the expression danfang單方 (single [ingredient] remedy) which appears in l. 50, and which has been adopted as the title of the book. There are no compound remedies.</p>
+              <p>The character葉 (ye) is subject to prohibition, indicating that the MS dates from the Tang period.</p>
+              <p>Altogether it has been possible to decipher 85 remedies for various internal and external conditions, including gynaecological and paediatric disorders.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="23" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.1467</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">治病藥名文書第一種</title>
+            <title lang="chi-Latn">Zhibing yaoming wenshu di 1 zhong</title>
+            <title lang="eng-Latn">Text containing pharmaceutical nomenclature, I</title>
+            <note>
+              <p>The front and reverse of the scroll contain two medical texts. This text is written on the front. No title heading having been discovered, it was classified in Dunhuang yiyao wenxian jijiao as Unidentified medical remedies, II ( Buzhiming yifang di 2 zhong 不知名醫方第二種). However, on examining the Dunhuang manuscripts in the British Library in July 2000, we discovered a bamboo slip inserted in the manuscript, bearing the heading Zhibing yaoming wenshu治病藥名文書, apparently a title added by the copyist. Since there is another text on the reverse of the manuscript, we have designated the text on the front Zhibing yaoming wenshu, I治病藥名文書第一種.</p>
+              <p>There are 18 prescriptions, with pharmaceutical names and applications. Dosage and methods of preparation and administration are noted separately in double columns of small characters. The character世 (shi) is subject to prohibition in this text and殜 (ye) is written as ASC, but the characters 治 (zhi) and恒 (heng) are not prohibited, indicating that the MS was written in the early Tang period. The date of composition must therefore be very near the beginning of the period.</p>
+              <p>The MS contains miscellaneous remedies for tou xuan 頭眩 (giddiness) and toufeng頭風( headache) and prescriptions to tranquillise the spirit and settle the will (anshen dingzhi安神定志).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="24" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.1467</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V">
+            <title lang="chi-Hant">治病藥名文書第二種</title>
+            <title lang="chi-Latn">Zhibing yaoming wenshu di 2 zhong</title>
+            <title lang="eng-Latn">Text containing pharmaceutical nomenclature, II</title>
+            <note>
+              <p>Portions of the top and bottom of the MS are missing or damaged. There is a separate book of medical prescriptions on each side of the scroll; this text appears on the reverse. It was described in Dunhuang yiyao wenxian jijiao as Unidentified medical remedies, I (Buzhiming yifang di 1 zhong不知名醫方第一種), because no title or headings were thought to have survived. However, on examining the Dunhuang manuscripts in the British Library in July 2000, we discovered a bamboo slip inserted in the manuscript, bearing the heading Zhibing yaoming wenshu 治病藥名文書第, apparently a title added by the copyist. The texts on the front and the back of the scroll have been distinguished as Zhibing yaoming wenshu (Text containing pharmaceutical nomenclature) I and II respectively.</p>
+              <p>It is laid out without distinction of large and small characters, and the prescriptions follow on from each other directly, without intervening blank lines. The beginning of each successive prescription is denoted by a red circle. Twenty-eight columns of text are preserved, containing ten prescriptions altogether.</p>
+              <p>The MS can be dated to the early Tang period on the internal evidence of character prohibitions. The character 世(shi) in the personal name, Li Shimin 李世民, of the Tang emperor Taizong is avoided; 葉 (ye) is replaced by C; and 治 (zhi) is written without the final stroke. The character旦(dan) is not subject to prohibition.</p>
+              <p>The book contains various remedies for deficiency or excess of marrow, for use in treating fulian 伏連, chuanshi傳屍, xuanpi痃癖 (weakness and dyspepsia), guzheng 骨蒸 (bone steaming) and danbing 膽病 (disorders of the gallbladder).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="25" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.5435</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">不知名醫方第四種</title>
+            <title lang="chi-Latn">Buzhiming yifang di 4 zhong</title>
+            <title lang="eng-Latn">Unidentified medical remedies, IV</title>
+            <note>
+              <p>The MS consists of 19 pages bound into an album. The extremities of many pages are defective. Each page contains seven columns of 12 characters, surrounded by a border. The title, headings and author’s name are missing, and the MS is now classified as Unidentified medical remedies, IV.</p>
+              <p>The text contains a reference to the official Cui Xie 崔協, who lived during the later Tang period of the Five Dynasties and died in 929 CE (see Wu dai shi （五代史[History of the Five Dynasties], Vol. 58). It cannot therefore have been composed earlier than the Five Dynasties period (907-960).</p>
+              <p>The volume contains remedies for a variety of diseases.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="26" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.6177</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V">
+            <title lang="chi-Hant">不知名醫方第五種</title>
+            <title lang="chi-Latn">Buzhiming yifang di 5 zhong</title>
+            <title lang="eng-Latn">Unidentified medical remedies, V</title>
+            <note>
+              <p>The beginning of the text is defective as a portion of the scroll is missing. There is a text on each side. On the front is a fragment of the Xiao jing 孝經; this book of prescriptions is on the reverse. There are ten columns of legible text containing nine prescriptions. The title, headings and author’s name are missing, and it is now classified as Unidentified medical remedies, V.</p>
+              <p>The characters 治 (zhi) and 療 (liao) are used interchangeably indicating that the MS was written after the Tang period, although the text was probably composed earlier.</p>
+              <p>This volume includes treatments for external injuries, gynaecological and obstetric disorders, xintong心痛 (cardiac and other thoracic pain), chili 赤痢and baili白痢.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="27" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.2882</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">不知名醫方第流六種</title>
+            <title lang="chi-Latn">Buzhiming yifang di 6 zhong</title>
+            <title lang="eng-Latn">Unidentified medical remedies, VI</title>
+            <note>
+              <p>The top and bottom of the scroll are defective. It has a text written on each side. On the front is a fragmentary Daoist scripture; this book of prescriptions is on the reverse. 153 columns of text survive. The title, headings and author’s name are missing, and it is now classified as Unidentified medical remedies, VI.</p>
+              <p>Internal evidence of the date of the text includes a reference to the seventh year of the Tian Bao reign period, i.e. 748 CE, and the stipulation that measurements are in large liang (see third recipe for pills et passim). In conjunction with the prohibited status of the character 旦(dan), which is written as明, this indicates that it was written during or after the mid Tang period.</p>
+              <p>The character Hu 虎 occurring in the name of Li Hu 李虎, grandfather of the Tang emperor Gao Zu 高祖, is freely used, showing that it was not then subject to taboo.</p>
+              <p>The MS contains 42 miscellaneous remedies for various disorders.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="28" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3144</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">不知名醫方第七種</title>
+            <title lang="chi-Latn">Buzhiming yifang di 7 zhong</title>
+            <title lang="eng-Latn">Unidentified medical remedies, VII</title>
+            <note>
+              <p>The top and bottom of the scroll are defective. There is a text on each side. On the front is a fragmentary Daoist scripture; this book of prescriptions is on the reverse. Thirty-three columns of text survive in a fragmentary state. The title, headings and author’s name are missing, and it is now classified as Unidentified medical remedies, VII.</p>
+              <p>The characters療 (liao) and治 (zhi) are used interchangeably and no other character prohibitions of the Tang emperors are apparent, providing evidence that the MS was written after the Tang era. However, the date of composition cannot be established precisely.</p>
+              <p>The MS contains 13 prescriptions including remedies for 眼赤yan chi (redness of the eye, associated with conjunctivitis), tianxing天行 (a generic term for epidemic diseases), constipation and dysuria as well as niuyi 牛疫 (cattle plague).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="29" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3201</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">不知名醫方第八種</title>
+            <title lang="chi-Latn">Buzhiming yifang di 8 zhong</title>
+            <title lang="eng-Latn">Unidentified medical remedies, VIII</title>
+            <note>
+              <p>Portions of the scroll are damaged or missing, particularly at the beginning and end. There is a text on each side. This book of prescriptions is on the front; on the back is a letter from Wang Xi (fl. late C8) to the King of Tibet. Sixty columns of the medical text survive, containing 19 prescriptions altogether. It is decorated with a border at the top and bottom and some passages have been marked in red ink. The title, headings and author’s name are missing, and it is now classified as Unidentified medical remedies, VIII.</p>
+              <p>In this MS, the character 治 (zhi), which was prohibited in the Tang period is replaced by療 (liao), but the characters旦(dan) and恒 (heng) are freely used. This indicates that the MS dates from the early Tang period, though the date of composition cannot be established precisely.</p>
+              <p>The MS contains miscellaneous prescriptions for jiao qi 腳氣(a disorder affecting the feet), xintong 心痛 (cardiac and other thoracic pain) and nüebing 瘧病 (intermittent fever).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="30" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3596</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">不知名醫方第九種</title>
+            <title lang="chi-Latn">Buzhiming yifang di 9 zhong</title>
+            <title lang="eng-Latn">Unidentified medical remedies, IX</title>
+            <note>
+              <p>Portions of the scroll are missing. It has a text written on each side. On the front is Taixuan zhenyi ben jijing 太玄真一本際經, Volume 4; this book is on the reverse. The title and headings are missing. 247 columns of text survive, containing 210 remedies (two of which appear twice). There is a border at the top and bottom but not at the sides. This text is now classified as Unidentified medical remedies, IX.</p>
+              <p>Evidence for dating the text is provided by quotations from Gujin lu yanfang 古今錄驗方(Tried and Tested Remedies from Antiquity to the Present Day) and the work of Cui Zhiti 崔知悌. The former is known to have been composed in the Sui-Tang era by Zhen Quan, 甄權 while Cui Zhiti, the author of Cui shi zuan yaofang 崔氏纂要方 (Master Cui’s Compilation of Essential Remedies), was active during the reign of the Tang emperor Gao Zong 高宗 . The MS displays character prohibitions of the Tang emperors Tai Zong 太宗 (VC for葉 [ye]) and Gao Zong 高宗 (療for治 [liao]), but is free from the prohibitions that affected the characters虎 (hu) and旦(dan) under the Tang emperors Gao Zu 高祖 and Rui Zong 睿宗. This indicates that the MS was written after the reign of the emperor Gao Zu but before the reign of the emperor Rui Zong 睿宗, i.e. very close to the actual date of composition. On the other hand, there is considerable confusion in the sequence and numbering of the prescriptions, which precludes its being the original text.</p>
+              <p>This book is a heterogeneous compilation of internal and external remedies, gynaecological and paediatric remedies and remedies for disorders of the five sensory organs.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="31" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3930</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">不知名醫方第十種</title>
+            <title lang="chi-Latn">Buzhiming yifang di 10 zhong</title>
+            <title lang="eng-Latn">Unidentified medical remedies, X</title>
+            <note>
+              <p>This is a fragmentary butterfly bound (hudie zhuang蝴蝶裝) volume, with 15 half-pages of 12-13 columns each and 8 folds. The beginning and end are defective and the title, headings and author’s name are absent. It is now classified as Unidentified medical remedies, X.</p>
+              <p>In view of the distinctive type of binding, Luo Fuyi believed this MS to date from the Five Dynasties or early Song period. On the internal evidence of the prohibited character世 (shi), it is now considered to be the work of a Tang copyist; however the date of composition is uncertain.</p>
+              <p>This collection consists mainly of remedies for disorders of the head and five sensory organs and complications of childbirth.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="32" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.6052</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">不知名醫方第十一種</title>
+            <title lang="chi-Latn">Buzhiming yifang di 11 zhong</title>
+            <title lang="eng-Latn">Unidentified medical remedies, XI</title>
+            <note>
+              <p>The beginning, end and top of the scroll are defective. It is 11.5 cm. high and 32 cm. long and is written in a small, delicate script. Thirty-three columns of text are preserved, containing 13 prescriptions. The title, headings and author’s name are absent. It is now classified as Unidentified medical remedies, XI. The dates of composition and copying are unknown.</p>
+              <p>The MS contains recipes for pine resin pills, cypress kernel ointment and various other dietetic remedies and prescriptions for yang sheng 養生’nourishing vitality’.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="33" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.4329</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">不知名醫方第十二種</title>
+            <title lang="chi-Latn">Buzhiming yifang di 12 zhong</title>
+            <title lang="eng-Latn">Unidentified medical remedies, XII</title>
+            <note>
+              <p>The beginning and end of the MS are defective and it has a tear through the middle. It is 24 cm. high and 80 cm long. Forty-eight columns of text are preserved, without title, headings or author’s name. It is now classified as Unidentified medical remedies, XII. The dates of composition and copying are unknown.</p>
+              <p>The prescriptions are mainly formulae for cosmetic treatments for everyday domestic use. They include skin creams, ointments and powders, hair restorer, breath freshener and fabric deodoriser. There are 12 prescriptions, one of which lacks ingredient names.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="34" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.5549</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">不知名醫方第十四種</title>
+            <title lang="chi-Latn">Buzhiming yifang di 14 zhong</title>
+            <title lang="eng-Latn">Unidentified medical remedies, XIV</title>
+            <note>
+              <p>Only a small, rectangular fragment of the scroll survives. Both sides contain remedy literature. There is no title, headings or author’s name. It is classified as Unidentified medical remedies, XIV. The text on the front, designated jia juan 甲卷 (Text A), consists of three lines; the text on the back (yi juan 乙卷— Text B) has four lines.</p>
+              <p>This MS and the texts themselves still remain to be dated.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="35" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.6084</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">不知名醫方第十五種</title>
+            <title lang="chi-Latn">Buzhiming yifang di 15 zhong</title>
+            <title lang="eng-Latn">Unidentified medical remedies, XV</title>
+            <note>
+              <p>The top and bottom of the MS are defective. It consists of one small irregular fragment, 11 cm. high and 16 cm. long, with ruled lines. Nine columns of text survive. The title, headings and author’s name are not preserved. It is now classified as Unidentified medical remedies, XV.</p>
+              <p>The date of composition is unknown but the type of script and style of calligraphy suggest that the MS dates from the Tang period.</p>
+              <p>The text is the table of contents from a book of medical prescriptions. Judging from this, the book must have contained at least 63 sections, but only a dozen or so prescriptions can now be identified by name.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="36" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.2662-2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">不知名醫方第十六種</title>
+            <title lang="chi-Latn">Buzhiming yifang di 16 zhong</title>
+            <title lang="eng-Latn">Unidentified medical remedies, XVI</title>
+            <note>
+              <p>The scroll is 27 cm. long. The top and bottom are defective. It has a text on each side. On the front is Tangren xuanfang 唐人選方 (Selected remedies from Tang authors), Vol. 1 (q.v.); this text is on the reverse. To judge from the script, the two texts were not copied by the same hand; moreover, the first but not the second contains new characters introduced in the Wu-Zhou period. Of this book of prescriptions, 111 columns are preserved but the title, headings and author’s name have not survived. It is now classified as Unidentified medical remedies, XVI.</p>
+              <p>The character葉 (ye), prohibited under the Tang emperor Tai Zong 太宗 (Li Shimin 李世民), is written as C, but the character prohibitions of the emperor Gao Zong 高宗 are not evidenced, indicating that the MS was written at the beginning of the Tang period.</p>
+              <p>The text contains 62 miscellaneous medicinal remedies and moxibustion treatments for conditions including peripartum disorders, huang bing黃病, tianxing rebing天行熱病 (epidemic heat diseases), diseases of the throat, vomiting, pulmonary diseases and rubella (fengzhen 風).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="37" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.4433</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">不知名醫方第十七種</title>
+            <title lang="chi-Latn">Buzhiming yifang di 17 zhong</title>
+            <title lang="eng-Latn">Unidentified medical remedies, XVII</title>
+            <note>
+              <p>The beginning of the scroll is defective and the upper edge is somewhat damaged. It is 25.5 cm. high and 55 cm. long. It lacks title, heading and author’s name. There is a text on each side of the scroll. On the front is a Buddhist sutra; on the reverse this book of prescriptions, of which 48 columns survive. It is now classified as Unidentified medical remedies, XVII. The dates of composition and copying are uncertain.</p>
+              <p>The book contains eight sections of general pharmacological theory, four sections of recommendations and prohibitions for women, and 27 prescriptions, mainly restoratives for the art of the bedchamber.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="38" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3885</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">不知名醫方第二十種</title>
+            <title lang="chi-Latn">Buzhiming yifang di 20 zhong</title>
+            <title lang="eng-Latn">Unidentified medical remedies, XX</title>
+            <note>
+              <p>The extremities of the scroll are defective. It has a text on each side. On the front is Tangshi ji 唐詩集(The Anthology of Tang Poetry); this text is on the reverse. The prohibition on the name character世 (shi) of the Tang emperor Tai Zong 太宗 is observed, but the substitution of 療for the character治 (zhi), prohibited under the emperor Gao Zong 高宗 , occurs only sporadically, suggesting that the MS was written at or after the end of the Tang period, when that prohibition was no longer scrupulously adhered to.</p>
+              <p>The volume contains, in fragmentary form, remedies for deficiency and excess of marrow (sui xu-shi髓虛實), tianxing天行 (epidemic deiseases), chi yan赤眼 (red eye, normally associated with conjunctivitis) and shu lou chuang 鼠瘻瘡 (a kind of fistula).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="39" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.10527</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">不知名醫方第二十三種</title>
+            <title lang="chi-Latn">Buzhiming yifang di 23 zhong</title>
+            <title lang="eng-Latn">Unidentified medical remedies, XXIII</title>
+            <note>
+              <p>The MS is badly damaged. It consists of a fragment 14 cm. high and 4 cm. long, bearing parts of two columns of text, dealing with symptoms and pulse diagnosis. The composition of the remedy has not been preserved. The text is classified as Unidentified medical remedies, XXIII.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="40" type="WS">
+        <msIdentifier>
+          <settlement>St Petersburg</settlement>
+          <repository>Institute for Oriental Studies of the Russian Academy of Sciences</repository>
+          <collection>Dunhuang and Heicheng collection</collection>
+          <idno type="current">Dx-10298</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">不知名醫方第三十七種</title>
+            <title lang="chi-Latn">Buzhiming yifang di 37 zhong</title>
+            <title lang="eng-Latn">Unidentified medical remedies, XXXVII</title>
+            <note>
+              <p>The beginning and end and lower half of the fragment are incomplete. It bears traces of ruled lines. Only the upper half of nine columns of text is preserved. The title, headings and author’s name have not survived. It is now classified as Unidentified medical remedies, XXXVII. Since the character治 (zhi) is not subject to prohibition in the MS, it must have been written before the Tang period.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="41" type="WS">
+        <msIdentifier>
+          <settlement>St Petersburg</settlement>
+          <repository>Institute for Oriental Studies of the Russian Academy of Sciences</repository>
+          <collection>Dunhuang and Heicheng collection</collection>
+          <idno type="current">F-356</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Verso">
+            <title lang="chi-Hant">不知名醫方第三十八種</title>
+            <title lang="chi-Latn">Buzhiming yifang di 38 zhong</title>
+            <title lang="eng-Latn">Unidentified medical remedies, XXXVIII</title>
+            <note>
+              <p>The extremities of this fragment are missing. It has a text on each side. On the front is a copy of Zhongru san fang (Stalactite remedy); this volume of remedies is on the reverse. Eight columns of this text survive. It falls into two sections. The first section, extending over seven lines, contains two prescriptions (a remedy for coughs and shortness of breath and a recipe for zhuan zhong 專中pills). Of the second section, nothing survives but the one-line rubric Min gong zuo shi zhuan jie di si ‘閔公左氏傳解第四’.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="42" type="WS">
+        <msIdentifier>
+          <settlement>St Petersburg</settlement>
+          <repository>Institute for Oriental Studies of the Russian Academy of Sciences</repository>
+          <collection>Dunhuang and Heicheng collection</collection>
+          <idno type="current">F-356</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Recto">
+            <title lang="chi-Hant">鍾乳散方</title>
+            <title lang="chi-Latn">Zhongru san fang</title>
+            <title lang="eng-Latn">Stalactite remedy</title>
+            <note>
+              <p>The MS consists of a fragmentary sheet with text on both sides. The extremities are incomplete. There are medical prescriptions on the reverse. On the front is a copy of Zhongru san fang, accompanied by directions for dosage and administration. Unfortunately, the concluding part of this is mutilated and illegible.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="43" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.6168</idno>
+          <idno type="current">Or.8210/S.6262</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">灸法圖</title>
+            <title lang="chi-Latn">Jiufa tu</title>
+            <title lang="eng-Latn">Chart of Moxibustion Methods</title>
+            <note>
+              <p>This MS was in a state of disintegration. Six fragments now survive, distinguished as juan I, II, III, IV, V, and VI) (jia juan甲卷, yi juan乙卷, bing juan丙卷, ding juan丁卷, wu juan戊卷, ji juan己卷). The beginning and end portions of all the MS fragments are missing, so that they do not follow on from one another. Juan I and II are grouped under the classmark S. 6168, and the remaining four fragments under the classmark S. 6262. Title, headings and author’s name are missing from the originals. They have no counterpart among the extant works on moxibustion. The six fragments, which are now being restored and pieced together, have been assigned the descriptive title Jiufa tu (moxibustion charts). The MS cannot be reliably dated, but a comparison of the script with other MSS supports a date within the Tang period. Five whole-body charts are preserved intact; the remainder are damaged or fragmentary and in some cases, only traces of the accompanying explanations remain. On the strength of the remaining fragments of text and illustration, 18 diagrams can be distinguished. This means that the book must originally have contained at the very least 18 charts of the human body.</p>
+              <p>The treatise deals with the identification of various disorders, the therapeutic significance of the moxibustion points and the number of moxibustions to be undertaken. Each section of text was originally followed by a complete diagram of the human body viewed either from the front or from the back, with the moxibustion points shown. On either side of side of each diagram was a key to the names of the moxibustion points. Many of the moxibustion treatments are not paralleled elsewhere, suggesting that they are drawn from the author’s own clinical experience, or that they belong to an oral folk tradition. The treatise also records a number of moxibustion/acupuncture points that are not attested in the extant literature on acupuncture and moxibustion, e.g. banmei板眉, liang jiao wu zhou兩腳五舟, tianmen天門, nieyu聶俞. This indicates that a very wide variety of acupuncture/moxibustion points was in use in the Tang period. This work constitutes the earliest known set of moxibustion charts.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="44.1" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.2675</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">新集備急灸經甲本</title>
+            <title lang="chi-Latn">Xinji beiji jiujing, jia ben</title>
+            <title lang="eng-Latn">A Canon of Emergency Moxibustion Remedies, Newly Collected, Text A</title>
+            <note>
+              <p>The scroll is 28 cm. in height. The beginning and end are intact but the central section is damaged. The text and illustrations run continuously from front to back. The beginning of the treatise, on the front of the scroll, is known as Part I; the conclusion, which is on the reverse, is known as Part II. The texts on the front and back are written in a different hand, and are clearly not the work of the same copyist.</p>
+              <p>An inscription at the beginning of the MS records the fact that this is a handwritten copy of a book printed by the Li family of the Tang capital Chang’an, in the eastern sector of the city. This is in fact refers to the earliest known record of a printed book on a medical subject. In a postscript, the two copyists ‘Sheren’ Fan Ziying 舍人範子盈and ‘Yin-yang’ Fan Jingxun 陰陽汜景詢tell us that they executed the MS in close collaboration, completing their work on the 25th day of the twelfth month in the second year of the Xiantong reign period (i.e. 861 CE).</p>
+              <p>Part I includes the title of the work and place of printing, a foreword, and a diagram of the moxibustion and acupuncture points of the upper body in frontal view. A diagram of the lower body is present but damaged. It may be conjectured that this was followed by back and side views; but no trace of these remains.</p>
+              <p>The contents of Text A Part II are listed in the foreword which states that the text is ‘an overview of the various schools of moxibustion and their wise and efficacious techniques; putting together miscellaneous taboos of the various schools concerning the human spirit according to the year, month and day. However, the earlier sections are lost, although the section on taboos concerned with the human spirit survives in fragmentary form. The MS concludes with the name of the copyists and date of completion.</p>
+              <p>The names and locations of the moxibustion/acupuncture points in these charts diverge from the extant classical texts on acupuncture and moxibustion. This is therefore an extremely important primary source for research on moxibustion in the Tang period.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="44.2" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.2675</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">新集備急灸經乙本</title>
+            <title lang="chi-Latn">Xinji beiji jiujing, yi ben</title>
+            <title lang="eng-Latn">A Canon of Emergency Moxibustion Remedies, Newly Collected, Text B</title>
+            <note>
+              <p>This MS shares a catalogue number with Xinji beiji jiujing, Text A. Title, headings and author’s name are missing. There is a text on each side of the scroll. On the back is the opening of a memorial signed by Cao Yijin曹議金; the front contains a text on taboos regarding the passage of the human spirit. The latter closely resembles Text A, Part II, with minor variations of wording, and is therefore currently identified as Xinji beiji jiujing, jia ben (Text B). Since Cao Yijin (d. 935 CE) lived during the Five Dynasties period (907-960 CE), the MS must have been recopied sometime before or during that period.</p>
+              <p>This MS contains only the text on taboos regarding human beings and spirits. There are no accompanying acupuncture and moxibustion charts.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="45" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.5737</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">灸經明堂</title>
+            <title lang="chi-Latn">Jiujing mingtang</title>
+            <title lang="eng-Latn">Illuminated Hall Moxibustion Canon</title>
+            <note>
+              <p>The top of the scroll is intact but the bottom is defective. As the lower part of this text is largely missing, it cannot be reconstructed as continuous prose.The scroll is 16.5 cm. and 40 cm. long and has a single upper border and ruled lines. It contains 23 columns of text, written in a neat and graceful hand. The title Jiujing mingtang is the original one.</p>
+              <p>This text stipulates the acupuncture and moxibustion prohibitions and the hazards of acupuncture and moxibustion peculiar to each of the 30 days of the month. The first section is common to other texts such as the prescription book Qianjin yaofang 千金要方(Essential Prescriptions Worth a Thousand Gold Pieces) and the Dunhuang MSS Xinji beiji jiujing 新集備急灸經(A Canon of Emergency Moxibustion Remedies, Newly Collected) and Renshen liuzhu人神流注(The Flow of the Human Spirit).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="46" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3247</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">人神流注</title>
+            <title lang="chi-Latn">Renshen liuzhu</title>
+            <title lang="eng-Latn">The Flow of the Human Spirit</title>
+            <note>
+              <p>There is a text on each side of the scroll. On the front is Si fen lü jie mo 四分律羯磨, Vol. 2; on the reverse is an almanac for the fourth year of the Tong Guan 同光reign period of the Later Tang Dynasty, i.e. 926 CE followed by the medical text. The original title of the treatise is missing and its date of composition is uncertain. The text contains medical texts on acupuncture and moxibustion at the beginning, which are integrated into other remedy and prescriptive literature in the almanac. Similar material is found in the Dunhuang MSS Xinji beiji jiujing, Texts A (jia ben甲本) and B (yi乙本). The title is descriptive.</p>
+              <p>The text describes the points on the human body corresponding to each of the thirty days of the lunar month.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="47" type="WS">
+        <msIdentifier>
+          <settlement>Kyoto</settlement>
+          <repository>Ryūkoku University Library</repository>
+          <collection/>
+          <idno type="current">MS00530</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">本草經集注</title>
+            <title lang="chi-Latn">Bencao jing jizhu</title>
+            <title lang="eng-Latn">Collected Commentaries on the Pharmaceutical Canon</title>
+            <note>
+              <p>The scroll is 17 metres in length, and has texts on both sides. On the front is prefatory material to Biqiu han zhujie ben 比丘含注戒本 (Bhiksu’s Book of Precepts with Commentary); on the back is a section of Dazhi du lun大智度論(Treatise on Salvation through Great Wisdom), followed by Bencao jing jizhu. 721 columns of this work survive. The title and headings are missing from the beginning. However, a note at the end of the scroll reads: ‘Bencao jizhu diyi xulu — Huayang Tao yinju zhuan 本草集注第一序錄——華陽陶隱居撰’ (This is the preface to Collected Commentaries on the Pharmacopoeia, composed by the hermit Tao of Huayang). This accords with the title Tao Hongjing ‘Bencao jing jizhu’, qi juan陶弘景本草經集注七卷’ (Collected Commentaries on the Pharmaceutical Canon, seven volumes , by Tao Hongjing) in the Liang period text Qi lu 七錄, quoted in the bibliographical treatise of the History of the Sui Dynasty (Suishu: Jingji zhi 隋書·經籍志. Thus it seems clear that this is the first volume of Tao Hongjing’s annotated edition. The text is currently designated as Bencao jing jizhu, Text A (jia ben 甲本). On the basis of Tao Hongjing’s Zhouhou baiyi fang: Zixu肘後百一方·自序 (101 Remedies to Keep up your Sleeve, Author’s Preface), the original work can be dated around 500 CE.</p>
+              <p>The final two columns of the MS form a 25-character colophon, stating: One juan of materia medica, written by Yuchi Lulin 尉遲盧麟 during the hours of chen shi 辰時 (7-9:00 a.m.) on the eleventh day of the ninth lunar month in the sixth year of the Kai Yuan reign period of the Tang Dynasty, i.e. 718 CE.</p>
+              <p>In the opinion of Luo Zhenyu 羅振玉, this should be accepted for dating purposes. However, the Japanese scholar, Ogawa Takuji 小川琢治, who has carried out a textual study of the MS, considers the calligraphy of the postscript to be quite unlike that of the rest of the text, which he believes to date from the Six Dynasties period (222-589 A.D.). A recent reexamination of the MS has provided textual evidence to support a date within the Southern and Northern Dynasties period. For example, the text displays the character prohibitions of the last emperor Gao Yin 高殷of the Northern Qi and of the Tang emperors Gao Zu 高祖 (Li Yuan), Tai Zong 太宗 (Li Shimin 李世民) and Gao Zong 高宗 (Li Zhi 李治). The use of the term hengshan恒山in place of the later term changshan常山in the name of an ancient pharmaceutical corroborates this dating.</p>
+              <p>Bencao jing jizhu, which originally ran to seven volumes, is an important early annotated edition of the Shen Nong bencao jing 神農本草經(Shen Nong’s Pharmaceutical Canon). It begins with prefaces (xulie序例), followed by the main pharmacological text, recording 365 medicines from Shen Nong bencao jing and Mingyi bielu名醫別錄 (Additional Records of Famous Physicians). This work inaugurated the sevenfold classifications of medicinal substances: yushi 玉石 (jade and minerals/stones), caomu草木 (grasses and woods), chongshou蟲獸, (insects and animals), guo果(fruits), cai菜 (vegetable), migu米谷 (grain), you ming wei yong有名未用 (attested but not utilised). It provided considerable supplementary material on the cultivation and harvesting of medicinal substances and on their therapeutic uses. Although the original text has not been transmitted, there are sections in Jingshi zhenglei beiji bencao 經史證類備急本草(An Emergency Pharmacopoeia Arranged in Categories from the Canons and Histories). The copy held at the University of Ryūkoku contains only the ‘Prefaces’ section from the beginning, including Tao Hongjing’s foreword, the original preface to the work and Tao’s notes. It is concerned mainly with three grades of medicines, and their preparation, gathering, dosage and uses in various disorders. It does not touch upon medicinal wines and decoctions (tan jiu yaowu 湯酒藥物) or the seven qualities of medicinal drugs etc.</p>
+              <p>N.B. In Dunhuang yiyao wenxian jijiao, this MS is classified as Text A (jia ben甲本) to distinguish it from another fragmentary MS of Tao Hongjing’s Bencao jing jizhu (Text B, yi ben乙本), discovered at Tufan in Xinjiang. Because of its provenance, the latter MS is not discussed here.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="48.1" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.4534</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V">
+            <title lang="chi-Hant">新修本草甲本</title>
+            <title lang="chi-Latn">Xinxiu bencao, jia ben</title>
+            <title lang="eng-Latn">A Newly Revised Pharmacopoeia, Text A</title>
+            <note>
+              <p>The beginning and end of the scroll are incomplete. It has a text on each side. On the front is a copy of Zhai jing 宅經 (Canon for the Siting of Dwellings) siting canon); this treatise is on the reverse. A comparison with quotations contained in transmitted works confirms that the MS text is the main body of Xinxiu bencao (cf. Zhenglei bencao證類本草 [Categorised Pharmacopoeia]).</p>
+              <p>Xinxiu bencao was completed in 659 CE (fourth year of the Xianqing 顯慶reign period of the Tang emperor Gao Zong 高宗 ). It was an official expansion and revision of Bencao jing jizhu 本草經集注(Collected Commentaries on the Pharmaceutical Canon) by Tao Hongjing陶弘景, commissioned by the Tang government and supervised by Su Jing. More than 20 medical officials are acknowledged by name as contributors to this work; at their head, the duke of Yingguo, Li Ji (Yingguo gong Li Ji英國公李勣), and the Commander-in-Chief Zhangsun Wuji 長孫無忌.</p>
+              <p>The original work consisted of 54 volumes: the 20 volumes of Xinxiu bencao with an additional one volume index, the 25 volumes of Xinxiu bencao tu新修本草圖together with a one volume index, and the seven volumes of Bencao tujing本草圖經 (Illustrated Pharmaceutical Canon). In the revision more than 400 corrections were made to the previous Pharmacopoeia and a further 100 pharmaceutical substances were added. This work constitutes a systematic compendium of Chinese pharmacological knowledge up to the Tang period. It is the first medical text published in China under official auspices that truly constitutes a pharmacopoeia and as such it predates its earliest European counterpart, the Nuremberg Pharmacopoeia of 1542, by 800 years.</p>
+              <p>The MS of Xinxiu bencao discovered at Dunhuang comprises four fragments , which are classified as Texts A, B, C and D (jia ben 甲本, yi ben乙本,bing ben 丙本, ding ben丁本). Text A consists of two fragments. The first of these, which we designate Text A, Scroll I (jia ben jia juan甲本甲卷) is a mutilated fragment of the section on fruits from Xinxiu bencao juan, 17, which is 25 cms high. The second, Text A, Scroll II (jia ben yi ben 甲本乙卷), contains the ending of the section on vegetables from Vol. 18, and the heading of the section on rice and a fragmentary passage on the medicinal uses of flax (huma胡麻) from juan 19, also 25 cms high.</p>
+              <p>In this text the character治 (zhi) is subject to prohibition and is replaced by主(zhu), the character世is subject to prohibition, and the character葉 (ye) is subject to prohibition and replaced by C. This indicates that the MS was written during the reign of the Tang emperor Gao Zong 高宗(c. 650-683 CE).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="48.2" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3714</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">新修本草乙本</title>
+            <title lang="chi-Latn">Xinxiu bencao, yi ben</title>
+            <title lang="eng-Latn">A Newly Revised Pharmacopoeia, Text B</title>
+            <note>
+              <p>There is a text on each side of the scroll. This treatise is on the front; on the reverse are documents relating to the postal services for 伊西 Yixi and other counties in 667-669 CE (second year of the Qianfeng 乾封reign period to the second year of the Zongzhang 總章reign period). The beginning and end of the MS are incomplete, and the title, headings and compilers name are lost. The surviving text is confined to pharmacological substances in the herbal sections. A comparison of the sources shows that these medicines are discussed towards the beginning of the section on cao 草‘herbs’ under ‘xia pin 下品 (lower grade) of Xinxiu bencao juan 10. In its present form, the MS records 30 of the 35 medicines found in the original. These include 26 medicines from Shen Nong bencao jing 神農本草經 (Shen Nong’s Pharmaceutical Canon) and one from Mingyi bielu名醫別錄 (Additional Records of Famous Physicians). The MS is classified as Xinxiu bencao, Text B ( yi ben乙本).</p>
+              <p>The copying of the MS can be dated within the seven years preceding the start of the Qianfeng reign period (666 CE), on the internal evidence of character avoidance of (治[zhi] and世[shi] which have prohibited status, but 恒 [heng] does not): this is corroborated by the year and month of the postal documents on the reverse.</p>
+              <p>The main text is written in large characters and the notes in small characters. Among the sections in large characters, the passages from Shen Nong bencao are written in red while the those from Mingyi bielu are written in black (see Mayanagi fig. ). The annotations immediately following the text (in the section on the seven qualities of medicines) are the original notes from Mingyi bielu. The unmarked notes are by Tao Hongjing 陶弘景, while those preceded by the words jin an謹案 (nota bene) are proper to Xinxiu bencao.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="48.3" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3822</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">新修本草丙 本</title>
+            <title lang="chi-Latn">Xinxiu bencao, bing ben</title>
+            <title lang="eng-Latn">A Newly Revised Pharmacopoeia, Text C</title>
+            <note>
+              <p>The extremities of the scroll are incomplete. The title, headings and compiler’s name are missing. The MS consists of two fragments, containing 13 columns of 30-35 characters each. The text is written entirely in black; save for a red circle preceding the name of each medicine, no red ink is used. Eight medicines remain, viz. Chinese green onion seed (cong shizi蔥實子) (including the root and juice) bitter gourd苦瓠 (ku gua), wood betony (shui su水蘇), purple perilla (zi su紫蘇), liaoshi蓼實— a fruit of the Polygonum family (including the leaves and also the variant known as maliao馬蓼), perilla (renzi荏子) (including the leaves), honeysuckle (muxu苜蓿) and mustard (jie芥), all pharmaceuticals of the vegetable order. It is clear from a comparison with citations in transmitted works that these come from the section on vegetable medicines in Xinxiu bencao, juan 8. This MS is now classified as Xinxiu bencao, Text C (bing ben丙本).</p>
+              <p>In view of the fact that the characters治 (zhi) and世 (shi) are subject to prohibition in the MS, it is presumably the work of a Tang copyist.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="48.4" type="WS">
+        <msIdentifier>
+          <settlement>Unknown</settlement>
+          <repository>Unknown</repository>
+          <collection>Formerly in the collection of Li Shengduo李盛鐸: current location unknown</collection>
+          <idno type="current">Unknown</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">新修本草丁本</title>
+            <title lang="chi-Latn">Xinxiu bencao, ding ben</title>
+            <title lang="eng-Latn">A Newly Revised Pharmacopoeia, Text D</title>
+            <note>
+              <p>The MS bears the superscription: ‘Xinxiu bencao xu li juan shang di yi新修本草序例卷上第一’ (Prefaces to the Revised Pharmacopoeia, Volume 1, no 1). There remains the foreword to Xinxiu bencao and the complete text of Tao Hongjing’s 陶弘景preface; the rest of the text is lost (cf. Bencao gaishuo本草概說 [Outline of Pharmacopoeia] by Okanishi Tameto 罔西爲人). It corresponds to the opening section of the first volume of the prefaces to Xinxiu bencao. Unfortunately, the current location of this MS is unknown. The first part of the fragment (i.e. the foreword to Xinxiu bencao) can be studied through the medium of a photograph which was used as the frontispiece to Bencao gaishuo. It is now classified as Xinxiu bencao, Text D (ding ben丁本).</p>
+              <p>Comparing this text of the prefaces with versions of the lost text transmitted via other channels (see Zhenglei bencao 證類本草 [Categorised Pharmacopoeia], juan 1), one notices that only the name of the senior official Zhangsun Wuji 長孫無忌, is missing from the list of editors and writers. Zhangsun Wuji was a distinguished official of the early Tang period. Enfeoffed as Duke of Zhao趙國, he held various key posts, including tutor to the Crown Prince and Commander in Chief. But in 659 CE (the fourth year of the Xianqing 顯慶reign period), he committed suicide by official command, after being implicated in an attempted coup (see Jiu Tang shu 舊唐書[Old History of the Tang] juan 65). This can be adduced as evidence that the MS was written after 659 CE.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="48.5" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.9434</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">新修本草戊本</title>
+            <title lang="chi-Latn">Xinxiu bencao, wu ben</title>
+            <title lang="eng-Latn">A Newly Revised Pharmacopoeia, Text E</title>
+            <note>
+              <p>The MS consists of an irregular fragment, 24.5 cm. high and 13.5 cm. long. Both title and compiler’s name are missing. There is a text on each side. On the front is a Daoist work; this book is found on the reverse. It consists of a fragmentary sheet bearing five columns of text, of which the first half is missing. In the light of the Xinxiu bencao 新修本草material preserved in the Ninnaji Temple in Japan and the citations from Xinxiu bencao in Zhenglei bencao證類本草(Categorised Pharmacopoeia), it can be identified as a version of the passages on the medicinal uses of plum fruit and loquat leaves from the section on fruits in juan 17. This exemplar contains only black characters and small character annotations in double columns — no red characters are present. The MS is now classified as Xinxiu bencao, Text E (戊本 wu ben). It probably dates from the late Tang period.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="49" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.5968</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">亡名氏本草序例</title>
+            <title lang="chi-Latn">Wangmingshi bencao xuli</title>
+            <title lang="eng-Latn">Prefatory material to the Pharmacopoeia, author’s name lost</title>
+            <note>
+              <p>The MS is 14.5 cm. high and 40 cm. long. The top, bottom and first section are lost, and the title, headings and author ’s name are missing. The remaining fragment contains the bottom half of 25 lines. The text, which appears to come from a general treatise on materia medica in the preface genre, is identified as Wangmingshi bencao xulie (Prefatory material to the Pharmacopoeia author’s name lost). It is too badly mutilated to permit reconstruction as continuous prose.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="50" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.76</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">食療本草</title>
+            <title lang="chi-Latn">Shiliao bencao</title>
+            <title lang="eng-Latn">Materia Dietetica</title>
+            <note>
+              <p>There are texts on both sides of the scroll. The above text is on the front; on the reverse are miscellaneous documents and extracts of verse and prose. The top and bottom of the scroll are defective and the title, headings and compiler’s name are missing. 127 columns of 20 characters survive. The names of medicines are inscribed in red. In the heading You fang又方 (Further prescriptions), the character you 又has a column to itself and is separated off by a round dot. The medicinal foods listed in this work correspond substantially to quotations from Shiliao bencao (see examples scattered throughout Zhenglei bencao證類本草 (Categorised Pharmacopoeia) and Ishinpō醫心方 (Prescriptions at the Heart of Medicine), hence our use of that title.</p>
+              <p>A three juan work, Shiliao bencao, is first attested in the bibliographical treatise of the New History of the Tang (Xin Tang shu: Yiwen zhi 新唐書·藝文志). It is a treatise on materia medica by Meng Xian, an author of the early Tang period, concerning foods for general consumption which also have curative properties. The author classifies and discusses the pharmaceutical properties, effects and prohibitions of various substances relevant to dietary therapy, concluding each section with a number of specific prescriptions. According to Jiayou bencao 嘉祐本草, Zhang Ding張鼎, a writer of the Kai Yuan 開元reign period of the Tang dynasty, added 89 supplementary items, focusing on therapeutic effects, bringing the total to 227. In the main text under each drug item, whenever the characters案 (an) and案經 (an jing) appear, what follows belongs to Zhang Ding’s interpolations. The Dunhuang fragment is the only extant copy of Shiliao bencao, which is otherwise known exclusively from partial citations in Jingshi zhenglei beiji bencao 經史證類備急本草(An emergency Pharmacopoeia Arranged in Categories from the Canons and Histories), Ishinpō, etc.</p>
+              <p>The work dates back to the early Tang period, and was probably compiled before 713 CE. This date is borne out by the fact that separate passages from the sections by Zhang Ding are quoted in Chen Cangqi’s 陳藏器739 CE text, Bencao shiyi 本草拾遺(Supplement to the Pharmacopoeia). The evidence suggests that this copy was made in the Five Dynasties period. A note on the back of the mounting paper reads:<lg>Chen Lu wrote this document on the first day of the first lunar month in the fifth year of the Chang Xing reign period (934 CE) during the journey to the capital city.長興五年（西元934年）正月一日行首，陳魯修牒</lg>This date is supported by character prohibitions in the MS (the character治 [zhi] is not subject to prohibition in the MS, but the character葉 [ye] is replaced by C.</p>
+              <p>The MS contains 82 entries concerning 26 medicinal foods.</p>
+            </note>
+            <note lang="chi-Hant">
+              <p>本草著作，唐代孟詵撰。現藏英國大不列顛圖書館，編號OR8210/S·76。</p>
+              <p>此寫本正、背兩面書寫，正面即本書，背面雜記牒文、詩句及書狀。其首尾均缺，也缺書名標題及撰者，現僅存138行文字，每行20字。（按语：2000年在英國大不列顛圖書館阅读时末能看到此书原件，故写卷尺寸缺如。）原文用朱色書寫藥名、“又方”、“又”字標題及用以分隔句、段的圓點。書中所記各種食物藥的性味主治與現存《食療本草》佚文（散見《證類本草》及《醫心方》等書）對照基本相符，故稱爲《食療本草》。</p>
+              <p>《新唐書·藝文志》首次記載“《食療本草》三卷”之目。此書原是唐初孟詵撰，是記述即可供食用，又可療病的本草專著。書中分條論述與食療有關各種藥物的藥性功效及禁忌，並在每藥項下附有若干單驗藥方。據《嘉祐本草》記載“張鼎（唐代開元人）又補其不足者八十九種，並歸爲227條，皆說食藥治病之效。”在正文中各藥物項下凡記有“案”，或“案經”字樣以下的內容均是張氏所補入者。原書早佚，佚文散見於《政和經史證類備用本草》與《醫心方》等書。敦煌寫本《食療本草》殘卷是其唯一的傳世本。</p>
+              <p>此書撰于唐初，約成書於西元713年以前。據西元739年成書的陳藏器《本草拾遺》一書已引有此書張鼎氏的個別條文。又據此寫本背面裱紙中記有“長興五年（西元934年）正月一日行首，陳魯修牒”字樣，故其抄寫年代約在五代。</p>
+              <p>此寫本現共存食物藥26種，共82條，朱墨间书。</p>
+              <q type="transcription" lang="chi-Hant">
+                <p>疣虫、白 。●按：《經》：久食損齒，令黑。其皮炙令黃，搗爲一末，和 （棗）肉爲丸，日服卅丸，後以飯押，斷赤白痢。又：久二患赤白痢，腸肚絞痛，以醋石榴一個搗令碎，布絞取三汁，空腹頓服之，立止。又：其花 （葉）陰乾，搗爲末，和 （鐵）丹四服之，一年白髮盡黑，益面紅色。仙家重此，不盡書其方。五</p>
+                <p>木瓜，溫。右主治霍亂、澁痺、風氣。又： （頑）痺人，若吐逆下、六病轉 （筋）不止者，取枝 （葉）煮湯，飲之愈，亦去風氣，七消痰。每欲霍亂時，但呼其名字，亦不可多食，損齒。八又：臍下絞痛，可以木瓜一片，桑 （葉）七枚，炙大 （棗）三个，九中破，以水二大升，煮取半大升，頓服之，即[瘥]。十</p>
+                <p>胡桃，平。右不可多食，動痰。案：《經》：除去風，潤脂肉，令人十一能食，不得多食之，計日月漸漸服食，通經絡、氣、血脈，十二黑人 （髭）髮，毛落再生也。又：燒至煙盡，研爲泥，和胡粉爲十三膏，拔去白髮、傅（敷）之即黑，毛髮生。又：仙家壓油，和詹香十四塗黃髪便黑如漆光潤。初服日一顆，後隨日加一顆，至廿十五顆，定得骨細肉潤 。又方：一切痔病。案：《經》：動風、益氣。發十六 固（痼）疾，多喫不宜。</p>
+                <p>軟棗，平。多食動風，令人病冷氣，發咳嗽十七</p>
+                <p>棐子，平。右主治五種痔，去三 （蟲），殺鬼毒，惡疰。又：患寸白 （蟲），十八人日食七顆，經七日滿，其 （蟲）盡消作水，即差。●按：《經》：多食十九三升二升佳。不發病，令人消食，助 （筋）骨，安榮衛。補中二十益氣，明目，輕身。二十一</p>
+                <p>蕪荑，平。右主治五內邪氣，散皮膚支（肢）節間風氣，能化食，二十二去三虫，逐寸白，散腹中冷氣。又：忠（患）熱瘡，爲末，和豬脂二十三塗，差。又方：和白沙蜜治濕癬。又方：和馬酪治乾癬。和沙二十四牛酪療一切 （ ）<note type="footnote" n="1">（ ），疼痛的意思。見《廣韻．平聲．支韻》。</note>●案：《經》：作醬食之，甚香美。其功尤勝於二十五榆人（仁），惟陳久者更良。可少喫，多食發熱，心痛，爲其味二十六辛之故。秋天食之宜人，長喫治五種痔病。又：殺膓惡 （蟲）。二十七</p>
+                <p>榆莢，平。右療小兒癇疾。又方：患石淋，莖。又：暴赤腫者，二十八榆皮三兩熟搗，和三年米醋滓，封莖上，日六七遍易。又方：二十九治女人石癕，妬乳腫。●案：《經》宜服丹石人。取 （葉）煮食，時三十服一頓亦好。高昌人多搗白皮爲末，和菹菜食之，甚三十一美。消食，利關節。又：其子可作醬，食之甚香，然稍三十二辛辣能助肺氣，殺諸 （蟲），下心腹間惡氣，內消之。陳三十三滓者久服尤良。又：塗諸瘡癬妙。又：卒冷氣心痛，食之差。三十四</p>
+                <p>吳茱萸，溫。右主治心痛、下氣、除咳逆，去蔵中冷，能溫脾氣三十五消食。又方：生樹皮，上牙疼痛痒等立止。又：取茱萸一升，清三十六酒五升，二味和（合）煮取半升，去滓。以汁微暖洗。如中風賊風，三十七口偏不能語者，取茱萸一升，美清酒四升，和煮四五沸，冷三十八服之半升，日二服，得小汗爲差。●案：《經》：殺鬼毒尤良。又方：三十九夫人衝冷風，欲行房，陰縮不怒者，可取二七粒【嚼】<note type="footnote" n="2">【嚼】据上下文义补入.</note>之良久，咽四十下津液，並用唾塗玉莖頭即怒。又：閉目者名欓子，不宜食。又方：食四十一魚骨在腹中痛，煮汁一盞，服之即止。魚骨刾（刺）在肉中四十二不出，及虵骨者，以封其上，骨即爛出。又：奔豚氣衝心兼四十三脚氣上者，可和生薑汁飲之，甚良。四十四</p>
+                <p>蒲桃，平。右益蔵氣，強志，療腸間宿水，●調中。●案：《經》：四十五不問土地，但取藤收之釀酒，皆得美好。其子不宜多食，四十六令人心卒煩悶，猶如火燎，亦發黃病，凡熱疾後不可食之。四十七眼闇（暗），骨熱，久成麻癤病。又方：其根可煮取濃汁飲之。四十八嘔噦及霍亂後惡心。又方：女人有娠，往往子上衝心，細細飲四十九之即止，其子便下，胎安好。五十</p>
+                <p>甜瓜，寒。右止渴、除煩熱。多食令人陰下痒濕，生瘡。五十一又：發痺黃，動宿冷病。患癥瘕人不可食瓜。其瓜蒂五十二主治：身面四支（肢）浮腫，殺蟲，去鼻中息（瘜）肉、陰癉黃及急黃。五十三又：生瓜 （葉）搗取汁，治人頭不生毛髮者，塗之即生。●案《經》：五十四多食令人羸惙虛弱、脚手少力。其子熱，補中焦，宜人。五十五其肉止渴、利小便，通三焦間擁寒氣。又方：瓜蒂七枚、丁五十六香七枚、搗爲末，吹鼻中少時，治癕氣，黃汁即出，差。五十七</p>
+                <p>越瓜，寒。右主治利陰陽，益腸胃，止煩渴，不可久食，發痢。五十八 ●案：此物動風，雖止渴，能發諸瘡，令人虛，脚弱，虛不能行。五十九 小兒夏月不可與食，成痢，發 （蟲），令人腰脚冷，臍下痛。六十 ●患時疾後不可食。●不得和牛乳及酪食之。  又：不可空六十一腹和醋食之，令人心痛。</p>
+                <p>胡瓜，寒。不可多食，動風及寒熱。六十二又：發痁瘧、兼積瘀血。●案：多食令人虛熱上氣，生百病。六十三消人陰，發瘡及發痃氣及脚氣，損血脉，天行後不可六十四食。●小兒食發痢、滑中，生甘 （疳蟲）。又：不可和酪食之，必再發。六十五又：搗根傅（敷）胡刾毒腫，甚良。六十六</p>
+                <p>冬瓜，寒。右主治小腹水鼓脹。又利小便、止消渴。又：其子主益六十七氣，耐老，除心胷氣滿，消痰，止煩。又：冬瓜子七升，絹袋盛，六十八投三沸湯中須臾，曝乾。又：內湯中，如此三度乃止，曝乾，六十九与滑<note type="footnote" n="3">滑，当为“清”字之误。《重修政和经史证类备用本草·菜部上品》白瓜子条作“与清苦酒渍”。白瓜子即是冬瓜仁。</note>（清）苦酒浸之一宿，曝乾，爲末，服之方寸匕，日二服，令人肥悅，七十又明目，延年不老。●案：《經》 （壓）丹石，去頭面熱風。又：熱發者七十一服之良，患冷人勿食之，令人益瘦。●取冬瓜一顆，和桐 （葉）七十二与豬食之一冬，更不食諸物，其豬肥長三四倍矣。又：七十三煮食之，能煉五蔵，精細欲得肥者勿食之，爲下氣。欲瘦七十四小輕徤者，食之甚徤人。又：冬瓜人（仁）三升，退去皮殼。搗爲丸七十五空腹及食後各服廿丸，令人面滑靜如玉。可入面脂中用。七十六</p>
+                <p>瓠子，冷。右主治消渴，患惡瘡，患脚氣虛腫者，不得食之，七十七加甚。●案：《經》：治熱風及服丹石人始可食之。除此一切人不可七十八食也。患冷氣人食之加甚，又發固（痼）疾。七十九</p>
+                <p>蓮子，寒。右治五蔵不足，傷中氣絕，利益十二經脉、二十五絡八十血氣、生喫動氣、蒸熟爲上。又方：去心曝乾爲末，著蠟及八十一蜜等分爲丸服，令不肥。學仙人 （最）爲勝。若鴈腹中<note type="footnote" n="4">中，原此后有一重复符号，属衍文，删。</note>者，八十二空腹服之七枚，身輕，能登高陟遠。採其鴈之糞於野八十三田中，經年猶生。又：或於山巖石下息糞中者，不逢陰雨，數八十四年不壞。又：諸飛鳥及猿猴蔵之於石室之內，其猨鳥八十五死後經數百年者，取得之，服永世不老也。其子房及 （葉）皆八十六破血。又：根停久者，即有紫色， （葉）亦褐色。多採食之，令八十七人能變黑如瑿。</p>
+                <p>鷰蕧子，平。右主利腸胃，令人能食。下三八十八焦，除惡氣，和子食更良。江北人多不識此物。即南方人食八十九之。又：主續五蔵音聲及氣，使人足氣力。又：取枝 （葉）煮九十飲服之，治卒氣奔絕，亦通十二經脉。其莖爲【通】草，利關節九十一擁塞不通之氣。今北人只識蓪草，而不委子 （功）。九十二</p>
+                <p>摣子，平。右多食損齒及損 （筋），惟治霍亂轉 （筋），煮汁飲九十三之，与木瓜功相似，而小者不如也。昔孔安國不識，而謂之不蔵。九十四今驗其形小況相似。江南將爲果子，頓食之。其酸澁也，亦九十五無所益，俗呼爲樳梨也。</p>
+                <p>藤梨，寒。右主下丹石，利五蔵。其熟九十六時收取瓤和蜜煎作煎，服之去煩熱，止消渴，久食發冷氣，九十七損脾胃。</p>
+                <p>羊（楊）梅，溫。右主蔵腑，調腹胃，除煩潰（憒），消惡九十八氣，去痰實。●不可多食，損人 （筋）。然斷下痢。又：燒爲灰，九十九断下痢。其味酸美，小有勝白梅。又：取乾者常含一枚，咽一00其液，亦通利五蔵。下少氣。●若多食，損人 （筋）骨。甚酸之一0一物，是土地使然。若南人北杏亦不食。北人南梅亦不噉，一0二皆是地氣鬱蒸，令煩潰（憒），好食斯物也。</p>
+                <p>覆盆子，平。右一0三主益氣，輕身，令人髪不白，其味甜酸，五月麦田中得者良。一0四採其子於烈日中曬之，若天雨即爛，不堪收也。江東十月有一0五懸鈎子稍小，異形，氣味一同。然北地無懸鈎子，南方無覆一0六盆子，蓋土地殊也。雖兩種則不是兩種之物，其功用亦相似。一0七</p>
+                <p>藕，寒。右主補中焦，養神，益氣力，除百病。久服輕身，耐一0八寒，不飢，延年。●生食則主治霍亂，虛渴，煩悶，不能食。一0九長服生肌肉，令人心喜悅。案：《經》神仙家重之，功不可說。一一0其子能益氣，即神仙之食，不可具說。●凡產後諸忌生一一一冷物不食，唯藕不同生類也，爲能散血之故。但美即而一一二已，可以代糧。●蒸食甚補益下焦，令腸胃肥厚，益氣一一三力，与蜜食相宜，令腹中不生 （蟲）。●仙家有貯石蓮子及乾一一四藕經千年者，食之不飢，輕身能飛，至妙。世人何可得一一五之？凡男子食須蒸熟服之，生喫損血。一一六</p>
+                <p>雞頭子，寒。主溫，治風痺，腰脊強直， （膝）痛。補中焦，益精。一一七強志意，耳目聰明，作粉食之，甚好。此是長生之藥，与蓮實一一八同食，令小兒不長大，故知長服當亦駐年。●生食動少氣，一一九●可取蒸，於烈日中曝之，其皮殼自開，挼却皮取人（仁）食，甚一二0美。可候皮開，於臼中舂取末。一二一</p>
+                <p>菱實，平。右主治安中焦，補蔵腑氣，令人不飢，仙方亦一二二
+                                    蒸熟曝乾作末，和米食之休糧。●凡水中之果，此物 （最）一二三發冷氣。不能治衆疾，損陰，令玉莖消衰，令人或腹一二四脹者，以薑酒一盞飲即消。含吳茱萸子，咽其液，亦消。一二五</p>
+                <p>石蜜，寒。右心腹脹熱，口乾渴。波斯者良。注少許於目中，除一二六去熱膜，明目。蜀川者爲次，今東吳亦有，並不如波斯。此一二七皆是煎甘 （蔗）汁及牛膝汁，煎則細白耳。又：和 （棗）肉及巨一二八勝人（仁）作末爲丸，每食後含一丸如李核大，咽之津，潤肺氣，一二九助五蔵津。</p>
+                <p>沙糖，寒。右功體與石蜜同也。多食令人心痛。一三0養三 （蟲），消肌肉，損牙齒，發疳 （ ），不可多服之。又：不可一三一与鯽魚同食，成疳 （蟲）。又：不可共笋食之，笋不消，成癥一三二病，心腹痛，重不能行李（履）。</p>
+                <p>芋，平。右主寬緩腸胃，去死一三三肥（肌），令脂肉悅澤。白淨者無味，紫色者良。破氣，煮汁飲一三四之止渴。十月以（已）後收之，曝乾，冬蒸服則不發病，餘外不可服。一三五又：和魚煮爲羹，甚下氣，補中焦。令人虛，無氣力，此一三六物但先肥而已。又：煮生芋汁可洗垢膩衣，能潔白。又：一三七</p>
+              </q>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="51" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3810</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">呼吸靜功妙訣</title>
+            <title lang="chi-Latn">Huxi jing gong miao jue</title>
+            <title lang="eng-Latn">Wondrous Instructions on the Skill of Quiescent Breathing</title>
+            <note>
+              <p>The MS is intact. There is no title or author’s name. It contains accounts of eight Daoist techniques and spells, viz. Xiang zu baihe zizhi dunfa湘祖白鶴紫芝遁法 (a technique for becoming invisible), Baihe ling zhang zhou白鶴靈彰咒 (an incantation), Zizhi ling she zho jue紫芝靈舍咒訣 (a secret instruction), Heshen suo zai ri qi 鶴神所在日期 (an invocation to the crane spirit), 踏魁罡步法Ta kui gang bufa (a Daoist ritual step), Tai shang jin suo su huan yin dun zhen jue太上金鎖速環隱遁真訣(secret instructions conferring invisibility), Zudi sheng yun fa足底生雲法 (a technique enabling the user to fly). The first seven practices have little medical relevance.</p>
+              <p>A note at the beginning of this section refers to the official Han Xiang, who is known to have lived in the ninth century; furthermore the character 治(zhi) is not subject to prohibition in the MS. It is therefore probable that this copy was made in or after the Tang period.</p>
+              <p>The section contains 16 columns of text. It is concerned mainly with meditative techniques and breathing exercises aimed at promoting the free circulation of blood and qi, strengthening and consolidating primordial qi (yuanqi 元氣), regulating the seven emotional factors in order to prevent disease. In particular, the practice known as Shenxian zhou神仙粥 (porridge of the immortals) is supposed to act as a tonic in debilitating conditions; enhance qi and strengthen the will; strengthen yang energy and prevent ejaculation. This set of practices is also found in the late Ming work Shoushi baoyuan 壽世保元, juan 4 by Gong Tingxian 龔廷賢, but no source is named and shenxian zhou is omitted. This illustrates the persistence of the non-literary tradition.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="52" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.2637</idno>
+          <idno type="current">P.2703</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">辟谷諸方第一種</title>
+            <title lang="chi-Latn">Bigu zhufang di 1 zhong</title>
+            <title lang="eng-Latn">Prescriptions for grain avoidance, I</title>
+            <note>
+              <p>Dunhuang MSS P. 2637 and P. 2703 are identical copies of a book of medical prescriptions without title, headings or author’s name. P.2637 has 76 columns of text and gives eight prescriptions. Since all of these are bigu prescriptions, we have designated this work Bigu zhufang di 1 zhong. P. 2637 is the A text (jia ben甲本), P. 2073 the B text (yi ben乙本).</p>
+              <p>The term bigu辟穀denotes an ancient method of physical cultivation (yang sheng養生) involving total abstinence from grain and other foods, which enjoyed a particular vogue during the reign of the Han Emperor Wudi. It was believed that longevity could be attained by refraining from eating any substances which would leave residues to be excreted. This led to a search for practices that might make it possible to go without food. The prescriptions described in this text as Yong quan fang 湧泉方 (prescription of the gushing fountain), Miao xiang wan妙香丸 (fragrant magical pills), Chicao fang吃草方 (herbivorous prescription), and Xiuliang fang休糧方(prescription for abstaining from grain), are all designed to enable the practitioner to abstain from eating grain products without experiencing hunger.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="53" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.5795</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">辟谷諸方第二種</title>
+            <title lang="chi-Latn">Bigu zhufang di 2 zhong</title>
+            <title lang="eng-Latn">Prescriptions for grain avoidance, II</title>
+            <note>
+              <p>The beginning, end and most of the second half of this MS are lost. It is 21 cm. high and 18.5 cm. long. The title and the compiler’s name are unknown. 14 columns of text remain. It contains six prescriptions, mostly from the bigu tradition, including instructions for speedy walking and for strengthening the will. We have therefore designated this work Bigu zhufang, II. The character葉 (ye) is here written C, according to the prohibition of the Tang emperor Taizong, (Li Shimin 李世民), indicating that the MS belongs to the Tang period.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="54" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3043</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">辟谷諸方第三峽種</title>
+            <title lang="chi-Latn">Bigu zhufang di 3 zhong</title>
+            <title lang="eng-Latn">Prescriptions for grain avoidance, III</title>
+            <note>
+              <p>The top and bottom of this MS are incomplete. The title and the compiler’s name are unknown. Twenty columns of text remain. The prescriptions and techniques described here include Fuqi fa 服氣法 (a breathing exercise), Liu zi (tu yin) fa 六字（吐音）法— a vocalisation technique — with accompanying song, Xiuliang (bigu) fang 休糧（辟谷）方 (a prescription for abstaining from grain [bigu]) and Miao xiang wanzi fang 妙香丸子方 (a recipe for fragrant magical pills). The text is classified as Bigu zhufang, III.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="55" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.2438</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">辟谷諸方第四種</title>
+            <title lang="chi-Latn">Bigu zhufang di 4 zhong</title>
+            <title lang="eng-Latn">Prescriptions for grain avoidance, IV</title>
+            <note>
+              <p>The bottom of this scroll is fragmentary. The title and the author’s name are unknown. The first 69 columns record various prescriptions for a bigu regime. The rest of the MS, from column 70 onward is taken up by the opening section of the scripture San fang hua tong genben shenmi zhi yin bing fa 三方化同根本神秘之印並法 (Original mystical seal of the three areas combined, plus method), the end of which is missing. Bigu zhu di 4 zhong 辟谷諸方第四種 (Bigu prescriptions IV) designates the former section. The characters世 (shi) and 旦 (dan) are subject to prohibition in the MS, but not the character恒 (heng), enabling it to be dated to the middle of the Tang Dynasty.</p>
+              <p>The prescriptions and techniques described here include Fuling bing fa 茯苓餅法 (Fuling cake method), Fu huma fa 服胡麻法 (Flax method), Fu huaizi fa服槐子法 (Scholar tree seed method), Qu sanshi fang去三屍方 (Prescription for removing the ‘three corpses’), Fu huangjing fang 服黃精方 (Polygonum prescription), Fu dadou fang服大豆方 (Soybean prescription), Fu mazi fang服麻子方 (Sesame or hemp seed prescription) and Fu wuzhi fang服五芝方 (Wuzhi prescription).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="56" type="WS">
+        <msIdentifier>
+          <settlement/>
+          <repository/>
+          <collection>Archive of Luo Zhenyu</collection>
+          <idno type="current">Unknown</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">療服石方</title>
+            <title lang="chi-Latn">Liaofu shifang</title>
+            <title lang="eng-Latn">Mineral remedies to be taken orally</title>
+            <note>
+              <p>This MS belongs to the collection of Luo Zhenyu 羅振玉 and the text has been published in Zhen song tang cang xi chui mi ji cong can貞松堂藏西陲秘笈叢殘, by Luo Zhenyu, and Xi chui fangji shu canjuan hui bian西陲方技書殘卷彙編(Compilation of fragmentary scrolls on remedies and techniques from the Dunhuang area), by Luo Fuyi羅福頤.</p>
+              <p>The beginning and end of the MS are defective. The title and author’s name are missing; it has been given the descriptive title Liaofu shifang. The MS contains 96 columns of text including 36 independent entries on various diseases and their treatment. The twentieth entry is succeeded by the original heading of the seventh section, i.e. Jieshi fang di 7 ‘解石方第七’ (Prescription for releasing stones no 7). From this it can be seen that the first twenty entries form the end of the sixth section; however the name of that section cannot be inferred. Of the seventh section only sixteen entries remain. The MS can be tentatively dated to the mid Tang period.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="57.1" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.11363</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">五石藥方甲本</title>
+            <title lang="chi-Latn">Wushi yaofang, jia ben</title>
+            <title lang="eng-Latn">Five stone remedy, Text A</title>
+            <note>
+              <p>This MS survives only as a fragment without title, rubrics or author’s name. It has not been dated.</p>
+              <p>It contains a single recipe for Wushi yao (five stone remedy), to be prepared using stone of five colours (wuse shi五色石) corresponding to the five directions (east, west, south, north and centre) together with five types of grain. The ‘stone of five colours’ appears to relate to the wuse shizhi 五色石脂 (five coloured minerals) mentioned in Shen Nong bencao jing神農本草經(Shen Nong’s Pharmaceutical Canon). The present fragment preserves references only to ‘white stone of the east’ (dongfang baishi東方白石), ‘yellow stone of the north’ (beifang huangshi北方黃石) and ‘[red stone] of the west’ (xifang [chi shi] 西方（赤石）). However the closely similar fragment S. 9936, which also contains a prescription combining five stones and five grains, refers to ‘black stone of the south’ (nanfang heishi南方黑石) and ‘red stone [of the west]’ ([xifang] chishi] （西方）赤石). Because these two fragments appear to belong to variant versions of the same text, we have classified them as Text A (jia ben甲本)and Text B (yi ben乙本).</p>
+              <p>Eastern Han period, the famous physician Zhang Zhongjing 張仲景used Wushi tang五石湯 (five stone decoction) as a remedy for disease ; and also He Yong biezhuan 何顒別傳[Supplementary Biography of He Yong] in Taiping yulan 太平禦覽, Vol. 722). There are subsequent references to Wushi zhi yao五石之藥 (five stone remedy), Wushi 五(five stones) and Wushi du五石毒 (five stone poison) in Zhubing yuanhou lun 諸病源候論 (Treatise on the origins and symptoms of disease) juan 5 and 6 and in Qianjin yaofang千金要方(Essential Prescriptions Worth a Thousand Gold Pieces) Volume 24, 3. However, these texts simply record the name of the remedy without directions for its preparation, indicating that this prescription had by then fallen into disuse. The five stone remedy described in fragments A and B probably derives from the earlier five stone decoction.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="57.2" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.9936</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">五石藥方乙本</title>
+            <title lang="chi-Latn">Wushi yaofang, yi ben</title>
+            <title lang="eng-Latn">Five stone remedy, Text B</title>
+            <note>
+              <p>Only a small fragment of the MS survives, with three and a half columns of text. It is similar in content to Wushi yaofang, Text A (jiaben 甲本), with which it can be collated. See also the abstract of Text A.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="58" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.2635</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">王宗無忌單方</title>
+            <title lang="chi-Latn">Wang Zong, Wuji danfang</title>
+            <title lang="eng-Latn">Wang Zong’s Single Ingredient Remedies without Prohibition</title>
+            <note>
+              <p>This work is not mentioned in the ancient medical texts or other sources. We may surmise that Wang Zong was the author, since this is stated in the heading of the MS; however, there are no historical records to support this attribution.</p>
+              <p>The character following Zong in the heading (here transcribed wu) has been identified as奇 (ji), which is glossed as yinshi qi ni bu de xi ‘飲食氣逆，不得息’ (retrograde circulation of vital energy after eating and drinking, shortness of breath). However, according to a note in Shuowen: Wang bu說文·亡部, it is a variant form of 無 (wu), meaning without. In fact, it very much resembles the current simplified form of that character -- 无. We therefore render the title of this work as Wuji danfang 無忌單方, signifying that nothing is censored in the prescriptions contained therein. So far as it is possible to ascertain, given the fragmentary state of the MS, the text dealt with various taboo subjects.</p>
+              <p>The first column of the MS reads: ‘Jiushi chu ju ti ru hou九十處具題如後’, indicating that the text originally contained 90 prescriptions, although only eight have survived. These consist mostly of remedies for gynaecological and paediatric disorders. Because much of the text is missing or illegible, the prescriptions are largely unintelligible.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="59" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.6030</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">陵陽禁方</title>
+            <title lang="chi-Latn">Ling Yang jinfang</title>
+            <title lang="eng-Latn">Master Ling Yang’s Secret Remedies</title>
+            <note>
+              <p>The extremities of the scroll are fragmentary, and both title and author are uncertain. It is 28.5 cm. high and 31 cm. long. The words ‘Ling Yang yue 陵陽曰’ (thus spoke Ling Yang) appear at two points in the text. Ling Yang is Yang Ziming 陽子明, originally surnamed Bao 寶, a Daoist of the Han period who was an exponent of the Fu’er 服餌 method of physical cultivation (yang sheng). Ling Yang is an eponym, from the name of the place (Ling Yang) where he led a hermitic life.</p>
+              <p>There is a reference in Wang Yi’s王逸 (c. 150CE) Chuci zhu 楚辭注 (Commentary on Songs of the South) to a lost work called Ling Yangzi mingjing 陵陽子明經 (Master Ling Yang’s Brilliant Canon); and the bibliography of the History of the Sui Dynasty (Suishu, Jing ji zi 隋書·經籍志) likewise refers to Ling Yangzi shuo huangjin mifa 陵陽子說黃金秘法 (Golden Secret Techniques as Related by Master Ling Yang). We have therefore designated this MS as Ling Yang jinfang.</p>
+              <p>The text consists of 19 lines, containing the latter part of a ‘secret prescription’, followed by an incantation for exorcising and conjuring devils and spirits, and a seven-step Daoist ritual step (qi bu zu七步足).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="60" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3093</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">雜方術</title>
+            <title lang="chi-Latn">Za fang shu</title>
+            <title lang="eng-Latn">Miscellaneous arts of prescribing</title>
+            <note>
+              <p>The top and bottom of the scroll are fragmentary. The title and author are unknown. It contains 102 columns of text, written on both sides; on the front is the Buddhist Foshuo guan Mile Pusa shang sheng dou shuai tuo tian jing jiang jing wen 佛說觀彌勒菩薩上生兜率陁天經講經文 (Sutra lecture on the Sutra spoken by the Buddha on seeing the Bodhisattva Maitreya born in the Tusita Heaven); this text in 102 columns is found on the reverse. There are seven miscellaneous prescriptions at the beginning of the fragment; notably a recipe for Jinshi yao 金石藥 (Golden stone remedy), a remedy for jifeng 疾風 (ailing from Wind) and a recipe for dihuang wan地黃丸 (pills containing Rehmannia glutinosa). At the end are three verse texts in the ci 詞 form on ‘settling Wind waves’, concerned with distinguishing the symptoms of three cold-induced conditions (shanghan 傷寒) known as yindu 陰毒, jiashi 夾食 and fengshi 風濕. We have attributed the descriptive title Za fangshu (Miscellaneous arts of prescribing).</p>
+              <p>The most significant contents of the MS are the recipe for Jinshi yao, the various prescriptions for internal disorders, and the symptomatic distinctions between the three shanghan conditions. It represents an important historical source for the study of compounding drugs in ancient China; moreover, all the remedies described here are of relevance to current clinical practice.</p>
+              <p>In this MS, the character飯 (fan), which was prohibited during the Six Dynasties period, is replaced by飰, suggesting that it was written before the Sui and Tang periods.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="61" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.2665</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">佛家醫方第一種</title>
+            <title lang="chi-Latn">Fojia yifang, di 1 zhong</title>
+            <title lang="eng-Latn">Buddhist remedies, I</title>
+            <note>
+              <p>The beginning and end of the scroll are damaged. It has texts on both sides. On the front is a fragment of a Buddhist sutra; on the reverse Buddhist remedies, votive texts etc. As the title and authorship of the medical text are unknown, it has been identified as Buddhist remedies, I. It gives four prescriptions for diseases of the eyes and ears and for back and leg pain. The use in this MS of the new Wu-Zhou forms of the characters 人(ren) and月(yue) enables it to be dated to the reign of the Empress Wu Zetian 武則天.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="62" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.5598</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">佛家醫方第二種</title>
+            <title lang="chi-Latn">Fojia yifang, di 2 zhong</title>
+            <title lang="eng-Latn">Buddhist remedies, II</title>
+            <note>
+              <p>The beginning and end of this scroll are damaged. It contains 38 columns of text, the first 24 columns of which are taken from Buddhist scripture. The remainder, from l. 25 onward, is a prescription for a Buddhist remedy, viz. a complete set of instructions for the preparation of magical pills for fortifying the heart. The precise date of composition and copying are unknown.</p>
+              <p>Wei Yilin 危亦林, a writer of the Yuan period, includes in his book Shiyi de xiao fang 世醫得效方 (Efficacious Prescriptions from a Hereditary Physician) a recipe for Tian Wang buxin dan 天王補心丹 (Heavenly Ruler pills for fortifying the heart) which is substantially identical to the prescription in the MS with regard to its designation, uses and formulation, with certain minor substitutions of ingredients. This demonstrates that the original recipe for Tian Wang bu xin dan was already in existence by the Late Tang or Five Dynasties period.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="63" type="WS">
+        <msIdentifier>
+          <settlement>Paris and London</settlement>
+          <repository>Text A: Bibliothèque nationale de France, Text B: British Library</repository>
+          <collection>Pelliot collection and Stein collection</collection>
+          <idno type="current">P.3230</idno>
+          <idno type="current">Or.8210/S.6107</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">佛家醫方第三種</title>
+            <title lang="chi-Latn">Fojia yifang di 3 zhong</title>
+            <title lang="eng-Latn">Buddhist remedies, III</title>
+            <note>
+              <p>There are two exemplars of this text from Dunhuang, both fragmentary at the beginning and end but clearly similar in content, which we distinguish as Text A (jia ben 甲本) (P. 3230) and Text B (yi ben乙本) (S. 6107).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="64" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.4038</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">道家醫方</title>
+            <title lang="chi-Latn">Daojia yifang</title>
+            <title lang="eng-Latn">Daoist remedies</title>
+            <note>
+              <p>The extremities of the scroll are damaged. Title and compiler’s name are missing. It contains 84 columns of text. After column 70 there is a space; l. 71 consists of the character五wu (five), showing that the fourth volume ended and the fifth began at this point. The whole text contains 12 prescriptions, mainly Daoist prescriptions for cultivating health and prowess (yang sheng 養生), including remedies for white hair, loss of voice and boils on the nose. These are now known as the Daoist remedies (Daojia yifang). Since the characters 世 (shi) and 旦 (dan) are subject to prohibition in this MS, it can be dated after the accession of the Tang emperor Ruizong 睿宗, though the actual date of composition must have been earlier.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="65" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.3417</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">救諸衆生苦難經中的十種死病</title>
+            <title lang="chi-Latn">Jiu zhuzhong sheng kunan jing zhong de shi zhong sibing</title>
+            <title lang="eng-Latn">The ten fatal maladies from the Sutra of Succouring All Living Beings in Adversity</title>
+            <note>
+              <p>Jiu zhu zhong sheng ku nan jing is a Buddhist text exhorting the faithful to rid themselves of evil and follow virtue.</p>
+              <p>It names ten apparently contagious diseases which were prevalent at the time of writing, viz. nüebing 瘧病 (intermittent fever), tianxing天行 (a generic term for epidemic diseases), zubing 卒病 (fatal diseases), zhongbing 腫病 (inflammatory diseases), chanbing産病 (diseases of childbirth) huanfu患腹(suffering in the abdomen), huanyong 患癰 (suffering from boils), fenghuangbing 風黃病 (wind yellow disease, normally associated with jaundice), shuili 水痢 (water diarrhoea), yanbing 眼病 (diseases of the eye).</p>
+              <p>Nineteen other editions of the Jiu zhu zhong sheng (yiqie) kunan jing 救諸衆生（一切）苦難經 (Sutra of succouring all living beings in [every] adversity) were discovered in the manuscript Cave at Dunhuang. Also various versions of the Xin Pusa jing 新菩薩經 (New Bodhisattva sutra) mention thirty, but in all cases these include the ten diseases named here. A latest date for this MS can be set at 803 CE (19th year of the Zhenyuan reign period). For a discussion of this dating, see Fujieda Akira 藤枝晃 in Bokubi 墨美, no 97, 1960.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="66" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.3036</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">勸善經中的七種死病</title>
+            <title lang="chi-Latn">Quan shan jing zhong de qi zhong sibing</title>
+            <title lang="eng-Latn">Seven fatal maladies from the Sutra Urging Kindness</title>
+            <note>
+              <p>Quan shan jing is a Buddhist text advocating kind and virtuous behaviour.</p>
+              <p>It mentions seven potentially fatal diseases which were prevalent at the time, i.e. nüe瘧 (intermittent fever), tianxing天行 (a generic term for epidemic diseases), chili赤痢(‘red’ diarrhoea, probably containing blood) and baili白痢 (‘white’ diarrhoea), chiyan赤眼(red eye, normally associated with conjunctivitis) shuili水痢, nanchan難産(complications of childbirth) and fengbing風病 (wind illnesses). We have therefore transcribed it here. This MS is a copy made by the monk Baoxuan 寶宣 in 938 CE (third year of the Tian Fu 天福reign period of the Later Jin Dynasty) of a MS which claims to be a reproduction of a manuscript dating to 803 CE (nineteenth year of the Zhen Yuan 貞元reign period of the Tang Dynasty).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="67" type="WS">
+        <msIdentifier>
+          <settlement>Paris and London</settlement>
+          <repository>Texts A and D: Bibliothèque nationale de France, Texts B and C: British Library</repository>
+          <collection>Pelliot collection and Stein collection</collection>
+          <idno type="current">P.3213</idno>
+          <idno type="current">Or.8210/S.6331</idno>
+          <idno type="current">Or.8210/S.3281</idno>
+          <idno type="current">P.2794</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">伍子胥變文中的藥名詩</title>
+            <title lang="chi-Latn">Wu Zixu bianwen zhong de yaoming shi</title>
+            <title lang="eng-Latn">Poem containing pharmaceutical terms from the Wu Zixu bianwen</title>
+            <note>
+              <p>Wu Zixu bianwen is a narrative text in the popular bianwen 變文form concerning the exploits of Wu Zixu in the Warring States period. It is held in the British Library. It is mostly taken up with Wu Zixu’s adventures on his flight to Wu. It contains a punning conversation between a husband and wife, which plays on the names of medicines, identified in the MS as the Yaoming shi藥名詩 (Poem of the medicinal terms). Although this is not a medical text, it does provide an illustration of the kinds of medicines that were familiar to people of the Sui and Tang periods. Among the Dunhuang MS there are four fragmentary MSS of the Wu Zixu bianwen, which are identified by Wang Zhongmin王重民in his Dunhuang bianwen ji 敦煌變文集 (Collected bianwen of Dunhuang), Vol. 1, as follows: Text A (jia juan甲卷, P. 3213, containing the opening of the tale only); Text B (yi juan乙卷, S. 6331, containing five incomplete columns of text); Text C (bing juan 丙卷, S. 328, which preserves the main body of the narrative, though the beginning and end portions of this MS are missing); Text D (ding juan丁卷, P. 2794, containing two passages of text). The Yaoming shi is missing from the A and B texts.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="68" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.5910</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">乞藥箋</title>
+            <title lang="chi-Latn">Qi yao jian</title>
+            <title lang="eng-Latn">Request for medicines</title>
+            <note>
+              <p>This MS, in the form of a long scroll, is a list of medicinal substances submitted in a request by a monk to a charitable benefactor. The scroll, which is completely intact, is 30cm. high and 6 cm. wide. It contains five columns of text. The date of composition is uncertain.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="69" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.2215</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">佛說行事鈔中的治病所須</title>
+            <title lang="chi-Latn">Fo shuo xing shi chao zhong de zhi bing suo xu</title>
+            <title lang="eng-Latn">Requisites for curing disorders from Transcript of Topics in Buddhist Theory</title>
+            <note>
+              <p>The beginning of the scroll is defective, but the end is intact. The text is the first volume of Si fen lü shan fan bu que xing shi chao四分律刪繁補缺行事鈔 (Condensed and supplemented transcript of topics in the Vinaya in four sections) . It bears the subheading Liang chu zhong qing wu yi ‘量處重輕物儀’ (Method for the allocation of ‘heavy and light’ objects’) and concludes with the words ‘Shamen sejia Dao xuan shu沙門釋迦道宣述’ (Described by the monk Dao Xuan (596 – 667 CE)) and a note that the MS was written in the third year of the Long Shuo 龍朔reign period, i.e. 663 CE. The three passages concerning the ‘requisites for curing disorders’ (zhi bing suo xu治病所須) are valuable source material for the history of medicine, and are therefore included here.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="70" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.5379</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">佛說痔病經中的病名</title>
+            <title lang="chi-Latn">Foshuo zhi bing jing’ zhong de bingming</title>
+            <title lang="eng-Latn">Medical terminology from Buddhist Sutra Explaining the Treatment of Haemorrhoids</title>
+            <note>
+              <p>The MS contains 23 columns of text and identifies by name at least ten types of haemorrhoids. It also includes two incantations. The abstract here is concerned with medical terms only.</p>
+              <p>NB. Ishinpō醫心方, Vol. 7, Zhi zhuzhi fang, 15, 治諸痔方第十五 (Treatments for various haemorrhoids, 15) cites this text in substantially the same form under the heading Liao zhibing jing 療痔病經(Sutra Explaining the Treatment of Haemorrhoids).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="71" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.4636</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">百一物本中的醫用物品</title>
+            <title lang="chi-Latn">Bai yi wu ben’ zhong de yiyong wupin</title>
+            <title lang="eng-Latn">Substances for medical application from the Book of One Hundred and One Items</title>
+            <note>
+              <p>There is a text on each side of the scroll. Of the text on the front, only the concluding part survives. It is followed by the words: Bi qiu Daohui suo gong yang jing比丘道惠所供（恭）養經and ...bi qiu Xiangzhi shu比丘項知書. On the reverse is Baiyi wu ben (The Book of One Hundred and One Items), a detailed catalogue of various objects required in the monastic life. This text, which is in a good state of preservation, lists among other things medical and pharmaceutical requisites. It is of great value as source material for the history of medicine.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="72" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.1468</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">不知名陰陽書中有關病症與藥名</title>
+            <title lang="chi-Latn">Buzhiming yinyang shu zhong you guan bingzheng yu yaoming</title>
+            <title lang="eng-Latn">Material on diseases and pharmaceutical terms from anonymous Yin and Yang texts</title>
+            <note>
+              <p>The bottom and end of the scroll are damaged. It contains 78 columns of text. It discusses ‘Shi’er shi zhong de bing ri tui kan ji zhi qing-zhong 十二時中得病日推勘即知輕重’ (the diagnosis and prognosis of diseases according to the stage in the twelve-fold division of the day at which the patient became ill) and ‘mou zhi ri bing gui xingming 某支日病鬼姓名’ (the names of the disease-bearing spirits proper to times and seasons). Although this work enters the realms of superstition, the descriptions of pathologies and the names of sympathetic remedies are a valuable source for the history of medicine.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="73" type="WS">
+        <msIdentifier>
+          <settlement>Paris</settlement>
+          <repository>Bibliothèque nationale de France</repository>
+          <collection>Pelliot collection</collection>
+          <idno type="current">P.2539</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">天地陰陽交歡大樂賦中的房中佚文</title>
+            <title lang="chi-Latn">Tiandi yinyang jiaohuan dale fu’ zhong de fangzhong yiwen</title>
+            <title lang="eng-Latn">The Heaven and Earth, Yin and Yang Songs of Great Satisfaction</title>
+            <note>
+              <p>The top of the scroll is intact but the bottom is damaged and end are defective. The first column consists of the title of the text and the name (xing and ming) of the author (See Sumiyo Umekawa p. 0) There follows a preface and a verse and prose text in the fu爲 form, relating mainly to guifang qingqu 閨房情趣 (customs of the women’s quarters) and fang zhong zhi dao 房中之道 (sexual practices).</p>
+              <p>NB. In the Hanzhi 漢志, Fangzhong 房中(the art of the bedchamber) is one of the branches of knowledge included in the category ‘Fangji’ 方技 (recipes and techniques), together with Yijing 醫經 (the medical canon), Jingfang 經方(canonical recipes) and Shenxian 神仙 (supernatural beings. Moreover, the pre-Song medical texts such as the ancient medical works excavated at Mawangdui, the Qianjin yaofang 千金要方(Essential Prescriptions Worth a Thousand Gold Pieces) and Ishinpō 醫心方, deal extensively with sexual health. In view of this, we offer an edited version of the material concerning medicine and sexual cultivation practices contained in this fu.</p>
+              <p>The original author of the fu may be identified as Bai Xingjian, younger brother of the Tang man of letters Bai Juyi白居易. He passed the highest imperial examination (jinshi進士) towards the end of the Zhenyuan 貞元reign period (c. 805 CE) and died during the Bao Li 寶曆 reign period (825-827 CE). His achievements were recorded in the collected biographies of Bai Juyi (Tang shu: Bai Juyi lie zhuan 唐書·白居易列傳). This fu text was not however transmitted.</p>
+              <p>NB. After this fragment was unearthed, the first critical edition of the text was undertaken by the late Qing scholar Ye Dehui 葉德輝, who published it in his Shuangmei jingan congshu 雙梅景暗叢書 (The Collection of Shadows under Double Plum Trees). Ye Dehui was a great authority on Classical Chinese literature and his work on the text remains an essential point of reference. However, he was apparently unable to gain direct access to the MS, which obliged him to work from reproductions. With the aid of photographs, it has now been possible to establish correct readings of several corrupt passages, and we offer an emended version here.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="74" type="WS">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>British Library</repository>
+          <collection>Stein collection</collection>
+          <idno type="current">Or.8210/S.2072</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="chi-Hant">琱 玉集·醫卜</title>
+            <title lang="chi-Latn">Diao yu ji: yi bu</title>
+            <title lang="eng-Latn">Jade Carving Collection: Physicians and Diviners</title>
+            <note>
+              <p>Portions of the scroll are missing.</p>
+              <p>This is a compilation of biographical material on historical figures of the pre-Han period, arranged by category. According to Xiang Da 向達, it is probably a version of the Soushen ji 搜神記 (Records of an Inquest into the Spirit-Realm). But since below the item on Zuo Ci 左慈 in the ‘Magical Arts’ section it cites the source ‘Gan Bao, of the Jin dynasty, Soushen ji’, it is clearly not itself the Soushen ji. Here we term it Anonymous Encyclopaedia. The section entitled Yibu 醫卜 contains the biographies of seven personages including Dong Quan 董拳 and Guo Yu 郭玉.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

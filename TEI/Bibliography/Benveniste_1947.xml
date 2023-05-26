@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Benveniste_1947">
+    <author>Benveniste, Émile</author>
+    <title level="a" lang="fran">Fragments des Actes de Saint Georges en version sogdienne</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">Journal Asiatique</title>
+      <biblScope type="issue">234</biblScope>
+      <date>1943-45</date>
+      <biblScope type="pp">91-116</biblScope>
+    </imprint>
+    <keywords>manuscripts</keywords>
+    <keywords>Sogdian</keywords>
+    <keywords>Syriac</keywords>
+    <keywords>n</keywords>
+    <genBibl>Journal Asiatique</genBibl>
+  </bibl>
+</listBibl>

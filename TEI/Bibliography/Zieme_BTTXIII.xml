@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Zieme_BTTXIII">
+    <author>Zieme, Peter</author>
+    <title level="a" lang="ger">Buddhistische Stabreimdichtungen der Uiguren</title>
+    <title level="j" lang="ger" type="shortRef">Berliner Turfantexte V</title>
+    <imprint>
+      <pubPlace>Berlin</pubPlace>
+      <publisher>Akademie-Verlag</publisher>
+      <date>1985</date>
+    </imprint>
+    <keywords>Buddhistisch</keywords>
+    <keywords>Stabreimdichtungen</keywords>
+    <keywords>Uiguren</keywords>
+    <genBibl>Berliner Turfantexte</genBibl>
+  </bibl>
+</listBibl>

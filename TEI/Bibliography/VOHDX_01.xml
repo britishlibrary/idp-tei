@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="VOHDX_01">
+    <author id="EW">Waldschmidt, Ernst</author>
+    <respStmt n="1" type="Mitarbeit" id="WC">Clawiter, Walter</respStmt>
+    <respStmt n="2" type="Mitarbeit" id="LH">Holzmann, Lore</respStmt>
+    <title level="m" lang="ger">Sanskrithandschriften aus den Turfanfunden. Teil 1. Die Katalognummern 1-801</title>
+    <imprint>
+      <title level="s">Verzeichnis der orientalischen Handschriften in Deutschland</title>
+      <biblScope type="vol">Band X, 1</biblScope>
+      <pubPlace>Wiesbaden</pubPlace>
+      <publisher>Franz Steiner Verlag</publisher>
+      <date>1965</date>
+    </imprint>
+    <note/>
+    <keywords>manuscript</keywords>
+    <keywords>sanskrit</keywords>
+    <keywords>turfan</keywords>
+    <keywords>SHT</keywords>
+  </bibl>
+</listBibl>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Thierry_Morrisson_1994">
+  <author n="1">Thierry, F.</author>
+  <author n="2">Morrisson, C.</author>
+  <title level="a" lang="fre">Sur les monnaies byzantines trouvées en Chine</title>
+  <imprint>
+    <title level="j" lang="eng" type="shortRef">Reve Numismatique</title>
+    <biblScope type="issue">XXXVI</biblScope>
+    <biblScope type="pp">109-145</biblScope>
+    <date>1994</date>
+  </imprint>
+  <note/>
+  <keywords>money</keywords>
+  <keywords>Byzantine</keywords>
+</bibl>

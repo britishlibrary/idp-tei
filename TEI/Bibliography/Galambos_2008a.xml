@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="galambos_2008a">
+    <author>Galambos, Imre</author>
+    <title level="a" lang="eng">The third Otani expedition at Dunhuang: Acquisition of the Japanese collection of Dunhuang manuscripts</title>
+    <imprint>
+      <title level="j" lang="eng">Journal of Inner Asian Art and Archaeology</title>
+      <biblScope type="issue">3</biblScope>
+      <biblScope type="pp">29-35</biblScope>
+      <date>2008</date>
+    </imprint>
+    <keywords>Dunhuang</keywords>
+    <keywords>manuscripts</keywords>
+    <keywords>Otani expeditions</keywords>
+    <keywords>Japanese</keywords>
+    <genBibl>galambos</genBibl>
+  </bibl>
+</listBibl>

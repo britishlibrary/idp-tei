@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Definition of Mahayoga (IOL Tib J 436)</title>
+        <author>Sam van Schaik</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Tantric Studies 1</publisher>
+        <pubPlace> Hamburg </pubPlace>
+        <date> 2008 </date>
+      </publicationStmt>
+      <editionStmt>
+        <edition> First electronic edition </edition>
+        <date> 2012 </date>
+        <respStmt> Created by Sam van Schaik </respStmt>
+      </editionStmt>
+      <sourceDesc>
+        <p>Published in Sam van Schaik,"A Definition of Mahayoga: Sources from the Dunhuang
+                    Manuscripts", <title>Tantric Studies</title> 1: 45-88.</p>
+        <bibl>
+          <ref> vanSchaik_2008</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc> Translation </projectDesc>
+      <editorialDecl/>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>"A Summary of the View of Mahāyoga According to Scripture" is substantially the
+                longest and most detailed definition of Mahāyoga provided in any of the Dunhuang
+                manuscripts. Thus it is one of the most important texts for our understanding of the
+                tantric system of Mahāyoga, as it was practised in the 9th and 10th centuries. It is
+                found in a single Tibetan manuscript, IOL Tib J 436, which is poorly written and
+                physically damaged, and the text is probably missing its opening lines. The Summary
+                treats Mahāyoga under four headings: (i) view, (ii) samaya, (iii) union and
+                liberation, and (iv) meditation.</p>
+      <p>This text comes from a time when Mahāyoga was considered the pinnacle of tantric
+                ritual practice, while it was simulataneously in the process of being displaced from
+                that position by the developing rubrics of Anuyoga and Atiyoga. At this point the
+                latter (Anuyoga and Atiyoga) seem to have been primarily view or theory-based
+                approaches, with little or no ritual presence in the manuscripts. Toward the end of
+                this period we see a movement towards the stratification of the tantric categories
+                of Mahāyoga, Anuyoga and Atiyoga. That trend is best represented in doxographical
+                texts and – for Mahāyoga – the central text of this survey, The Summary of the View
+                of Mahāyoga According to Scripture.</p>
+      <p>Based on the Summary we may offer the following brief definition of Mahāyoga in 10th
+                century Tibet:</p>
+      <p>1. The theoretical content or view is defined as the ‘single mode’ (tshul gcig) in
+                which the buddhas of the five families are embodied in a single deity, usually
+                Vajrasattva.</p>
+      <p>2. Meditation is defined by the gradual visualization practice of of the three
+                concentrations (ting nge 'dzin). These are the concentrations on (i) suchness, (ii)
+                total illumination, and (iii) the cause.</p>
+      <p> 3. Ritual practice is subsumed by the two categories of union and liberation (sbyor
+                sgrol), that is, sexual practice with a consort and ritual murder. The Summary
+                leaves some room for interpreting these practices metaphorically.</p>
+      <p> 4. The samaya vows (dam tshig) that bind a practitioner who has received a Mahāyoga
+                empowerment comprise three root and twenty-five branch vows.</p>
+      <p> 5. The result of Mahāyoga practice is defined in a succession of four levels of
+                accomplishment known as the four kinds of vidyādhara (rigs 'dzin).</p>
+      <p> 6. The scriptural group associated with Mahāyoga is the ‘eighteen tantras’, although
+                the content of this group is uncertain.</p>
+      <p>In the transcription, that follows the translation, I have attempted to provide a
+                clear reading of the manuscript without over-correcting the archaic orthography. In
+                most cases the divergences from classical orthography (eg. <term>rin cen</term>,
+                    <term>dam tsig</term>) are self-explanatory. I have made a very few insertions
+                (marked by square brackets) where these seemed necessary to make the reading more
+                clear.</p>
+      <p>Conventions:</p>
+      <p>- - deleted in original manuscript</p>
+      <p>+ + inserted in original manuscript</p>
+      <p>... lost due to manuscript damage</p>
+      <p>{ } unclear reading</p>
+      <p>[ ] inserted by the present editor</p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 436</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title>A Summary of the View of Mahāyoga According to Scripture</title>
+            <q lang="eng"><p><lb n="1r"/>Now, the view of Mahāyoga. What is the view of the
+                                five families as a single mode? When the great elements are subsumed
+                                into one, they exist in utter perfection. This is the female deity.
+                                The forms that come into being from them are the male deity: he who
+                                is called Totally Illuminating (Vairocana). As he cannot be carried
+                                off by external forces, he is known as The Immoveable (Akṣobya). As
+                                he fulfills all wishes, he is known as The Jewel-Born
+                                (Ratnasambhava). As he goes to the realms of light he is known as
+                                Limitless Light (Amitābha). <lb n="1v"/> As ... he is known as
+                                Meaningful Accomplishment (Amoghasiddhi). The five families are, in
+                                this way, a single mode.</p><p> What are the relevant samaya? One should gather the samaya in order
+                                to embrace that which is concordant, in order to restrain that which
+                                is discordant, and in order to obtain and accomplish. The 28 samaya
+                                are the transmitted precepts. According to the esoteric instructions
+                                these are grouped into three. This one should know. What are they?
+                                They are: </p><p> (i) The samaya of view.</p><p> (ii) The samaya of practice.</p><p>(iii) The samaya of accomplishment.</p><p> Now to distinguish these. The samaya of mind (not disseminating the
+                                secret instruction to others) and the five aspects to be known, are
+                                the samaya of the view. The samaya of the body (not developing
+                                ill-will or scorn towards the vajra master and brothers and sisters)
+                                and the five samaya to be practised, and the five samaya not to be
+                                renounced, are the samaya of practice. The samaya of speech (not
+                                ceasing in the mantras and mudrās) and the five samaya to be
+                                accomplished, are the samaya of accomplishment. <lb n="2r"/> The
+                                unsurpassable fruit of these three is the nature of
+                                accomplishment.</p><p>The union of Mahāyoga is called "the union of the vajra and the
+                                lotus." It is also threefold: </p><p>(i) The union in the single ornament.</p><p>(ii) The union of the five families in a single mode.</p><p>(iii) Indiscriminate union.</p><p>One should know that each of these has four parts:</p><p>(i) Union.</p><p>(ii) Subsequent union.</p><p>(iii) Total union.</p><p>(iv) Universal union. </p><p> Of these, meditating on oneself as the deity is union. Subsequent
+                                union is developing the wisdom being at one's heart. Total union is
+                                the unshakeable great bliss of the descent of the bodhicitta of the
+                                union of vajra and lotus. Universal union is projection and
+                                absorption, conferring empowerment upon limitless sentient beings,
+                                each in their particular deity family. <lb n="2v"/></p><p>When [practising] union in Mahāyoga, the qualities of greatness are
+                                said to be: </p><p>(i) Subduing the four Māras</p>. <p>(ii) Playing with the five space
+                                mistresses. </p><p>(iii) Possessing the four secret consorts.</p><p>The four Māras are:</p><p>(i) Māra the aggregates.</p><p>(ii) Māra the afflications.</p><p>(iii) Māra the god.</p><p>(iv) Māra the lord of death.</p><p>Of these, the phase of meditation on the mahāmudrā of the deity's
+                                body is called conquering Māra the aggregates. The phase of the
+                                unshakeable great bliss of bodhicitta is called conquering Māra the
+                                afflictions because the mind of the three times does not arise. The
+                                phase of acting for the benefit of sentient beings is called
+                                conquering Māra the god. The phase of experiencing the savour of
+                                bodhicitta, which transcends birth and death, is called conquering
+                                Māra the lord of death. </p><p><lb n="3r"/> The five space mistresses are:</p><p>(i) The vajra space mistress.</p><p>(ii) The lotus space mistress.</p><p>(iii) The jewel space mistress.</p><p>(iv) The karma space mistress.</p><p>(v) The airborne space mistress.</p><p> Of these, the male is called the vajra space mistress and the female
+                                is called the lotus space mistress. The phase of unshakeable great
+                                bliss which is the descent of bodhicitta endowed with the vajra and
+                                the lotus is called the jewel space mistress. The phase of activity
+                                for the benefit of sentient beings [by] projecting and absorbing the
+                                bodhicitta is called the karma space mistress. And thus making all
+                                bodhicitta of one taste without it bursting out is called the
+                                airborne space mistress. </p><p>The four secret consorts are:</p><p>(i) The Lady of Mudrā.</p><p>(ii) The Lady of Intoxication.</p> (<p>iii) The Lady of Eating.</p>
+                            <p>(iv) The Lady who Prolongs Life.</p>
+                            <p>Of these, the body of the consort is known as the Lady of Mudrā. The
+                                unshakeable great bliss of bodhicitta is known as the Lady of
+                                Intoxication <lb n="3v"/>. Experiencing the savour as
+                                bodhicitta, or alternatively accepting and eating, is known as the
+                                Lady of Eating. The phase of obtaining the praiseworthy qualities of
+                                bodhicitta is known as the Lady who Prolongs Life because it
+                                transcends birth and death.</p>
+                            <p>The liberation of Mahāyoga is said to comprise: </p>
+                            <p>(i) Liberation of oneself.</p>
+                            <p>(ii) Liberation of others.</p>
+                            <p>Of these, liberation of oneself comprises:</p>
+                            <p> (i) Approaching the deity.</p>
+                            <p>(ii) Clarifying the tantras.</p>
+                            <p> Of these, in approaching the deity the measure of accomplishment is
+                                the ability to levitate up to four finger-widths. And clarifying the
+                                tantras means becoming learned in the eighteen tantras, or
+                                alternatively it indicates the sages who possess the transmitted
+                                precepts and esoteric instructions. The liberation of others means
+                                that having assembled many such great lords, those in the category
+                                of the ten fields are placed into the maṇḍala of the heroes. Within
+                                the circle they are liberated to bring them into accord with
+                                others.</p>
+                            <p> Meditation, via the gradual development of the three aspects of
+                                Mahāyoga, is as follows: <lb n="4r"/></p>
+                            <p>(i) One begins with meditation on the dharmatā.</p>
+                            <p>(ii) One then meditates on the unassailable total illumination.</p>
+                            <p> (iii) One then meditates on the causal concentration.</p>
+                            <p>Here ends <title>A Summary of the View of Mahāyoga According to
+                                Scripture</title>.</p>
+                        </q>
+            <p/>
+            <q lang="tib"><lb n="1r"/> bsgom pa/ 'di//de la ma ha yo ga'i lta/rIg-s- lnga
+                            tshul gcIg tu lta -b-gang zhe na//'byung ba ched po la gcig gi nang na
+                            //kun rdzogs par yod pa nI//yum yin la/de las gzugs su red pa nI/yab ste
+                            rnam par snang mdzad//ces bya//de nyid gzhan gyis myI 'phrogs pa ni myI
+                            bskyod pa zhes bya//de thams cad re ba yid bzhin du skong ba ni//rin
+                            -ce- cen 'byung ldan zhes [b]ya {snang zhing song bas ni snang} [ba
+                            mtha' yas] zhes bya// ... thams cad ... nI {gyis}// ... <lb n="1v"/>
+                            ... nI// {don yod grub pa zhes} bya //rig[s] lnga de ltar tshul gcig
+                            go//de la {rtse}'i phyo[gs] dam tsig ce na//'dra bar dkra' ba'i phyIr
+                            dang/ myi 'dra bar sdom ba'i phyIr dang//thob -par- cing grub pa'I phyir
+                            dam tsig tseg bya/'o//de la dam tsig nyi shu rtsa brgyad nI//lung yin la
+                            man ngag gIs ni gsu du 'dus pa shes gpar bya ste//dpe yang gang zhe
+                            na//lta ba'i dam tsig dang/spyod pa'i dam tshig dang//bsgrub pa'i dam
+                            tsig go//de la dbyen thugs kyi dam tsig gsang ba'i man ngag//gzhan la
+                            myi spel ba dang//shes par bya ba'I dam tsig la ni/lta ba'i dam tsig go
+                            sku'i dam tsig -ni- rdo rje slobs dpon dang/mched lcam dral la ngan sems
+                            dang spyad sems myi bskyed pa dang//spyad par bya {du} dang/myi spang ba
+                            lnga ste/spyad pa'i dam tsig go//gsung gi dam tsig sngags phyag rgya
+                            rgyun myi gcad pa dang/ grub par bya ba <lb n="2r"/> dam tsig lnga
+                            nI bsgrub pa'i dam tsig go//'di gsum ya char ma gyur pa'i 'bras bu nI
+                            grub pa'I rang bzhin no// de la maha yo ga'i/sbyor ba nI//rdo rje dang
+                            pad mor sbyor ba zhes bya//de la yang gsum ste//rgyan cig par sbyor ba
+                            dang/rIgs lnga tshul gcig par sbyor ba dang//phyal bar sbyor ba'o//de
+                            yang re re la bzhi bzhir shes par ba ste//sbyor ba dang/rjes su sbyor ba
+                            dang/rab tu sbyor ba dang/kun tu sbyor ba'o//de la bdag lhar sgom pa
+                            ni/sbyor ba'o//rjes su sbyor ba nI//ye shes sems pa thugs kar bskyed
+                            pa'o//rab tu sbyor ba ni rdo rje dang pad mor sbyor ba'i byang chub
+                            sems/babs pa'i bde ba chen po myi g.yo ba'o//kun tu sbyor ba nI 'phro
+                            'dus/sems can -gi don- rgya mtsho rigs su [r]es par dbang bskur
+                            ba'o//[de] la maha yo ga'i sbyor ba'i <lb n="2v"/> [d]u[s]//ch[e]
+                            ba'i yon tan n[i] bdud bzhi bcom ba dang//dbyings phyug ma lnga la rol
+                            pa dang/gsang ba'i yum bzhi dang ldan no zhes byung ste//de la bdud bzhI
+                            ni/pung po'i bdud dang/nyon mongs pa'i bdud dang/shi bdag gi bdugd dang/
+                            lha'I bdud do//de la lha'I +sku+ phyag rgya chen por sgom pa'I dus
+                            na//pung po'i bdud bcom zhes bya//byang chub kyi sems bde ba ched po myi
+                            g.yo ba'i dus na//dus suṃ gi sems myi 'byng bas//nyon mongs pa'i bdud
+                            bcom zhes bya//byang chub kyi sems kyi 'phro 'dus/sems can gi don byas
+                            pa'i dus na//lha'i bdud bcom zhes bya//byang chub kyi sems kyi ro tsor
+                            pa'i dus na//skye shi las 'das pa'i shI bdag gi bdud bcom zhes bya//de
+                            la dbyings phyug <lb n="3r"/> ma lnga la//rdo rje dang pad mo'i
+                            dbyIngs phyug ma dang//rin chen dbyIngs phyug ma dang/las kyi dbyIngs
+                            phyug ma dang/mkha' dbyings phyug ma zhes bya'o//de la yab ni rdo rje
+                            dbyings phyug ma zhes bya//yuṃ ni pad mo dbyings phyug ma zhes bya/ rdo
+                            rje dang pad mor ldan pa'i byang chub kyi sems babs pa'i bde ba ched po
+                            myi g.yo ba'i dus na//rin cen dbyings phyug ma zhes bya'o//byang chub
+                            kyi sems kyi 'phro 'dus sems can gyi don byas pa'i dus na//las kyi
+                            dbyings phyug ma zhes bya//de lta bas na//byang chub kyi sems kun ro
+                            gcig par byas pa ni/ma brdos pa yin bas mkha' la dbyings phyug ma zhe
+                            bya/ de la gsang ba'i yuṃ bzhi ni/phyag rgya mo dag rmongs byed mo
+                            dang/za ba mo dang/rmongs byed tshe 'phel mo zhes bya//de la yuṃ kyi
+                            {sku} nI phyag rgya ma zhes bya// byang chub kyi sems bde ba ched po myi
+                            g.yo ba nI [rm]o[ng]s [byed mo//byang] chub kyi se[ms] <lb n="3v"/>
+                            su ro tshor ba 'am/yang na blangs te za ba ni/za ba mo zhes bya ba/byang
+                            chub kyi sems ky[i] y[o]n tan bsngags po thob pa'[i] dus na//skye shi
+                            las 'das pas tshe 'phel ma zhes bya//de la maha yo ga'i sgom pa ni//bdag
+                            bsgral ba dang/ gzhan bsgral ba -'o-//zhes bya'o//de la bdag bsgral ba
+                            ni/lha nye ba dang/rgyud gsal ba 'o/de la lha nye ba ni grub [4] pa'i
+                            tshad de//sor bzhi yan cad nam ka la 'pag nus pa dang//rgyud gsal pa ni
+                            rgyud bco brgyad la mkhas par gyur pa 'am//yang na lung dang man ngag
+                            dang ldan pa'i skyes bu rnams la bya//gzhan pa sgral ba ni//de lta bu'i
+                            dbang phyug ched po du -me- zhig 'tshogs nas//zhing bcu rim pa dang ldan
+                            pa'i rnams dpa' bo'i dkyil 'khor du sbyar ba'o//bskor na mthun 'jug
+                            'tsha-l-m pa'i sgrol ba'o//mā ha yo ga'i rnam sum rims kyis <lb n="4r"/> bskyed nas/bsgoms/pa ni//dang po chos nyid sgom pa ste gcig//de
+                            nas kun tu snang ba'i myI brdos par bsgom ba dang gnyis/de nas rgyu'i ti
+                            nge 'dzin sgom pa dang gsuṃ mo//maha yo ga'i lta ba lung du bsdus pa
+                            rdzogs so// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

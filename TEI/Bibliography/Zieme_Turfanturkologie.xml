@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Zieme_Turfanturkologie">
+    <author>Zieme, Peter</author>
+    <title level="a" lang="engl">Annemarie von Gabain und die Turfan-Turkologie</title>
+    <imprint>
+      <title level="j" lang="engl" type="shortRef">Berlin-Brandenburgische Akademie der Wissenschaften, Berichte und Abhandlungen 9</title>
+      <biblScope type="issue">2002</biblScope>
+      <biblScope type="pp">212</biblScope>
+    </imprint>
+    <keywords>Gabain</keywords>
+    <keywords>Turfan</keywords>
+    <keywords>Turkologie</keywords>
+  </bibl>
+</listBibl>

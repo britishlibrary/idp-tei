@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Gibbs_Seddon_1998">
+    <author>Gibbs, Peter J.</author>
+    <author>Seddon, Kenneth R.</author>
+    <title level="m" lang="eng">Berberine and Huangbo: Ancient Colorants and Dyes</title>
+    <imprint>
+      <title level="s">The British Library Studies in Conservation Science</title>
+      <biblScope type="vol">2</biblScope>
+      <pubPlace>London</pubPlace>
+      <publisher>The British Library</publisher>
+      <date>1998</date>
+    </imprint>
+    <note/>
+    <keywords>conservation/science/dyes</keywords>
+    <genBibl>collections</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Muller_1894">
+    <author>Müller, Max F.</author>
+    <author>Cowell, Edward B.</author>
+    <author>Takakusu, Junjirō</author>
+    <author>Aśvagoṣa</author>
+    <author/>
+    <title level="m" lang="eng">Buddhist Mahāyāna texts</title>
+    <imprint>
+      <title level="s" lang="eng">Sacred books of the East</title>
+      <biblScope type="vol">49</biblScope>
+      <publisher>Motilal Banarsidass</publisher>
+      <pubPlace>Delhi</pubPlace>
+      <date>1894</date>
+    </imprint>
+    <note/>
+    <keywords/>
+  </bibl>
+</listBibl>

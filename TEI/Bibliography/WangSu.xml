@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="WangSu">
+    <author lang="chi" n="1">&#x738B;&#x7D20;</author>
+    <author lang="chi" n="2">&#x674E;&#x65B9;</author>
+    <title level="m" lang="chi">&#x9B4F;&#x664B;&#x5357;&#x5317;&#x671D;&#x6566;&#x714C;&#x6587;&#x732E;&#x7F16;&#x5E74;</title>
+    <imprint>
+      <pubPlace>&#x53F0;&#x5317;</pubPlace>
+      <publisher>&#x65B0;&#x6587;&#x8C50;&#x51FA;&#x7248;&#x516C;&#x53F8;</publisher>
+      <date>1997</date>
+    </imprint>
+  </bibl>
+</listBibl>

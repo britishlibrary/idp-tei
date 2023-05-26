@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Sundermann_2002a">
+    <author>Sundermann, Werner</author>
+    <title level="a" lang="engl">'The Book of the Head' and 'The Book of the Limbs'. A Sogdian Word List</title>
+    <imprint>
+      <title level="j" lang="fren" type="shortRef">Iran. Questions et Connaissances. Vol I, La Période Ancienne. Textes reunis par Philipp Huyse.</title>
+      <biblScope type="issue">Paris (2002)</biblScope>
+      <biblScope type="pp">135-161</biblScope>
+    </imprint>
+    <keywords>Sogdian</keywords>
+    <keywords>Word</keywords>
+    <keywords>List</keywords>
+    <keywords>Iran</keywords>
+    <keywords>texts</keywords>
+  </bibl>
+</listBibl>

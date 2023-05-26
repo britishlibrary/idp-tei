@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Alttürkische Handschriften der Berliner Turfansammlung. U 6000-6999.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>print edition</edition>
+      </editionStmt>
+      <sourceDesc>
+        <p>electronic</p>
+        <p>Input and marked up by Susann Rabuske. Imported to 4D on 10/24/13 by Susann Rabuske.</p>
+        <bibl>
+          <ref>U_6000-6999</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Beschreibung der alttürkischen Manuskripte aus der Berliner Turfansammlung</p>
+    </head>
+    <body>
+      <msDescription n="6090">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">U 6090</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="syr-Latn">Noch nicht identifiziert.</title>
+            <note>
+              <p/>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_04">E48</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

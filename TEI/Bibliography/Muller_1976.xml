@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Muller_1976">
+    <author>Muller, F.M</author>
+    <title level="m" lang="ger">Buddhist texts from Japan</title>
+    <imprint>
+      <pubPlace>New York</pubPlace>
+      <publisher/>
+      <date>1976</date>
+    </imprint>
+    <keywords>Japan</keywords>
+    <keywords>Buddhism</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Hedin_1903">
+    <author>Hedin, Sven Anders</author>
+    <translator>Bealby, J. T.</translator>
+    <title level="m" lang="eng">Central Asia and Tibet Towards the Holy city of Lassa</title>
+    <title level="m" lang="swe">Asien: Tusen mil p&#xE5; ok&#xE4;nda v&#xE4;gar</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>Hurst and Blackett</publisher>
+      <date>1903</date>
+    </imprint>
+    <note/>
+    <keywords>Lhasa</keywords>
+    <genBibl>genovese</genBibl>
+    <genBibl>collections_swe</genBibl>
+  </bibl>
+</listBibl>

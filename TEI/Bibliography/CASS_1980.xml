@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="CASS_1980">
+    <author>Chinese Academy of Social Sciences, Institute of Archaeology</author>
+    <author>Zhongguo shehui kexueyuan kaogu yanjiusuo 中國社會科學院考古研究所編</author>
+    <title level="m" lang="chi">Zhongguo Gudai Tianwu Wenwu Tuji 中國古代天文文物圖集, (Album of Relics of Ancient Chinese Astronomy)</title>
+    <imprint>
+      <pubPlace>Beijing</pubPlace>
+      <publisher>Antiquity Pub. House</publisher>
+      <date>1980</date>
+    </imprint>
+    <note>compiled by Archaeological Institute, the Academy of Social Sciences of China.</note>
+    <keywords/>
+    <genBibl>astronomy</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<bibl id="Beer_1999">
+  <author>Beer, Robert</author>
+  <title level="m" lang="eng">The Encyclopedia of Tibetan Symbols and Motifs</title>
+  <imprint>
+    <pubPlace>London</pubPlace>
+    <publisher>Serindia</publisher>
+    <date>1999</date>
+    <idno type="ISBN"/>
+  </imprint>
+  <note/>
+  <keywords>Tibet</keywords>
+  <keywords/>
+  <genBibl>tibet</genBibl>
+</bibl>

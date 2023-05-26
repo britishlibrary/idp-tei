@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<bibl id="Ebert_2000">
+  <author>Ebert. Jorinde</author>
+  <title level="a" lang="eng">Ein Vimalak&#x12B;rti-Bildfragment aus Turfan</title>
+  <imprint>
+    <title level="m" lang="eng" type="shortRef">Zeime_2000</title>
+    <date>2000</date>
+    <biblScope type="pp">197-202</biblScope>
+  </imprint>
+  <keywords>Turfan</keywords>
+  <keywords/>
+  <genBibl/>
+</bibl>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="VOHDX_03">
+    <author id="EW">Waldschmidt, Ernst</author>
+    <respStmt n="1" type="Mitarbeit" id="WC">Clawiter, Walter</respStmt>
+    <respStmt n="2" type="Mitarbeit" id="LH">Sander-Holzmann, Lore</respStmt>
+    <title level="m" lang="ger">Sanskrithandschriften aus den Turfanfunden. Teil 3. Die Katalognummern  802-1014</title>
+    <imprint>
+      <title level="s">Verzeichnis der orientalischen Handschriften in Deutschland</title>
+      <biblScope type="vol">Band X, 3</biblScope>
+      <pubPlace>Wiesbaden</pubPlace>
+      <publisher>Franz Steiner Verlag</publisher>
+      <date>1971</date>
+    </imprint>
+    <note/>
+    <keywords>manuscript</keywords>
+    <keywords>sanskrit</keywords>
+    <keywords>turfan</keywords>
+    <keywords>SHT</keywords>
+  </bibl>
+</listBibl>

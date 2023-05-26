@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Zhang_Rong_1984">
+  <author n="1">Zhang, Guang-da</author>
+  <author n="2">Rong, Xinjiang</author>
+  <title level="a" lang="fre">Les noms du royaume de Khotan</title>
+  <imprint>
+    <title level="m" lang="fre" type="shortRef">Soymie_1984</title>
+    <biblScope type="pp">23-46</biblScope>
+  </imprint>
+  <keywords>Khotan</keywords>
+  <keywords>Dunhuang</keywords>
+</bibl>

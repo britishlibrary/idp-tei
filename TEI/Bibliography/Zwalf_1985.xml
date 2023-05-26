@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Zwalf_1985">
+    <author>Zwalf,W</author>
+    <title level="m" lang="eng">Buddhism, Art and Faith</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>British Museum</publisher>
+      <date>1985</date>
+    </imprint>
+    <keywords>China</keywords>
+    <keywords>Buddhism</keywords>
+    <keywords>Art</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

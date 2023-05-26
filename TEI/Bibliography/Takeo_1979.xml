@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Takeo_1979">
+    <editor>Takeo Co.</editor>
+    <title level="m" lang="eng">Handmade Papers of the World: a publication commemorating
+            the 80th anniversary of the foundation of Takeo Co., Ltd.</title>
+    <imprint>
+      <publisher>Takeo Co.</publisher>
+      <pubPlace>Tokyo</pubPlace>
+      <date>1979</date>
+    </imprint>
+    <keywords>paper</keywords>
+    <genBibl>bookbinding</genBibl>
+  </bibl>
+</listBibl>

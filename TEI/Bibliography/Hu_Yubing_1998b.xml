@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <listBibl>
+    <bibl id="Hu_Yubing_1998">
+      <author lang="chi-Latn">Hu Yubing</author>
+      <author lang="chi-Hant">胡玉冰</author>
+      <title level="m" lang="chi-Latn">Xixia zhilüe jiaozheng</title>
+      <title level="m" lang="chi-Hant">西夏志略校証</title>
+      <title level="m" lang="eng"/>
+      <imprint>
+        <pubPlace>Lanzhou</pubPlace>
+        <publisher>Gansu wenhua chubanshe</publisher>
+        <date>1998</date>
+      </imprint>
+      <keywords>Tangut</keywords>
+      <keywords>History</keywords>
+      <genBibl>tangut</genBibl>
+    </bibl>
+  </listBibl>
+</TEI.2>

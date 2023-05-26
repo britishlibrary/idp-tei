@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Shepherd_1980">
+  <author>Shepherd, D.G.</author>
+  <title level="a" lang="eng">Zandanîjî revisited</title>
+  <imprint>
+    <title level="m" lang="eng">Documenta Textilia: Festschrift für S. Müller-Christensen</title>
+    <biblScope type="pp">105-122</biblScope>
+    <pubPlace>Munich</pubPlace>
+    <publisher>Bayerisches Nationalmuseum</publisher>
+    <date>1980</date>
+  </imprint>
+  <note/>
+</bibl>

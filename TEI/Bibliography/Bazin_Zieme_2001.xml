@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Bazin_Zieme_2001">
+  <editor n="1">Bazin, Louis</editor>
+  <editor n="2">Zieme, Peter</editor>
+  <title level="m" lang="fre">De Dunhuang a Istanbul. Hommage à James Russell Hamilton</title>
+  <imprint>
+    <pubPlace>Turnhout</pubPlace>
+    <publisher>Brepols</publisher>
+    <date>2001</date>
+    <idno type="ISBN">2503511872 9782503511870</idno>
+  </imprint>
+  <keywords>dunhuang</keywords>
+</bibl>

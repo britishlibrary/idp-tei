@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="vanSchaik_Dalton_2004">
+    <author>van Schaik, Sam</author>
+    <author>Dalton, Jacob</author>
+    <title level="a" lang="eng">Where Chan and Tantra Meet: Buddhist Syncretism in Dunhuang</title>
+    <imprint>
+      <title level="m" lang="eng">Whitfield_2004</title>
+      <date>2004</date>
+      <biblScope type="pp">63-71</biblScope>
+    </imprint>
+    <keywords>Tibet</keywords>
+    <keywords>History</keywords>
+    <genBibl>tantric</genBibl>
+    <genBibl>vanschaik</genBibl>
+    <note/>
+  </bibl>
+</listBibl>

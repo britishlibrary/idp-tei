@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Whitfield_2005">
+    <author>Whitfield, Susan</author>
+    <title level="a" lang="eng">The Dunhuang Manuscripts</title>
+    <imprint>
+      <title level="m" lang="eng" type="shortRef">Lo_Cullen_2005</title>
+    </imprint>
+    <genBibl>whitfield_susan</genBibl>
+    <note>Introduction</note>
+  </bibl>
+</listBibl>

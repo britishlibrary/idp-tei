@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Soymie_1981">
+    <editor>Soymi&#xE9;, Michel</editor>
+    <title level="m" lang="fre">Nouvelles contributions aux etudes sur Touen-Houang</title>
+    <imprint>
+      <title type="s" lang="fre">Centre de recherches d'histoires et de philologie, II, Hautes etudes orientales</title>
+      <biblScope type="issue">17</biblScope>
+      <pubPlace>Geneva</pubPlace>
+      <publisher>Librairie Droz</publisher>
+      <date>1981</date>
+    </imprint>
+  </bibl>
+</listBibl>

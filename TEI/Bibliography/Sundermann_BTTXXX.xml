@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Sundermann_BTTXXX">
+    <author>Sundermann, Werner</author>
+    <title level="a" lang="ger">Die Rede der Lebendigen Seele. Ein manichäischer Hymnenzyklus in mittelpersischer und soghdischer Sprache.</title>
+    <title level="j" lang="ger" type="shortRef">Berliner Turfantexte XXX</title>
+    <imprint>
+      <pubPlace>Turnhout</pubPlace>
+      <publisher>Brepols</publisher>
+      <date>2012</date>
+    </imprint>
+    <keywords>mittelpersisch</keywords>
+    <keywords>soghdisch</keywords>
+    <keywords>Manichäismus</keywords>
+    <keywords>Hymnen</keywords>
+    <genBibl>Berliner Turfantexte</genBibl>
+  </bibl>
+</listBibl>

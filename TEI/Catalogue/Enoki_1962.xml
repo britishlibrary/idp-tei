@@ -1,0 +1,3358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chinese Manuscript Fragments</title>
+        <author>Enoki, Kazuo</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Oxford University Press</publisher>
+        <pubPlace>Oxford</pubPlace>
+        <date>1962</date>
+      </publicationStmt>
+      <editionStmt>
+        <edition>First electronic edition</edition>
+        <date>2005</date>
+        <respStmt>Created by Márta Matkó</respStmt>
+      </editionStmt>
+      <sourceDesc>
+        <p>Printed book</p>
+        <bibl>
+          <ref>LVP_1962</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Input and marked up by Márta Mátko. Imported to 4D on 08/11/05 by Sam van Schaik.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>This catalogue by
+
+            <name lang="jap-Latn">Kazou Enoki</name> is a supplement to
+
+            <name lang="fre-Latn">Louis de la Vallée Poussin</name>'s catalogue of Tibetan manuscripts in the India Office Library collections. It is a catalogue of all of the Chinese texts identified by Enoki on the manuscripts catalogued by de la Vallée Poussin.
+
+        </head>
+    <body>
+      <msDescription type="KE" n="C1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 754(b)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.2">
+            <title lang="chi-Latn">[Ta-fang-pien fo pao-ên ching, fasc. 3.]</title>
+            <title lang="eng">'Sūtra of the great good means (
+
+                            <term>mahopāya</term>) by which the Buddha recompenses the favour (of his parents)' (Nanjio)
+
+                        </title>
+            <note>
+              <p>Ch. 83. XI (754); 162 (39+28+28+28+26+13) columns.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.341"/>
+              </bibl>
+              <bibl>
+                <ref target="T.156">140b(18)-142b(16)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C2">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 9</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Ta-fang-pien fo pao-ên ching, fasc. 4.]</title>
+            <title lang="eng">'Sūtra of the great good means (
+
+                            <term>mahopāya</term>) by which
+
+                            <name>Buddha</name>recompenses the favour (of his parents)' (Nanjio)
+
+                        </title>
+            <note>
+              <p>Ch. 00265, Kh. scroll; 95 c. x 26 c.: 54 columns.</p>
+              <p>A part of the story of
+
+                                <name>Kalyānakarī</name>and
+
+                                <name>Pāpakarī</name>, of which an abridged text is also found in the
+
+                                <title>Hsien-yü ching</title>(
+
+                                <title>Damamūka-nidāna-sūtra</title>), fasc. 9 (Taisho, IV, no. 202, p. 412c ff.).
+
+                            </p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.431"/>
+              </bibl>
+              <bibl>
+                <ref target="T.156">145a(23)-145c(23)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C3">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 126</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Ta-fang-pien fo pao-ên ching, fasc. 7]</title>
+            <title lang="eng">'Sūtra of the great good means (mahopāya) by which Buddha recompenses the favour (of his parents)' (Nanjio)</title>
+            <note>
+              <p>Fragment 56 (126): 76 columns.</p>
+              <p>A part of the Ch'in-chin p'in.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.431"/>
+              </bibl>
+              <bibl>
+                <ref target="T.156">163b(29)-165c(8)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C4">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 42</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Ta pan-jo-po-lo-mi-to ching, fasc. 124.]</title>
+            <title lang="san-Latn">(Mahā-prajñā-pāramitā-sūtra)</title>
+            <note>
+              <p>Ch. 84. VIII back; Scroll fragment, 17 c. x 25 c.: 10 columns; ll. 2 Tibetan verso.</p>
+              <p>A part of the Ch'u-fên Chiao-liang kung-tê p'in (chap. 30, div. 22).</p>
+              <listBibl>
+                <bibl>
+                  <ref target="N.1"/>
+                </bibl>
+                <bibl>
+                  <ref target="T.220">678c(7-17).</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C5">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 742</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Ta pan-jo-po-lo-mi-to ching, fasc. 202.]</title>
+            <title lang="san-Latn">(Mahā-prajñā-pāramitā-sūtra)</title>
+            <note>
+              <p>Fragment 55 (742); 57 (28 and 29) columns.</p>
+              <p>A part of Ch'u-fên Nan-hsin-chieh p'in (chap. 34, div. 21).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.1"/>
+              </bibl>
+              <bibl>
+                <ref target="T.220">10a(6)-10b(26)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C6">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 727</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Ta pan-jo-po-lo-mi-to ching, fasc. 234.]</title>
+            <title lang="san-Latn">(Mahā-prajñā-pāramitā-sūtra)</title>
+            <note>
+              <p>Vol. 72, fol. 3 verso (727): 38 columns.</p>
+              <p>A part of Ch'u-fên Nan-hsin-chieh p'in (chap. 34, div. 62).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.1"/>
+              </bibl>
+              <bibl>
+                <ref target="T.220">226b(8)-226c(17)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C7">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 720</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">[Ta pan-jo-po-lo-mi-to ching, fasc. 379.]</title>
+            <title lang="san-Latn">(Mahā-prajñā-pāramitā-sūtra)</title>
+            <note>
+              <p>Vol. 56, fol. 75 (720); 22 columns (upper half of the first 11 missing, and on the last column only one character).</p>
+              <p>A part of the Ch'u-fên Nan-hsin-chieh p'in (chap. 67, div. 2).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.1"/>
+              </bibl>
+              <bibl>
+                <ref target="T.220">956b(8-28)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C8">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 40</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">[Ta pan-jo-po-lo-mi-to ching, fasc. 505]</title>
+            <title lang="san-Latn">(Mahā-prajñā-pāramitā-sūtra)</title>
+            <note>
+              <p>Ch. 00329 and 9. I. 54, Kh. scroll; two adjoining fragments, 12 c. x 24 c. and 28 c. x 24 c.: 8 and 19 columns.</p>
+              <p>A part of the Ti-san-fên Sui-hsi hui-hsiang p'in (chap. 9, div. 2)</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.1"/>
+              </bibl>
+              <bibl>
+                <ref target="T.220">572a(6-14) and 572a(14)-572b(5)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C9">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 27</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Mo-ho pan-jo-po-lo-mi ching, fasc. 32.</title>
+            <title lang="san-Latn">(Pañcaviṃśatisāhasrikā-prajñā-pāramitā-sūtra)</title>
+            <note>
+              <p>Ch. 1534, Kh. scroll; 452 c. x 25 c.: 309 columns.</p>
+              <p>Contains the end of Tao-shu p'in (chap. 71), the whole of the Chung-shan-kên p'in (chap. 72), and of the Pien-hsüeh p'in (chap. 73).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.3"/>
+              </bibl>
+              <bibl>
+                <ref target="T.223">378a(26)-382c(5)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C10">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 15</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Chin-kang pan-jo-po-lo-mi ching]</title>
+            <title lang="san-Latn">(Vajracchedikā-prajñā-pāramitā-sūtra)</title>
+            <note>
+              <p>Ch. 00271, Kh. scroll; 117 c. x 25 c.: 72 columns (upper half of the last five missing).</p>
+              <p>Giles (B.S.O.S. VIII, pp. 15, 18; B.S.O.A.S. X, pp. 319-21) refers to some dated MSS. of the same sūtra preserved by the British Museum. Now, see his Descriptive Catalogue, nos. 857 ff.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.10"/>
+              </bibl>
+              <bibl>
+                <ref target="T.235">750a(12)-750a(27)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C11">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 730</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Chin-kang pan-jo-po-lo-mi ching]</title>
+            <title lang="san-Latn">(Vajracchedikā-prajñā-pāramitā-sūtra)</title>
+            <note>
+              <p>Fragment 1 (730); 60 columns (first 9 damaged).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.10"/>
+              </bibl>
+              <bibl>
+                <ref target="T.235">750b(17)-751a(21)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C12">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 14</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Chin-kang pan-jo-po-lo-mi ching]</title>
+            <title lang="san-Latn">(Vajracchedikā-prajñā-pāramitā-sūtra)</title>
+            <note>
+              <p>Ch. 00270, Kh. scroll; 42 c. x 25 c.: 26 columns.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.10"/>
+              </bibl>
+              <bibl>
+                <ref target="T.235">751a(11)-751b(9)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C13">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 211</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">[Chin-kang pan-jo-po-lo-mi ching]</title>
+            <title lang="san-Latn">(Vajracchedikā-prajñā-pāramitā-sūtra)</title>
+            <note>
+              <p>Ch. 0328 (211); 12 columns.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.10"/>
+              </bibl>
+              <bibl>
+                <ref target="T.235">749a(6-24)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C14">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 33</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Chin-kang pan-jo-po-lo-mi ching]</title>
+            <title lang="san-Latn">(Vajracchedikā-prajñā-pāramitā-sūtra)</title>
+            <note>
+              <p>Ch. 0046, Kh. scroll fragment; 17 c. x 18 c.: 11 columns (lower halves missing).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.10"/>
+              </bibl>
+              <bibl>
+                <ref target="T.235">749a(28)-749b(10)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C15">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 370</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">[Chin-kang pan-jo-po-lo-mi ching]</title>
+            <title lang="san-Latn">(Vajracchedikā-prajñā-pāramitā-sūtra)</title>
+            <note>
+              <p>Fragment 42 (370); 214 columns (first 10 incomlpete).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.10"/>
+              </bibl>
+              <bibl>
+                <ref target="T.235">749c(28)-752c(3)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C16">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 367</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">[Chin-kang pan-jo-po-lo-mi ching]</title>
+            <title lang="san-Latn">(Vajracchedikā-prajñā-pāramitā-sūtra)</title>
+            <note>
+              <p>Ch. 75. III. 1 (367); 38 columns.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.10"/>
+              </bibl>
+              <bibl>
+                <ref target="T.235">750a(9)-750b(18)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C17">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 35</idno>
+          <idno type="current">IOL Khot S 36</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Chin-kang pan-jo-po-lo-mi ching]</title>
+            <title lang="san-Latn">(Vajracchedikā-prajñā-pāramitā-sūtra)</title>
+            <note>
+              <p>Ch. 0050?; Kh. scroll; two adjoining fragments; 26 c. and 29 c. x 26 c.: 14 and 16 columns (some incomplete).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.10"/>
+              </bibl>
+              <bibl>
+                <ref target="T.235">751a(20)-751b(5) and 751b(5-22)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C18">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 761</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">[Chin-kang pan-jo-po-lo-mi ching]</title>
+            <title lang="san-Latn">(Vajracchedikā-prajñā-pāramitā-sūtra)</title>
+            <note>
+              <p>Ch. 79. XV. 1 (761); 54 columns (lower half of the first missing).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.10"/>
+              </bibl>
+              <bibl>
+                <ref target="T.235">752a(4)-752c(3)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C19">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 506</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">[Chin-kang pan-jo-po-lo-mi ching]</title>
+            <title lang="san-Latn">(Vajracchedikā-prajñā-pāramitā-sūtra)</title>
+            <note>
+              <p>Ch. 73. XIV. 16 (7) (506); 27 columns (some incomplete).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.10"/>
+              </bibl>
+              <bibl>
+                <ref target="T.235">752b(3)-752c(2)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C20">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 896</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">Chin-kang pan-jo-po-lo-mi ching</title>
+            <title lang="san-Latn">(Vajracchedikā-prajñā-pāramitā-sūtra)</title>
+            <note>
+              <p>Fragment 61 (T.t.d., II. p. 50); 6 columns.</p>
+              <p>The last part of the sūtra.</p>
+              <listBibl>
+                <bibl>
+                  <ref target="N.10"/>
+                </bibl>
+                <bibl>
+                  <ref target="T.235">752b(25)-752c(3)</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C21">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 749</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.2">
+            <title lang="chi-Latn">[Miao-fa lien-hua ching, fasc. 1.]</title>
+            <title lang="san-Latn">(Sad-dharma-puṇḍarīka-sūtra)</title>
+            <note>
+              <p>Ch. 73. IV. 3b (749, part): 33 columns (from the 42nd to the 74th of the whole MS.).</p>
+              <p>A part of the Hsü p'in (chap. 1).</p>
+              <p>On the same page is inscribed C44.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.134"/>
+              </bibl>
+              <bibl>
+                <ref target="T.262">2a(22)-2b(26)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C22">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 249</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">(Miao-fa lien-hua ching, fasc. 2.)</title>
+            <title lang="san-Latn">(Sad-dharma-puṇḍarīka-sūtra)</title>
+            <note>
+              <p>Vol. 54, fol. 14 verso (249); 9 columns.</p>
+              <p>A part of the P'i-yen p'in (chap. 3).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.134"/>
+              </bibl>
+              <bibl>
+                <ref target="T.262">11a(11-27)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C23">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 10</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Miao-fa lien-hua ching, fasc. 2.</title>
+            <title lang="san-Latn">(Sad-dharma-puṇḍarīka-sūtra)</title>
+            <note>
+              <p>Ch. 00266, Kh. scroll; 804 c. x 25 c.: 467 columns (lower half of the first five missing).</p>
+              <p>Contains the P'i-yü p'in (chap. 3) and Hsin-chieh p'in (chap. 4).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.134"/>
+              </bibl>
+              <bibl>
+                <ref target="T.262">12b(27)-19a(12)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C24">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 23</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Miao-fa lien-hua ching, fasc. 2.</title>
+            <title lang="san-Latn">(Sad-dharma-puṇḍarīka-sūtra)</title>
+            <note>
+              <p>Ch. XL. 003, Kh. scroll; 670 c. x 25 c.: 374 columns.</p>
+              <p>Contains a part of the P'i-yü p'in (chap. 3) and the whole of the Hsin-chieh p'in (chap. 4).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.134"/>
+              </bibl>
+              <bibl>
+                <ref target="T.262">13c(9)-19a(12)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C25">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 1</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Miao-fa lien-hua ching, fasc. 2.</title>
+            <title lang="san-Latn">(Sad-dharma-puṇḍarīka-sūtra)</title>
+            <note>
+              <p>Ch. 0042, Kh. scroll; 195 c. x 25 c.: 132 columns.</p>
+              <p>Contains the latter half of the P'i-yü p'in (chap. 3) and a greater part of the Hsin-chieh p'in (chap. 4).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.134"/>
+              </bibl>
+              <bibl>
+                <ref target="T.262">15b(23)-17b(4)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C26">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 741</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">[Miao-fa lien-hua ching, fasc. 3.]</title>
+            <title lang="san-Latn">(Sad-dharma-puṇḍarīka-sūtra)</title>
+            <note>
+              <p>Ch. 80. IV and 80. IV. g (741); 20 columns (lower half of 10 missing) and 56 columns.</p>
+              <p>Ch. 80.IV contains a part of the Yao-ts'ao-yü p'in (chap. 5). Ch. 80. IV. g contains the end, and the beginning of the Shou-chi p'in (chap. 6).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.134"/>
+              </bibl>
+              <bibl>
+                <ref target="T.262">20a(1-27) and 20a(27)-21a(11)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C27">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 750</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Miao-fa lien-hua ching, fasc. 3.</title>
+            <title lang="san-Latn">(Sad-dharma-puṇḍarīka-sūtra)</title>
+            <note>
+              <p>Ch. 79. VIII. 7 (750); 224 columns.</p>
+              <p>Contains the end of the Yao-ts'ao-yü p'in (chap. 5), and the whole of both the Shou-chi p'in (chap. 6) and the Hua-ch'êng-yü p'in (chap. 7).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.134"/>
+              </bibl>
+              <bibl>
+                <ref target="T.262">20a(23)-23b(14)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C28">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 25</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Miao-fa lien-hua ching, fasc. 3.</title>
+            <title lang="san-Latn">(Sad-dharma-puṇḍarīka-sūtra)</title>
+            <note>
+              <p>Ch. c. 002, Kh. scroll; 297 c. x 25 c.: 166 columns (first 11 incomplete).</p>
+              <p>Contains the latter half of the Shou-chi p'in (chap. 6) and the first half of the Hua-ch'êng-yü p'in (chap. 7).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.134"/>
+              </bibl>
+              <bibl>
+                <ref target="T.262">21b(22)-23c(26)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C29">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 572</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">[Miao-fa lien-hua ching, fasc. 4.]</title>
+            <title lang="san-Latn">(Sad-dharma-puṇḍarīka-sūtra)</title>
+            <note>
+              <p>Ch. 73. XIV. 16b (572); 30 columns (some incomplete).</p>
+              <p>A part of the Hua-ch'êng-yü p'in. On the 30th column a passage of gāthā is translated as ching wu wan yu chü, of wich wu-wan is a variant hitherto unknown for san-po or wu-po of the existing printed edition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.134"/>
+              </bibl>
+              <bibl>
+                <ref target="T.262">26b(3)-27a(4)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C30">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1242</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Miao-fa lien-hua ching, fasc. 4.]</title>
+            <title lang="san-Latn">(Sad-dharma-puṇḍarīka-sūtra)</title>
+            <note>
+              <p>Ch. 79. XIV. 1, Scroll; 25 c. x 25 c.: 18 columns (one incomplete); verso, ll. 6 Tibetan, writing exercises.</p>
+              <p>A part of the Shou-hsüeh-wu-hsüeh-jên p'in.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.134"/>
+              </bibl>
+              <bibl>
+                <ref target="T.262">29c(1-14)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C31">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 736</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">Miao-fa lien-hua ching, fasc. 4.</title>
+            <title lang="san-Latn">(Sad-dharma-puṇḍarīka-sūtra)</title>
+            <note>
+              <p>Nam MS. (736); 283 columns.</p>
+              <p>The end of the Shou-hsüeh-wu-hsüeh-jên p'in (chap. 9), the whole of the Fa-shih p'in (chap. 10) and the main part of the Chien-pao-t'a p'in (chap. 11).</p>
+              <listBibl>
+                <bibl>
+                  <ref target="N.134"/>
+                </bibl>
+                <bibl>
+                  <ref target="T.262">30a(19)-34a(13)</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C32">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1373</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Miao-fa lien-hua ching, fasc. 4.]</title>
+            <title lang="san-Latn">(Sad-dharma-puṇḍarīka-sūtra)</title>
+            <note>
+              <p>Fragment 34; 5 columns (4 incomplete); verso, ll. 5, fragmentary, Tibetan.</p>
+              <p>A part of the Chien-pao-t'a p'in (chap. 11).</p>
+              <listBibl>
+                <bibl>
+                  <ref target="N.134"/>
+                </bibl>
+                <bibl>
+                  <ref target="T.262">32b(23-27)</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C33">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 753</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.2">
+            <title lang="chi-Latn">[Miao-fa lien-hua ching, fasc. 5.]</title>
+            <title lang="san-Latn">(Sad-dharma-puṇḍarīka-sūtra)</title>
+            <note>
+              <p>Ch. 88. VI (753 part); 50 columns.</p>
+              <p>A part of the Fên-pieh kung-tê p'in (chap. 17).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.134"/>
+              </bibl>
+              <bibl>
+                <ref target="T.262">44a(27)-45a(18)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C34">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 19</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Miao-fa lien-hua ching, fasc. 6.]</title>
+            <title lang="san-Latn">(Sad-dharma-puṇḍarīka-sūtra)</title>
+            <note>
+              <p>Ch. i. 0019, Kh. scroll; 104 c. x 24 c.: 60 columns (last 4 incomplete).</p>
+              <p>A part of the Fa-shih kung-tê p'in (chap. 19).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.134"/>
+              </bibl>
+              <bibl>
+                <ref target="T.262">48a(8)-49a(11)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C35">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 753</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Miao-fa lien-hua ching, fasc. 6.]</title>
+            <title lang="san-Latn">(Sad-dharma-puṇḍarīka-sūtra)</title>
+            <note>
+              <p>Ch. 88. VI (753 part); 27 columns.</p>
+              <p>A part of the Yao-wang p'u-sa pên-shih p'in (chap. 23).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.134"/>
+              </bibl>
+              <bibl>
+                <ref target="T.262">53a(17)-53b(16)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C36">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 733</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">[Miao-fa lien-hua ching, fasc. 7.]</title>
+            <title lang="san-Latn">(Sad-dharma-puṇḍarīka-sūtra)</title>
+            <note>
+              <p>Ch. 73. XV. 4 (733); 28 columns (upper half of the first 9 missing).</p>
+              <p>A part of the Miao-yin-p'u-sa p'in.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.134"/>
+              </bibl>
+              <bibl>
+                <ref target="T.262">55a(23)-55b(26)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C37">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 734</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.2">
+            <title lang="chi-Latn">Miao-fa lien-hua ching, fasc. 7.</title>
+            <title lang="san-Latn">(Sad-dharma-puṇḍarīka-sūtra)</title>
+            <note>
+              <p>Ch. 85.IX.4 (734 part); 50+26 columns (some incomplete).</p>
+              <p>A part of the Miao-yin p'u-sa p'in (chap. 24), the beginning of the Kuan-shih-yin p'u-sa p'u-mên p'in (chap. 25), and a part of the T'o-lo-ni p'in.</p>
+              <p>The missing text was cut off in preparing the paper for the Tibetan text verso: two other Chinese rolls were also used for this purpose, for which see C42 and 79.</p>
+              <listBibl>
+                <bibl>
+                  <ref target="N.134"/>
+                </bibl>
+                <bibl>
+                  <ref target="T.262">56b(24)-57a(16) and 59a(1-27)</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C38">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 210</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Miao-fa lien-hua ching, fasc. 7.</title>
+            <title lang="san-Latn">(Sad-dharma-puṇḍarīka-sūtra)</title>
+            <note>
+              <p>Ch. 81. VI (210); 170 columns.</p>
+              <p>Contains the Miao-chuang-yen-wang pên-shih p'in (chap. 27) and the P'u-hsien-p'u-sa ch'üan-fa p'in (chap. 28).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.134"/>
+              </bibl>
+              <bibl>
+                <ref target="T.262">59c(18)-62a(14)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C39">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 11</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Miao-fa lien-hua ching, fasc. 7.</title>
+            <title lang="san-Latn">(Sad-dharma-puṇḍarīka-sūtra)</title>
+            <note>
+              <p>Ch. 00267, Kh. scroll; 203 c. x 25 c.: 180 columns (including 1 column of colophon).</p>
+              <p>Contains the Miao-chuang-yen-wang pên-shih p'in (chap. 27) and the whole of the P'u-hsien-p'u-sa ch'üan-fa p'in (chap. 28) with the following colophon: 'In the second month of the second year of T'iao-lu (A.D. 680), Chang Tsê, disciple (of Buddha), copied (this sūtra) for (the happiness in the other world of his) dead wife (who came from the family) So'.</p>
+              <listBibl>
+                <bibl>
+                  <ref target="N.134"/>
+                </bibl>
+                <bibl>
+                  <ref target="T.262">60c(16)-62b(1)</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C40">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 85</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">[Miao-fa lien-hua ching, fasc. 7.]</title>
+            <title lang="san-Latn">(Sad-dharma-puṇḍarīka-sūtra)</title>
+            <note>
+              <p>Fragment 31 (85); 19 columns.</p>
+              <p>A part of the P'u-hsien-p'u-sa ch'üan-fa p'in (chap. 28).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.134"/>
+              </bibl>
+              <bibl>
+                <ref target="T.262">61c(4-23)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C41">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 44 (A)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Miao-fa lien-hua ching, fasc. 7.]</title>
+            <title lang="san-Latn">(Sad-dharma-puṇḍarīka-sūtra)</title>
+            <note>
+              <p>Unnumbered Kh. scroll (A); 29 c. x 20 c.: 12 columns (lower halves all missing).</p>
+              <p>A beginning part of the Kuan-shih-yin p'u-sa p'u-mên p'in (chap. 25).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.134"/>
+              </bibl>
+              <bibl>
+                <ref target="T.262">56c(3-14)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C42">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 734</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.3">
+            <title lang="chi-Latn">[Ta-fang-kuang-fo hua-yen ching, fasc. 57.]</title>
+            <title lang="san-Latn">(Buddhāvataṃsaka-sūtra)</title>
+            <note>
+              <p>Ch. 85. IX. 4 (734 part); 110 columns.</p>
+              <p>A part of the Ju-fa-hai p'in (chap. 34, div. 14).</p>
+              <p>For the Chinese scrolls used to prepare the paper for the Tibetan text verso, see C37 and 79.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.88"/>
+              </bibl>
+              <bibl>
+                <ref target="T.278">762b(23)-763a(20)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C43">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 26</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Ta-fang-kuang-fo hua-yen ching, fasc. 64.</title>
+            <title lang="san-Latn">(Buddhāvataṃsaka-sūtra)</title>
+            <note>
+              <p>Unnumbered Kh. scroll (B); 765 c. x 25 c.: 443 columns.</p>
+              <p>Contains the Ju-fa-chieh p'in (chap. 39, div. 5). In the British Museum there are several dated copies of the same sūtra: S. 2067 (A.D. 513), S. 2724 (A.D. 522), and S. 2527, 6650, 4520, 1529, 5762 (A.D. 579). Cf. Giles, B.S.O.S. VII, pp. 816-817, 819, 834, and Yabuki (Keiki), Meisa Yoin Kaisetsu pt. 1, p. 268.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.88"/>
+              </bibl>
+              <bibl>
+                <ref target="T.279">343a(5)-348a(19)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C44">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 749</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Fo-shuo a-mi-t'o ching]</title>
+            <title lang="san-Latn">(Sukhāvatī-vyūha)</title>
+            <note>
+              <p>Ch. 73. IV. 3b (749 part); 41 columns.</p>
+              <p>For the second Chinese scroll used in preparing the paper for the Tibetan text verso, see C21.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.200"/>
+              </bibl>
+              <bibl>
+                <ref target="T.366">346c(11)-347b(8)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C45">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 855</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">Fo-shuo a-mi-t'o ching</title>
+            <title lang="san-Latn">(Sukhāvaty-amṛta-vyūha-sūtra)</title>
+            <title lang="san-Latn">(Sukhāvatī-vyūha)</title>
+            <note>
+              <p>Ch. 74. IV. 12b; 22 c. x 24 c.: 12 columns (upper half of the first 6 missing): verso, Tibetan writing exercise.</p>
+              <p>In the 11th coulumn of the MS. four characters ... are not written which are found in the existing printed text.</p>
+              <p>Many MSS. of the same sūtra, both in Chinese and in Tibetan script, are available in the Tun-huang MSS. (cf. Giles, Descriptive Catalogue, nos. 3721-65: F. W. Thomas and G. L. M. Clauson, A Second Chinese Buddhist Text in Tibetan Characters, J.R.A.S., 1927, pp. 281-306) and they have some minor textual differencies.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.200"/>
+              </bibl>
+              <bibl>
+                <ref target="T.366">348a(16-29)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C46">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 12</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Ta pan-nieh-p'an ching, fasc. 2.</title>
+            <title lang="san-Latn">(Mahā-parinirvāṇa-sūtra)</title>
+            <note>
+              <p>Ch. 00268, Kh. scroll; 820 c. x 25 c.: 346 columns.</p>
+              <p>Contains a large part of the Shou-liang p'in (chap. 1, div. 2).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.113"/>
+              </bibl>
+              <bibl>
+                <ref target="T.374">373a(23)-379a(6)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C47">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 28</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Ta pan-nieh-p'an ching, fasc. 9.]</title>
+            <title lang="san-Latn">(Mahā-parinirvāṇa-sūtra)</title>
+            <note>
+              <p>Kha. i. 158 and i. 221, two adjoining fragments of Kh. scroll; 45 c. and 93 c. x 24 c.: 28+56 columns.</p>
+              <p>A part of the Ju-lai-hsing p'in (chap. 4, div. 6).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.113"/>
+              </bibl>
+              <bibl>
+                <ref target="T.374">420a(10)-421a(9)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C48">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 345</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">[Ta-pan-nieh-p'an ching, fasc. 18.]</title>
+            <title lang="san-Latn">(Mahā-parinirvāṇa-sūtra)</title>
+            <note>
+              <p>Ch. CXLVII. 1 (345); 18 columns (the first and eighth incomplete).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.113"/>
+              </bibl>
+              <bibl>
+                <ref target="T.374">469a(17)-469b(6)</ref>
+              </bibl>
+              <bibl>
+                <ref target="T.375">711c(17)-712a(7)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C49">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 737.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.4">
+            <title lang="chi-Latn">[Ta-fang-têng-ta-chi ching, fasc. 21.]</title>
+            <title lang="san-Latn">(Mahā-vaipulya-saṃnipāta-sūtra)</title>
+            <note>
+              <p>Ch. 81. X (737 part); 53 columns (from the 174th to the 225th column as joined for the Tibetan verso).</p>
+              <p>The text is the same as the current one, but the dhāraṇīs are transcribed in a slightly different way.</p>
+              <p>For the other Chinese scrolls used in preparing the paper for the Tibetan text verso, see C73, 80, 81.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.61"/>
+              </bibl>
+              <bibl>
+                <ref target="T.397">152a(3)-152c(3)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C50">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Fo-shuo fo-ming ching]</title>
+            <title lang="san-Latn">(Buddhabhāṣita-buddhanāma-sūtra)</title>
+            <note>
+              <p>Ch. 0043, Kh. scroll; 116 c. x 25 c.: 66 columns (the first and second incomplete).</p>
+              <p>In the Stein collection at the British Museum several copies of the Buddhanāma-sūtra are found (Giles, Descriptive Catalogue, nos. 4669 ff.); and cf. Yabuki (Keiki), Meisa Yoin Kaisetsu, Pt. 1, pp. 285-6, Giles, B.S.O.S. VII, p. 834; B.S.O.A.S. X, pp. 325-6, XI, pp. 169-70.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.404"/>
+              </bibl>
+              <bibl>
+                <ref target="T.440">167b(18)-168a(9)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C51">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 732</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Yao-shi-liu-li-kuang-ju-lai pên-yüan kung-tê ching]</title>
+            <title lang="san-Latn">(Bhaiṣajya-guru-vaiḍūrya-prabhāsa-pūrva-praṇidhāna-viśeṣa-vistara)</title>
+            <note>
+              <p>Ch. 75. IV, frag. 1 (732); 26 columns (8 incomplete).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.171"/>
+              </bibl>
+              <bibl>
+                <ref target="T.450">405c(2-29)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C52">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 737.3</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Yao-shi-liu-li-kuang-ju-lai pên-yüan kung-tê ching</title>
+            <title lang="san-Latn">(Bhaiṣajya-guru-vaiḍūrya-prabhāsa-pūrva-praṇidhāna-viśeṣa-vistara)</title>
+            <note>
+              <p>Fragment 63 (737 part); 31 columns (some incomplete).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.171"/>
+              </bibl>
+              <bibl>
+                <ref target="T.450">408a(20)-408b(25)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C53">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1368</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">Wei-mo-ch'i so-shuo ching, Bk. b.</title>
+            <title lang="san-Latn">(Vimalakīrti-nirdeśa)</title>
+            <note>
+              <p>Vol. 69, folio. 84; 48 c. x 13 c. (originally?): 28 columns (upper halves missing): verso, T.t.d. II, p. 8.</p>
+              <p>For the marginal inscription on this folio, see C60.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.146"/>
+              </bibl>
+              <bibl>
+                <ref target="T.475">555c(14)-556a(17)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C54">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 7</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Chin-kuang-ming ching, fasc. 1.</title>
+            <title lang="san-Latn">(Suvarṇa-prabhāsottama-sūtrendrarāja-sūtra)</title>
+            <note>
+              <p>Ch. 00120, Kh. scroll; 192 c. x 25 c.: 136 columns.</p>
+              <p>A part of the Ch'an-hui p'in (chap. 3), and the whole of the Tsan-t'an p'in (chap. 4) and of the K'ung p'in (chap. 5).</p>
+              <p>For the text verso of this MS. see C134.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.127"/>
+              </bibl>
+              <bibl>
+                <ref target="T.663">337b(8)-340c(10)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C55">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">[unknown]</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="[unknown]">
+            <title lang="chi-Latn">[Chin-kuang-ming ching, fasc. 3.]</title>
+            <title lang="san-Latn">(Suvarṇa-prabhāsottama-sūtrendrarāja-sūtra)</title>
+            <note>
+              <p>Fragment B; 8 columns (lower halves missing).</p>
+              <p>A part of the Kuei-shên p'in. Identical with Taisho, XVI, no. 664, p. 393a(15-25). On the same page there is another fragment of Buddhist text, for which see C84.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.127"/>
+              </bibl>
+              <bibl>
+                <ref target="T.663">350a(3-13)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C56">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 731</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Chin-kuang-ming ching, fasc. 4.</title>
+            <title lang="san-Latn">(Suvarṇa-prabhāsottama-sūtrendrarāja-sūtra)</title>
+            <note>
+              <p>Ch. 83. IV (731); 102 columns.</p>
+              <p>A part of the Shê-shên p'in and Tsan-fo p'in. Also identical with Taisho, XVI, no. 664, pp. 398a(16)-400a(7).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.127"/>
+              </bibl>
+              <bibl>
+                <ref target="T.663">355a(15)-357a(6)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C57">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 740</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Chin-kuang-ming ching, fasc. 1.</title>
+            <title lang="san-Latn">(Suvarṇa-prabhāsottama-sūtrendrarāja-sūtra)</title>
+            <note>
+              <p>Ch. 9. II. 19 (740); 473 columns.</p>
+              <p>The preface and the first part of the Ho-pu Chin-kuang-ming ching.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.130"/>
+              </bibl>
+              <bibl>
+                <ref target="T.664">359b(3)-365b(11)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C58">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 45</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Chin-kuang-ming tsui-shêng-wang ching, fasc. 7.]</title>
+            <title lang="san-Latn">(Suvarṇa-prabhāsottama-rāja-sūtra)</title>
+            <note>
+              <p>Unnumbered Kh. scroll (C); 11 c. x 25 c.: 6 columns.</p>
+              <p>A part of the Wu-jan-cho T'o-lo-ni p'in (chap. 13).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.126"/>
+              </bibl>
+              <bibl>
+                <ref target="T.665">433a(3-9)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C59">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 30</idno>
+          <idno type="current">IOL Khot S 31</idno>
+          <idno type="current">IOL Khot S 32</idno>
+          <idno type="current">IOL Khot S 43</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Chin-kuang-ming tsui-shêng-wang ching, fasc. 7.]</title>
+            <title lang="san-Latn">(Suvarṇa-prabhāsottama-rāja-sūtra)</title>
+            <note>
+              <p>Ch. 629, 0040, 0046 (two fragments), four fragments of Kh. scroll; 23 c.+30 c.+10 c.+36 c. x 24 c. (original width of undamaged portions) 13+17+6+22 columns (many incomplete).</p>
+              <p>Contains part of the Ta-pien-ts'ai-t'ien-nü p'in (chap. 15, div. 1).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.126"/>
+              </bibl>
+              <bibl>
+                <ref target="T.665">435a(27)-435b(13)</ref>
+              </bibl>
+              <bibl>
+                <ref target="T.665">435b(13)-435b(28)</ref>
+              </bibl>
+              <bibl>
+                <ref target="T.665">435b(29)-435c(5)</ref>
+              </bibl>
+              <bibl>
+                <ref target="T.665">436a(19)-436b(7)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C60">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1368</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.2">
+            <title lang="chi-Latn">[Chin-kuang-ming tsui-shêng-wang ching, fasc. 10.]</title>
+            <title lang="san-Latn">(Suvarṇa-prabhāsottama-rāja-sūtra)</title>
+            <note>
+              <p>Vol. 69, fol. 84; 2 columns (incomplete) inscribed on the margin.</p>
+              <p>A fragment of the Sheh-shên p'in (chap. 26).</p>
+              <p>For the other text on this folio see C53.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.126"/>
+              </bibl>
+              <bibl>
+                <ref target="T.665">454a(2-5, 6-7)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C61">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 13</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Ta-ch'êng ju-lêng-ch'ieh ching, fasc. 3.</title>
+            <title lang="san-Latn">(Laṅkāvatāra-sūtra)</title>
+            <note>
+              <p>Ch. 00269, Kh. scroll; 930 c. x 25 c.: 520 columns.</p>
+              <p>Contains the whole of the Chi I-ch'ieh-fa p'in (chap. 2, div. 3). At the end of the MS. a miniature portrait of a priest with the inscription '(Portrait of a) (P'u?)-sa at Sha-chou of the Empire Great T'ang' and 'Chin-kuang-ming tsui-shêng-wang ching' (Suvarṇa-prabhāsottama-rāja-sūtra.) These are written by a hand quite different from that of the sūtra. But, this may tell that the sūtra was copied during or before the T'ang era.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.177"/>
+              </bibl>
+              <bibl>
+                <ref target="T.672">600b(18)-607b(15)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C62">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 6</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Ta-ch'êng wu-liang-shou ching</title>
+            <title lang="san-Latn">(Aparimitāyur-[dhāraṇī]-sūtra)</title>
+            <note>
+              <p>Ch. 0048, Kh. scroll; 240 c. x 31 c.: 138 columns.</p>
+              <p>The title is given at the beginning as the Ta-ch'êng wu-liang-shou ching and at the end as the Fo-shuo wu-liang-shou tsung-yao ching. The dhāraṇīs are numbered. This is the only complete copy of this sūtra in the Stein MSS. at the India Office Library. The sūtra itself is, however, one of the most popular at Tun-huang under such names as Wu-liang-shou tsung-yao ching or Fo-shuo wu-liang-shou tsung-yao ching. Cf. Yabuki, Meisa Yoin Kaisetsu, Pt. 2, pp. 139-55; Ishihama (Juntaro), Notes on MS. Remains found at Tun-huang, Tōyō Gakuhō, XV, 4 and XVI. 2, and Mochizuki, Bukkyō Daijiten, p. 3285b; Giles, Discriptive Catalogue, nos. 4856-5144. On the first column, the character chang is scrawled three times and the one character ch'ên under the title.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="T.936">82a(2)-84c(29)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C63">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Fo-[shuo] wu-liang-shou tsung-yao ching</title>
+            <title lang="san-Latn">(Aparimitāyur-[dhāraṇī]-sūtra)</title>
+            <note>
+              <p>Ch. 0047, Kh. scroll; 128 c. x 31 c.&gt; 79 columns.</p>
+              <p>In this copy the dhāraṇīs are unnumbered. On the back of the MS. there are three documents, one in Khotanese and other two in Chinese, for which see C111 and 123.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="T.936">82b(10)-84c(29)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C64">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 18</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Fo-shuo wu-liang-shou tsung-yao ching</title>
+            <title lang="san-Latn">(Aparimitāyur-[dhāraṇī]-sūtra)</title>
+            <note>
+              <p>Ch. 00327, Kh. scroll; 116 c. x 31 c.: 74 columns (the first four incomplete).</p>
+              <p>In this copy the dhāraṇīs are unnumbered.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="T.936">83a(11)-84c(29)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C65">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 508</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">[Fo]-ting tsun-shêng t'o-lo-ni ching</title>
+            <title lang="san-Latn">(Uṣṇīṣa-vijayā-dhāraṇī)</title>
+            <note>
+              <p>Ch. CXLVII. 5 (508); 39 columns (the first incomplete).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.348"/>
+              </bibl>
+              <bibl>
+                <ref target="T.967">349c(18)-650b(5)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C66">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 16</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Fo-shuo kuan-ting sui-yüan wang-shêng shih-fang ching-t'u ching, fasc. 11.]</title>
+            <note>
+              <p>Ch. 00272, Kh. scroll; 302 c. x 25 c.: 159 columns.</p>
+              <p>This is the 11th section of a sūtra named Kuan-ting ching or Fo-shuo ta-kuan-ting shên-chou ching (Nanjio, no. 167) or Fo-shuo kuan-ting pa-ch'u kuo-tsui shên-chou tê-tu ching. (Taisho, no. 1331). See C67 and C68</p>
+              <listBibl>
+                <bibl>
+                  <ref target="N.167"/>
+                </bibl>
+                <bibl>
+                  <ref target="T.1331">530a(24-27)</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C67">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 723</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Fo-shuo kuan-ting pa-ch'u kuo-tsui shêng-ssŭ tê-tu ching, fasc. 12.]</title>
+            <note>
+              <p>Ch. 79. XIV. 2 (723); 13 columns+9 damaged and illegible.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.167"/>
+              </bibl>
+              <bibl>
+                <ref target="T.1331">535a(5-25)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C68">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 24</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Fo-shuo yao-shih ching</title>
+            <note>
+              <p>Ch. LVIII. 007, Kh. scroll; 252 c. x 26 c.: 134 columns.</p>
+              <p>The content is identical with the twelfth section of the sūtra named Kuan-ting ching or Fo-shuo ta-kuan-ting shên-chou ching as is recorded by Nanjio or with the sūtra named Fo-shuo kuan-ting pa-ch'u kuo-tsui shêng-ssŭ tê-tu ching as in the Taisho, no. 1331. The end of this fragment is reproduced in Serindia, IV, pl. CXLV. As for sūtras named Yao-shih ching cf. Bussho Kaisetsu Daijiten, ed. by Ono (Genmyo), XI, pp. 65-66.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.167"/>
+              </bibl>
+              <bibl>
+                <ref target="T.1331">534c(11)-536b(5)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C69">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="2">
+            <title lang="chi-Latn">Ssŭ-fên lü-tsang, fasc. 7.</title>
+            <title lang="chi-Latn">(Ch'u-fên-lü, fasc. 7.)</title>
+            <title lang="san-Latn">(Dharmagupta[ka]-vinaya-piṭakaṃ)</title>
+            <note>
+              <p>Ch. 1292 (5); 10 columns</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.1117"/>
+              </bibl>
+              <bibl>
+                <ref target="T.1428">614c(12-22)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C70">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 44</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="2">
+            <title lang="chi-Latn">[Extracts from the Ssŭ-fên-lü]</title>
+            <title lang="san-Latn">(Dharmagupta[ka]-vinaya-piṭakaṃ)</title>
+            <note>
+              <p>Ch. 9. I, frag. 78 (44); 112 columns.</p>
+              <p>Extracts from the following sections of the Ssŭ-fên-lü:</p>
+              <p>Div. 2, Sect. 5, Shou-chieh chien-tu (chien-tu is for Skt. khanda 'division').</p>
+              <p>Sect. 6, Shuo-chieh chien-tu.</p>
+              <p>Sect. 7, An-chü chien-tu.</p>
+              <p>Div. 3, Sect. 2, P'i-ko chien-tu.</p>
+              <p>Sect. 4, Yao chien-tu.</p>
+              <p>Sect. 7, Chan-po chien-tu.</p>
+              <p>Sect. 12, P'o-sêng chien-tu.</p>
+              <p>Sect. 15, Fa chien-tu.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.1117"/>
+              </bibl>
+              <bibl>
+                <ref target="T.1428">fasc. 32 ff.</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C71">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 755</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Ssŭ-fên pi-ch'iu-ni chieh-mo-fa]</title>
+            <title lang="san-Latn">(Dharmaguptaka-bhikṣuṇī-karman)</title>
+            <note>
+              <p>Fragment 43 (755); 107 columns.</p>
+              <p>The text is identical with that of Sung and Ming printed editions and the Kunaishô MS., except ... (Taisho, XXII, p. 1068(4)) which is written as ---- ... in the present text.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.1129"/>
+              </bibl>
+              <bibl>
+                <ref target="T.1434">1067c(3)-1068c(18)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C72">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 94</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Yu-p'o-sai-chieh ching, fasc. 5.]</title>
+            <title lang="san-Latn">(Upāsaka-śīla-sūtra)</title>
+            <note>
+              <p>Ch. 77. X. 13 (94); 88 columns. Written in a so-called pa-fên style and seems to be as early as Northern Wêi, i.e. very soon after the translation of the sūtra in A.D. 426 or 428 by Dharmarakṣa.</p>
+              <p>Contains the second half of the Tsa-p'in chih yü (chap. 19) and the first half of the Ching-san-kuei p'in (chap. 20). A fragment of the same sūtra (Fasc. 2, chaps. 10-11) dated A.D. 604 is in the British Museum (S. 4162). Cf. Giles, B.S.O.S. VIII, p. 4, and Descriptive Catalogue, no. 4088.</p>
+              <listBibl>
+                <bibl>
+                  <ref target="N.1088"/>
+                </bibl>
+                <bibl>
+                  <ref target="T.1488">1060b(18)-1061b(23)</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C73">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 737.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Ta-chih-tu lun, fasc. 91.]</title>
+            <title lang="san-Latn">(Mahā-prajñā-pāramitā-śāstra)</title>
+            <note>
+              <p>Ch. 81. X (737 part); 143 columns (1-31 and 36-147 of the whole MS.).</p>
+              <p>Contains a part of the Shih-chao-ming p'in (chap. 81).</p>
+              <p>In preparing the paper for Tibetan text verso four columns of another sūtra (C81) were inserted upside down between the 31st and 35th column of this text: hence the lacunae. For two additional scrolls used for this purpose see C49 and 80.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.1169"/>
+              </bibl>
+              <bibl>
+                <ref target="T.1509">703b(1)-705b(15)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C74">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 745</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Shuo i-chieh yu-pu chü-shê-lun, fasc. 22.</title>
+            <title lang="san-Latn">(Abhidharma-kośa-śāstra)</title>
+            <note>
+              <p>Ch. 83. VIII (745); 256 columns.</p>
+              <p>The title is commonly given as the A-p'i-ta-mo chü-shê-lun.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.1267"/>
+              </bibl>
+              <bibl>
+                <ref target="T.1558">115b(14)-118c(6)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C75">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 3</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">P'u-sa shan-chieh ching, fasc. 1 and 2.</title>
+            <title lang="san-Latn">(Bodhisattva-bhūmi)</title>
+            <note>
+              <p>Ch. 0044, Kh. scroll; 690 c. x 25 c.: 427 columns (the first 3 very incomplete).</p>
+              <p>Contains the P'u-sa-ti li-i nei-wai p'in (chap. 4) and the P'u-sa-ti chên-shih-i p'in (chap. 5).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.1085"/>
+              </bibl>
+              <bibl>
+                <ref target="T.1582">966a(29)-971a(19)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C76">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 672</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.2">
+            <title lang="chi-Latn">Ta-ch'êng tao-kan ching sui-t'ing shou-ching-chi</title>
+            <title lang="san-Latn">(Commentary on the Śālistambha-sūtra)</title>
+            <note>
+              <p>Ch. 77. X. 6 recto (672): 15 columns (some incomplete).</p>
+              <p>A commentary edited by Chos-grub (Fa-ch'êng) on the Tao-kan-ching (Nanjio, no. 280; Taisho, XVI, no. 712) and on the Ta-ch'êng tao-kan-ching, both of which are Chinese translations of the Śālistambha-sūtra. Several fragmentary copies of the same commentary are preserved in the British Museum (Giles, Descriptive Catalogue, nos. 4653-5), The Bibliothèque Nationale, and the National Library in Peking (see Yabuki, Meisa Yoin Kaisetsu, Pt. 1, pp. 62-64).</p>
+              <p>For the text verso of this MS. see C102.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="T.2783">545c(21)-546a(12)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C77">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 22</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Fo-shuo shan-ê yin-kuo ching</title>
+            <title lang="eng">'Sūtra on Kāraṇa-kārya(?)'</title>
+            <title lang="eng">'Sūtra on Hetu-phala(?)'</title>
+            <note>
+              <p>Ch. XL. 002, Kh. scroll; 183 c. x 26 c.: 109 columns.</p>
+              <p>A dozen copies of the same sūtra are preserved in the British Museum: cf. Giles, B.S.O.S. VIII, p. 4; and Descriptive Catalogue, nos. 5394-5404; Yabuki, Meisa Yoin Kaisetsu, Pt. 1, pp. 183-5, and Meisa Yoin, 68-IV.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="T.2881">1382a(9)-1083b(6)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C78">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 735</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">(Fo-shuo fa-wang ching)</title>
+            <note>
+              <p>Ch. 77. XII. 2 (735); 22 columns (some damaged).</p>
+              <p>The edition of Thaiso is based on the Stein MSS. of the British Museum (S. 2692), cf. Giles, Descriptive Catalogue, no. 5311), which is much more complete. Cf. Yabuki, Meisa Yoin Kaisetsu, Pt. 1, p. 193, and Pt. 2, pp. 254-5. The present version is slightly different from the edition of Taisho.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="T.2883">1387c(8-29)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C79">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 734</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Fo-shuo fa-wang ching]</title>
+            <note>
+              <p>Ch. 85. IX. 4 (734 part, vol. 69, fol. 76); 29 columns.</p>
+              <p>For the two other Chinese scrolls used in preparing the paper for the Tibetan text verso see C37 and 42.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="T.2883">1387a(13)-1387b(10)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C80">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 737.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.3">
+            <title lang="chi">[Fo-shuo ch'i-ch'ien-fo shên-fu ching]</title>
+            <note>
+              <p>Ch. 81. X (737); 27 columns (148-73 of the whole MS.).</p>
+              <p>A much more complete fragment of the same sūtra is in the British Museum (S. 2708: Giles, Descriptive Catalogue, no. 5214). Cf. Yabuki, Meisa Yoin Kaisetsu, Pt. 1, p. 195, Pt. 2, pp. 304-6.</p>
+              <p>For the Chinese scrolls used in preparing the paper for the Tibetan text verso see C49, 73, and 81.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="T.2904">1446a(24)-1446b(22)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C81">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 737.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.2">
+            <note>
+              <p>Ch. 81. X (737 part); 4 columns (32-35 of the whole MS.).</p>
+              <p>A fragment inserted between the 31st and 35th column of another text (C73) in preparing the paper for the Tibetan text verso.</p>
+              <p>Col. 1. ...</p>
+              <p>2. ...</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C82">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 8</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Ch. 00263, Kh. scroll; 111 c. x 26 c.: 62 columns.</p>
+              <p>A part of a śāstra explaining the anitya or uncertainty of all things.</p>
+              <p>Begins:</p>
+              <p>1. ...</p>
+              <p>2. ...</p>
+              <p>3. ...</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C83">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 465</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Fragment 57 (465); 74 columns (the first 15 incomplete).</p>
+              <p>A part of a sūtra telling the story of King Ajātaśatru who, having killed his father and mother, was converted to a very faithful beliver in Buddhism. The name of the king is given as Shan-chien or as P'o-lo-liu-pa i.e. Balaruci (pa is a scribal error for chih), the name of Varśakāra, the minister who helped the king in plotting against his father, as Yü-hsing, and the name of the king's mother as P'i-t'i. No identical text is found in the existing sūtras relating to Ajātaśatru. Cf. Mochizuki, Bukkyô Daijiten, under Ajasei ô; Akanuma (Chizen), Indo Bukkyô Koyûmeishi Jiten, pp. 10-12; Ono (Genmyo), Bukkyô no Bijuṭsu oyobi Rekishi, pp. 386 ff.; Yabuki, Meisa Yoin Kaisetsu, Pt. 2, pp. 71-75.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C84">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">[unknown]</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="[unknown]">
+            <note>
+              <p>Fragment B; 16 columns (lower halves missing).</p>
+              <p>A part of description of lamentation of a queen who lost her child.</p>
+              <p>Ends:</p>
+              <p>13. .../-----</p>
+              <p>14. .../-----</p>
+              <p>15. .../-----</p>
+              <p>16. .../-----</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C85">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 107.3</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <note>
+              <p>Ch. 82. XVI; an irregular fragment 21 c. x 9 c.: 12 columns (upper halves missing): verso parts of ll. 15 Tibetan, burnt and mostly illegible.</p>
+              <p>A fragment of a Buddhist canonical work.</p>
+              <p>Ends:</p>
+              <p>10. ----------/...</p>
+              <p>11. ------/.../------</p>
+              <p>12. --------/.../-----</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C86">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 743</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Fragment 2 (743); 27 columns (damaged and incomplete).</p>
+              <p>Questions and answers on certain points stated in a sūtra.</p>
+              <p>Begins:</p>
+              <p>1. ...(?)</p>
+              <p>2. .../------</p>
+              <p>3. .../-----</p>
+              <p>10. ...(?) ?/----</p>
+              <p>26. .../----</p>
+              <p>27. ?.../----</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C87">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 54</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Ch. CXVII. 6 (54); 21 columns (lower halves of first 2 missing).</p>
+              <p>A part of a sūtra, explaining that the Buddha taught people in different ways according to their ability and situation.</p>
+              <p>Col. 3. ...</p>
+              <p>4. ...</p>
+              <p>5. ...</p>
+              <p>20. ...</p>
+              <p>21. ...</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C88">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 635</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <note>
+              <p>Ch. 73. VIII. 4 (635); 42 columns.</p>
+              <p>Col. 5. ...</p>
+              <p>6. ...</p>
+              <p>7. .../----</p>
+              <p>8. .../-----</p>
+              <p>9. ...</p>
+              <p>10. ...</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C89">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1481</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">[Ta Pan-jo po-lo-mi-to ching]</title>
+            <note>
+              <p>Vol. 73, fol. 52; 8 c. x 6 c.: 5 columns (incomplete, 13 characters in all): verso, parts of ll. 5 Tibetan.</p>
+              <p>A fragment of MS. concerning the Prajñā-pāramitā. Probably a part of the Ta Pan-jo po-lo-mi-to ching (Nanjio, no. 1, Taisho, V, no. 220).</p>
+              <p>1. ...</p>
+              <p>2. ...</p>
+              <p>3. ?...</p>
+              <p>4. ...</p>
+              <p>5. ...</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C90">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 404</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Fragment 48 (404); 2 foll., 7+8 columns (lower halves missing).</p>
+              <p>Fol 1. Praise of the divya-cakṣus (...) of A-na-lü or Aniruddha. Somewhat resembles the Fo wu-po ti-tzŭ tzŭ-shuo pên-ch'i ching (A-na-lü p'in) (Nanjio, no. 729, Taisho, IV, p. 198).</p>
+              <p>Fol. 2. Praise of the dhūta or dhuta (...) of Ta-chia-yeh or Mahākāśyapa. Somewhat resembles the Fo wu-po ti-tzŭ tzŭ-shuo pên-ch'i ching (Ta-chi-yeh p'in) (Nanjio, no. 729, Taisho, IV, p. 190).</p>
+              <p>Fragment 48 apparently contained Chinese and Tibetan versions of the same text on alternate folios: the Chinese version of the third Tibetan text (Maudgalyāyana-stotra) is lacking.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C91">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 763</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Ta pan-jo-po-lo-mi-to ching]</title>
+            <title lang="san-Latn">(Śata-sāhasrikā-prajñā-pāramitā)</title>
+            <note>
+              <p>Ch. 79. VI. 2 (763); 14 columns (10 incomplete).</p>
+              <p>Probably a fragment of the Ta pan-jo-po-lo-mi-to ching (Śata-sāhasrikā-prajñā-pāramitā), which remains to be identified. Discussion between the Buddha and Shan-hsien or Subhūti concerning yü-liu and i-lai-fo.</p>
+              <p>Col. 10. ...</p>
+              <p>11. ...</p>
+              <p>12. ---/.../----/...</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C92">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 631</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Ch. 9. I, frag. 55 (631); interlinear gloss to Tibetan text and 4 columns.</p>
+              <p>Nineteen Chinese terms of the P'u-sa-ti or Bodhisattva-bhūmi given to corresponding Tibetan names. The Chinese terms are taken from the Yü-chia-shih-ti-lun or Yogacaryā-bhūmi translated by Hsüan-chuang. Chinese names for four Yogacaryā-bhūmi are written in vermillion, verso, fol. 3.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.1170"/>
+              </bibl>
+              <bibl>
+                <ref target="T.1579">5, 478 ff.</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C93">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1773</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Tibt">De-shing cung-tsong kyen-he</title>
+            <title lang="chi-Latn">Ta-ch'êng chung-tsung chien-chieh</title>
+            <title lang="san-Latn">(Mahāyāna-mādhyamika-darśana)</title>
+            <note>
+              <p>Ch. 80. XI; 227 c. x 27 c.: 127 columns, with Tibetan transcriptions.</p>
+              <p>F. W. Thomas, S. Miyamoto, and G. L. M. Clauson, A Chinese Mahāyāna Catechism in Tibetan and Chinese Characters, J.R.A.S., 1929, pp. 37-76, where a photograph showing the initial 21 columns is published; S. Miyamoto, Daijô-chûsô-kenge oyobi sono kenkyû, Shûkyô kenkyû, New Series V. 4, 1929, pp. 103-28; Lo Ch'ang-p'ei, T'ang Wu-tai Hsi-pei fang-yin (Academia Sinica. The National Research Institute of History and Philology Monographs, Ser. A, no. 12), Shanghai 1933.</p>
+              <p>In this MS., Tibetan transcription is given to Chinese characters on the right side. A portion of this catechism appears in two other MSS, C94 and C131 which is written in Tibetan characters. Compare a facsimile reproduction and description of the MSS. in J.R.A.S., 1929, pp. 37 ff.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C94">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 530</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="2">
+            <note>
+              <p>Ch. 84. VI. 1 (530); foll. 15, 7 columns on each (fol. 1a, 13a, 15b blank): written by three hands or by the same scribe at different times.</p>
+              <p>A worn-out booklet of 15 leaves. Consists of five parts:</p>
+              <p>A. (1b) A poem of 28 characters.</p>
+              <p>B. (2a-5b) Pu-sa-wên or prayer read on the days of poṣadha or uposatha. These are several kinds of the days of poṣadha (cf. Taisho, LXXXV, pp. 1299-1300; Yabuki, Meisa Yoin Kaisetsu, Pt. 1, pp. 233-6; Mochizuki, Bukkyô Daijiten, etc.), and the prayer of this MS. was read on the 8th, 15th, and 30th of every month. It is quite different from those published in the Taisho, LXXXV, p. 1301.</p>
+              <p>C. (6a-11b) A catechism on the Hsiao-ch'êng san-k'o, which explains about the san-pao, ssŭ-ti, lu-kên, lu-ch'ên, lu-shih, shih-pa-chieh, and chiu-wu (ssŭ-tai and wu-yün). This portion is similar to the corresponding part of the Ta-ch'êng chung-tsung chien-chieh, C93.</p>
+              <p>D. (11b-12a) Ch'êng-chiu ta-wei-li pu-k'o-shuo-chin jo-yu-yü or Chin-kang-chou Vajra-Dhāraṇī which has a power, too great to be explained, to accomplish everything one wants.</p>
+              <p>E. (13b-15a) Tibetan text.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C95">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 717</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Vol. 33, fol. 1 (717); 4 columns.</p>
+              <p>Notes concerning, or a translation of, the Tibetan text on the same folio?</p>
+              <p>Recto:</p>
+              <p>Col. 1. ...</p>
+              <p>Verso:</p>
+              <p>Col. 2. ...</p>
+              <p>3. ...</p>
+              <p>4. ...</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C96">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 3</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="2">
+            <note>
+              <p>Ch. 73. VII, frag. A. 7 (3); 13 columns (in three parts, 5+3+3).</p>
+              <p>May be a composition of the scribe himself written in vermillion by way of pastime. Consisits of three parts. Pt. 1: 'In the Garden of Ryagrodha (To-kên-shu-yûan) in the castle Kapila-vastu, Māṇava (Mo-na-p'o) gave birth to a daughter named Ming-yüeh. She will be able to make herself a queen to a great king even when she is of mean birth, if she has got on her palm such signs as, etc., etc.' Pt. 2: 'Prasenajit (Shêng-kuang), the Great, had two wives, Śrīmālā (Shêng-man) and Varśakara (Hsing-yü). Both of them were of such beauty as, etc., etc.' Pt. 3 explains the inevitability and permanence of relations between the cause and its effects.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C97">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 218</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="2">
+            <note>
+              <p>Ch. 03. 20 (218); 5 columns: in red, by the same hand as C96.</p>
+              <p>Probably written by way of pasttime. The meaning is not so clear. 'The banana-tree brings forth bananas, the bamboo bamboo shoots. The swift steed becomes pregnant. Such are harmful to themselves (i. e. to banana-tree, bamboo, and the swift steed). Profit, nourishment, and honour are things which the foolish are very fond of. But they can injure the good doctrine (shan-fa). These things will be compared to a sword which cuts off one's head.'</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C98">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 754(a)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Ch. 83. XI (754 part); 24 columns in seven parts: (a) 6: (b) 4: (c) 1: (d) 3: (e) 2: (f) 3: (g) 1: (h) 4: between (a) and (b), (f) and (g), and (g) and (h) are inserted three letters in Tibetan: (c) is written upside down in a different hand from the others.</p>
+              <p>F. W. Thomas, A Chinese Buddhist Pilgrim's Letters of Introduction, J.R.A.S., 1927, p. 547 and n. 1, p. 548.</p>
+              <p>It seems that the Chinese texts (a)-(h) are memoranda taken by a Chinese Buddhist monk of high reputation, who is called ho-shang (hva.śan) in the Tibetan letters of introduction above mentioned and who was going to Nālanda from Wu-t'ai-shan via Leṅ-cu
+
+                                <note type="footnote">Leṅ-cu is probably identical with Ling-chou, and not with Lan-chou as was suggested by Thomas (J.R.A.S., 1927, p. 548). According to the Hsi-t'ien lu-ching (British Museum, S. 383, Giles, Descriptive Catalogue, no. 7142), which is an itinerary from Tung-ching (not Lo-yang as Giles says, but the capital of Sung (960-1127) or what is now K'ai-fêng) to Nālanda, one went to Ling-chou, Kan-chou, Su-chou, Yü-mên-kuan, Sa-chou, and so on. Concerning Tsoṅ-ka, wherefrom Tsoṅ-kha-pa (bTsoṅ-kha-pa) came, see my note in the Môko Gakuhô, i, 1913, pp. 149-50. Cf. also G. Devéria, Histoire des Collèges des Interprètes de Péking, 1896, p. 41 n. 22.</note>, Kam-cu, and Sa-cu or Tun-huang. But (c), which consists of three characters Lung-hing-ssǔ, is obviously written by a man who was likely to have suggested the visit by this ho-shang to Lung-hsing-ssŭ temple at Tun-huang (as for Lung-hsing-ssŭ see Giles, Descriptive Catalogue, Index). The content of these memoranda is almost incomprehensible except that of (d) which is a mantra transcribed in Chinese characters. Anyway, the Chinese texts have no direct concern with Tibetan letters of introduction, Tsoṅ-ka being the only proper name which is common to both Chinese text (h) and Tibetan letter (B). As for the Tibetan letters see Thomas's article referred to above.
+
+                            </p>
+              <p>For the other texts in this MS. see C1 and 121.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C99">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 120.12</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <note>
+              <p>Ch. 74. VI. 30 (120); 19 columns.</p>
+              <p>A note on the number of sheets of paper given to copyists to copy the Pan-jo-ching or Prajñā-pāramitā-sūtra at Pao-ên-ssŭ. As for Pao-ên-ssŭ monastery see Giles, Descriptive Catalogue, Index.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C100">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 101</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">Chung-yang Huang-lao yüan-su-chün Ta-tung chên-ching</title>
+            <note>
+              <p>Ch. 75. IV. 2 (101); 37 columns: the character shih is written in an abridged style, which means that the MS. was copied under the T'ang dynasty, during or after the reign of Tai-tsung (Li Shih-min, 628-49).</p>
+              <p>The latter half of the MS. (24th-37th columns) corresponds to the Shang-ch'ing ta-tung chên-ching, fasc. 2, 2a-2b, of the Tao-tsang, vol. 16, ed. Shanghai.</p>
+              <p>On the 23rd column we see the title Chung-yang Huang-lao yüan-su-chün Ta-tung chên-ching Ti san-shih-chiu chang and on the 24th Kao-shang Hsü-huang-chün tao-ching Ti i. In the printed edition of Tao-tsang (reprint of the Ming edition by the Commercial Press in a smaller size) a passage of 14 columns is inserted between the 24th and 25th columns of the present text. The first half (1st to 22nd columns) of the MS. is yet to be identified.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C101">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 852</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">[T'ai-shang tung-yüan shên-chou ching, fasc. 7.]</title>
+            <note>
+              <p>Ch. 86. IV verso, Scroll; 25 c. x 26 c.: 14 columns.</p>
+              <p>The T'ai-shang tung-yüan shên-chou ching of the current edition is prefaced by Tu Kuang-t'ing (850-933). This fragment lacks four columns which are inserted between fol. 13a(4)-(7) of the current edition.</p>
+              <p>For the text recto of this MS. see C119.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C102">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 672</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <note>
+              <p>Ch. 77. X. 6 verso (672); 25 columns: the same hand as C101?</p>
+              <p>A part of a Taoist canonical work, yet to be identified.</p>
+              <p>Col. 4-5: ...</p>
+              <p>9: ...</p>
+              <p>13-14: ...</p>
+              <p>For the text recto of this MS. see C76.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C103">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1358(A)</idno>
+          <idno type="current">IOL Tib J 1358(B)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">[Lun-yü chi-chieh]</title>
+            <note>
+              <p>Ch. 73. VIII, frag. 6, two fragments of scroll; 27 c. and 24 c. x 27 c. (original width): 17+10 columns (six complete, lower halves of the rest missing): Tibetan verso writing exercises.</p>
+              <p>A fragment of the first chapter of the Lun-yü chi-chieh by Ho yen. Many MS. remains of the same book are preserved in the British Museum (Giles, Descriptive Catalogue, nos. 7088-7105) and the Bibliothèque Nationale.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C104">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 229</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <note>
+              <p>Vol. 69, foll. 35 and 34 (229); (a) 5 columns (main text 6 characters, the rest commentary; lower halves missing); (b) 3 columns (main text 5 characters, the rest commentary; lower halves missing).</p>
+              <p>Probably parts of the same work.</p>
+              <p>(a) May be a part of biographical account of Confucius. The main text says: ...</p>
+              <p>(b) Part of a dialogue between Lao-tsŭ and Confucius.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C105">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 4</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[T'ang-lü]</title>
+            <title lang="eng">'Penal code of T'ang'</title>
+            <note>
+              <p>Ch. 0045, Kh. scroll; 40 c. x 10 c.: 19 columns (including 6 of annotations, upper halves missing).</p>
+              <p>A fragment of a copy of the T'ang-lü contains a part of the Pu-wang-lü corresponding to the T'ang-lü in the T'ang-lü su-i, fasc. 28, pp. 18a-21a (ed. Suŭ-pu tsung-k'an san-pien). Some variants of texts. The Bibliothèque Nationale in Paris possesses two fragments of the T'ang-lü. One (P. 3252) is of 18 columns, of which 13 are complete, containing some articles of the Hu-hun-lü and the Chiu-k'u-lü. The other (P. 3608) is of 153 columns of the Chih-chih-lü (50 articles) and the Hu-hun-lü (33 articles). Cf. Wang (Chung-min), Pa-li Tun-huang ts'an-chüan hsü-lu, Pt. 1, 1936, fasc. 2, p. 7a-7b; Pt. 2, 1941, fasc. 2, p. 11a-11b, and Tun-huang ku-chieh hsü-lu (Peking 1958, pp. 140 ff.).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C106">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 854</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <note>
+              <p>Ch. 87. III? (109); 24 c. x 22 c.: 15 columns (incomplete)</p>
+              <p>A fragment of an extract of chü-chu-li or the fully annotated calendar, covering the 12th day of the 4th month to the 1st day of the 6th month of an unknown year. The 6th month is a short month (i.e. of 29 days) and corresponds to chi-wei and the 30th day of the 5th month to kêng-hsü. For remains of similar calendars see Giles, Descriptive Catalogue, nos. 7073-52; Wang (Chung-min), Tun-huang ku-chieh hsü-lu, Peking 1958, pp. 160-3, and his article in the Tung-fang tsa-chih, XXIV. 9, 1937.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C107">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 20</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Chia-shên Yang-tsi</title>
+            <title lang="eng">'Register of sheep in the year chia-shên'</title>
+            <note>
+              <p>Ch. I. 0021a, Kh. scroll; 81 c. x 31 c.: 15 columns (4+8+3).</p>
+              <p>Three registers of sheep in the year chia-shên. (a) is the registration of the number of sheep under the care of a shepherd named So Shêng-chu who has the title of Tu-t'ou, prepared on the 23rd day of the 6th month of the (sexagenary) year of chia-shên. (b) was prepared on the 11th day of the 2nd month of the year chia-shên for the sheep under the care of shepherd Tsao Yun(?)-an. This is said to be the 'Actual registration of the number of sheep surviving the period of invasion of several enemies, who were driven away'. And (c) was prepared on the 1st day of the 3rd month of the year of chia-shên for the sheep under the care of shepherd X (name is not deciphered) that 'survived the second invasion of enemy, who was driven away'. So chronologically they must be arranged in the order of (b), (c), and (a). The year chia-shên (924? or 984?) cannot be exactly identified for the moment. In the British Museum five MSS. of a similar nature are available (cf. Giles, Descriptive Catalogue, nos. 7744-8).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C108">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 107.1</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="2">
+            <note>
+              <p>Ch. 85. IX (107); 5 columns</p>
+              <p>An unfinished memorandum with the date of ... and the name of ... The year i-yu may correspond to 865, 925, or 985. Written on the left-hand margin of fol. 65 of Tibetan MS. 107 (vol. 57, fol. 141).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C109">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 21</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Ch. I. 0021a (bis), Kh. scroll; 76 c. x 25 c.: 11 columns.</p>
+              <p>Written from left to right. It seems that the text concerns praying to Buddha for good luck in the future and in the travel of an embassy of Khotan sent to Tun-huang under the rule of Chang Chin-shan. The sexagenary year Jên-wu in the text almost certainly corresponds to A.D. 922 and this proves the existence of the kingdom of Chin-shan in this year. As for the kingdom of Chin-shan cf. Wang (Chung-min), Chin-shan-kuo chui-shih ling-shih (Historical fragments concerning the kingdom of Chin-shan), Kuo-li Pei-p'ing-t'u-shu-kuan kuan-k'an, vol. 9, no. 6; Naba (Toshisada), Shirin, vol. 24, pp. 508, 510-11; Fujieda (Akira), Tôhô Gakuhô, Kyôtô, vols. 12 and 13.</p>
+              <p>1. ...</p>
+              <p>2. ...</p>
+              <p>3. ...</p>
+              <p>4. ...</p>
+              <p>5. ...</p>
+              <p>6. ...</p>
+              <p>7. ...</p>
+              <p>8. ...</p>
+              <p>9. ...</p>
+              <p>10. ...</p>
+              <p>11. ...</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C110">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1300</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Vol. 69, fol. 17; 4 c. x 27 c.: 3 columns (very incomplete): a fragment probably used for patching a Tibetan MS., cf. C115.</p>
+              <p>An order for cereals, liquor, milk, and so on. Very difficult to decipher owing to the glue which covers the paper.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C111">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.2">
+            <note>
+              <p>Ch. 0047, Kh. scroll; 128 c. x 31 c.: 6 columns, written on the blank space at the end of the Khotanese text.</p>
+              <p>A part of a memorandum concerning supply of oil, leaven, rice and wheat to monks.</p>
+              <p>For the text recto see C63.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C112">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1404</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <note>
+              <p>Vol. 72, fol. 72; 62 c. x 31 c.: 13 columns, (a) 2, (b) 3, (c) 8, lower halves missing: (a) and (c) probably the same hand.</p>
+              <p>(a) A part of a memorandum concerning provisions(?) supplied to the Shang-shu ping-ma (shih?) who was going to the east, which runs as follows:</p>
+              <p>1. -----/...</p>
+              <p>2. ----/...</p>
+            </note>
+          </msItem>
+          <msItem n="V.2">
+            <title lang="san-Latn">([unknown]</title>
+            <note>
+              <p>(b) A part of a memorandum written by another hand than (a) and (c), concerning supply of provisions to the T'u-hun people at the time when the Shang-shu ping-ma went to the east. The text runs as follows:</p>
+              <p>1. ----/...</p>
+              <p>2. ----/...</p>
+              <p>3. ----/...</p>
+            </note>
+          </msItem>
+          <msItem n="V.3">
+            <title lang="san-Latn">([unknown]</title>
+            <note>
+              <p>(c) A part of a memorandum, pasted upside-down, concerning the consumption of rice, flour, and wheat. In the first column the date is given as Ch'ien-ning ting-ssŭ (A.D. 897). This may also indicate the date when (a) and (b) were written. The MSS. probably refer to the embassies sent to the Chinese court from Tun-huang. On these embassies see Naba (Toshisada), On the shê-i established by the Buddhists during the latter half of the T'ang, Shirin, XXIV, 1939, p. 778, and Fujieda (Akira), A history of Sa-chou Kuei-chün Chieh-tu-shih, Tôhô Gakuhô, Kyoto, 1942, pp. 520 ff. The fragment (c) runs as follows:</p>
+              <p>1. .../-----</p>
+              <p>2. .../----</p>
+              <p>3. ...(five letters, which follow, can not be deciphered).</p>
+              <p>4. ...</p>
+              <p>5. ...</p>
+              <p>6. ...</p>
+              <p>7. ...</p>
+              <p>8. ...</p>
+              <p>For the text recto see C129.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C113">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1405</idno>
+          <idno type="current">IOL Tib J 1406</idno>
+          <idno type="current">IOL Tib J 1407</idno>
+          <idno type="current">IOL Tib J 1408</idno>
+          <idno type="current">IOL Tib J 1409</idno>
+          <idno type="current">IOL Tib J 1410</idno>
+          <idno type="current">IOL Tib J 1411</idno>
+          <p>Ch. 77. II. 3; 33 columns, (a) 18, (b) 15: written by the same hand, very mediocre and difficult to decipher.</p>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">Tao(shê)-wên</title>
+            <note>
+              <p>A prayer for the welfare of members belonging to the same shê or to a club and village.</p>
+            </note>
+          </msItem>
+          <msItem n="V.2">
+            <title lang="chi-Latn">Lin-k'uang-wên</title>
+            <note>
+              <p>A lamentation read at a funeral ceremony in front of a tomb. These two seem to be used as a model of writing. As for prayers or addresses of similar nature see Naba (Toshisada) in Shirin, XXIV, pp. 550-1, 543-4, 744 ff.</p>
+              <p>For a description of the MS., and the text recto, see C130.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C114">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1012</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">Shê-ssŭ chuan-t'ieh</title>
+            <title lang="eng">(A club circular)</title>
+            <note>
+              <p>Ch. 82 back; fragment of scroll; 23 c. x 25 c.: 6 columns, verso+1 recto.</p>
+              <p>Many MSS. of the same nature are found in the British Museum (Giles, Descriptive Catalogue, nos. 7572 ff.) and in the Bibliothèque Nationale in Paris. The fragment is not dated and concerns a meeting for the memory of Liang Po-ming, a member of the club. The following titles and names are inscribed: Shê-[kuan] Li Hsiang, Shê-chang Yang An, Wang Chao, Ma Chia (Ku?), Tung Hun(?), Sung Yun, Chang Po-lin. For the clubs or unions of both secular people and Buddhist monks or nuns, which were established for the purpose of mutual aid or collaboration for religious matters, see Naba (Toshisada), Tōdai no Shayū ni tsukite, Shirin, XXIII (1923), pp. 223-65, 495-543, 729-93; id., Bukkyō shinkō ni motozukite soshikiseraretaru Chū-Bantō Jidai no Shayū ni tsukite, (1924), Shirin, XXIV, pp. 491-562, 743-93; Giles, B.S.O.S. IX, pp. 1025, 1038-40, X, p. 339, XI, pp. 156, 160.</p>
+              <p>The Tibetan, recto, is a memorandum about payments of barley and millet. The Chinese seems to be the last column of another club circular: only three characters are decipherable (a personal name?).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C115">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">[Shê-ssŭ chuan-t'ieh?]</title>
+            <title lang="eng">['A club circular'?]</title>
+            <note>
+              <p>Ch. 1292 (5); 5 columns, (a) 2, (b) 3: two fragments used to patch the paper for the Tibetan text recto.</p>
+              <p>These two pieces are a part of the same document, which seems to be a sort of circular of a club established by Buddhist monks (nuns?). The bottom of fragment (a) combines with the top of fragment (b). In (b) the following names are deciphered: Miao-wu, Shan-man, Pan-shêng-chüeh, Pao-chu.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C116">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.15000/438</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[K'ung-tzŭ pei-wên-shu]</title>
+            <note>
+              <p>Mi. XIV. 169; a fragment, 11 c. x 6 c., torn from the margin of a scroll: 4 columns (very fragmentary).</p>
+              <p>A much more complete fragment of the same work is found in the Pelliot Collection in the Bibliothèque Nationale in Paris (P. 2581). Cf. Une Bibliothèque médiévale retrouvée au Kan-sou, (B.E.F.E.O., 1908, p. 523), in which the title is wrongly given as ...</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C117">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 511(B)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Hsiang-shu</title>
+            <title lang="eng">'Book of physiognomy'</title>
+            <note>
+              <p>Ch. 87. XVI. 5 back; Scroll; 141 c. x 26 c.: 92 columns (last five incomplete): originally pasted on the back of Tibetan MS. 511.</p>
+              <p>Three MSS. of the same book are preserved in the Bibliothèque Nationale in Paris (P. 2527, 2797, 3589). Cf. Wang (Chung-min), Pa-li Tun-huang ts'an-chüan hsü-lu, Pt. 1, 1939, fasc. 3, pp. 6a-7b (= Tun-huang ku-chieh hsü-lu, Peking 1958, pp. 178-80). The present MS. of the Hsiang-shu, attributed to Hsü Fu and thirteen others of Han Dynasty, contains twenty-eight sections of the book, which properly consists of thirty-six sections. They are as follows:</p>
+              <p>1. Hsü (Preface)</p>
+              <p>2. Ch'ü-mao
+
+                                <note type="footnote">Paris MS. ...</note>(Appearance)
+
+                            </p>
+              <p>3. Wu-kuan (Five organs)</p>
+              <p>4. Lu-fu (Six organs)</p>
+              <p>5. Mien (Face)</p>
+              <p>6. Fa (Hair)</p>
+              <p>7. Ê (Forehead)</p>
+              <p>8. Mei (Eyebrow)</p>
+              <p>9. Yen (Eyes)</p>
+              <p>10. Pi (Nose)</p>
+              <p>11. Êrh-lei (Ears)</p>
+              <p>12. Pi-jên-chung (Centre of upper lip)</p>
+              <p>13. Ch'un (Lips)</p>
+              <p>14. K'uo (Mouth)</p>
+              <p>15. Ch'ih (Teeth)</p>
+              <p>16. Shê (Tongue)</p>
+              <p>17. Shêng (Voice)</p>
+              <p>18. I-han (Jaw and chin)</p>
+              <p>19. Hsiang-yü-chên
+
+                                <note type="footnote">P. ...</note>(Neck)
+
+                            </p>
+              <p>20. Pei
+
+                                <note type="footnote">P. ...</note>(Back)
+
+                            </p>
+              <p>21. Hsin-hsieh
+
+                                <note type="footnote">P. ...</note>(Breast)
+
+                            </p>
+              <p>22. Nai-ch'i
+
+                                <note type="footnote">P. ...</note>(Female breast and navel)
+
+                            </p>
+              <p>23. Yü-ching ta-ch'i
+
+                                <note type="footnote">P. ...</note>(Penis and testicles)
+
+                            </p>
+              <p>24. Pi-lai
+
+                                <note type="footnote">P. ...</note>(Leg)
+
+                            </p>
+              <p>25. Huai-chiao (Foot)</p>
+              <p>26. Hsing-pu
+
+                                <note type="footnote">P. ...</note>(Walk)
+
+                            </p>
+              <p>27. Pei-shou (Arm and hand)</p>
+              <p>28. [lacking] [?] ...</p>
+              <p>According to Wang Chung-min Paris MSS. have a character hsiang at the beginning of the name of each section, for instance .... The authors of the book, the present MS. says, are Hsü Fu, Li Ling, Tung Fang-shuo, Kuan Kung-ming, T'ao Yen, Kêng Kung, Chu Yün, [Ch'ien]-lou Hsien-shêng, Chang Liang, Lu Hsien-shêng, Shên-nung, Li Ku, and Chang Yü [P. ...], i.e. thirteen in all, while the Paris MSS. enumerate twelve, excluding Li Ku.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C118">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 756</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi-Latn">Chou-kung</name>
+            </author>
+            <title lang="chi-Latn">Hsien-hsien Chou-kung Chieh-mêng-shu</title>
+            <title lang="eng">'Book of Dream Reading written by Chou-kung (Prince Chou), ancient sage'</title>
+            <note>
+              <p>Fragment 58 (756); 42 columns, including titles.</p>
+              <p>The full title reads Hsien-hsien Chou-kung Chieh-mêng-shu i chüan ping Hsü (Book of Dream Reading in one fascicule written by Chou-kung, ancient sage, with a preface). The preface consists of 23 columns and the main text of 12. The main text includes the whole of the T'ien-pu Ti-i (Section 1, [Dreams] relating to the sky), which is followed merely by the title of Ti-pu Ti-êrh (Section 2, [Dreams] relating to the earth), the rest being left blank. It is, therefore, very obvious that the text is unfinished. In the Stein Collection at the British Museum there are three MSS. of 'Book of Dream Reading' (Giles, Descriptive Catalogue, nos. 6978-80), but none of them is identical with the present text. Only no. 6980 (S. 5900), which is stated to have been compiled from the Chou-kung Chieh-mêng-shu in 20 chapters, is similar to the present text in its content. In the Pelliot Collection at the Bibliothèque Nationale five MSS. entitled Chou-kung Chieh-mêng-shu are available (P. 2829, 3105, 3281, 3685, 3908, 3990).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C119">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 852</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Lan-t'ing-chi</title>
+            <title lang="chi-Latn">(Lan-t'ing hui-hsü)</title>
+            <title lang="chi-Latn">(Lan-t'ing-chi-hsü)</title>
+            <note>
+              <p>Ch. 86. IV. 3, Scroll, 26 c. x 26 c.: 3+1 columns.</p>
+              <p>A part of the Lan-t'ing-chi (or Lan-t'ing hui-hsü or Lan-t'ing-chi-hsü) of Wang Hsi-chih.</p>
+              <p>At the end Tibetan alphabets from ka to a are written three times probably for practice, and six Chinese characters (...) meaning room or house and corridor.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C120">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1240</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Ch. 73. III. 3, Scroll, 52 c. x 29 c.: 23 columns; semi-cursive hand, not easy to decipher: verso, T.t.d. II, p. 71.</p>
+              <p>A draft or copy of a prayer read at a Buddhist ceremony held by officials in order to pray for the recovery of a Shang-shu, their head, from illness. Only the middle portion remains, the beginning and ending part being lost. At the end of the last column eight characters ... ('On the birthday of the general he implanted the virtue') are inscribed by a different hand.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C121">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 754(c)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.3">
+            <title lang="chi-Latn">Liang-chou Yü-shan Kan-t'ung-ssŭ Shêng-yung t'ien-shang hsia-lai</title>
+            <title lang="eng">(The portrait of the Emperor has come down from Heaven to the Yü-shan Kan-t'ung-ssŭ Temple in Liang-chou.)</title>
+            <note>
+              <p>Ch. 83. XI (754 part); 16 columns.</p>
+              <p>A statement in commemoration of the completion of the temple Kan-t'ung-ssŭ where the portrait of the first Emperor of Pei-chou (A.D. 556) was hung. The last column reads: 'Written by monk Tao-chao on the 22nd day of the 6th month of the 6th year of Ch'ien-tê (577)' ... In the statement it is said that they asked for the portrait in the 9th Enoki mentions that the portrait was requested in the 9th year of the Pao-ting, but the Pao-ting reign period (561-5) did not last more than five years.</p>
+              <p>For the other texts in this MS. see C1 and 98.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C122">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 34</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Ch. 0049, a fragment, 18 c. x 9 c., torn from a Khotanese scroll: 5 columns recto+3 verso.</p>
+              <p>A part of a draft of a letter, lower half missing. No date. The name of Chin Ning-chu appears once on recto and once on verso. Recto titles such as Tso-chieh-(?)-fan t'ai-shih and Hou-ts'ao p'u-shê are inscribed.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C123">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.3">
+            <note>
+              <p>Ch. 0047, Kh. scroll; 128 c. x 31 c.: 16 characters written at random with the same pen as the Khotanese text.</p>
+              <p>A photograph is published by H. W. Bailey and E. H. Johnston (B.S.O.S. VIII, p. 77).</p>
+              <p>The character Liu is repeated ten times and the following characters are inscribed, ...; perhaps playing with words: .... tomorrow, ... the sky is bright (dawn); ... field, ... farmers.</p>
+              <p>For the other Chinese texts written on this MS. see C63 and 111.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C124">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.15000/149</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <note>
+              <p>M.T. iv. 00163, a fragment 4 c. x 2 c.: 2 columns (6 characters).</p>
+              <p>Small fragment of an unidentified MS. Only two characters wei and nien are decipherable.</p>
+              <p>Only a personal name (Mtsho-bzaṅ?) survives of the Tibetan recto.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C125">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1030</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Ch. 82. XI. 1, a fragment of scroll, 26 c. x 45 c.: 5 characters: Tibetan, scribbling in several hands.</p>
+              <p>The five characters are Ti wu shih liu chih. 'The 56th bundle.' This must have been a wrapping paper of a bundle of MSS. A chih or a wrapper of a bundle of MSS. or book in scrolls was usually a sort of bamboo-blind covered with silk cloth. But in this case paper was used instead probably for the reason of simlicity or of economy. Concerning the chih cf. Yê Te-hui, Shu-lin ch'ing-hua, fasc. 1; Naba (Toshisada), Shochitsu no rekishi, Rekishi to Chiri, XIX, nos. 3-5; Nagasawa (Kikuya), Kanseki Kaidai, Pt. 1, Tokyo, 1933, p. 5; id., Shina shoseki shôshi, Shoshigaku, I, 1939, no. 5, p. 24; Giles, B.S.O.S.A.S. XI, p. 157; Seiiki Kōko Zufu, vol. II (1). 2. In the Musée Guimet some originals of 'chih' are available (EO 1200, ...; EO 1208; EO 1209).</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C126">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 557</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <note>
+              <p>Fragment 69 (557); three characters.</p>
+              <p>Just three characters ... '(The) thirty-one bundle(s)'</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C127">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1459</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <note>
+              <p>Fragment 80, 15 c. x 16 c.: six characters.</p>
+              <p>The six characters are ... 'Sealed [by] Imperial order (or The imperial order and the seal), inherited from generation to generation'.</p>
+              <p>A scribble written on the back of a Tibetan MS., T.t.d. II, pp. 47-48.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C128">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 532</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Fragment 50 (532); 2 columns (14 characters).</p>
+              <p>A writing exercise. Repetition of some characters such as ..., ..., and ... No meaning.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C129">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1404</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">[Chin-kang pan-jo-po-lo-mi ching]</title>
+            <title lang="san-Latn">(Vajracchedikā-prajñāpāramitā-sūtra)</title>
+            <note>
+              <p>Vol. 72, fol. 72 and Fragment 32, two adjoining pieces of scroll; 62 c. x 31 c. and 16 c. x 18 c.: ll. 48 of Chinese in Tibetan script, dbu-med (a. ll. 1-38+parts of 39-40, 6 fragmentary and 24 more defective: b. parts of ll. 39-40+41-48, all defective at both ends).</p>
+              <p>F. W. Thomas and G. L. M. Clauson, A Chinese Buddhist Text in Tibetan Writing, J.R.A.S., 1926, pp. 508-26.</p>
+              <p>The text in Tibetan script is very close to the translation of Kumārajīva of the Taisho edition, but not exactly the same.</p>
+              <p>For the Chinese text's verso see C112 and 133.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="N.10"/>
+              </bibl>
+              <bibl>
+                <ref target="T.235">750c(8)-751b(22)</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C130">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1405</idno>
+          <idno type="current">IOL Tib J 1406</idno>
+          <idno type="current">IOL Tib J 1407</idno>
+          <idno type="current">IOL Tib J 1408</idno>
+          <idno type="current">IOL Tib J 1409</idno>
+          <idno type="current">IOL Tib J 1410</idno>
+          <idno type="current">IOL Tib J 1411</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Tibt">'bur sh+bar a myi 'da kyi</title>
+            <title lang="chi-Latn">[Fo-shuo-a-mi-t'o ching]</title>
+            <title lang="san-Latn">(Sukhāvatyamṛta-vyūha-sūtra)</title>
+            <title lang="san-Latn">(Sukhāvatī-vyūha)</title>
+            <note>
+              <p>Ch. 77. II. 3, Roll, 162 c. x 26 c.: Chinese in Tibetan script, dbu-can, two hands.</p>
+              <p>When discovered this MS. consisted of a roll of double paper: it has been separated, to reveal two copies of the text in Tibetan script. The first copy consists of nine columns (rules with 19 lines, but not all filled), of which the first column lacks the left half: verso is written another Chinese text (C113) and a Tibetan note. The second, superimposed, copy consists of five folios (of 15-17 lines), the fifth being a Tibetan colophon. Two rough miniatures of seated Buddhas were pasted upside down between folios 3-4 and 4-5. See F. W. Thomas and G. L. M. Clauson, A Second Chinese Buddhist Text in Tibetan Characters, J.R.A.S., 1927, pp. 281-306, and Supplementary note, pp. 858-60.</p>
+              <p>The text corresponds to the Chinese translation of Kumārajīva as printed in the Taisho Tripiṭaka, with some minor differences. This may tell us either that the text in the Taisho diverges to some extent from the original, or that there was more than one version of Kumārajīva's translation. Two fragments of the Sukhāvatī-vyūha in Chinese characters are available in the Stein collection, C44 and 45.</p>
+              <listBibl>
+                <bibl>
+                  <ref target="N.200"/>
+                </bibl>
+                <bibl>
+                  <ref target="T.366">347a(25)-348a(29)</ref>
+                </bibl>
+              </listBibl>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C131">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1772</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Ch. 9. II. 17, Scroll, 440 c. x 30 c.: ll. 290 recto+196 verso; Chinese in Tibetan script, dbu-med.</p>
+              <p>The contents of this MS. ('the Long Scroll') are described by W. Simon, A Note on Chinese Texts in Tibetan Transcription, B.S.O.A.S. XXI, 1958, pp. 334-43, where ll. 1-6 recto are retranscribed into Chinese. Ll. 90-94, the initial part of the Treatise on Zen by Bodhidharma, are identical with Pelliot MS. no. 1228, which is also retranscribed by Simon, ibid., pp. 341-2. See also F. W. Thomas, S. Miyamoto, and G. L. M. Clauson, A Chinese Mahāyāna Catechism in Tibetan and Chinese Characters, J.R.A.S., 1929, pp. 37-76, for a comparison of the portion of the text parallel to Ch. 80. XI (C93) and a photograph of ll. 1-14 recto. A retranscription into Chinese characters by Kuno (Hôryû) is finished or nearly finished for the following lines: recto, 4-46, 90-117, 215-22, 262-7, 278-90; verso, 46-52, 92-95, 115-96.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C132">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 849</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi-Latn">Chou Hsing-ssŭ</name>
+            </author>
+            <title lang="chi-Latn">Ch'ien-tzŭ-wên</title>
+            <note>
+              <p>Ch. 86. II back, Scroll; 26 c. x 27 c.: 6 columns (4+2)+ll. 12 Tibetan.</p>
+              <p>In Chinese characters are inscribed the title, the name of the author with his official title, and the beginning of the Ch'ien-tzŭ-wên. For the Ch'ien-tzŭ-wên see Pelliot, Le Ts'ien tseu wen ou 'Livre du mille mots', T.P. XXIV, 1926, pp. 179-214, 293. Four MSS. of the work are available in the Stein collection at the British Museum (Giles, Descriptive Catalogue, nos. 2824, 7153, 7166, 7273).</p>
+              <p>The blank space before the Chinese title and between the title and beginning of the text has been filled by a Tibetan scribe, probably by way of writing practice, with brief notes on Buddhist topics (the eightfold way, etc.). The first two lines of Tibetan writing are, however, a transcription of the Chinese text:</p>
+              <p>tshyan dzi bun [...] chig [...] 'wen [...] 'gwa [...] san [...] gi [...] shi [...] lang [...] ce'u [...] hing [...] si [...] dzi [...] 'win [...] then [...] de [...] hwan [...] hwang [...]
+
+                                <note type="footnote">The Chinese characters are given by the cataloguer.</note></p>
+              <p>The Ch'ien-tzŭ-wên in Tibetan script in the Pelliot Collection at the Bibliothèque Nationale (P. 3419) is well known and has been published and studied by Haneda (Tôru), Bankan Taion Sen-jimon no dankan Tôyô Gakuhô, XIII, 1923, pp. 390-410 (with photographs of the text) and Tonkô Isho, 1926, Tokyo; by Lo Ch'ang-p'ei, T'ang Wu-tai Hsi-pei fang-yin (Academia Sinica. The National Research Institute of History and Philology Monographs, Ser. A, no. 12), Shanghai, 1933; and by Zaitsu (Aizô) Tonkôshutsudo kanzô taion no zairyô to Inkyô tono hikaku, Pt. 1, Tôŷôgaku Sôhen, vol. 1, 1934, Tokyo, pp. 105-53. Cf. also mentions made by Pelliot in J.A. XIX, 1912, pp. 584, 589-90, By Maspero in B.E.F.E.O. XX. ii, pp. 21, 32, 37, 41, 46-50, and by W. Simon in B.S.O.A.S. XXI. 2, 1958, p. 334.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C133">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1404</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.4">
+            <note>
+              <p>Vol. 72, fol. 72 (verso of C129); ll. 4, fragmentary and faint, Chinese in Tibetan script?</p>
+              <p>The text seems not to be Tibetan, but a transcription of a non-Tibetan text in Tibetan script. The original text may be in Chinese.</p>
+              <p>Line 1. ...'gar cir zhir la' man sam tu pha' sags...</p>
+              <p>2. ...bog pan kham si zhir tse shi mja to zhir...</p>
+              <p>3. ...do pha' sagu sam stasi 'gare par zhir pha...</p>
+              <p>4. ...sam tu tan ta kham shi zhin man pa' yung par zhir zhi...</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C134">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Khot S 7</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Brah">Kîṃmi kâṃ paśa palabîri kye</title>
+            <title lang="chi-Latn">[Chin-kang pan-jo-po-lo-mi-to ching]</title>
+            <title lang="san-Latn">(Vajracchedikā-prajñā-pāramitā-sūtra)</title>
+            <note>
+              <p>Ch. 00120, Scroll; 234 c. x 25 c.: ll. 23+70 Chinese in Brāhmī script.</p>
+              <p>(a) The initial 23 lines, which are 'Introductory prayers' to the Vajracchedikā, were published by H. W. Bailey, Vajra-prajñā-pāramitā, Z.D.M.G. CXII, 1938, pp. 582-3. Among them, ll. 1-11 are identical with the text printed in the Taisho, LXXXV, no. 2732, p. 1a(23)-1b(5); ll. 11-19 with that in the Dainihon Zoku-Zôkyô, 2nd series, B, fasc. 2, p. 131a(b15)-b(a3); and ll. 19-23, with ibid., p. 131b(b4-b8). The identification of the Chinese text of this portion follows W. Simon, A Note on Chinese Texts in Tibetan Transcription, B.S.O.A.S. XXI, 1958, p. 335 n.3.</p>
+              <p>(b) The text of the Vajracchedikā, which starts from the 24th line, is printed in the Taisho, VIII, no. 235, pp. 748c(18)-749b(18). The identification of the Chinese text and its study were published by F. W. Thomas, A Buddhist Chinese Text in Brâhmî Script, Z.D.M.G. XCI, 1937, pp. 1-48, together with a fine reproduction of the text in 3 plates. For further particulars see H. W. Bailey's article mentioned above, F. W. Thomas, Notes in Consideration of Professor Bailey's Critical Observations, Z.D.M.G. XCII, 1938, pp. 594-604, and Postscripts by Bailey and Thomas, ibid., pp. 605-6, 606-10.</p>
+              <p>For the text recto of this MS. see C54.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C135">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 471</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Fragment 89 (471); 3 columns.</p>
+              <p>An interlinear transcription in Chinese characters of the initial three lines of the Sanskrit mantra in Tibetan script.</p>
+              <p>(1) na ... ma ... sa ... rba ... ta ... tha ... ga ... ta ... ya .../na ... mo rad[?] na ... tra ... yA ... yA [...]/na ... mo ... a ... myi ... t+ha ... ba ... ya .../ta ... tha ... ga ... ta ... ya .../a ... ra ... ha ... te .../sam ...(2) myag ... sam ... bud ... d+ha ... ya [...]/na ... mo ... a ... rya ... pa ... lo ... ke ... ti ... shwa ... ra/[ya] ... bO ... d+hi ... sad ... twa ... ya [...]/mA ... ha ... sAd ... twa .../yA .../ma ... ha ... ka ... ru ... ni ...(3) ka ... ya .../ (Namaḥ sarva - tathāgatāya//namo ratnatrayāyā / / namo amitābhāya tathāgatāya arhato samyak - sambuddhāya//namo āryāvalokiteśvarāya bodhisattvāya mahāsattvāya mahā-kāruṇikāya//...)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="KE" n="C136">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 537</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <note>
+              <p>Ch. 73. VIII. 13 (537): A. 7 columns Chinese interlinear transcription of the Tibetan; B. 1 column; C. 2 columns; D. (verso) 1 column.</p>
+              <p>(A) is a dhāraṇī concerning fifteen devas, including the Devas of the Four Directions (cāturmahā-rājikā-devāḥ). Sanskrit names of these devas are transcribed in Tibetan characters, to which Chinese characters of equivalent sound are given. As for the Devas of the Four Directions, the directions are written in Chinese, which do not appear in Tibetan script. Text reads as follows:</p>
+              <p>(1) OM ...
+
+                                <note type="footnote">dhṛtarāṣṭrāya svāhā</note>tre ... su ...[?]... ra ... ya ... (for ...?) sba ... hA(?) .../OM ...
+
+                                <note type="footnote">virūḍhakāya svāhā</note>b+hi ... ru ... dab ... ka ... ya ... sba ... hA(?) .../OM ...
+
+                                <note type="footnote">virūpākṣāya svāhā</note>b+he ... da ...(crossed out) ru ... (2) bag ... k+sha ... ye ... sba ... hA(?) .../ba[?]/OM ...
+
+                                <note type="footnote">vaiśravaṇāya svāhā</note>b+hi ... sha ...[?]... ra ... ma ... ne ... ye ... sba ... hA(?) .../ (3) OM ...
+
+                                <note type="footnote">īśanāya svāhā</note>i ... sha ... na ...[?]... ye ... sba ... hA(?) .../OM ...
+
+                                <note type="footnote">indrāya svāhā</note>yin ... dre ... ye ... sba ... hA(?) .../OM ...
+
+                                <note type="footnote">agnaya svāhā</note>yag ... (4) ne ... [ye] ... sba ... hA(?) .../OM ...
+
+                                <note type="footnote">nirṛitya svāhā</note>ni ... ri ... te ...[?]... ye ... sba ... hA(?) .../OM ...
+
+                                <note type="footnote">varunāya svāhā</note>ba ... ru ... na ... ye ... sba ... hA(?) .../ (5) OM ...
+
+                                <note type="footnote">vāyave svāhā</note>ba ... yu? b+he ... ye [...] sba ... hA(?) .../OM ...
+
+                                <note type="footnote">kuverāye svāhā</note>ku ... b+he ... ra ... ye ... sba ... hA(?) .../OM ...
+
+                                <note type="footnote">?</note>yur ... ta ... a ... te[?] (6) pa ...[ ]... ye ... sba ... hA(?) .../OM ...
+
+                                <note type="footnote">?</note>ne ... ri ... te ... a ... ta[?] pa ...[ ]... ne ... [for ...?] sba ... hA(?) ... OM ...
+
+                                <note type="footnote">deva-candrāya svāhā</note>de ... ba ... can ... dra ... ye ... sba ... hA(?) .../ (7) OM ...
+
+                                <note type="footnote">deva-sūryāya svāhā</note>de ... ba ... sur ... ya ... [for ...?] ye ... [for ...?] sba ... hA(?) .../
+
+                            </p>
+              <p>It is obvious that the transcription in Chinese characters is not always faithful to the Tibetan transcription.</p>
+            </note>
+          </msItem>
+          <msItem n="R.2">
+            <note>
+              <p>(B) The mantra reads as follows:</p>
+              <p>(a) ... (oṃ) ... (sarva) ... (vajra) ... (huṃphaṭ)</p>
+              <p>(b) ... (oṃ) ... (huṃphaṭ)</p>
+            </note>
+          </msItem>
+          <msItem n="R.3">
+            <note>
+              <p>(C) A gāthā which is to be recited when one washes the images of Buddha. It resembles very much the gāthā in the Yü-hsiang kung-tê ching (Nanjio, no. 293: Taisho, XVI, no. 697, p. 799b(13-13) translated by Ratnacinta, which had been usually used in the medieval period in China (see Mochizuki, Bukkyô Daijiten, 1, p. 822(b-c)).</p>
+            </note>
+          </msItem>
+          <msItem n="V.1">
+            <note>
+              <p>(D) Probably a portion of a mantra. Merely five characters which runs as follows:</p>
+              <p>... (oṃ) ... (sarva) ...(?)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

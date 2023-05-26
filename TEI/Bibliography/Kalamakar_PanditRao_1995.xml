@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Kalamakar_PanditRao_1995">
+    <author n="1">Kalamakar, G.</author>
+    <author n="2"> Pandit Rao, V.</author>
+    <title level="m" lang="eng">Conservation, preservation and restoration : traditions, trends and techniques</title>
+    <imprint>
+      <pubPlace>Hyderabad</pubPlace>
+      <publisher>Birla Archaeological and Cultural Research Institute</publisher>
+      <date>1995</date>
+    </imprint>
+    <keywords>Conservation</keywords>
+    <keywords>Preservation</keywords>
+    <genBibl>conservation</genBibl>
+  </bibl>
+</listBibl>

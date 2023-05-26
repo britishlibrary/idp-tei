@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Legge_1885">
+    <author>Legge, J.</author>
+    <title level="m" lang="eng">The Li Chi</title>
+    <imprint>
+      <pubPlace>New York</pubPlace>
+      <publisher>University Books</publisher>
+      <date>1885</date>
+      <edition>new ed. <date>1967</date></edition>
+    </imprint>
+    <note/>
+    <keywords/>
+    <genBibl>astronomy</genBibl>
+  </bibl>
+</listBibl>

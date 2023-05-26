@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Bai_Wei_2004">
+  <author lang="chi-Latn">Bai Wei</author>
+  <author lang="chi-Hant">&#x767D;&#x5DCD;</author>
+  <title level="m" lang="chi-Latn">Song liao jin xixia huihua shi</title>
+  <title level="m" lang="chi-Hant">&#x5B8B;&#x907C;&#x91D1;&#x897F;&#x590F;&#x7E6A;&#x756B;&#x53F2;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Fuzhou</pubPlace>
+    <publisher>Haifeng chubanshe</publisher>
+    <date>2004</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>Painting</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

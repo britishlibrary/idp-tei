@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Stephenson_1994">
+    <author>Stephenson, F. Richard</author>
+    <title type="a" lang="eng">Chinese and Korean Star Maps and Catalogs</title>
+    <imprint>
+      <title type="m" lang="eng">Harley_Woodward_1994</title>
+      <pubPlace>Chicago</pubPlace>
+      <publisher>The University of Chicago Press</publisher>
+      <date>1994</date>
+    </imprint>
+  </bibl>
+</listBibl>

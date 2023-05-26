@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="UNESCO_etal_2000">
+    <author n="1">Unesco</author>
+    <author n="2">Mistero Affri Esteri Italy</author>
+    <author n="3">World Bank</author>
+    <title level="m" lang="eng">Culture Counts : Financing, Resources, and the Economics of Culture in Sustainable Development : Proceedings of the Conference Held in Florence, Italy, October 4-7, 1999</title>
+    <imprint>
+      <pubPlace>Washington D.C.</pubPlace>
+      <publisher>World Bank</publisher>
+      <date>2000</date>
+    </imprint>
+    <keywords>Culture</keywords>
+    <keywords>Economy</keywords>
+    <keywords>Development</keywords>
+    <genBibl>conservation</genBibl>
+  </bibl>
+</listBibl>

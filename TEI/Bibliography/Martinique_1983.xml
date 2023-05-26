@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Martinique_1983">
+    <author>Martinique, Edward</author>
+    <title level="m" lang="eng">Chinese Traditional Bookbinding: a Study of its Evolution and Techniques</title>
+    <imprint>
+      <pubPlace>San Francisco</pubPlace>
+      <publisher>Chinese Materials Center</publisher>
+      <date>1983</date>
+    </imprint>
+    <genBibl>bookbinding</genBibl>
+    <genBibl>Conservation</genBibl>
+  </bibl>
+</listBibl>

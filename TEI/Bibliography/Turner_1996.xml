@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Turner_1996">
+  <editor>Turner, Jane</editor>
+  <title level="m" lang="eng">The Dictionary of Art</title>
+  <imprint>
+    <pubPlace>London</pubPlace>
+    <publisher>Macmillan</publisher>
+    <date>1996</date>
+    <biblScope type="pp">883-885</biblScope>
+    <idno type="ISBN">1884446000 9781884446009</idno>
+  </imprint>
+</bibl>

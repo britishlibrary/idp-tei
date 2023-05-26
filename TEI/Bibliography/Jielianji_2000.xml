@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Jielianji_2000">
+  <author lang="chi-Latn">&#x410;.&#x41F;.jie lian ji ye fu-ka tan siji</author>
+  <author lang="chi-Hant">(&#x4FC4;)&#x410;.&#x41F;.&#x6377;&#x9023;&#x63D0;&#x8036;&#x592B;-&#x5361;&#x5766;&#x65AF;&#x57FA;</author>
+  <title level="m" lang="chi-Latn">Xixia shuji ye</title>
+  <title level="m" lang="chi-Hant">&#x897F;&#x590F;&#x66F8;&#x7C4D;&#x696D;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Yinchuan</pubPlace>
+    <publisher>Ningxia renmin chubanshe</publisher>
+    <date>2000</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>Books</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

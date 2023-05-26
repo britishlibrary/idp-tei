@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Hori_2002">
+    <author>Shin’ichirō Hori</author>
+    <title level="a" lang="ger">Gaṇḍavyūha-Fragmente der Turfansammlung</title>
+    <imprint>
+      <title level="j" lang="eng" type="shortRef">JICABS</title>
+      <biblScope type="issue">V</biblScope>
+      <date>2002</date>
+      <biblScope type="pp">118-99</biblScope>
+    </imprint>
+    <note/>
+    <keywords>manuscript</keywords>
+    <keywords>sanskrit</keywords>
+    <keywords>turfan</keywords>
+    <keywords>SHT</keywords>
+    <keywords>buddhism</keywords>
+  </bibl>
+</listBibl>

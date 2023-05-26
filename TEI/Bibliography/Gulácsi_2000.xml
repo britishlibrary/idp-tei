@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Gulácsi_2000">
+    <author>Gulácsi, Zsuzsanna</author>
+    <title level="a" lang="eng">Rules of Page Arrangement in Manichaean Illuminated Books</title>
+    <imprint>
+      <title level="m" lang="eng">Sundermann_2000</title>
+      <biblScope type="pp">270-307</biblScope>
+      <date>1997</date>
+    </imprint>
+    <note/>
+    <keywords>Manichaean Illuminated Books</keywords>
+    <genBibl>manichaean</genBibl>
+  </bibl>
+</listBibl>

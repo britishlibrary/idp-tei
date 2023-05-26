@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kharoṣṭhi Manuscripts (References and Links)</title>
+        <author id="SvS">Sam van Schaik</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>International Dunhuang Project</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2013</date>
+      </publicationStmt>
+      <editionStmt>
+        <edition>First electronic edition</edition>
+        <date>2013</date>
+        <respStmt>
+          <resp>XML encoding</resp>
+          <name>
+            <persName>Sam van Schaik</persName>
+            <orgName>International Dunhuang Project</orgName>
+          </name>
+        </respStmt>
+      </editionStmt>
+      <sourceDesc>
+        <p>Original electronic document</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>XML (TEI) mark up of electronic text of Burrow's book of
+                translations.</projectDesc>
+      <editorialDecl>Imported to 4D on 18/09/2013 by Sam van Schaik.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This catalogue is based on the classification of the Kharoṣṭhi manuscripts in the British Library collections by Richard Salomon (1999), and incorporates Salomon's measurements of the scrolls. The catalogue numbers correspond to the "Fragment" numbers of Salamon's catalogue, and the "BL" numbers of <link url="http://www.gandhari.org">Gandhari.org</link> and more recent publications. The catalogue numbers relate to the original scrolls, and so may include several of glass frames, each of which has its own British Library pressmark in the Or.14915 sequence. The present catalogue contains direct links to the catalogue and transcriptions on the <link url="http://www.gandhari.org">Gandhari.org</link> website, as well as bibliographical references to works on the manuscripts, and notes on works currently in progress.</p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (1)</idno>
+          <idno type="current">Or.14915 (2)</idno>
+          <idno type="current">Or.14915 (3)</idno>
+          <idno type="current">Or.14915 (4)</idno>
+          <idno type="current">Or.14915 (5)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frames 1–5, 14.5 × 154.8 cm</p>
+              <p>CKM1 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0001">www.gandhari.org</link></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Salomon_2008" type="no"/>
+              </bibl>
+              <bibl>
+                <ref target="Lenz_2010" type="no"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (6)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frame 6, 11.2 × 23 cm</p>
+              <p>CKM2 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0002">www.gandhari.org</link></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Lenz_2010" type="no"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3A">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (7)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frame 7, 10.5 × 8.9 cm, 7 × 6 cm</p>
+              <p>CKM3 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0003">www.gandhari.org</link></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Lenz_2010" type="no"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3B">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (7)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frame 7, 10 × 4.5 cm</p>
+              <p>CKM4 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0004">www.gandhari.org</link></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Lenz_2010" type="no"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="4">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (8)</idno>
+          <idno type="current">Or.14915 (9)</idno>
+          <idno type="current">Or.14915 (10)</idno>
+          <idno type="current">Or.14915 (11)</idno>
+          <idno type="current">Or.14915 (12)</idno>
+          <idno type="current">Or.14915 (13)</idno>
+          <idno type="current">Or.14915 (14)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frames 8-14, 16.3 × 213.4 cm</p>
+              <p>CKM5 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0005">www.gandhari.org</link></p>
+              <p>Publication in progress: Stefan Baums, Timothy Lenz and Jason
+                                Neelis</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="5A">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (15)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frame 15, 8.2 × 3.5 cm</p>
+              <p>CKM6 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0006">www.gandhari.org</link></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Salomon_2000" type="no"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="5B">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (15)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frame 15, 24 × 41.5 cm</p>
+              <p>CKM7 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0007">www.gandhari.org</link></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Salomon_2000" type="no"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="5C">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (15)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frame 15, 24 × 13 cm</p>
+              <p>CKM8 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0008">www.gandhari.org</link></p>
+              <p>Publication in progress: Stefan Baums</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (16)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frame 16, 5.5. x 24.6 cm</p>
+              <p>Sanskrit text in Brāhmī script, not on www.gandhari.org.</p>
+              <p>Publication in progress: Stefan Baums</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (17)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frame 17, 11. x 6 cm (combined size of fragments)</p>
+              <p>CKM9 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0009">www.gandhari.org</link></p>
+              <p>Edited in dissertation: Stefan Baums</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (18)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frame 18, 10 x 9.7 cm</p>
+              <p>CKM9 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0010">www.gandhari.org</link></p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="9">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (19)</idno>
+          <idno type="current">Or.14915 (20)</idno>
+          <idno type="current">Or.14915 (21)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frames 19-21, 14 x 102 cm</p>
+              <p>CKM11 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0011">www.gandhari.org</link></p>
+              <p>Edited in dissertation: Stefan Baums</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (22)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frame 22, 10 x 45 cm</p>
+              <p>CKM12 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0012">www.gandhari.org</link></p>
+              <p>Publication in progress: Stefan Baums and Collett Cox</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="11">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (23)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frame 23, 11 x 22 cm</p>
+              <p>CKM13 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0013">www.gandhari.org</link></p>
+              <p>Publication in progress: Timothy Lenz and Jason Neelis</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="12">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (24)</idno>
+          <idno type="current">Or.14915 (25)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frames 24-25, 16.5 x 57 cm</p>
+              <p>CKM14 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0014">www.gandhari.org</link></p>
+              <p>Publication in progress: Timothy Lenz and Jason Neelis</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (26)</idno>
+          <idno type="current">Or.14915 (27)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frames 26-27, 14 x 62.5 cm</p>
+              <p>CKM15 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0015">www.gandhari.org</link></p>
+              <p>Edited in dissertation: Stefan Baums</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (28)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frame 28, 14.5 x 27.7 cm</p>
+              <p>CKM16 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0016">www.gandhari.org</link></p>
+              <p>Edited in dissertation: Stefan Baums</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="15">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (29)</idno>
+          <idno type="current">Or.14915 (30)</idno>
+          <idno type="current">Or.14915 (31)</idno>
+          <idno type="current">Or.14915 (32)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frames 29-32, 17.5 x 115 cm</p>
+              <p>CKM17 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0017">www.gandhari.org</link></p>
+              <p>Publication in progress: Stefan Baums and Collett Cox</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="16">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (33)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frame 33, 10.5 x 40.3 cm</p>
+              <p>CKM18 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0018">www.gandhari.org</link></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Lenz_2003" type="no"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="17">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (34)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frame 34, 11 x 20.5 cm</p>
+              <p>CKM19 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0019">www.gandhari.org</link></p>
+              <p>Publication in progress: Stefan Baums and Collett Cox</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="18">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (35)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frame 35, 12.5 x 17.5 cm</p>
+              <p>CKM20 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0020">www.gandhari.org</link></p>
+              <p>Edited in dissertation: Stefan Baums</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="19">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (36)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frame 36, 13.3 x 44.5 cm</p>
+              <p>CKM21 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0021">www.gandhari.org</link></p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (37)</idno>
+          <idno type="current">Or.14915 (38)</idno>
+          <idno type="current">Or.14915 (39)</idno>
+          <idno type="current">Or.14915 (40)</idno>
+          <idno type="current">Or.14915 (41)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frames 37-41, 19.7 x 137 cm</p>
+              <p>CKM22 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0022">www.gandhari.org</link></p>
+              <p>Publication in progress: Stefan Baums and Collett Cox</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="21">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (42)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frame 42, 16.8 x 26 cm</p>
+              <p>CKM23 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0023">www.gandhari.org</link></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Lenz_2010" type="no"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="22">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (43)</idno>
+          <idno type="current">Or.14915 (44)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frames 43-44, 15.5 x 28 cm</p>
+              <p>CKM24 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0024">www.gandhari.org</link></p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="23">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (45)</idno>
+          <idno type="current">Or.14915 (46)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frames 45-46, 18.5 x 56.5 cm</p>
+              <p>CKM25 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0025">www.gandhari.org</link></p>
+              <p>Publication in progress: Stefan Baums and Collett Cox</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="24">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (47)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frame 47 11.5 x 16 cm</p>
+              <p>CKM26 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0026">www.gandhari.org</link></p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="25">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (48)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frame 48, 9.7 x 29.3 cm</p>
+              <p>CKM27 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0027">www.gandhari.org</link></p>
+            </note>
+          </msItem>
+          <listBibl>
+            <bibl>
+              <ref target="Lenz_2003" type="no"/>
+            </bibl>
+          </listBibl>
+        </msContents>
+      </msDescription>
+      <msDescription n="26">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (49)</idno>
+          <idno type="current">Or.14915 (50)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frames 49-50, 8.2 x 64.5 cm</p>
+              <p>CKM28 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0028">www.gandhari.org</link></p>
+              <p>Publication in progress: Timothy Lenz and Gudrun Melzer</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="27">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (50)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frame 50, 6.2 x 12.5 cm</p>
+              <p>CKM29 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0029">www.gandhari.org</link></p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="28">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (51)</idno>
+          <idno type="current">Or.14915 (52)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frames 51-52, 12 x 65 cm</p>
+              <p>CKM30 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0030">www.gandhari.org</link></p>
+              <p>Publication in progress: Collette Cox</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="29">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (53)</idno>
+          <idno type="current">Or.14915 (54)</idno>
+          <idno type="current">Or.14915 (55)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frames 53-55, 13.8 x 127.7 cm</p>
+              <p>CKM31 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0031">www.gandhari.org</link></p>
+              <p>Publication in progress: Timothy Lenz and Gudrun Melzer</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="30">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>APAC</collection>
+          <idno type="current">Or.14915 (56)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Frame 56, miscellaneous debris</p>
+              <p>CKM32 on <link url="http://gandhari.org/a_manuscript.php?catid=CKM0032">www.gandhari.org</link></p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

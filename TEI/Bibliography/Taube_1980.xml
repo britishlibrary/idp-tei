@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Taube_1980">
+    <author>Taube, M</author>
+    <title level="m" lang="ger">Die Tibetica der Berliner Turfansammlung</title>
+    <imprint>
+      <pubPlace>Berlin</pubPlace>
+      <publisher>Akademie Verlag</publisher>
+      <date>1980</date>
+    </imprint>
+    <note>Berliner Turfantexte. X</note>
+    <keywords/>
+    <genBibl>collections_de</genBibl>
+  </bibl>
+</listBibl>

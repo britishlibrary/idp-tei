@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Hakuju_1934">
+    <editor>Hakuju Ui</editor>
+    <editor>Suzuki Munetada</editor>
+    <editor>Kanakura Yensho</editor>
+    <editor>Tada Tokan</editor>
+    <title level="m" lang="jap">Chibetto Daiz&#x14D;ky&#x14D; S&#x14D;mokuroku</title>
+    <title level="m" lang="jap">A Complete Catalogue of the Tibetan Buddhist Catalogues (Bka&#x1E25;-&#x1E25;gyur and Bstan-&#x1E25;gyur)</title>
+    <imprint>
+      <pubPlace>Sendai</pubPlace>
+      <publisher>Tohoku Imperial University</publisher>
+      <date>1934</date>
+    </imprint>
+  </bibl>
+</listBibl>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="FragBuddhUig">
+    <author>Raschmann, Simone-Christiane</author>
+    <author>Wilkens, Jens</author>
+    <title level="a" lang="ger">Fragmenta Buddhica Uigurica. Ausgewählte Schriften von Peter Zieme</title>
+    <imprint>
+      <title level="j" lang="engl" type="shortRef">Studien zur Sprache, Geschichte und Kultur der Türkvölker</title>
+      <biblScope type="issue">7</biblScope>
+      <date>2009</date>
+    </imprint>
+    <keywords>Fragmenta</keywords>
+    <keywords>Buddhica</keywords>
+    <keywords>Uigurica</keywords>
+    <keywords>Zieme</keywords>
+  </bibl>
+</listBibl>

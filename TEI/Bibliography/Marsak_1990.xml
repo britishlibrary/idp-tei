@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Maršak_1990">
+  <author>Maršak, Boris</author>
+  <title level="a" lang="fre">Les fouilles de Pendjikent</title>
+  <imprint>
+    <title level="j" lang="fre" type="shortRef">Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres</title>
+    <pubPlace>Paris</pubPlace>
+    <date>1990</date>
+  </imprint>
+  <note/>
+</bibl>

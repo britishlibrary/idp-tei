@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Sims-Williams_1973">
+    <author>Sims-Williams, Nicholas</author>
+    <title level="a" lang="engl">A Sogdian fragment of a work of Dādišo‛ Qaṭrāyā</title>
+    <imprint>
+      <title level="j" lang="engl" type="shortRef">Asia Major</title>
+      <biblScope type="issue">N.S. 18</biblScope>
+      <date>1973</date>
+      <biblScope type="pp">279-302</biblScope>
+    </imprint>
+    <keywords>Sogdian</keywords>
+    <keywords>Syriac</keywords>
+    <keywords>n</keywords>
+    <keywords>religion</keywords>
+  </bibl>
+</listBibl>

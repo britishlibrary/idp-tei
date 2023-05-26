@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Mannerheim_1940">
+    <author>Mannerheim, Gustaf Emil</author>
+    <editor>Hilden, Kaarlo</editor>
+    <translator>Birse, Edward</translator>
+    <title level="m" lang="eng">Across Asia from West to East in 1906-1908</title>
+    <imprint>
+      <pubPlace>Helsinki</pubPlace>
+      <publisher>Finno-Ugrian Society</publisher>
+      <date>1940</date>
+    </imprint>
+    <genBibl>collections_fin</genBibl>
+  </bibl>
+</listBibl>

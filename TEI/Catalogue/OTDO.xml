@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcriptions of Old Tibetan documents at
+                                                  the Old Tibetan Documents Online Website (link
+                                                  list)</title>
+        <author>Imaeda, Yoshiro</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>OTDO</publisher>
+        <pubPlace>https://otdo.aa-ken.jp</pubPlace>
+        <date>2007</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>No printed source: created as electronic
+                                                  file</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Catalogue</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>Input by Kazushi Iwao and Sam van Schaik in
+                                                  October 2007</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This is a list of links from Manuscripts in the
+                                                  British Library Stein collection to their
+                                                  transcriptions at the Old Tibetan Documents Online
+                                                  (OTDO) website:<link url="https://otdo.aa-ken.jp/">https://otdo.aa-ken.jp</link></p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 730</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_0730">Click here for transcription of IOL Tib J 730 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 731</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_0731">Click here for transcription of IOL Tib J 731 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 732</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_0732">Click here for transcription of IOL Tib J 732 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="4">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 733</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_0733">Click here for transcription of IOL Tib J 733 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="5">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 734</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_0734">Click here for transcription of IOL Tib J 734 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 735</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_0735">Click here for transcription of IOL Tib J 735 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 738.1</idno>
+          <idno type="current">IOL Tib J 738.2</idno>
+          <idno type="current">IOL Tib J 738.3</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_0738">Click here for transcription of IOL Tib J 738 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 739</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_0739">Click here for transcription of IOL Tib J 739 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="9">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 740</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_0740">Click here for transcription of IOL Tib J 740 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 750</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_0750">Click here for transcription of IOL Tib J 750 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="11">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 751</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_0751">Click here for transcription of IOL Tib J 751 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="12">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 753</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_0753">Click here for transcription of IOL Tib J 753 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 844</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_0844">Click here for transcription of IOL Tib J 844 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 857(B)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_0857B">Click here for transcription of IOL Tib J 857(B)
+                                                  at the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="15">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 897</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_0897">Click here for transcription of IOL Tib J 897 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="16">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1126</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_1126">Click here for transcription of IOL Tib J 1126 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="17">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1368</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_1368">Click here for transcription of IOL Tib J 1368 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="18">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1374</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_1374">Click here for transcription of IOL Tib J 1374 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="19">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1375</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_1375">Click here for transcription of IOL Tib J 1375 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1379</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_1379">Click here for transcription of IOL Tib J 1379 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="21">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1383</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_1383">Click here for transcription of IOL Tib J 1383 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="22">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 1459</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=ITJ_1459">Click here for transcription of IOL Tib J 1459 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="23">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/187</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=Or_8212.187">Click here for transcription of Or.8212/187 at
+                                                  the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="24">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.10647</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="https://otdo.aa-ken.jp/archives?p=S_10647">Click here for transcription of Or.8210/S.10647
+                                                  at the OTDO website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Schwartz_1970">
+    <author>Schwartz, Martin</author>
+    <title level="a" lang="engl">Miscellanea iranica.</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">W.B. Henning memorial volume.</title>
+      <date>London 1970</date>
+      <biblScope type="pp">385-394</biblScope>
+    </imprint>
+    <keywords>manuscripts</keywords>
+    <keywords>Sogdian</keywords>
+    <keywords>Christian</keywords>
+    <keywords>n</keywords>
+  </bibl>
+</listBibl>

@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sanskrit Fragments of the Vajracchedikā Prajñāpāramitā in the British
+                    Library</title>
+        <author>Harrison, Paul</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>IDP</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2010</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Paul Harrison, “Sanskrit Fragments of the Vajracchedikā Prajñāpāramitā in the
+                    British Library,” in: Buddhist Manuscripts from Central Asia: The British
+                    Library Sanskrit Fragments, Volume II.1 (Texts), ed. by Seishi KARASHIMA and
+                    Klaus WILLE, Tokyo: The International Research Institute for Advanced Buddhology
+                    at Soka University, 2009, pp. 637-657.</p>
+        <bibl>
+          <ref>Harrison_2009</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Input and marked up by IRIAB.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This catalogue contains transliterations of Sanskrit fragments in the Stein
+                Collection at the British Library.</p>
+    </head>
+    <body>
+      <msDescription n="Or.8212/18">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/18</idno>
+          <idno type="Stein">Kha.i.26</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Vajracchedikā</title>
+            <note>Vajracchedikā §§25–30a, ed. Conze 1957(1974): 55–59; Gilgit MS, ed.
+                            Schopen 1989: 105–106; Stein MS (IOL San 426, 425), fols. 17r1–18v2, ed.
+                            Pargiter 1916: 192–193.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// + + + + + + + + + + + + + + + [sa]ḥ bālapṛthagjanair
+                            ugrahīto : b[ā]lapṛthagjana [i]ti subhū <lb n="2"/>/// + + + + + + +
+                            + + + + + + .. t[e l]akṣa[ṇ]asaṃpadāyāṃ tathāgato draṣṭav[y]aḥ āha : eva
+                                <lb n="3"/>/// + + + + + + + + + [t]. .. [kṣ](a)ṇa[saṃ] + ..
+                            [yā]ṃ tathāgato draṣṭavyo bhaviṣya : r(ā)[jā]pi cakkravartī <lb n="4"/>/// + + + + + + + + .. (ṣ)[m](āṃ) [s]ubhūtir ā[h](a) + + + +
+                            tathāgato bhāṣita[s](y)[ā](rtha)[m ā]jānāmi : <lb n="5"/>/// + + + +
+                            + + + .. [yā]ṃm imā [g]. + + + + + + .. ma rūpeṇādr. .. .. ma ghoṣe[ṇa]
+                            anva <lb n="6"/>/// + + + + + + + + [l](akṣa)ṇa + + + + + + + +
+                            .[ā]nuttara samya[k]s(aṃ)bodhi[m] abhi(sa)ṃbu <lb n="7"/>/// + + + +
+                            + + + + + + + + + + + + + + + + [bh](i)saṃbuddhaḥ syā : kha[l]u (p)unaḥ
+                            e <lb n="8"/>/// + + + + + + + + + + + + + + + + + + + + + .. .. .e
+                            + + .. [ṣṭa]vyan* na bodhisa </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Vajracchedikā</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// + + + + + + + + + + + + + + + + + + + + + + [k]. + +
+                            + (p)t(a)[r](a)[t](a)napa[r](i)pūrṇ(aṃ) dā <lb n="2"/>/// + + + + +
+                            + + + + + + + + + + + + + + + + ndhaṃ prasaveta : na ho puna + [subhū]te
+                                <lb n="3"/>/// + + + + + + + + + + + .. [p](a)[r](i) + + + + + +
+                            + + ..grahetavyaṃ su[bhū]te nograh(e)ta[vy]. [•] tad u <lb n="4"/>/// + + + + + + + + + + [v]āgacchati [•] + + + + + + [da]ti vā •
+                            śay[y]ā. .. lpayati : na se <lb n="5"/>/// + + + + + + + + + .[e
+                            a]kvacidāga + + + + + + [taḥ tasmā]d ucyate ta[th](āgat)o rhā
+                            samyaksaṃbu <lb n="6"/>/// + + + + + + + + + + [h](a)[s](r)e
+                            [loka]dhā .. + .. .. rajāsi : sa evarūp[ā m](a)[ṣ]. + [ry]āt* yāva e <lb n="7"/>/// + + + + + + + + + + + + + + + + + + + saṃcayo bhavet*
+                            āha • evam eva [bh](a)[g](a)vāṃ bahu sa <lb n="8"/>/// + + + + + + +
+                            + + + + + + + + + + + paramāṇusaṃcaya iti : tat kasya heto yo so
+                            bhagavāṃ </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.8212/20">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/20</idno>
+          <idno type="Stein">Kha.i.39</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Vajracchedikā</title>
+            <note>See Or.8212/18, Vajracchedikā §§25–30a, ed. Conze 1957(1974): 55–59;
+                            Gilgit MS, ed. Schopen 1989: 105–106; Stein MS (IOL San 426, 425), fols.
+                            17r1–18v2, ed. Pargiter 1916: 192–193.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// + .. i + + + <lb n="2"/>/// + tad ucya <lb n="3"/>/// [th]āgato draṣṭavya .. <lb n="4"/>/// saṃpadāyāṃ ta <lb n="5"/>/// [○] to draṣṭavyan* .. <lb n="6"/>/// ..[i] te
+                            narāḥ <lb n="7"/>/// [s]ubhūte .. <lb n="8"/>/// tv[e]na ka[s]. </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Vajracchedikā</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// śa pra[jñ]. .. <lb n="2"/>/// + [k]eṣu dha[rm]e
+                                <lb n="3"/>/// [n*] āyu[ṣmāṃ] <lb n="4"/>/// te ya kaścid e
+                                <lb n="5"/>/// [○] tat kasya he[to] <lb n="6"/>///
+                            [la]duhitā vā [y]. <lb n="7"/>/// + [ṇ]usaṃca <lb n="8"/>/// +
+                            .. ce [bh]. </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15009/46">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.15009/46</idno>
+          <idno type="Hoernle">H.149.146</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Vajracchedikā</title>
+            <note>Vajracchedikā §§30b–32b, ed. Conze 1957(1974): 60–62; Gilgit MS, ed.
+                            Schopen 1989: 107; Stein MS, fols. 18v5–19v4, ed. Pargiter 1916:
+                            194–195.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// bhāṣita agrahas sa [ta]thāgatena [bh]āṣita {[ta]}d
+                            u[cyate p](i)[ṇḍagraha iti bhaga] <lb n="2"/>/// ātmadṛṣṭis
+                            ta[thā]gatena bhāṣitā satvadṛ[ṣṭi jī] .. .. .. .. .. .. .. .. .. <lb n="3"/>/// sā tathāgate[na] bhāṣitā{s} tad ucyate ātmadṛṣṭir
+                            i[ti :] .. .. .. .. .. .. .. <lb n="4"/>/// [dha]rmasaṃjñā iti
+                            subhūte asaṃjñeṣā [ta]thāgate[na] bhāṣitā • tad [ucyatai] .. </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Vajracchedikā</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// putro vā [k]u[la]duhitā vā : iti : prajñāpārami[tā]yā
+                            antamaśaś catuṣp[ā] <lb n="2"/>/// ndhaṃ prasavet* [ka]thaṃ ca
+                            saṃprakāśayed yathā na prakā[śaye tad ucyate saṃprakā] <lb n="3"/>///[t]tamanā sthavira(su)[bhūt]is te ca bhikṣubhikṣuṇyupā[s]i ..
+                            .. .. .. [de] + [vagandharvamā] <lb n="4"/>/// m ekasmiṃ samaye
+                            bhagavāṃ vaiśālyāṃ vihara(t)i .. .. mahāvane k[uṭā] </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15009/275">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.15009/275</idno>
+          <idno type="Hoernle">H.149.add.unnumbered</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Vajracchedikā</title>
+            <note>See Or.15009/46; Vajracchedikā §§30b–32b, ed. Conze 1957(1974): 60–62;
+                            Gilgit MS, ed. Schopen 1989: 107; Stein MS, fols. 18v5–19v4, ed.
+                            Pargiter 1916: 194–195.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// + + + thāgatena piṇḍagraho <lb n="2"/>/// + + ..
+                            ścit subhūte evaṃ vadet* <lb n="3"/>/// .. thāgatena bhāṣitā adṛṣṭi
+                                <lb n="4"/>/// + tyupasthahet* tat kasya heto </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Vajracchedikā</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// .. dyāt parityajed yaś ca kula <lb n="2"/>/// m
+                            eva tena bahutaraṃ paṇyaska <lb n="3"/>/// .. idam avocad bhagavān
+                            ā[t]ta <lb n="4"/>/// + + ? evaṃ mayā śruta </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15009/247">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.15009/247</idno>
+          <idno type="Hoernle">H.149.add.unnumbered</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Vajracchedikā</title>
+            <note>Vajracchedikā §§15a–16b, ed. Conze 1957(1974): 43–45; Schøyen MS, ed.
+                            Harrison/Watanabe 2006: 128–131; Gilgit MS, ed. Schopen 1989: 100–101;
+                            Stein MS, fols. 10r5–11v2, ed. Pargiter 1916: 185–187.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// + + + + + + + + + + + + + + + + + .. .. + + + /// <lb n="2"/>/// + + + + + + + + + + + + + maparyāyaṃ śrutvā .. + +
+                            /// <lb n="3"/>/// + + + + + + + + + [•] paryāpnuyā : (pa)reṣāṃ ca
+                            vistare .. /// <lb n="4"/>/// + + + .. .. .. .r. yānasaṃprāsthitānāṃ
+                            satvānāṃm a(r)[th](ā) + /// <lb n="5"/>/// + [ṣ]yanti • deśayiṣyanti
+                            • vācayiṣyanti • paryāp. .. + + + + /// <lb n="6"/>/// .āgatā
+                            bhaviṣyanti acintyenātu[l.]e + + + + + + + + /// <lb n="7"/>/// + +
+                            [ta]t kasya heto na hi [śa]kyaṃ su + + + + + + + + + + /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Vajracchedikā</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// + + .[ā]rayituṃ vā • deśayituṃ .. + + + + + + + + ///
+                                <lb n="2"/>/// + [ṣ]yate : pūjanīya sa pṛthivipra .. + + + + + +
+                            + /// <lb n="3"/>/// .. ti : caitya sa pṛthivipradeśo bhaviṣyati ye
+                            [t]. + + + /// <lb n="4"/>///+ + + .. puniṣ[y](a)nti • te paribhūtā
+                            bhaviṣyanti • su .. + /// <lb n="5"/>/// + + + + + + + + eva dharme
+                            paribhūta{:}tayā pūrvvaj. /// <lb n="6"/>/// + + + + + + + + + +
+                            [l].. + + [sa]ṃkhyeyatarai dīpa .. + /// <lb n="7"/>/// + + + + + +
+                            + + + + + + + + + .. [yā] su + + /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/4">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.15010/4</idno>
+          <idno type="Hoernle">H.143 SA 19</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Vajracchedikā</title>
+            <note>Vajracchedikā §§15a–c, ed. Conze 1957(1974): 43–44; Schøyen MS, ed.
+                            Harrison/Watanabe 2006: 129–130; Gilgit MS, ed. Schopen 1989: 100–101;
+                            Stein MS, fols. 10r6–11r2, ed. Pargiter 1916: 186.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>yā dhāraye vācaye • paryavā[p]nuyā pareṣāñ ca vistareṇa
+                            [sa]ṃprakāśaye api tu su <lb n="2"/>bhūte acintyātulyo (’)yaṃ
+                            dharmaparyāyaḥ ayaṃ ca dharmaparyāyas tathāgatena bhāṣitaḥ <lb n="3"/>agrayānasaṃ○prasthitānāṃ satvānām arthāya
+                            śreṣṭhayānasaṃprasthitānāṃ sa[t]vā <lb n="4"/>nām arthāya • ye ○
+                            imaṃ dharmaparyāyam udgraheṣyaṃti • dhārayiṣyaṃti deśayiṣyati • <lb n="5"/>vācayiṣyati parya○vāpsyati • jñātās te tathāgatena dṛṣṭās
+                            te tathāgatena sarve te satvā <lb n="6"/>prameyena punyaskandhena
+                            samanvāgatā bhaviṣyanti • acintyenātulyeṇa apra </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Vajracchedikā</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>meyenāpramāṇena puṇyaskandhena samanvāgatā bhaviṣyaṃti •
+                            sarve te satvā mama a(ṃ)[sena] <lb n="2"/>bodhi dhārayiṣyanti • tat
+                            kasya heto • na hi śakyaṃ subhūte mayaṃ dharmaparyāyaḥ hī[nā]dhimu <lb n="3"/>ktikai śrotuṃ nātma○dṛṣṭikai • na satvadṛṣṭikai na
+                            jīvadṛṣṭikai na pudgaladṛṣṭikaiḥ śakya[ṃ] śrotu <lb n="4"/>ugrahetuṃ
+                            vā dhā○rayituṃ vā deśayituṃ vā • vācayituṃ vā pa[ry]āpu[n]itu vā <lb n="5"/>nedaṃ sthānaṃ vidyate • ○ api tu subhūte yatra
+                            pṛ[th]ivīprade[ś]e ayaṃ sūtrāntaḥ pra <lb n="6"/>[k]āśiṣyate
+                            pūjan[īyaḥ] sa pṛ[thivī]pra[d]eś[o] bhaviṣyati • sadevam[ān]u[ṣās]u </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/94">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.15010/94</idno>
+          <idno type="Hoernle">H.143 SC 35</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Vajracchedikā</title>
+            <note>Vajracchedikā §§18b–21a, ed. Conze 1957(1974): 51–53; Gilgit MS, ed.
+                            Schopen 1989: 103–104; Stein MS, fols. 14v1–15v3, ed. Pargiter 1916:
+                            189–190.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// + + + + + + + + + + [thā]gatena vālika ◊ [y]. /// <lb n="2"/>/// + + .. .r. + + + + tāttikā [l]okadhātavo bhave[yā]
+                            /// <lb n="3"/>/// [m]. taṃ bhagavāṃ [bah]u [t]ā lokadhātuṃ bhaveyāṃ
+                            ā[h]a y[ā] /// <lb n="4"/>/// + .ittadhāraṃ prajānāmi ◊ tat kasya
+                            heto ◊ cittadhā + /// <lb n="5"/>/// + + [i]ti ◊ [ta]t kasya heto ◊
+                            atītaṃ subhūti ci(tta)ṃ .. + /// <lb n="6"/>/// + + [m]āṃ
+                            tṛsahasramahāsahasraloka[dh]. + + + + /// <lb n="7"/>/// + + +
+                            sa(v)eyā ◊ āha • evam evaṃ .. + + + + + /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Vajracchedikā</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// + + + + m. .. [s]ubhūti bahu so ku .. + + + + + + ///
+                                <lb n="2"/>/// + + .. ◊ na bhagavāṃ bhāṣiṣyā puṃṇyaska + + + + +
+                            + /// <lb n="3"/>/// + + .. h. no iti bhagavāṃ na
+                            rūpakāyaparin[iṣ]p. + + /// <lb n="4"/>/// + [y](a)pariniṣpatīti •
+                            apari[n]iṣpatti eṣa tathāg(a) + /// <lb n="5"/>/// .[i]
+                            lakṣaṇasaṃpadā ..[ṃ] tathāgato [d]raṣṭavya āha no i /// <lb n="6"/>/// + .. [l]. .. + + + + tathāgatena bhāṣit[ā] ◊ a[saṃpa] .. ///
+                                <lb n="7"/>/// + + + + + + + + + .. .. [ga]tasyevaṃ [bh]avati ◊
+                            [m]. + /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/113">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.15010/113</idno>
+          <idno type="Hoernle">H.143a SC 98</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Vajracchedikā</title>
+            <note>Vajracchedikā §§20b–21a, 24–26a, ed. Conze 1957(1974): 52–56; Gilgit
+                            MS, ed. Schopen 1989: 104–105; Stein MS IOL San 387, 427, 426, fols.
+                            15v1–17r6, ed. Pargiter 1916: 190–192.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// + [ṇa]saṃpadā{ṃ}yāṃ tathāgato draṣṭavyaṃ • tat kasya
+                            he[to yā] .. .. <lb n="2"/>/// .. ṣitā sā ceva alakṣaṇasaṃpadā
+                            bhāṣitā tad ucyate lakṣaṇa <lb n="3"/>/// [su]bhūti api nu
+                            tathāgatasya .. .. [a]syā mayā dharmo deśito yo su <lb n="4"/>/// +
+                            .. tena {na} koci d[v]armo deśi[to •] abhyāṃkṣiyati mama so subhūti
+                            tathā <lb n="5"/>/// + (s)ya heto dharmadeśanā ti subhūti na so koci
+                            dharmo skaṃndhasya eṣu purima <lb n="6"/>/// + [u]p[e]ti sahasṛmāpi
+                            kala na upeti [śa]tasahasṛmāpi saṃkhyāpi kalā <lb n="7"/>/// [m]āpi
+                            upaniṣāpi na kṣamati • tat ki manyasi subhūti api nnu tathāgatasya <lb n="8"/>/// [c](i)[tā] na ho punas te subhūti evaṃ draṣṭavyaṃ tat
+                            kasya heto s[o] koci satvo asti </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Vajracchedikā</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// ci [pu]na su[bh]ūti koci satvo bhaveyā yo tathāgatena
+                            mocito so ceva tathā <lb n="2"/>/// + satvagraho bhaveyāṃ jīvagraho
+                            bhaveyāṃ pudgalagraho bhaveyāṃ • <lb n="3"/>/// + h[o] eṣu
+                            tathāgatena bhāṣito so bālapṛthagjanehi ugrahe <lb n="4"/>/// + +
+                            [bh]ūti ajanu eṣu tathāgatena bhāṣito tad ucyate bālapṛ <lb n="5"/>/// + .. [se] subhūti lakṣaṇasaṃpadāyāṃ tathāgato draṣṭavyaṃ āha •
+                                <lb n="6"/>/// .. [p](a)dā tathāgato draṣṭavyaṃ bhagavān āha
+                            yati subhūti lakṣaṇasaṃ <lb n="7"/>/// + + [v]eyāṃ rājā cakkravartti
+                            tathāgato bhaveyā • evam ukto āyu <lb n="8"/>/// + + [ca]t* yadāyaṃ
+                            bhagavāṃ bhāṣitasya artthaṃ ājānā[m]i [na l](a) </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/126">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.15010/126</idno>
+          <idno type="Hoernle">H.144 SC 144</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Vajracchedikā</title>
+            <note>Vajracchedikā §§15b–17b, ed. Conze 1957(1974): 43–47; Schøyen MS, ed.
+                            Harrison/Watanabe 2006: 129–132; Gilgit MS, ed. Schopen 1989: 100–102;
+                            Stein MS, fols. 10v2–11v6, ed. Pargiter 1916: 186–187.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>3 /// + + + + + .[ā]nāṃ sa .. + + /// <lb n="2"/>4
+                            /// + + + + + m[e]yena puṇya .. + + /// <lb n="3"/>5 /// + + + +
+                            ṣṭ[i]○.ai + + /// <lb n="4"/>6 /// + + [pr](a)de○ + + + /// <lb n="5"/>7 /// [pr](a)deśo bhavi○ .. + + /// <lb n="6"/>8 ///
+                            [y]iṣyanti vācayiṣyanti pa .. + /// <lb n="7"/>9 /// ..
+                            paribhūta{ḥ}tayā pūrvva .. /// <lb n="8"/>10 /// + + [ka]rasya
+                            tathāgata .. + /// <lb n="9"/>11 /// + + + yaṃ ca mayā su + /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Vajracchedikā</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 /// + + + .. nti : vācayi .. + /// <lb n="2"/>2 ///
+                            + + .. kalā pi gaṇanā .. + /// <lb n="3"/>3 /// + + [sm]. samaye
+                            pratigṛ .. /// <lb n="4"/>4 /// [|] athāyuṣmāṃ subhūti bha /// <lb n="5"/>5 /// .. vaṃ cittaṃ u○ .. /// <lb n="6"/>6 /// + + +
+                            va ○ .. + /// <lb n="7"/>7 /// + + + + ḥ ○ [ta] .. + /// <lb n="8"/>8 /// + + + + .. tasya sāntike .. /// <lb n="9"/>9 /// + + + +
+                            + + [sy]a sān[t]i .. + /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

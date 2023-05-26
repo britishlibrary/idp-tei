@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Hazai_1972">
+    <editor>Hazai, Georg</editor>
+    <title level="m" lang="ger">Sprachwissenschaftliche Ergebnisse der deutschen Turfanforschung. Text-Editionen und Interpretationen von Albert August von Le Coq, Frederich Wilheim Karl Muller, Willi Bang, Annemarie von Gabain, Gabdul Rasid Rachmati, Wilheim Thomsen. Gesammelete Berliner Akademieschriften 1908-1938</title>
+    <imprint>
+      <title type="s" lang="ger">Opuscula</title>
+      <biblScope type="issue">3.3</biblScope>
+      <pubPlace>Leipzig</pubPlace>
+      <publisher/>
+      <date>1985</date>
+    </imprint>
+    <note>Reprint of Articles published in Sitzungsberichte and Abhandlungen of (K&#xF6;niglich) Preussische Akademie der Wissenschaften, Berlin, written by all the important German scientists in the field of Turfan research on the Berlin Turfan Collection of Uighur manuscripts.</note>
+    <keywords>Uighur</keywords>
+    <genBibl>collections_ge</genBibl>
+  </bibl>
+</listBibl>

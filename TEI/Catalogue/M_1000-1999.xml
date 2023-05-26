@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Iranische Handschriften der Berliner Turfansammlung, Online-Katalog. M 1000-1999.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>first electronic edition (2013, work in progress)</edition>
+      </editionStmt>
+      <sourceDesc>
+        <p>electronic</p>
+        <p>Input and marked up by Susann Rabuske. Imported to 4D on 11/26/13 by Susann Rabuske.</p>
+        <bibl>
+          <ref>M_1000-1999</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Beschreibung der iranischen Manuskripte aus der Berliner Turfansammlung</p>
+    </head>
+    <body>
+      <msDescription n="1070">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">M 1070</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="syr-Latn">Unbestimmt.</title>
+            <note>
+              <p>Möglicherweise Brief oder Beichttext. 1. Turfan-Expedition. Zusammen verglast mit M 1071.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">418</ref>
+              </bibl>
+              <bibl>
+                <ref target="Boyce_1960"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="1071">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">M 1071</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="syr-Latn">Unbestimmt.</title>
+            <note>
+              <p>Möglicherweise Brief oder Beichttext. 1. Turfan-Expedition. Zusammen verglast mit M 1070.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">419</ref>
+              </bibl>
+              <bibl>
+                <ref target="Boyce_1960"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

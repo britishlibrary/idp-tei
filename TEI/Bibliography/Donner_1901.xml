@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Donner_1901">
+    <author>Donner, Otto</author>
+    <title level="m" lang="fin">Resa i Central Asien 1898</title>
+    <imprint>
+      <pubPlace>Helsinki</pubPlace>
+      <publisher>Osakeyhtiö Weilin and Göös Aktiebolag</publisher>
+      <date>1901</date>
+    </imprint>
+    <note/>
+    <keywords>Central Asia</keywords>
+    <genBibl>genovese</genBibl>
+  </bibl>
+</listBibl>

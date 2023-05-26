@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Thomas_1970a">
+    <author>Thomas, Werner</author>
+    <title level="a" lang="ger">Zu einigen Besonderheiten der tocharischen Syntax</title>
+    <imprint>
+      <title level="j" lang="fre">Orbis</title>
+      <biblScope type="issue">19</biblScope>
+      <biblScope type="pp">452-472</biblScope>
+      <date>1970</date>
+    </imprint>
+  </bibl>
+</listBibl>

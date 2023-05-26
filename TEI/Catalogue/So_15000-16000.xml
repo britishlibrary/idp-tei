@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sogdische Handschriften der Berliner Turfansammlung. So 15000-16000.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>print edition</edition>
+      </editionStmt>
+      <sourceDesc>
+        <p>electronic</p>
+        <p>Input and marked up by Susann Rabuske. Imported to 4D on 09/09/14 by Susann Rabuske.</p>
+        <bibl>
+          <ref>So_15000-16000</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Beschreibung der sogdischen Manuskripte aus der Berliner Turfansammlung</p>
+    </head>
+    <body>
+      <msDescription n="15000">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 15000</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 202, Bd. 4, S. 373c, Z. 3-12,  v: Hymnen auf Mani.</p>
+              <p>3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">221</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="15000(5)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 15000(5)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r">
+            <title lang="chin-Latn">Da fang guang fo hua yan jing</title>
+            <note>
+              <p>(Buddha)avataṃsakasūtra. Taishō 278, Bd. 9, S. 703a, Z. 2-10.</p>
+              <p>Zusammengesetzt und unter Glas mit Ch/U 6914, zusammengehörig mit Ch/So 20182 (= Ch 5554).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Kudara_2000">S. 339</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+          <msItem n="v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Erzählung.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">222</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="15000(6)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 15000(6)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 31c, Z. 17-25,  v: Anfang eines Briefes oder Briefentwurfes.</p>
+              <p>3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">223</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="15000(7)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 15000(7)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 1176, Bd. 38, S. 475a, Z. 20-22;  v: Teil einer Erzählung(?), worin Vögel vorkommen.</p>
+              <p>3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">224</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="15420">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 15420</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zum Zyklus Qšūdagān Āfrīwan gehörig. Unter Glas zusammen mit So 15421.</p>
+              <p>3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">225</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="15421">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 15421</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt. Vielleicht eine Erzählung, worin eine Dame oder Königin vorkommt.</p>
+              <p>Unter Glas zusammen mit So 15420.</p>
+              <p>3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">226</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="15500">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 15500</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt. Prosa.</p>
+              <p>Fundort Qočo. 3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">227</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="15501">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 15501</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: buddhistisch; v: sogdische Version der Rede der Lebendigen Seele, Gōwišn ī grīw zīndag.</p>
+              <p>Fundort Qočo. 3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">228</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="15502">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 15502</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r:Teil eines Hymnenzyklus oder eines magischen Textes?; v: Lehrtext, worin mehrere Episteln erwähnt werden.</p>
+              <p>Fundort Qočo. 3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">229</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="15530">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 15530</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 222, Bd. 8, S. 160a, Z. 22-29, dazwischen sogd. Kolophon mit mehreren Eigennamen; v: Wortliste.</p>
+              <p>Fundort Qočo. 3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">230</ref>
+              </bibl>
+              <bibl>
+                <ref target="Yoshida_First Fruits">S. 85</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="15800">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 15800</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt.</p>
+              <p>3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">231</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

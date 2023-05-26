@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title lang="eng">A 13th Century Chinese Banknote And Its Conservation</title>
+        <author id="BM">Beth McKillop</author>
+        <author id="JB">John Burton</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>International Dunhuang Project</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2014</date>
+      </publicationStmt>
+      <editionStmt>
+        <edition>First electronic edition</edition>
+        <date>2014</date>
+      </editionStmt>
+      <sourceDesc>
+        <bibl id="">
+          <title level="m" lang="eng">A 13th Century Chinese Banknote And Its
+                        Conservation</title>
+          <imprint>
+            <title level="s" lang="eng">India Office Library and Records
+                            Newsletter</title>
+            <biblScope type="issue">No. 41</biblScope>
+            <biblScope type="pp">12–13</biblScope>
+            <publisher>The British Library</publisher>
+            <pubPlace>London</pubPlace>
+            <date>September 1988</date>
+          </imprint>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Article</projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This catalogue contains two brief articles first published in the <title lang="eng">India Office Library and Records
+                            Newsletter</title> in 1988. Both concern two fragments from a single early banknote discovered by M.A. Stein in  Khara-khoto. The first article, by Beth McKillop, discusses the discovery of the banknote and its context in Chinese history. The second, by John Burton, describes how the banknote was preserved by the British Library's Oriental Collections Conservation Studio. </p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.12380/2286</idno>
+          <idno type="current">Or.12380/2287</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <p>Stein’s published account of his travels in Central Asia in 1906-8 mentions among the finds made at Khara-khoto a banknote dating from Yuan dynasty, reign period of Zhongtong (1260-1264). [Sir M.A. Stein, <title>Innermost Asia</title>, p.444]. When Stein wrote, this was the earliest paper banknote known in the world, and although it was incomplete, its importance could hardly be overstated. Zhongtong is the name of the first reign of the Mongol dynasty which reunited the greater part of what is now Chinese territory, after a period of division lasting from the fall of the northern Song capital, Kaifeng, in 1126. Printed banknotes have been used, notably in Sichuan province, since the 11th century at least, and credit notes and so-called “<term lang="eng">flying money</term>” issued by merchants and bankers are recorded as early as the 9th century.</p>
+              <p>The fragments of the note Stein brought to the British Museum were incorporated into a large group of Tangut documents, chiefly fragments of Buddhist sutras, which were eventually put in order and later published by the Japanese scholar Tatsuo Nishida after a long period of work in the British Museum in 1964. This was because the banknote fragments were excavated by Stein from the sand-buried ruins of Khara-khoto along with large numbers of fragments of Tangut material, dating from the 10th to 12th centuries, when northwest China was ruled by a dynastic house known variously as Tangut, Liao, or Xixia. Their language had fallen into disuse after the Mongol conquest of the whole of China and central Asia in the 13th century, and Stein’s interest in the site of Khara-khoto had been sparked off by news of significant finds of Tangut material by the Russian explorer Petr Kuzmich Kozlov. (These finds are now held in Leningrad).  </p>
+              <p>Stein describes the manner in which the material was found as follows: “<q type="transcription" lang="eng">A row of three stupas stood between two badly ruined shrines . . .on clearing away the sand and clay debris that partially filled it, we found a well-preserved Chinese paper document and a leaf, <link url="http://idp.bl.uk:80/database/oo_Loader.a4d?pm=Or.8212/1825">K.K.viii.02.a.</link> from a Persian ms in fairly perfect condition . . . Here too were found the much decayed pieces, K.K.viii.01.a–d. of what Dr. Laufer has recognized as a paper note dated in the Nien-hao Chung-t’ung (1260-4), the first regnal period of the Mongol dynasty. Dr. Laufer believes this may lay claim to be the oldest paper note now in existence . . . passing reference may be made to the great quantity of written pieces torn into very small size that were discovered amidst the wreckage. It seemed difficult to believe that this could be due solely to careless digging . . . is it possible to assume . . . a quasi religious custom which compelled the preservation of all writing, however much defaced or injured?</q>” [<title lang="eng">Innermost Asia</title>, p.499].</p>
+              <p>As Stein pointed out, paper money circulated in China long before its introduction in the rest of the world. China is the home of paper (Oriental Collections has several fragments dating from the 2nd century AD): it is perhaps not so widely recognized that China also developed the use of paper currency a thousand years ago. Copper coin was a heavy, cumbersome method of payment, and it was natural that promissory notes and bills of exchange should gradually replace metal coin with the enormous growth of trade during the Song dynasty (960-1278). When Marco Polo travelled to China in the time of the Mongol Yuan dynasty, he noted that paper currency was widely used, and described the making of paper and the issuance of notes “<q type="transcription" lang="eng">with as much solemnity and authority as if they were of pure gold or silver; on every piece a variety of officials have to write their names and put their seals . . . Anyone forging it would be punished with death. And the Kaan causes every year to be made such a vast quantity of this money which costs his nothing that it must equal in amount all the treasure in the world.</q>”  [Yule’s translation] .</p>
+              <p>The museums and libraries of the world outside China contain quite a few examples of banknotes from Ming dynasty, and the British Library has one example, a note from the Hongwu reign period of Ming dynasty (1368-1398) which was taken from China in the early 20th century after being found in the base of a Buddhist statue which was destroyed in the Boxer Uprising of 1900 (Or.55.f.). The incomplete Yuan banknote illustrated here had fallen out of view, and Oriental Collections is grateful to Dr. Jorinde Ebert of the Museum für Indische Kunst, Berlin, whose researches into illustrated printed material in Tangut in the British Library and British Museum led to its rediscovery, and to Mr. J. Cribb of the British Museum’s Dept. of Coins and Medals for identifying the fragments as forming a single (incomplete) banknote.</p>
+              <p>The note itself is a 500 cash denomination and is a wispy greenish blue paper, and is part of a rectangular blockprinted whole measuring 24.4 x 16.9 cm. Other notes from the period have been excavated recently in China, in Xianyang, Shaanxi  province and in Inner Mogolia, giving an idea of the wide circulation across vast areas of China and Central Asia of this, China’s first country-wide paper currency.</p>
+              <p>Useful references</p>
+              <lg>
+                <l>Carter, T.F. and Goodrich, L.C., <title lang="eng">The invention
+                                        of printing in China and its spread westward</title> (2nd
+                                    ed., New York, 1955).</l>
+                <l><title lang="eng">A compilation of pictures of Chinese ancient
+                                        paper money</title> [<title lang="chi-Latn">Zhong guo gu
+                                        chao tu ji</title>] , (Beijing: China Finance Publishing
+                                    House, 1987).</l>
+                <l>Kozlov, P.K., <title lang="ger">Mongolei, Amdo und die tote Stadt
+                                        Chara Choto</title> (Berlin, 1925; and Russian editions of
+                                    1924 and 1948).</l>
+                <l>Nishida, Tatsuo, <title lang="jap-Latn">Seika-bun
+                                        kegon-kyo</title> (Kyoto, 1975).</l>
+                <l>Nishida, Tatsuo, <title lang="jap-Latn">Seigako no kenkyu</title>
+                                    . . . [<title lang="eng">A study of the Tangut
+                                    languages</title>] , (Tokyo, 1964-66).</l>
+                <l>Stein, Sir M. A. <title lang="eng">Innermost Asia</title>
+                                    (Oxford, 1928).</l>
+                <l>Tsien, T.H. <title level="m" lang="eng">Paper and
+                                        printing</title>, (<title level="s" lang="eng">Science and
+                                        Civilisation in China</title>, vol. 5, part 1), (Cambridge,
+                                    1985).</l>
+                <l>“<title level="m" lang="chi-Latn">Xianyang faxiande Yuande
+                                        zhibi</title>”, <title level="s" lang="chi-Latn">Kaogu yu
+                                        wenwu</title> (no. 3, 1980).</l>
+                <l>Yule, Sir Henry, (transl.), <title lang="eng">The book of Marco
+                                        Polo</title> (London, 1987).</l>
+              </lg>
+              <p>Beth Mckillop (OC)</p>
+            </note>
+            <note>
+              <p>Preservation of the banknote: encapsulation by sewing</p>
+              <p>The preservation and storage of the Yuan dynasty banknote presented an opportunity to apply the technique of encapsulation using sewing in melinex which has been developed in the Oriental Collections Conservation Studio. Encapsulation allowed the very fragile, irregularly shaped pieces of the banknote to be held firmly in place, with both sides of the note accessible for examination.</p>
+              <p>Much material that otherwise would present some difficult with conservation, mounting and housing can be effectively dealt with in this way. The  technique of encapsulation lends itself equally to large folios or small and irregular fragments. Some folios may be in a very delicate condition and these can be preserved in a very cost effective manner avoiding the necessity of repair and mounting or housing in another way. Folios/fragments to be encapsulated are placed between two sheets of an inert transparent Polyester film (tradenames Melinex/Milar USA) and sewn around about 2-5mm from the edge of the material. The two sewn sheets of Melinex are then sewn at the sides. This allows complete flexible support of the enclosed material, however delicate it may be. Unlike other methods which give a complete seal, sewing can allow a certain degree of ventilation through the sewn holes.</p>
+              <p>The sewn sheets can be housed in a variety of ways for storage purposes. Sheets of a standard size can be bound into a ‘Melinex Book’ or they may be placed loose in a portfolio. Single, large unwieldy items such as maps can also be protected in this way, although in some cases horizontal storage then becomes necessary. Material can easily be made available for research into paper composition or quality, or for photography, by cutting it out of the Melinex sheet and then re-sewing if necessary.</p>
+              <p>With care and attention the layout of the encapsulated material can produce an attractive effect. The sewing itself can be visually quite pleasing. The line of stitches can set off the item by providing a frame; the best effect may be achieved by not following the contours too slavishly.</p>
+              <p>Sewing offers distinct advantages over other methods of encapsulation, ie ultrasonic welding and sealing with pressure sensitive tape. Sewing can follow almost exactly the irregular contours of some fragments or folios whereas ultrasonic welding and pressure sensitive tape are limited to sealing in more or less straight lines. The disadvantages of pressure sensitive tape are that it can come apart, and fragments can slip and stick to the tape. Sewing requires next to no setting up time. An industrial sewing machine and a very fine monofilament sewing thread are used. However a standard machine as used in the clothing trade will need to be adapted to let it operate at a slower speed, either by gearing down, or by using a slower motor, or both.</p>
+              <p>Encapsulation by sewing offers a number of other advantages. The Melinex sheets are flexible enough to allow safe handling; catalogue numbers can be sewn into the sheets, and material can also be photographed through the Melinex quite successfully. Encapsulation by sewing is an effective technique that preserves material either in the manner of a ‘first aid’ answer to conservation or as a permanent method of storage.</p>
+              <p>Melinex is made by ICI, and supplied to Oriental Collections Conservation Studio by Polyester Convertors Ltd., 1-27 Summer Road, Peckham, London SE15 6LA. The Melinex thicknesses most used in the Conservation Studio are 125 and 250 microns.</p>
+              <p>John Burton (Preservation Service)</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

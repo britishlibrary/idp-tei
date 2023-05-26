@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>IDP Site Information</title>
+        <respStmt id="SW">Whitfield, Susan</respStmt>
+        <respStmt id="SvS">van Schaik, Sam</respStmt>
+        <respStmt id="IG">Galambos, Imre</respStmt>
+        <respStmt id="AM">Morrison, Alastair</respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>IDP</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2005</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>No printed source: created as electronic file</p>
+        <bibl>
+          <ref>IDPSites</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Site</projectDesc>
+      <editorialDecl>Imported on 12 December 2005.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>These site reports have been been prepared by IDP researchers and are individually credited. Thanks are owing to Catherine Till and Zhang Wenhui who carried out much of the preliminary research. Work on these is still in progress. Full reports are prepared to a template (see Bezeklik) and contain detailed information on the site, dating, excavation history, and nature and location of finds. Comments and additions to these reports are welcome.</p>
+      <p>Note: Names of sites within Chinese Central Asia are referred to by the common name they are known by today but alternative names are given here. Subject to funding, IDP plans to prepare an online historical gazetteer of the Silk Road.</p>
+    </head>
+    <body>
+      <msDescription type="SW" n="Si.">
+        <msIdentifier>
+          <settlement>Khotan</settlement>
+          <idno type="current">Akterek</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>The site of Akterek lies about 20 miles north-east of Khotan. Stein found ruins of a temple and Buddhist shrine along with fragments of small relievo seated Buddhas. Only small fragments have been preserved after an earlier fire. The smaller pieces had been enveloped by the fire, producing the effect of a regular firing, which preserved them. All the sculptures had completely decayed under atmospheric influences. The only coin discovered was a cash piece of the uninscribed type found in the Former and later Han dynasties. Terracotta monkeys, familiar from Yotkan culture-strata, were also found. If this dating is correct, it yields insights into the period when this old Khotan art flourished. The significance of this site stems less from the archaeological remains than from the instructive glimpses offered of remains that may lie buried beneath the ‘Tatis’. This area of shifting dunes and bare loess undergoing wind erosion is likely to hide more treasures.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="A.T.">
+        <msIdentifier>
+          <settlement>Hami</settlement>
+          <idno type="current">Aratam</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>At Aratam an agglomeration of Buddhist shrines stand erected at a site held sacred as marking the mouth of a stream precious to the agricultural population. Some temple ruins were scattered along the hills, others were cut deep into a ridge of clay extending for 12 metres from east to west. There are cellas/caves in the southern face of the ridge, each appearing to have contained a giant Buddha image. Stein dated the shrine from the period of Uighur domination (9th-12th centuries) based on the similarity of the remains of mural decoration in the rock-cut caves to those from later caves at Dunhuang.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="AM" n="Ast.">
+        <msIdentifier>
+          <settlement>Turfan</settlement>
+          <idno type="current">Astana</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <div n="1" type="General Introduction">
+              <p>Astana is a large cemetery site 37 km southeast of present-day Turfan. It served as the cemetery for the descendents of Chinese settlers in Gaochang/Karakhoja. The 400 or more excavated tombs date from the 4th century to the first half of the 8th century. Desiccated bodies were preserved in the graves and are now on display in museums at Turfan and Urumqi. Numerous tomb objects such as pots, clothes, and tomb guardians have also been found.</p>
+            </div>
+            <div n="2" type="History of the site">
+              <p>At the start of the first millennium this area was occupied by the Cheshi who offered allegiance to the Chinese Han court. According to the Chinese histories, the Shiji and Hanshu, the original inhabitants east of the Tianshan range from prehistoric times to the beginning of the first millennium AD, the Cheshi were a people who 'lived in felt-tents, kept moving in pursuit of water and grass for grazing, and had a fair knowledge of farming.' The Chinese rulers divided their territory in 60 BC and stationed a garrison and military colony there. Until AD 450 the main city was Jiaohe/Yarkhoto, west of present-day Turfan. At times the Chinese lost control to the Xiongnu and also withdrew when control in central China broke down. In the early 4th century an alternative commandery was established in Gaochang/Karakhoja to the east of present-day Turfan, and this area also fell in and out of Chinese and steppe control over the following centuries.</p>
+            </div>
+            <div n="3" type="History of exploration of the site">
+              <p>Klementz (1897-8)</p>
+              <p>Klementz secured rubbings in Old Turkish (Uighur?) scratched in the walls of some of the cave-dwellings, as well as original fragments of stucco from the cave cells.</p>
+              <p>Kokhanovsky (1906-7)</p>
+              <p>Oldenburg (1909-10): Oldenburg was a prominent Russian linguist and Indologist who excavated at Astana.</p>
+              <p>Grünwedel/Huth (Nov 1902-March 1903; 1905-07 with Le Coq) Turfan oasis and Le Coq (between September 1904–December 1907 and 1913-4)</p>
+              <p>Otani (1902)</p>
+              <p>Le Coq (1905)</p>
+              <p>Stein (1907, 1914, 1915)</p>
+              <p>Stein first came to Astana in 1907, then returned for longer in December 1914. He discovered that the Astana cemetery belonged to the early Tang period when Gaochang was an important administrative centre and garrison of the Chinese-administered region.</p>
+              <p>On his 3rd expedition, Stein spent a fortnight here from January 18, 1915, an account of which is published in Innermost Asia.</p>
+              <p>Stein found many of the tombs had already been plundered. Stein excavated these tombs and found items of clothing, as well as fragments of documents, clay horses, and tomb guardians, and paintings (which Stein believed represent the central school of Chinese painting as it was in the early 8th century). The discoveries of textiles and silk have shed much light on the customs and crafts of the time. Stein surmises that the uniformity of the structural features in the tombs goes some way to prove that the burials in different portions of the cemetery probably took place during approximately the same period as that indicated by the range of dates found in the inscriptions and documents.</p>
+              <p>Non-Chinese documents that he found included two fragments of paper in Brahmi script and probably Kuchean language.</p>
+              <p>Mannerheim (1927-35) passed through Astana on 30 September 1907.</p>
+              <p>Chinese expeditions (1959-1975)</p>
+              <p>The Xinjiang Museum undertook 13 excavations at the Astana and Karakhoja graveyards, unearthing 456 tombs, 205 of which contained manuscript fragments. Most of these fragments were originally part of funerary objects – paper shoes, paper hats, paper belts, paper coffins - made from discarded documents.</p>
+              <p>Chinese excavations:</p>
+              <p>1959 excavations (carried out by Eastern Xinjiang working group of Xinjiang Museum in October/November): unearthed 4th to 7th century materials from 6 tombs. All 6 tombs contained dated documents. The tomb shapes remain the same from the 4th to 7th centuries.</p>
+              <p>1963-1965 excavations: 42 tombs unearthed and cleared. Chinese documents and textiles discovered.</p>
+              <p>From 1966-1969, 4 excavations made of 105 tombs, unearthing over a thousand objects. Household objects such as flasks, pots, bowls, plates, cans/boxes were found.</p>
+              <p>In 1967, archaeologists excavated tomb number 363.</p>
+              <p>During the 1972-1973 clean-up excavation, much valuable material was unearthed. Among this were documents, silk, thread, hemp, cotton, wool, scroll paintings, murals, colour clay sculptures, pottery, wooden and iron objects, and a small amount of lacquerware, as well as nuts and flour-based cakes.</p>
+              <p>The 1975 excavations unearthed nearly 500 objects. The tombs excavated this time mainly belonged to the Zhang, Jia and Song families.</p>
+              <p>The Xinjiang museum holds a range of objects excavated at Astana including China’s oldest sketch drawing painting on paper, wooden figurines, embroidered shoes, ox and cart, a stele, tapestry, goblets, clay figurines, documents in Chinese, Sogdian; female figurines working and dancing.</p>
+            </div>
+            <div n="4" type="History of the collections">
+              <p>Both the Klementz and Oldenburg collections were originally deposited in the Asiatic Museum of St. Petersburg. Later the manuscripts in the Klementz and Oldenburg collections were transferred to the St Petersburg Branch of the Institute of Oriental Studies of the Russian Academy of Sciences.</p>
+              <p>Klementz visited Astana (as well as Karakhoja/Gaochang, and Yarkhoto/Jiaohe). He examined the Buddhist caves (at Bezeklik), took some of the murals, and some manuscripts in Chinese and Sanskrit, and lots of photographs.</p>
+              <p>The Japanese collections were returned to Kyoto but were soon dispersed after Otani resigned as Abbot of Nishi Honganji in 1914. Unlike the other expeditions, the Japanese monk-explorers were privately funded by Otani and so the finds were not deposited in public collections. Although by 1926 the first expedition material was in the Imperial Gift Museum of Kyoto, by 1944 these items were in the hands of the private collector Teizo Kimura. The Japanese Government had to repurchase them after the war and, along with some other items bought from other individuals, the collection was deposited in the Oriental Section of Tokyo National Museum, where it remains today.</p>
+              <p>A large part of Otani’s second and third expedition material were kept in his house and sold along with the house in 1916. The buyer, Fusanoske Kuhara, was a friend of Masatake Terauchi, Governor-General of Korea (annexed by Japan in 1910). He presented the collection to his friend who kept it in the Museum of the Governor-General, which later became the National Central Museum in Seoul.</p>
+              <p>Some of Otani’s papers, which included documentation from his expeditions, and his expedition photographs were given to Ryukoku University and are kept in the Library. The photographs and papers have been catalogued and are available via the Library catalogue. Some items have been on display at various exhibitions.</p>
+            </div>
+            <div n="5" type="Current state of the site"/>
+            <div n="6" type="Bibliography"/>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="B.Koy">
+        <msIdentifier>
+          <settlement>Charkhlick</settlement>
+          <idno type="current">Bashkoyumal</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Bashkoyumal is a ruined shrine about five miles south of Charkhlik, and is part of a circumvallation, semi-lunar in form. The remainder of the circumvallation has been washed away by prolonged encroachment of the river. A large wall close to the edge of the plateau has survived. Its position suggests that it belonged to a central keep or tower of a ruined fort. To the south of this broken wall running from this gate towards the central structure stands a decayed mound, which contained the square base of a Stupa or shrine with an enclosing passage. A large and well-preserved Pothi leaf on silk was found, inscribed on both sides with a Buddhist text in Sanskrit and in Brahmi script of the Gupta type (Or.8212/1594, see<ref target="Zwalf_1998"/>). Stein writes that this is the first specimen of a manuscript on silk in the Indian language. The fort was occupied during early Tang times.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Bal.">
+        <msIdentifier>
+          <settlement>Khotan</settlement>
+          <idno type="current">Balawaste</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Site near Domoko, 60-80 miles east of Khotan on the southern arm of the Silk Road. On Stein's 3rd expedition, this signature indicates items including fresco and stucco relievos said to have been brought from Balawaste but not actually excavated there.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Hu.">
+        <msIdentifier>
+          <settlement>Turfan</settlement>
+          <idno type="current">Beiting</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Summer capital of the Turfan area, north of the Tianshan.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Bez.">
+        <msIdentifier>
+          <settlement>Turfan</settlement>
+          <idno type="current">Bezeklik</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <div n="1" type="General Introduction">
+              <p>Bezeklik is a Buddhist cave site in a canyon north-east of the ancient Uighur city of Karakhoja/Kocho, and 50 km east of present-day Turfan (fig. 1). The 100 or more excavated caves and stone-built temples with domes were constructed between the 5th and 14th centuries. They were decorated with murals and statues, like the caves at Dunhuang. Most were Buddhist and many depict the Uighur donors, but there are also some rare Manichaean murals.</p>
+            </div>
+            <div n="2" type="History of the site">
+              <p>to be added</p>
+            </div>
+            <div n="3" type="History of exploration of the site"><p><name type="person" lang="eng">Ioann-Albert Regel</name>,<date calendar="Roman">date to add</date></p><p>Russo-German botanist, did not excavate but reported existence of Buddhist finds.</p><p><name type="person" lang="eng">Dmitri Klementz</name>,<date calendar="Roman">1898</date></p><p>Klementz surveyed the caves and drew a rough plan. He noted that many were filled with sand. No statues survived in the others. He noted that they had been hacked away, and he also reported the hacking away of wall paintings and others that were smeared over with mud. Apart from 40 fragments of wall paintings (how many of these he cut out himself and how many he bought from locals is not clear), he also cut out 59 inscriptions from the walls.</p><p>(add to bibliography with<genBibl>Bezeklik</genBibl>Klementz, Dimitri. Nachrichten über die von der Kaiserlichen Akademie der Wissenschaften zu St. Petersburg im Jahre 1898 Ausgerütete Expedition nach Turfan. Heft I. [Turfan und seine Altertümer von D. Klementz.--Altuigurische Sprachproben aus Turfan, von W. Radleff]. St. Petersburg: Tip. Imperatorskoij Akademij Nauk, 1899.</p><p>The archives in the Institute of Oriental Studies, St Petersburg, also include a notebook with his original notes on his visit and a rough plan (Document +++) and a Russian version of his expedition report (Document +++)</p><p>Grunwedel, 1902</p><p>He spent five months at Turfan from November 1902 and returned with 44 cases of finds, but did not excavate at Bezeklik.</p><p>Otani expeditions, 1902-4</p><p>Albert von Le Coq, March 1905.</p><p>He found several of the southern caves occupied by goatherds and the murals hidden behind the soot from their fires. His and his party camped these caves and spent the next few months clearing the northern caves of sand and sawing out the best examples of extant wall paintings, taking especially complete paintings from the freestanding Temple 20 (Temple 9 in original German numbering).</p><p>Grunwedel , late 1906</p><p>Drew detailed plans of the 40 largely extant caves. His photographs clearly show the scouring effect of the sand, some of the defacement, and how many images were open to the elements (<ref target="Grunwedel 1912">figs. 535, 532</ref>)</p>(add to bibliography: Grünwedel, Albert. Altbuddhistische Kultstätten in Chinesisch-Turkistan: Bericht über archäologische Arbeiten von 1906 bis 1907 bei Kuca, Qarasahr und in der oase Turfan. Berlin: G. Reimer, 1912.<p>Baron Mannerheim, 1907</p><p>A Finnish army officer working for the Russians, who arrived in October 1907. He did not remove anything but observed:<q>‘The very badly damaged wall paintings (entirely broken off for large expanses) still gave an idea of what there was in days gone by.’ (<ref target="Mannerheim 1940">1, 360</ref>).</q></p><p>Stein, 1906-8</p><p>A Hungarian-born British archaeologist-scholar, arrived at Bezeklik on his second expedition in November 1907 directly after Mannerheim. He did not remove anything or take photographs at this time.</p><p>Otani 1908-9</p><p>Eizaburo Nomura acquired material including one large painting and many smaller fragments from Temple 4, most of which are defaced even though the large panel was in the rear of the cave.</p><p>Eizaburo Nomura diary in Otani archives in Ryukoku University Library</p><p>Sergei F. Oldenburg, 1909-10</p><p>He removed more fragments, including a complete pranidhi scene from temple 4</p><p>Stein, 1913-16</p><q>‘This visit had shown me that those shrines still retained a great portion of their wall paintings. But it had also afforded unmistakable evidence of the increased damage which the pictorial remains of this, the largest of the Buddhist sites of Turfan, had suffered from vandal hands since my first visit in November 1907…. With the sad proofs of progressive damage before my eyes, I could feel no doubt that, as local protection was out of the question, careful removal of as much of these mural paintings as circumstances would permit and artistic or iconographical interest would warrant, offered the only means of assuring their security.’ (<ref target="Stein_1928">634</ref>).</q><p>Stein took a series of large format photographs inside several of the caves, including Temples 9 and 4 of the Germans (numbered iii and v by Stein) and these clearly show their deteriorating condition. For example, Photo 392/29(193) shows the east wall of Temple 9 with the lower half missing and the two bodhisattvas left above the removed painting both defaced. Photo 293/29(197) and (199) show the west wall of Temple 4 with a Buddha and bodhisattvas, all defaced and later removed by Stein (Andrews_1948: Pls. XV and XVI, fig. 2).</p><p>Although Bezeklik received other foreign visitors after Stein, as far as we have been able to ascertain, Stein was the last to remove paintings from the site.</p></div>
+            <div n="4" type="History of the collections">
+              <p>Klementz and Oldenburg’s finds and expedition notes and photographs were sent directly from Xinjiang overland to Museums in St. Petersburg. Both published expedition reports with sections on Bezeklik (Klementz_1899 and Oldenburg_1914). These are in German and Russian respectively and have not been translated.</p>
+              <p>Klementz’s papers and archives were later transferred to what is now the Institute of Oriental Studies, St. Petersburg Branch of the Russian Academy of Sciences, while Oldenburg’s are in the archives of the Academy of Sciences itself (he became an Academician). Their non-manuscript finds and photographs are now in the State Hermitage Museum, although I have been unable to confirm that the Hermitage has all of the wall paintings and inscriptions listed by Klementz and it is possible that these are still in the Museum of Ethnography or elsewhere. One piece is on display in the Hermitage. Many of the Hermitage’s collections were evacuated by train during the Second World War but not all could be moved in time and others, although protected by staff who remained during the blockade, were damaged. These included the complete pranidhi painting from Temple 4. In 1953-4 it was restored but the gypsum slabs were not removed and deterioration of the plaster layer continued. A programme of conservation of the Turfan material began in 1999 and in May 2002 this piece went on display (http://www.hermitagemuseum.org/html_En/04/b2003/hm4_1_27.html).</p>
+              <p>Grunwedel and Le Coq’s finds were sent overland to Berlin and, in 1926 following conservation, were on permanent display at the Ethnological Museum, the larger pieces fixed to walls of the gallery (fig. 4). By 1928 there were 27 large rooms devoted to this material. Both men published detailed expedition reports within a few years of their return (Grunwedel_1912 and Le Coq_1913). In addition, their expedition notes, photographs, drawings and plans were all archived. Grunwedel’s report reproduced his detailed plans of the site and a description of each cave, along with a selection of photographs. Le Coq’s contained a very detailed description of Temple 9 including large format and very high quality colour and black and white lithographs of the pranidhi scenes.</p>
+              <p>In 1934 with the threat of war, lists started to be made categorizing the material and in 1938 much was moved into cellars and air raid shelters in Berlin. In 1944 the collections were moved to salt mines throughout Germany. However, the large paintings fixed to the walls could not easily be removed. They were therefore protected with sandbags and prayers. These were ineffective as the Museum, in the centre of the city, was bombed and the paintings destroyed. Only fragments were retrievable (Yaldiz_2000).</p>
+              <p>After the war the collections dispersed for safekeeping were recalled to Berlin and were transferred to the Museum für Indische Kunst in Berlin-Dahlem to the southwest of the city in 1963. The new building was inaugurated in 1971 and the galleries refurbished in 1998. Some of the material was displayed in a exhibition in New York (Hartel_1982). More than 2,000 accession numbers are unaccounted for, probably having been taken by Soviet troops on their withdrawal from Germany. One large batch was presented to the Grassi Museum in Leipzig in 1978 by the Soviets and, following Germany’s reunification, 55,000 objects were returned to Berlin. These included several hundred items from the Museum but 1562 items from the Central Asian collections were still missing, including about 100 pieces from Bezeklik (MIK_2002). In autumn 2002 the Director of the Museum was invited to the Hermitage to look at crates of material and, from preliminary investigation, identified 294 pieces from the Turfan collection. Central to this ‘treasure-hunt’ are the original records. As Yaldiz writes:</p>
+              <q>In 2002 the catalogue of art objects lost in and after World War II was finally completed after several years of intense investigation. Although there were numerous sources, the research involved many difficulties because much of the information in the card indexes and in the inventory books was incomplete. Irreplaceable aids for identification were the original glass plates which remain part of the Museum’s photographic archive. Every clue on the identification of the lost objects was taken into consideration however little information it might offer. (Yaldiz_2005)</q>
+              <p>Not only has the original documentation proved invaluable in restoring the collection to Berlin and in identifying the extant of the losses, but also in 'reconstructing' the caves at Bezeklik, as discussed below. Some other material from Germany was dispersed elsewhere, including a banner fragment from Bezeklik which Le Coq sold and which is now in Yale University Art Gallery (<ref target="Zhang_Rong_1998">28</ref>)</p>
+              <p>The Japanese collections were returned to Kyoto but were soon dispersed after Otani resigned as Abbot of Nishi Honganji in 1914. Unlike the other expeditions, the Japanese monk-explorers were privately funded by Otani and so the finds were not deposited in public collections. Although by 1926 the first expedition material was in the Imperial Gift Museum of Kyoto, by 1944 these items were in the hands of the private collector Teizo Kimura. The Japanese Government had to repurchase them after the war and, along with some other items bought from other individuals, the collection was deposited in the Oriental Section of Tokyo National Museum, where it remains today. This includes some of the Bezeklik paintings.</p>
+              <p>A large part of Otani’s second and third expedition material were kept in his house and sold along with the house in 1916. The buyer, Fusanoske Kuhara, was a friend of Masatake Terauchi, Governor-General of Korea (annexed by Japan in 1910). He presented the collection to his friend who kept it in the Museum of the Governor-General, which later became the National Central Museum in Seoul. It remains here today and also includes a number of the Bezeklik paintings.</p>
+              <p>Some of Otani’s papers, which included documentation from his expeditions, and his expedition photographs were given to Ryukoku University and are kept in the Library. The photographs and papers have been catalogued and are available via the Library catalogue. Some items have been on display at various exhibitions.</p>
+              <p>The wall paintings acquired by Stein on his third expedition were sent directly to Lahore, where they were acquisitioned. Stein directed the design of cases to house them in three large galleries, called the Central-Asian Antiquities Museum, although part of the Archaeological Survey of India. By 1937, following conservation, they were on display and remained here until 1991. They were suffering from ‘flaking and bulging’ because of the damp in the building which was subsequently demolished (Singh_1996: 57). They were moved to the National Museum, New Delhi, which had been built in 1961 and housed the rest of the Stein collections. However, they were kept in storage in galleries originally designed to display them. Since then further conservation work has been carried out in the Museum but as of 2005 they are still not on display.</p>
+              <p>Stein wrote published a detailed expedition report in 1928. His photographs and papers were later deposited in various institutions, the largest part of the former are now in the British Library, and of the latter in the Bodleian Library, University of Oxford. The Library of the Hungarian Academy of Sciences also has substantial collections (Falconer_2002). Many of the painting from Bezeklik were published in 1948 with large-scale prints, some in colour (Andrews_1948).</p>
+            </div>
+            <div n="5" type="Current state of the site">
+              <p>The site of Bezeklik is easily accessible from Turfan. There is an entrance fee. Photographs are not allowed inside the caves.</p>
+            </div>
+            <div n="6" type="Bibliography"/>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="D.">
+        <msIdentifier>
+          <settlement>Khotan</settlement>
+          <idno type="current">Dandan Uiliq</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Settlement with numerous Buddhist remains, situated between the Khotan and Keriya rivers, and approximately 50 miles north of Domoko which is on the southern arm of the Silk Road.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="D.K.">
+        <msIdentifier>
+          <settlement>Khotan</settlement>
+          <idno type="current">Domoko</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>The Domoko oasis north of Khotan was visited by Stein during his 1st, 2nd and 3rd expeditions. Items with this site no. were brought from Uzun-tati in the Domoko region during Stein's 1st expedition, and from various ruined sites near Domoko during Stein 3rd expedition. During the 2nd expedition, those items given the site no. 'Do.' were brought (by an unspecified person) from sites around Domoko, some probably from Khadalik. During the 3rd expedition, those items given the site nos. 'D.K.', 'Dom.' or 'Domoko.' were brought from sites around Domoko by Badruddin Khan.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Duldul-okur">
+        <msIdentifier>
+          <settlement>Kucha</settlement>
+          <idno type="current">Duldulokur</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Stein visited Duldulokur in the Kucha region near the east bank of Muzart river ten miles south-west of Kucha town on his third expedition. The base of a ruined stupa survives. Fragments of hard-coloured stucco were found below the western face of the stupa base. Other fragments included a wooden vesica and halo finely carved in relievo, probably serving as a Buddhist image. These pieces seem to date from Tang times. On a steep gully, a thin layer of refuse similar to that found at Mazartagh was found. A semicircular brick wall had decayed almost to the ground. Its purpose remains obscure, but could account for the local designation Duldul-okur, derived from Persian Duldul-akhur, 'the manger of Duldul', the name of Rustam’s horse famous in popular legend.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="T.">
+        <msIdentifier>
+          <settlement>Dunhuang</settlement>
+          <idno type="current">Dunhuang_Limes</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>S</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Ch.">
+        <msIdentifier>
+          <settlement>Dunhuang</settlement>
+          <idno type="current">Dunhuang_Mogao</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p/>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="E.">
+        <msIdentifier>
+          <settlement>Kucha</settlement>
+          <idno type="current">Endere</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>The site of Endere lies on the southern Silk Road on the Endere river. Stein believed it had been occupied at two different times. Xuanzang saw the site in ruins in AD 645, which he called Tuhuoluo. It was then occupied later in the Tang dynasty, but was abandoned when the Tibetans took over in the 8th century. Stein excavated twice on two occasions, 20-25 February 1901 and 8-14 November 1906, but both were brief visits. Christoph Baumer visited in October 1998. After the Tang had brought the southern Silk Road under their control towards the end of the 7th century, they rebuilt Endere and established an administrative and military centre there in about AD 700. The Tibetans, in alliance with the Western Turks and the Arabs, constantly attacked Tang garrisons, but were driven back from the Tarim Basin in AD 719 by a Chinese counter-offensive. After the defeat of Talas by the Arabs in 751 and the An Lushan rebellion (756-762), the Chinese experienced heavy military pressure from the Tibetans. By 791, they had to withdraw from Endere, leaving Tibet to control one of the most strategically important forts along the southern Silk Road. The Endere ruins are the centre of a fairly large settlement that spread over approximately 16 sq km in the Han era. The settlement was not a city, but rather a series of settlements. During the city’s most prosperous period, the Endere Darya river ran 800 m east of the administrative city centre, while today it runs 9.5 km west of the town. Endere was given up in the 9th century AD as a result of such a change in the Endere Darya’s flow, but in the 11th century a new colony, Bilel-Konghan, was established on the western banks of the river as it then was. The ruins of this colony are similar to Endere, but a lack of ceramic shards or Chinese or Tibetan colonisation show that Bilel-Konghan was only after the Islamic conquest. When the river changed its course again, this settlement was also deserted. The centre of Endere is marked by two buildings, the great stupa and the Tang citadel. Coins from the Han era were found near the great stupa, dating it to the time of the Eastern Han (AD 24-220). About 300 m north-east of the stupa, a quadrangular archaic city wall rises from the sand, at places up to 9 m high, and 10 m deep.</p>
+            <p>Stein did not carry out extensive excavations, but did find a large piece of glass bowl, almost certainly imported from Rome. The large Tang fort that later belonged to the Tibetans lies 1.5 km east of the stupa. In 1906, Stein could prove that the walls of the fortress had been built on the ruins of an older colony, it can be assumed that Tuluoluo city spread from the large stupa to the citadel. Baumer supports this conclusion with the discovery of a Kharoshthi administrative text, written on a greyish-white soapstone block at the base of a dilapidated stupa in the immediate neighbourhood of the citadel.</p>
+            <p>Inside one of the larger rooms (V), wooden poles 50 cm thick that formerly supported the roof protrude from the sand at regular intervals. 400 m west of the fort, Baumer found such a pole measuring 1.5 m in length. It is likely that it was dragged there by treasure-seekers and left. In room E.III, Baumer was able to excavate two sgriffiti that proved significant to Endere’s history: a vertical Chinese and a horizontal Tibetan inscription. In temple E.I, in three corners of the cella, Stein discovered almost life-size, red-painted clay statues, but the fourth one had been destroyed. The unequivocal relation to Gandhara art allows these figures to be dated to the 4th or early 5th century AD. Stein also found many paper manuscripts with a Sanskrit text in the Brahmi script, or written in the Tibetan language. All these documents are concerned with the Buddhist canon.</p>
+            <p>At shrine E I, Stein exposed the only wall paintings found at Endere. On the wall of a small chapel, there had once been depicted a large standing Buddha, but only his feet and part of a garment had been preserved. Stein also discovered a small wooden tablet with the image of the four-armed, elephant-headed god known as Ganesha in Hinduism, and Vinayaka in Mahayana Buddhism, showing that the influence of Indian culture reached as far as Endere. When Baumer visited in 1998, he noticed that the shrine had been looted and that the paintings were no longer there. Only a few human skeletons were found in the area, raising the question as to where the cemetery at Endere had been.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Duldul-okur">
+        <msIdentifier>
+          <settlement>Kucha</settlement>
+          <idno type="current">Duldulokur</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Stein visited Duldulokur in the Kucha region near the east bank of Muzart river ten miles south-west of Kucha town on his third expedition. The base of a ruined stupa survives. Fragments of hard-coloured stucco were found below the western face of the stupa base. Other fragments included a wooden vesica and halo finely carved in relievo, probably serving as a Buddhist image. These pieces seem to date from Tang times. On a steep gully, a thin layer of refuse similar to that found at Mazartagh was found. A semicircular brick wall had decayed almost to the ground. Its purpose remains obscure, but could account for the local designation Duldul-okur, derived from Persian Duldul-akhur, 'the manger of Duldul', the name of Rustam’s horse famous in popular legend.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="E.">
+        <msIdentifier>
+          <settlement>Endere</settlement>
+          <idno type="current">Endere</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>SThe site of Endere lies on the southern Silk Road on the Endere river. Stein believed it had been occupied at two different times. Xuanzang saw the site in ruins in AD 645, which he called Tuhuoluo. It was then occupied later in the Tang dynasty, but was abandoned when the Tibetans took over in the 8th century. Stein excavated twice on two occasions, 20-25 February 1901 and 8-14 November 1906, but both were brief visits. Christoph Baumer visited in October 1998. After the Tang had brought the southern Silk Road under their control towards the end of the 7th century, they rebuilt Endere and established an administrative and military centre there in about 700. The Tibetans, in alliance with the Western Turks and the Arabs, constantly attacked Tang garrisons, but were driven back from the Tarim Basin in AD 719 by a Chinese counter-offensive.</p>
+            <p>After the defeat of Talas by the Arabs in 751 and the An Lushan rebellion (756-762), the Chinese experienced heavy military pressure from the Tibetans. By 791, they had to withdraw from Endere, leaving Tibet to control one of the most strategically important forts along the southern Silk Road. The Endere ruins are the centre of a fairly large settlement that spread over approximately 16 sq km in the Han era. The settlement was not a city, but rather a series of settlements. During the city’s most prosperous period, the Endere Darya river ran 800 m east of the administrative city centre, while today it runs 9.5 km west of the town.</p>
+            <p>Endere was abandoned in the 9th century as a result of such a change in the Endere Darya’s flow, but in the 11th century a new colony, Bilel-Konghan, was established on the western banks of the river as it then was. The ruins of this colony are similar to Endere, but a lack of ceramic shards or Chinese or Tibetan colonisation show that Bilel-Konghan dated from after the Islamic conquest. When the river changed its course again, this settlement was also deserted. The centre of Endere is marked by two buildings, the great stupa and the Tang citadel. Coins from the Han era were found near the great stupa, dating it to the time of the Eastern Han (AD 24-220). About 300 m north-east of the stupa, a quadrangular archaic city wall rises from the sand, at places up to 9 m high, and 10 m deep.</p>
+            <p>Stein did not carry out extensive excavations, but did find a large fragment of glass bowl, almost certainly imported from Rome. The large Tang fort that later belonged to the Tibetans lies 1.5 km east of the stupa. In 1906, Stein could prove that the walls of the fortress had been built on the ruins of an older colony, it can be assumed that Tuluoluo city spread from the large stupa to the citadel. Baumer supports this conclusion with the discovery of a Kharoshthi administrative text, written on a greyish-white soapstone block at the base of a dilapidated stupa in the immediate neighbourhood of the citadel.</p>
+            <p>Inside one of the larger rooms (V), wooden poles 50 cm thick that formerly supported the roof protrude from the sand at regular intervals. 400 m west of the fort, Baumer found such a pole measuring 1.5 m in length. It is likely that it was dragged there by treasure-seekers and left. In room E.III, Baumer was able to excavate two sgraffiti that proved significant to Endere’s history: a vertical Chinese and a horizontal Tibetan inscription. In temple E.I, in three corners of the cella, Stein discovered almost life-size, red-painted clay statues, but the fourth one had been destroyed. The unequivocal relation to Gandhara art allows these figures to be dated to the 4th or early 5th century AD. Stein also found many paper manuscripts with a Sanskrit text in the Brahmi script, or written in the Tibetan language. All these documents are concerned with the Buddhist canon.</p>
+            <p>At shrine E.I, Stein exposed the only wall paintings found at Endere. On the wall of a small chapel, there had once been depicted a large standing Buddha, but only his feet and part of a garment had been preserved. Stein also discovered a small wooden tablet with the image of the four-armed, elephant-headed god known as Ganesha in Hinduism, and Vinayaka in Mahayana Buddhism, showing that the influence of Indian culture reached as far as Endere. When Baumer visited in 1998, he noticed that the shrine had been looted and that the paintings were no longer there. Only a few human skeletons were found in the area, raising the question as to where the cemetery at Endere had been.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="F.">
+        <msIdentifier>
+          <settlement>Khotan (to check)</settlement>
+          <idno type="current">Farhadbegyailak</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>At the site of Farhadnbegyailaki remains are scattered over an extensive area of approximately six square miles. The ruins had suffered from exploitation from villagers and woodcutters in search of saltpetre. Almost all ruined structures occupied erosion terraces rising four and a half metres above the ground, and thus were spared from damage by water nearby. This indicates ruins could be earlier than Dandan and Khadalik. To the northwest of the groups of ruins, there lay small ‘Tati’ areas strewn with ancient pottery debris. A small stupa base was also found.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Gha.">
+        <msIdentifier>
+          <settlement>to be added</settlement>
+          <idno type="current">Ghaghasharh</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Information to be added shortly.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Ile-dong">
+        <msIdentifier>
+          <settlement>to be added</settlement>
+          <idno type="current">Iledong</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Information to be added shortly.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Jig.">
+        <msIdentifier>
+          <settlement>to be added</settlement>
+          <idno type="current">Jigdalik</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Information to be added shortly.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Ka.">
+        <msIdentifier>
+          <settlement>to be added</settlement>
+          <idno type="current">Karadong</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Information to be added shortly.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Gao.">
+        <msIdentifier>
+          <settlement>Turfan</settlement>
+          <idno type="current">Karakhojar</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Ancient city east of Turfan, also known as Gaochang and Kocho.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="K.Y.">
+        <msIdentifier>
+          <settlement>to be added</settlement>
+          <idno type="current">Karayantak</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>SAt the site of Karayantak, Stein found remains of a completely destroyed Buddhist shrine, similar to that at Khadalik in plan and decoration, but smaller. There were small pieces of painted wood from posts with no sign of destruction by fire. Apart from pieces of frescoed wall plaster, showing small, seated Buddha figures as part of a large vesica, nothing remained of cella walls, which probably had been built out of timber and wattle.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="K.K.">
+        <msIdentifier>
+          <settlement>Kharakhoto</settlement>
+          <idno type="current">Kharakhoto</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>A Tangut city lying north of Estin-gol.Oldenburg disovered the walled city but his primary excavations were at a ruined stupa outside the walls where he discovered a cache of ancient manuscripts, woodblock prints, paintings and statues. Stein arrived later and acquired thousands of manuscript and printed fragments.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Khora.">
+        <msIdentifier>
+          <settlement>To be added</settlement>
+          <idno type="current">Khora</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>In December 1907, Stein excavated at the site of Khora, where he found ruins of small Buddhist shrines scattered in groups over low but steep ridges. The site has a number of cellas, mostly quite small, to the northwest and southeast of the central structure. Three fragments of Brahmi Pothi leaves were said to have been found in this chamber. No coins or other datable objects were found at the site. Judging from the structural and other remains, it seems that its shrines continued to be worshipped as long as those of Ming-oi, suffering destruction about the same time as the latter. Such a site of worship would have had a larger agricultural settlement in its vicinity. If the water supply from the mountains had been more abundant than when Stein saw it, the clayey steppe to the east and north might have provided room for such a settlement. Desiccation was also an important factor</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="H.B.">
+        <msIdentifier>
+          <settlement>to be added</settlement>
+          <idno type="current">Kichihassar</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Information to be added shortly.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Y.I.">
+        <msIdentifier>
+          <settlement>to be added</settlement>
+          <idno type="current">Knocha River</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Information to be added shortly.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Koy.">
+        <msIdentifier>
+          <settlement>Charkhlik</settlement>
+          <idno type="current">Koyumal</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>The site of Koyumal is a small ruined enclosure standing on a bare, gravel-covered alluvial plain. It remains unclear as to whether this was intended as a square or as an oblong. Near its centre rise the remains of a Stupa base. On the west stood a few ruined chapels. The debris on the floor of these chapels contained fragments, which had formed part of a large floral background in the mural decoration. Most of the fragments show lotus-petal or acanthus-like imbrications. According to Stein, the evidence seems to suggest that the site was occupied during early Tang tmes.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Kucha.">
+        <msIdentifier>
+          <settlement>Kucha</settlement>
+          <idno type="current">Kucha</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Kucha is an important site mentioned in the Chinese annals under Qiuzi from Han to Tang times. Numerous remains attest to the flourishing conditions of Buddhist religious establishments and ample traces of the populations who maintained them, Bower came to the oasis of Kucha and bought one manuscript of 51 birch-bark leaves. These were eventually deciphered by Hoernle as containing seven distinct but incomplete texts, written in Sanskrit using the Brahmi alphabet, dealing with medicine and necromancy. Dating from around 5th century, probably written by Indian Buddhist monks, this proved to be one of the oldest written books. The publication of this find in Calcutta marks a new movement of archaeological exploration of Chinese Central Asia. (See British Collections)</p>
+            <p>Xuanzang passed through the region and left an account of life in Kucha. He spoke of the kingdom’s great size and of the luxuriance of its well-watered oases where corn and rice were grown.</p>
+          </msItem>
+          <msItem n="L.D.">This was a large dwelling about 4 km from the station L.A, evidently a farm built of Toghrak timber, with wattle walls of vertical tamarisk branches. The woodwork was badly decayed through rotting, but the tamarisk wattle of the walls survived to a height of about 30 cm, which helped indicate where the rooms would have been. Stein excavated few objects from this site. The most important among them were the wedge-shaped wooden cover-tablet, L.D.07, and the fragment of another L.D.04. Though bleached and perished by exposure, these fragments could be seen to belong to Kharosthi documents of the same type as found in considerable numbers at the Niya and L.A. sites. Their evidence indicates that the occupation of the dwelling was contemporary with that of the Loulan station. Apart from some wooden implements, the finds mainly comprised numerous small fragments of bronze ornaments, as well as beads of glass and stone.</msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Kuduk-kol">
+        <msIdentifier>
+          <settlement>Domoko</settlement>
+          <idno type="current">Kudok-kul</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Previous explorations by Stein in 1906 near the site of Khadalik, and in 1908 at Farhad-Begyailaki had proved that remains of settlements dating from the Buddhist period were plentiful in the desert belt immediately north and north-east of the present oasis of Domoko. The site of Kudukkol proved to be a patch of wind-eroded ground about 130 metres across, covered with pottery debris.</p>
+            <p>A low shapeless mound on the eastern edge of this area marked the ruin. The remains of a shrine were discovered. On clearing a small mound composed of sand and debris, Stein reached the plastered floor at a depth of just over a metre. The numerous fragments of plaster painted in tempera found amidst the debris indicated that the walls had been decorated with compositions in the style of the mural paintings of which Stein had recovered the remains in 1906 from the ruin of the main temple of Khadalik. Stein mentions the representation of a miniature Stupa with pennons, and the head of a Trimurti figure, similar to that on the Dandan-oilik panel D.vii.6.</p>
+            <p>The remains at Kudukkol, despite their paucity, serve to prove that the shrine belongs to the same period as the temples of the Khadalik site, situated some 5 kilometres to the north, and is likely to have been similarly abandoned about the end of the eighth century.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="LL.">
+        <msIdentifier>
+          <settlement>Loulan</settlement>
+          <idno type="current">Loulan</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Information to be added shortly.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="M.T.">
+        <msIdentifier>
+          <settlement>Khotan</settlement>
+          <idno type="current">Mazar toghrak</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Near Domoko, 60-80 miles east of Khotan on the southern arm of the Silk Road.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Mi.">
+        <msIdentifier>
+          <settlement>Karashahr</settlement>
+          <idno type="current">Mingoi</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Shorchuk, Karashahr, 20-30 miles east of Lake Baghrash on the northern arm of the Silk Road.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SvS" n="M.">
+        <msIdentifier>
+          <settlement>Lop Nor</settlement>
+          <idno type="current">Miran</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <div n="1" type="General Introduction">
+              <p>The ruins at Miran consist of a large rectangular fort, a monastery (The Vihara), several stupas and many sun-dried brick constructions, located relatively close to the ancient caravan track to Dunhuang, running west to east. In the fort Stein found Tibetan documents on wood and paper, fragments with a Turkish runic script, palm-leaf documents inscribed with Brahmi characters and Kharoshthi texts on silk. In the temples, shrines and stupas Stein discovered Buddhist stucco reliefs, sculptures and frescoes in the Graeco-Buddhist Gandhara style, Kharoshthi inscriptions from the 3rd c. AD within a painted frieze, wooden carved objects, textiles and fragments of architectural objects.</p>
+            </div>
+            <div n="2" type="History of the site">
+              <p>In pre-historical times the Lop Nor region, of which Miran is a part, was occupied by a people of possibly Indo-European origin. By the end of the first millenium BC, it was part of the Shanshan empire. During the second century AD it came under the influence of the Kushan Empire, which may have accelerated the spread of Buddhist art and literature in the area. By the third century, there were Buddhist monasteries throughout the Shanshan empire, and Miran may have been the administrative centre of Buddhism in the empire. The paintings and sculptures found in Miran are probably the earliest on the Silk Road, and show the strong influence of the Gandharan art of the Kushans. Miran was abandoned by the fifth century, but occupied once again in the eighth century by the Tibetan army, which built Miran fort (M.I.) and cultivated the surrounding area for farming. Some time after the Tibetan empire fell in the mid-ninth century, Miran was abandoned once again.</p>
+              <p>Miran was called Yixun or Yixiu in the Han dynasty. Later it was called Little Shanshan, in contrast to the principal city in the region. The Chinese also referred to it as Qitun and Tun, probably at the same time that it was also known as Seton to the Tuyuhun and Rtse-'ton to the Tibetans. In the eighth and ninth centuries it was known to the Tibetans as Nob-chung, or Little Nob.</p>
+            </div>
+            <div n="3" type="History of exploration of the site">
+              <p>1876: First person to mention the ancient site was Colonel Nikolai Mikhailovich Przhevalsky. After his second expedition to the region, he talked about a very large ruined city near the Lopnor Lake, which, judging from its geographical position on his map, must have been Miran.</p>
+              <p>1905: Ellsworth Huntington, an American geologist, the first to examine Miran, identified the fort, the monastery and two stupas during a short visit, and recognized the Buddhist character of the site.</p>
+              <p>1906-1907: Miran fort was first visited briefly by Aurel Stein on December 8, 1906, during his second expedition. A trial excavation of the fort (site number M.I.) uncovered eight rooms and over a hundred Tibetan woodslips. Stein returned on January 22, 1907, and carried out a thorough excavation of the fort, uncovering 44 rooms (site numbers M.I.i - M.I.xliv) discovering many more Tibetan woodslips and paper fragments, as well as other miscellaneous objects. He excavated other sites in the area, mainly to the north and west of the fort (site numbers M.II - M.X), including several temples containing well-preserved Buddhist frescoes and stucco images. On his third expedition, Stein returned to Miran on January 16, 1914, excavating other sites in the area (site numbers M.XI - M.XV), which were ruins of stupas and towers. The objects found in these included more stucco images and wooden carved objects. (Page references for main site discussion in Stein’s archaeological reports: Stein 1921, pp. 450-547.</p>
+              <p>1902 and 1910: Count Kozui Otani sent missions from Kyoto to some Taklamakan sites, among them Miran, to bring back Buddhist texts, wall paintings and sculptures. Were suspected by the British of espionage under cover of archaeology. (Sugiyama, Jiro. Central Asian Objects brought back by the Otani Mission, Tokyo National Museum, 1971).</p>
+              <p>1914: Stein returned to Miran on his third expedition. He lamented the destruction caused by the Otani missions’ highly unprofessional manner in which findings were removed. He excavated more material from Miran Fort, including more Tibetan woodslips and paper manuscripts.</p>
+              <p>1957–1958: Professor Huang Wenbi of the Institute of Archaeology, Academy of Social Sciences, toured Xinjiang and conducted preliminary surveys of major sites. He spent only a few days in Miran and recovered some objects from the Tibetan fort (<ref target="Huang_1983">50-51</ref>).</p>
+              <p>1973: Archaeological team from Xinjiang Museum. with Beijing archaeologist Chen Ge, mapped the 1st century canal system at Miran and undertook a fundamental survey of the site.</p>
+              <p>1978-1980: Huang Xiaojiang and Zhang Ping of the Xinjiang Museum visited Miran several times and conducted further work to supplement the 1973 survey. In addition to the Tibetan fort, they surveyed eight stupas, three temples and two beacon towers.</p>
+              <p>1989: Christa Paula visited Miran and discovered four structures not documented by Stein (<ref target="Paula_1994">225–238</ref>).</p>
+            </div>
+            <div n="4" type="History of the collections">
+              <p>Elseworth Huntington brought a few objects back from Central Asia, most of which are now kept at the Yale University Library.</p>
+              <p>Aurel Stein's excavations provide the vast majority of the material from Miran. Stein's material was divided between London (the British Museum and the India Office Library) and India, whose government had provided co-sponsorship for his expeditions. By 1982, the majority of the London manuscripts were transferred to the British Library, which now holds all of Stein's finds of Tibetan woodslips and paper manuscripts from Miran. The British Museum holds the sculptures and other artefacts. The artefacts sent to India are now mainly in the National Museum, New Delhi. The collection of several hundred Stein textiles is on loan to the Victorian and Albert Museum, London.</p>
+              <p>The objects and manuscripts taken by the Otani expedition are now scattered over several locations in Japan and elsewhere.</p>
+            </div>
+            <div n="5" type="Current state of the site"/>
+            <p>Access to the site is currently possible but restricted. There have been no major excavations of the site since Aurel Stein's third expedition.</p>
+            <div n="6" type="Bibliography"/>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Murtuk">
+        <msIdentifier>
+          <settlement>Turfan</settlement>
+          <idno type="current">Murtuk</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Information to be added shortly.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Nan.Ft.">
+        <msIdentifier>
+          <settlement>to add</settlement>
+          <idno type="current">Nanhu</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>This site has altogether about 30 Chinese homesteads. The existence of the Nanhu oasis, in ancient as in modern times, is due solely to the water supply which this drainage-bed assures. In Stein’s day, this was mainly subterraneous, coming to the surface in the form of springs. The only conspicuous remains of antiquity which survive in the basin of Nanhu are the ruins of a small walled town. These broken walls form the shape of an irregular triangle. The wall proper was of solid construction, built with carefully stamped layers of clay, seeming of an early date.</p>
+            <p>Stein found fragments of wuzhu coins of Han and Tang dynasties. Pottery fragments were found, one of which had the smoky grey ‘mat-marked’ surface characteristic of the coarse pottery of the Han dynasty prevailing along the Limes. Everywhere bare patches of clay that appear between the dunes are abundantly covered with small debris of hard materials, such as pottery, stones, glass, metal etc.</p>
+            <p>The site of Nanhu might be associated with Yangguan of the Han period. A few kilometres north-east of the site was a ruined watchtower. The tower was clearly old in structure and built in pise. An embankment nearby was intended to serve as a guiding line for travellers when crossing the bare gravel plateau, to and from banks of Tang river. It was intended to offer protection from the severe gales. This could account for the local name given to the embankment by local people, Feng qiang 風牆, ‘wind wall’. Stein argues against the view that the embankment was used as a defensive ‘wall’.</p>
+            <p>The magnitude of this embankment shows that the population of Nanhu must have been far greater than in Stein’s day to merit the effort of extending such a structure 25km into the desert. Stein wonders whether Yangguan is the often referred to Yumenguan (Jade Gate Pass) in Chinese records. Certain statements in the Dunhuang Lu seem to point toward this view, although this remains uncertain.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SvS" n="N.">
+        <msIdentifier>
+          <settlement>Lop Nor</settlement>
+          <idno type="current">Niya</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <div n="1" type="General Introduction">
+              <p>The Niya archaeological site is approximately 50 miles north of modern Niya on the southern arm of the old Silk Road. Niya was one of the largest city oases on the Southern Silk Road, with an area of about 45 sq. km. More than 40 ancient structures were been identified by Stein during his three expeditions, and a further 30 buildings and two graveyards by a Sino-Japanese team since 1993. The sites are scattered along the ancient Niya river, extending about 25 km north to south and 7 km east to west. The structures found at the site include many houses and orchards, a stupa, two recently excavated Buddhist temples, and a cemetary.</p>
+              <p>Archaeological finds at the site include hundreds of wooden tablets inscribed in the rare Kharoshthi script and several official Kharoshthi documents on leather, a large carved wooden chair or altar, a dozen wooden tablets with Chinese characters, several wooden beams, ceramics, lacquerwork pieces, coloured silk cloths and coins.</p>
+              <p>Alternative names: The city was known as Caḍota to its inhabitants. It is also referred to as Niña in a Kharosthi document, and Nijiang in Xuanzang’s account, though this may not refer to ancient Niya but to a settlement between Mazar and today’s Minfeng that is still called ‘Niya’ today (both quoted in Stein, 1907, p. 311). Modern Chinese name: Minfeng</p>
+            </div>
+            <div n="2" type="History of the site">
+              <p>In pre-historical times the Lop Nor region, of which Niya is a part, was occupied by a people of possibly Indo-European origin. By the end of the first millenium BC, it was part of the Shanshan empire. During much of the Han Dynasty, the whole region was under Chinese control. During the second century AD it came under the influence of the Kushan Empire, which may have accelerated the spread of Buddhist art and literature in the area. By the third century, there were Buddhist monasteries throughout the Shanshan empire. The paintings and sculptures found in Niya are somewhat later than those found in Miran, dating to the third and fourth centuries AD. They show the strong influence of the Gandharan art of the Kushans. Niya was abandoned by the fifth century.</p>
+            </div>
+            <div n="3" type="History of exploration of the site">
+              <p>1900-1901: Niya was excavated on Stein’s first expedition. He was the first European to reach the site.</p>
+              <p>1902 and 1908: Count Kozui Otani sent missions from Kyoto to some Taklamakan sites to bring back Buddhist texts, wall paintings and sculptures. Carried out excavations at Niya. Were suspected by the British of espionage under cover of archaeology. (Sugiyama, Jiro. Central Asian Objects brought back by the Otani Mission, Tokyo National Museum, 1971).</p>
+              <p>1905: Ellsworth Huntington, an American geologist, visited the oasis without making any excavations.</p>
+              <p>1906: Stein returned to Niya for renewed excavations on his second expedition.</p>
+              <p>1913: Stein once more had chance to visit Niya.</p>
+              <p>1935: Peter Fleming on his travel from Peking to Kashmir visited Niya (<ref target="Fleming_1936">282-284</ref>).</p>
+              <p>1959: Shi Shuqing investigated the remains of stupas. Li Yuchun and others carried ut excavations in the area.</p>
+              <p>1980: Remote-sense archaeological investigation by the Xinjiang Institute of Cultural Relics and Archaeology.</p>
+              <p>1988 ongoing: Excavations by the Sino-Japanese Joint Research Group have unearthed previously undiscovered ruins.</p>
+              <p>1989: Christa Paula visited Niya (Minfeng) on her way to Miran (<ref target="Paula_1994">113-115</ref>).</p>
+              <p>1998: Christoph Baumer visited the site and photographed several structures and artefacts (Baumer_2000).</p>
+            </div>
+            <div n="4" type="History of the collections">
+              <p>Aurel Stein's excavations provide the vast majority of the material from Niya. Stein's material was divided between London (the British Museum and the India Office Library) and India, whose government had provided co-sponsorship for his expeditions. By 1982, the majority of the London manuscripts were transferred to the British Library, which now holds all of Stein's finds of Tibetan woodslips and paper manuscripts from Miran. The British Museum holds the sculptures and other artefacts. The artefacts sent to India are now mainly in the National Museum, New Delhi. The collection of several hundred Stein textiles is on loan to the Victorian and Albert Museum, London.</p>
+              <p>The objects and manuscripts taken by the Otani expedition are now scattered over several locations in Japan and elsewhere.</p>
+              <p>Elseworth Huntington brought a few objects back from Central Asia, most of which are now kept at the Yale University Library.</p>
+            </div>
+            <div n="5" type="Current state of the site"/>
+            <p>Access to the site is currently possible but restricted.</p>
+            <div n="6" type="Bibliography"/>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Samp.">
+        <msIdentifier>
+          <settlement>Khotan</settlement>
+          <idno type="current">Sampula</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>tems with this site code were brought on Stein's 3rd expedition from Toghrak-mazar, Sampula, which is situated 15-20 miles SE of Khotan on the southern arm of the Silk Road.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Taj.">
+        <msIdentifier>
+          <settlement>Kucha</settlement>
+          <idno type="current">Tajik</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>To the west of the Muzart river, 30-35 miles WSW of Kucha on the northern arm of the Silk Road.(Innermost Asia map no. 17, A. 1).Stein found a well at the site of Tajik, next to which was a well-preserved guard post. The well contained reasonably fresh water. The presence of such subterranean drainage from the range explained both the ancient and modern occupation of such a barren spot.</p>
+            <p>Stein surveyed the ruins of Tajik, and those of Toghra-akin site to the west between April 24-27. At these ruins is a much dilapidated quadrangle, and the remains of a Buddhist sanctuary on a natural clay terrace at the mouth of the valley, and a group of small shrines scattered over low ridges higher up.</p>
+            <p>When the debris had been cleared completely, one of the apartments was seen to have a Buddhist shrine. There was a central niche for an image in its back wall. Traces of wall painting survived in the two arched passages leading into a room behind. In this same apartment (i) were found the stucco relief head of a Bodhisattva, and the wooden right hand which had probably belonged to the Buddha figure shown in Abhayamudra. A Chinese coin was found but could not be identified (now?).</p>
+            <p>In area iii, adjoining the shrine i, Stein discovered 3 small paper fragments with Kuchean writing. Shrine II.i had traces of painting on the passage walls. A small fragment of paper with Brahmi characters was recovered from the sand covering the floor. Also found was a well-preserved wooden tablet of the ‘Takhti’ shape, which was picked up under a slight layer of debris on the slope below this cave. It shows Kuchean writing divided into 3 sections, on recto and verso.</p>
+            <p>In view of scanty nature of finds, the main interest in Tajik lies in the evidence it supplies of the physical conditions of the region during the time when Buddhist cult was maintained, down to the Tang (AD 618-907).</p>
+            <p>P.816, on opposite side of the gorge, the top of steep hillock is occupied by the badly decayed remains of what appears to have been a large enclosure containing the monastic quarters. Due to the precipitous nature of the slopes, a great portion of the walls has slid down. No structural features were visible in the interior which was completely overlaid by rubbish heaps and pottery debris.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Tallik-bulak">
+        <msIdentifier>
+          <settlement>Turfan</settlement>
+          <idno type="current">Tallikbulak</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Near Turfan, on the northern arm of the Silk Road.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="T.K.">
+        <msIdentifier>
+          <settlement>Tashkurghan</settlement>
+          <idno type="current">Tashkurghan</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Town now on the Karakorum highway in China south-west of Kashgar, which was a border post on the Silk Road. Remains of an fort.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Toy.">
+        <msIdentifier>
+          <settlement>Turfan</settlement>
+          <idno type="current">Toyuk</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Buddhist cave site north-east of Turfan in a gorge north of Karakhoja. Stein visited on his third expedition and wrote:</p>
+            <p>'On November 23rd I returned to Toyuk and halted during the next fifteen days at that most picturesque of all Turfan localities. During this halt I devoted as much time as my other duties would allow to the work which my previous reconnaissance of the often-searched ruins of Toyuk suggested as still worth undertaking. The lively stream descending from Su-bashi to Toyuk spreads fertility immediately below the mouth of a strikingly rugged and gloomy gorge. The natural attractions of the site, greatly heightened by the contrast between the luxuriance of the little oasis and the utterly barren and weirdly eroded hill-sides above it, must have made Toyuk in ancient times, as it is now, a much-frequented place of pilgrimage. The prosperity secured to it by the far-famed produce of its vineyards and orchards (Fig. 312) and by its easy accessibility from the chief oases of the basin made it no doubt, at all times, easy to provide for those who looked after the shrines here established. Nor was it difficult, at a site so favoured, to assure sustenance for those pious poor, whether Buddhist pilgrims of old or Muhammadan mendicants in later times, who chose to pay their devotions to the holy spot, and eventually settled down there for good. Since the many Buddhist shrines and monastic retreats in the gorge were finally abandoned as a result of the victorious spread of Islam, local worship has maintained itself with equal tenacity and success by placing the well-known Muhammadan version of the legend of the ' Seven Sleepers ' at the much-frequented Mazar of Asahab-Kahaf immediately below the mouth of the gorge (Fig. 312). Like previous visitors with archaeological interests, we found a kindly welcome there in the spacious house of Kare Akhun, Chiraghchi, the chief attendant of the Mazar.</p>
+            <p>'The many cave-shrines and temples to be found along both sides of the gorge for a distance of about a mile above its mouth had suffered a great deal of destruction both from vandalism and from treasure-seeking operations, even before Dr. Klementz furnished the first brief description of them. Where, owing to the accumulation of heavy debris or for other reasons, manuscript remains and other antiques were likely to have escaped local exploitation of the kind practised at Idikut-shahri, the caves had, for the greater part, been carefully searched, with important results, in the course of Professor von Lecoq's Turfan expedition of 1904-5. Subsequently, in 1907, Professor Grunwedel had devoted his expert iconographic knowledge and artistic skill to the study and record of whatever paintings had survived on the walls of the more important caves and temples. Since then destructive diggings by natives had proceeded unchecked in spite of the diminishing yield of antiques. They were said to have been particularly stimulated by Mahmud ' Jisa ', the Kara-khoja headman, who, before he fell a victim to Ahmad Mullah's emeute in the preceding spring, appears to have been collecting the proceeds in the shape of manuscripts, etc., for sale or as presents to Chinese officials at Turfan and Urumchi. The result of these operations was to be seen in the disturbed condition of some smaller ruins which in November, 1907, I had found still apparently untouched.</p>
+            <p>I was therefore obliged to confine my own work to those few spots where heavy accumulation of debris or other difficulties of the kind appeared to have deterred the diggers, and to the rescue of such remains of mural paintings as still survived in a few accessible cave-shrines. Accordingly I decided to begin by clearing an area situated at the foot of the northernmost large group of ruined shrines on the left side of the gorge (Fig. 310). Niaz, an old frequenter of the site, said that in his youth he had seen at this spot remains of small structures, some vaulted, which had since been completely covered up and hidden by the debris thrown down on the fan-like slope in the course of the clearing of the big central temple above. Excavation was started from the foot of this slope, where it ends in precipitous cliffs of clay rising above the irrigation cut that carries water from the stream to the eastern portion of Toyuk cultivation.'</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Y.K.">
+        <msIdentifier>
+          <settlement>Turfan</settlement>
+          <idno type="current">Yarkhoto</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Ancient city, Chinese name, Jiaohe, approximately 4 miles west of Turfan on the northern arm of the Silk Road. (Serindia map no. 54, D. 1).</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Ying.">
+        <msIdentifier>
+          <settlement>to add</settlement>
+          <idno type="current">Yingpan</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>Information to be added shortly.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Yo.">
+        <msIdentifier>
+          <settlement>Khotan</settlement>
+          <idno type="current">Yotkan</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>The ruins of the ancient capital of the Khotan kingdom on the southern Silk Road. Stein visited here but little remainedexcept for small terracottas and gold leaf. Stein surmised this lent support to the historical accounts of the town being full of gold covered Buddha statues.</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="SW" n="Yut.">
+        <msIdentifier>
+          <settlement>Turfan</settlement>
+          <idno type="current">Yutogh</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <p>A small site among the ruins of Tuyuk, 16 miles east of the Kharakhoja site in the Turfan area on the northern arm of the Silk Road. Visited by Stein on his 3rd expedition. (Stein_1928 map no. 28, D. 3).</p>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

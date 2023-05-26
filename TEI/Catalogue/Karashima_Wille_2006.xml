@@ -1,0 +1,1770 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transliteration of IOL San 428-481 Fragments and Or.8212/47(1)-(3)</title>
+        <author>Karashima, Seishi and Wille, Klaus</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>IDP</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2007</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Seishi KARASHIMA and Klaus WILLE, “The Sanskrit Manuscript of the Sarvabuddhaviṣayāvatārajñānālokālaṃkāra from Endere in the Stein Collection,” in: Buddhist Manuscripts from Central Asia: The British Library Sanskrit Fragments, Volume I, ed. by Seishi KARASHIMA and Klaus WILLE, Tokyo: The International Research Institute for Advanced Buddhology at Soka University, 2006, pp. 191-254.</p>
+        <bibl>
+          <ref>Karashima and Wille_2006</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Input and marked up by IRIAB.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This catalogue contains transliterations of Sanskrit fragments in the Stein Collection at the British Library.</p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 454</idno>
+          <idno type="old">E. i.5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. (1)</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>+ + + + + + + .. .. + + ///
+<lb n="2"/>nāśaya mama sarvvadā/a + + /// [r2: last vowel ā/a indicates either a or ā]
+<lb n="3"/>.. sāñä uspurrä ttäña balśu tsu [◯] [ñ]. ///
+<lb n="4"/>hā daha [v]ā ṣā dhāraṇä .. [ta]ñe pa [◯] ///
+<lb n="5"/>nāgä [t].[e] .. ta .. [j]. + + .i .. + ///</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>s[i]ddh(am*) .. .. .. .. + + [a] .. + ///
+<lb n="2"/>tnam asamantadu[dbha]va prr[ā]paka[ṃ] .. [◯] ///
+<lb n="3"/>ntavikkramaṃ saṃstuta mun[i]v(a)rai [◯] ///
+<lb n="4"/>rjitaṃ stutva tā .ṛta [ya] .. + + + ///
+<lb n="5"/>+ .[iṃ] + + + + .. .. v. + + + + ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 455</idno>
+          <idno type="current">IOL San 456</idno>
+          <idno type="old">E. i.5</idno>
+        </msIdentifier>
+        <msContents>
+          <note>(Right fragment of IOL San 456)</note>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 2; IOL San 455 (E. i.5) + IOL San 456 (right fragment); JĀA(Lha) 19.9-20.8 = JĀA(Lhb) 2.12-6.3</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// [v]. [ṅ]ś(a)t[i]bh[i](r) bh(i)kṣu[śa] .. [saha] + + + + + + ///
+<lb n="2"/>/// [kṛ]tyaiḥ kṛtakaraṇīyair apa ◯ .. + + ///
+<lb n="3"/>/// .. mapāramiprrāptair ājñāta ◯ .[au] .. .. ///
+<lb n="4"/>.. [ju]śrriyā ca kumāra[ka]bhū[te] .. .. .. + + ///
+<lb n="5"/>/// + + + .[ai] .. + .. .. .. .. + + .. .. + + ///</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + + .. .. + + .. .p./.m. .. prra .. + + .. [su] + + ///
+<lb n="2"/>/// .. ca bhaiṣajyasamudgate[na] ca ◯ [b]odh[i] .. .v. ///
+<lb n="3"/>/// .. dharmanirbhāsaiḥ tathatveryā◯p. .[ai] + ///
+<lb n="4"/>/// ..ḥ sarvadharmasvabhāvasamatā [◯] .. [p]. + + ///
+<lb n="5"/>/// .ānāṃ mahābalaja .. [vegas]. + + + + + + + ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 456</idno>
+          <idno type="old">E. i.5</idno>
+        </msIdentifier>
+        <msContents>
+          <note>(Left fragment of IOL San 456)</note>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 3; JĀA(Lha) 20.10-21.16 = JĀA(Lhb) 6.5-8.8</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>dh[i]s(a)tv[ā] [m](a)[h](ā) + tvā[ḥ s]. .. + + + ///
+<lb n="2"/>satvā mahāsatvā āgatvā [ma] + [◯] ///
+<lb n="3"/>hasrralokadhātuparamāṇuraja [◯] ///
+<lb n="4"/>ekaikasmā digbhāgāt* daśabuddha [◯] ///
+<lb n="5"/>gatā ..ṃ .v. ṣām ekai[ko] + .. .. [t](v)o .. ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>svaka(s)v(a)k(a)prraṇi[dhā] + + .. [ni](r)[j]. + ///
+<lb n="2"/>samayena dharmadhātugarbhaṃ prrāsā [◯] ///
+<lb n="3"/>samucchritaṃ sarvaprrabhāsamaṇi [◯] ///
+<lb n="4"/>tnaparivāram upamāti[k](k)[rā]ṃ .. + + + ///
+<lb n="5"/>[p](a)[t]ā ..(m)* .. .[y]. ca ma[hā] + + + + ///
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="4">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 457</idno>
+          <idno type="old">E. i.5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 4; JĀA(Lha) 21.18-22.16 = JĀA(Lhb) 8.10-10.9</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>sm(a) [tāś] c(a) [r](a)[ś]m(a)y[o] daśasu di[k]ṣ[v] a[n]y[o] + + + + + + + + ///
+<lb n="2"/>ekaikasmā digbhāgā daśabuddha◯ + + + + + + + ///
+<lb n="3"/>ḍakinnaramahoragaśakkrabrrahma◯loka[p](ā)[l]ā [āg]. .. ///
+<lb n="4"/>nayutaśatasahasrrasaṃgītisaṃ◯[prrava]ṇitair ā[g]. + + ///
+<lb n="5"/>keci[d]. .. [ma]yaiḥ ke + [d] v. .. [m]a[y]ai .. .. .[i] .. .. + + + + + ///</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>ma[ṇi]ratna[ma]y[ai]ḥ [ke] + [d va]śirā[j]. .. [ṇ]. + .. .. .. .. + ///
+<lb n="2"/>viśuddhiratnavyūhasamaṃtaraśmi◯ [p]rr(a) .. sama[hā] + ///
+<lb n="3"/>sahasrrasaṃgītisaṃprravādi◯tai[r ā] .. [cchaṃt]i .. ///
+<lb n="4"/>ṇidhānabalanirjāteṣv āsane[[ṣu]] .[i](◯).[ī] + + + + + + ///
+<lb n="5"/>sāha[s](ra)[m](a)hāsāhasrrā lokadh[ā] + + + + + + + + + ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="5">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 458</idno>
+          <idno type="old">E. i.5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 5; JĀA(Lha) 22.18-24.12 = JĀA(Lhb) 10.11-16.5</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>s[ā]racandanagandhavṛkṣair a[la]ṃkṛt[ā] + + + + + + + + + ///
+<lb n="2"/>taśatasahasrrair ardhakāyikā ◯ .[uktāh]ā[r]. + + + ///
+<lb n="3"/>rbhasiṃhāsanān imā gāthā niśca◯ranti sma || [ā]ga .. ///
+<lb n="4"/>mamādya saṃdhārayiṣye d[v]ipadotta◯[ma]ṃ ji[n]am* || mamā .. ///
+<lb n="5"/>+ + + .. sa[ṃka]lpa .. + .. .. + + .ā + + + + + + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>+ + .. .. sanam īdṛ + .. [bhe]t* [3 r]. .[m]. .. .. .. .. + + + ///
+<lb n="2"/>[sa]mā«kramā» mahya kṛtena [n]āyaka 4 ◯ [kṣ]ipraṃ niṣī[da]sva .. ///
+<lb n="3"/>bhagavān apy adya karotv anugrra◯[ha]m* 5 [||] a[th]. .. ///
+<lb n="4"/>dat paryaṃka{{ṃ}}m ābadhvā sarvāvantaṃ ca [bo] + + .. .. ṇaṃ .. + + + ///
+<lb n="5"/>[m]it[t]a[m] (aka)rau : tena [kha]lu [p](u)naḥ + + + + + + + + + ///
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 459</idno>
+          <idno type="old">E. i.5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folion No. 6; JĀA(Lha) 24.14-26.4 = JĀA(Lhb) 16.7-20.10</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>[n](i)r[o]dha[ṃ] t(a)[th]āgatam arhantaṃ samyaksaṃbu[d]dh. [p]. .. + .. + + + ///
+<lb n="2"/>viditvaṃ teṣāṃ ca bodhisatvānāṃ ma[hāsat]vānā[ṃ] ce[t]. + + ///
+<lb n="3"/>gavann ucyate kasyaita«d» bhadaṃta ◯ bhagava[n] dharma .y. .. ///
+<lb n="4"/>kīdṛśan tasya niruktilakṣaṇaṃm a◯nutpādam anir[o] .. ///
+<lb n="5"/>bodhisa .[ā] jñānārthi .. + .. .i .. .. .. [n](d)itu[m*] + .. + + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>śriyaṃ [kum]. rakabhū .. + .. d a[vocat* sā] .. [sā] .. .. .[u] .[rr]. + ///
+<lb n="2"/>ya tvaṃ maṃjuśrrīḥ prratipa[nn]o bahu◯janasukhā[ya] + ///
+<lb n="3"/>ca bodhisatvānāṃ ca mah[ā]satvā◯nāṃ buddha[bh]ū .. .. ///
+<lb n="4"/>tvaṃ karaṇīyaṃ jñānaprrati[sa]raṇ[e]na [ca t]e [maṃj]. .[ī] + + ///
+<lb n="5"/>r[h]ān [s](a)m(ya)k[s](a)ṃbuddha e[ṣa • || ta]dya[thā] .. [j]. .. + + + + + ///
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 466</idno>
+          <idno type="old">E. i.5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 7; JĀA(Lha) 26.6-27.6 = JĀA(Lhb) 20.12(?)-24.1</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>vana tatra ca mahāpṛthivyāṃ śakkra .. .. .. + .. .[r]. [s]ya [vai] + ///
+<lb n="2"/>paṃcabhi kāmaguṇaiḥ kkrīḍamānaḥ ◯ ramamānaḥ pa[ri] .. + ///
+<lb n="3"/>[ṣ]adārakadārikāḥs sañcoda◯yaṃnti sma [•] ā[g]. + ///
+<lb n="4"/>guṇaiḥ kkrīḍantaṃ ramantaṃ paricāra◯yantaṃm āgacchatha [bh]. .. ///
+<lb n="5"/>tha ī[dṛ]śeṣu vaijaya .. p[rr]āsā[d]e[ṣu k](r)ī .[i]ṣya .. .. .[i] .. tha .. ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>tā [bh](a)[v](i)ṣyatha yādṛśaṃ [ś]. + devā[na]m (i)[ndr](o) [d](i)[v]y[ai] .. .. .. + + .. .. ///
+<lb n="2"/>[r]uṣadārakadārikāḥ dṛṣṭvā tasyā ◯ mahāvai[ḍ]ūryama[yyāṃ] .. ///
+<lb n="3"/>sya prratibhāsaṃ dṛṣṭvāñjaliprragrra◯haṅ kṛtvā puṣpā .. + ///
+<lb n="4"/>śaḥ śakkro devānām indraḥ vayam apy evaṃ [v]aijayante prrā[sā] .. + + ///
+<lb n="5"/>na ca te sat[v]ā evaṃ saṃjā[n]anti s[ma] .. .. .. + .[o yaṃ vaiḍū] + + ///
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 467</idno>
+          <idno type="old">E. i.5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 8; JĀA(Lha) 27.8-28.3 = JĀA(Lhb) 24.3-28.2</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>pariśuddhatvān mahāvaiḍūryyasya prrat[i] + + .. [n]dṛ[ś]y(a)t. .. + ///
+<lb n="2"/>tatra ca trayastriṃśadbhavana prrati◯bhāso upapattaye [k]u ///
+<lb n="3"/>nāsti trayastri[[ṃ]]śadbhavanam* na vai◯jayantaḥ prrāsādo [n]. ///
+<lb n="4"/>dbhavanasya vaijayantasya ca prrāsā◯dasya śakkrasya [c](a) [d](e)[v]. ///
+<lb n="5"/>[sya p](rat)i[bhāsa]ḥ san[d](ṛ)[śya] .[e] eva .e .. .. [j]. [śrr]ī .. .. [śuddh](a)[tvā] .. ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>[ga]t[ā](n)u[bhāve]na mañjuśrr[ī](ḥ) [s](a)tvās ta[th]ā[g](a)t. [paśya] .. .. [c]. .. [tv]. .. ///
+<lb n="2"/>tana na santo nāsanta atha maṃjuśrrīḥ ◯ satvā tathāgata[prr](at)i ///
+<lb n="3"/>bhāṣanti vayam a[p]y evaṃrūpā bha◯veyāma yādṛśā[s].. ///
+<lb n="4"/>ca kurvanti śīlañ ca samādāya varttante tac ca tathā[ga]ta[jñ]ā + ///
+<lb n="5"/>thivyāṃ śakkrasya devānam ind[r]asya pra[t]i .. + + + .. .. [ma] .[y]. ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="9">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 464</idno>
+          <idno type="old">E. i.5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 9; JĀA(Lha) 28.4-29.4 = JĀA(Lhb) 28.3-30.8</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>manas[ī]kāraḥ śāntaḥ śītībhūtaḥ a[nutp]. + + [a] .. .. .. .. .. ///
+<lb n="2"/>nīyaḥ evam eva maṃjuśrrīs tathāgato ’rh[āṃ] s(a)myaksaṃbuddh. .. .. .. .. ///
+<lb n="3"/>cintyaḥ a[mana](s)[īk](ā)raḥ śāntaḥ śī◯tībhūtaḥ anu[t]pā + ///
+<lb n="4"/>ptika[ḥ] avijñapanīyaḥ evaṃ a◯nutpādagatikaḥ (ma)[ṃ] + + ///
+<lb n="5"/>[dh]imu[k](t)ā[n]ā[ñ ca] satvān[ā]ṃ [d](a)rśana[v]ai[māt](ra)[ta]yā [ā] + + + + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>ṣu prra[t](i)bhāsap[rr]āpto bha .. t[i] yathā .. [yā]dhim[u]ktyā + + + + ///
+<lb n="2"/>tadyathā mañjuśrrīr devānāṃ traya◯stri[ṃ]śatā puṇya[b]. .. + + ///
+<lb n="3"/>rīkṣagatā [ca]kṣu(ṣ)[p]athasamati◯kkrāntā adṛśyā a .. ///
+<lb n="4"/>s trayastriṃśatkāyikā atireva ◯ sata[t]asamita{{ṃ}}  .i[v]yai[ḥ] .. ///
+<lb n="5"/>dhar[m]aṃ saṅ[g]ā{da}yanti yadā śakkraś ca [d]e[vā] .. + .[o] .. .. .. .. .. ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 465</idno>
+          <idno type="current">Or.8212/47(a)</idno>
+          <idno type="old">E. i.2</idno>
+          <idno type="old">E. i.5</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 10; JĀA(Lha) 29.7-30.8 = JĀA(Lhb) 32.1-10</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>maye mañjuśrrīḥ sa mahādharma[du]ṃd[u] .. + /// .. [ye] .. dharma
+<lb n="2"/>śabdhena sarve trayastriṃśatkāyi◯ + /// .. .. + +
+<lb n="3"/>m asmād bha[v]anāc caviṣyatha duḥ◯ + /// + .ā ..
+<lb n="4"/>ṣṭamāma{{ḥ}}dyatha duḥkham itaś ca[[vi]]tānāṃ ◯ pu + ///
+<lb n="5"/>.. sā[rā] dhar[ma]nim[n]āḥ dhar[map]. .. ṇā [dh](a)[rm](a)p(r)āg(bh)ā ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>.. [av](i)[r](a)h(i)tā bhav[i]ṣyatha [• t]ena [kh](a)[l]u [p]una .. ///
+<lb n="2"/>anutpannā aniruddhāyā • vākpa◯tha + ///
+<lb n="3"/>kā devā[ḥ] saṃñcoditāḥ bhītā ◯ + /// + + .ā .. +
+<lb n="4"/>rmarasāḥ dharmasārāḥ dharmanimnāḥ .. [r].. ◯ + /// + [bhavanti] ś.
+<lb n="5"/>kkraś ca devend[r]a{  • }s tasmi samaye sudh. + + + + /// maya[nt]i : ta</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="11">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/47(a)</idno>
+          <idno type="old">E. i.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>See IOL San 465 (E. i.5)</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// .. [ye] .. dharma
+<lb n="2"/>/// .. .. + +
+<lb n="3"/>/// + .ā ..</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="3"/>/// + + .ā .. +
+<lb n="4"/>/// + [bhavanti] ś.
+<lb n="5"/>/// maya[nt]i : ta</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="12">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 429</idno>
+          <idno type="current">Or.8212/47(c)</idno>
+          <idno type="old">E. i.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 11; JĀA(Lha) 30.8-31.10 = JĀA(Lhb) 34.10-38.4</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>tra yadā trayastr[iṃ]śakāyikā dev[ā] .. .. + [j](a)[yaṃ gacchant]. + /// .. .. rā [bhī]t[ā] tra
+<lb n="2"/>stā udvignodvignā • palāyanti [na ca] maṃju[ś]r[ī]s tasyā ma[h]ā[dhar].. /// + .. maṃ .. [śrr]īḥ
+<lb n="3"/>sā mahādharmadundubhi anālo◯kyā asatī [a] + + + /// + + [tha]sa
+<lb n="4"/>matikk[r]āntā atha ca maṃjuśrrīs tra◯yastriṃśa[kāyi] + + + ///
+<lb n="5"/>+ + .. r[v]opadravopāyā[s]opak[l]eśopaśā[nta]ye .. + + + + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>+ + [taḥ] acintaḥ a[ceta]naḥ a[n](i)m[in]aḥ aru[t]. + + + ///
+<lb n="2"/>[tk]āyikānān devaputrāṇāṃ ◯ sarvopa[d]r[avo] .. + + ///
+<lb n="3"/>dayati sa ca dharmaśabda traya◯striṃśa[tkāyik]. + + /// + + + [m e]va
+<lb n="4"/>maṃjuśrrīs tathāgato (’)rhān samyaksaṃbuddhaḥ [anātmabhā]vaḥ [a] /// + .. .. a[r]ūp[ī]ḥ
+<lb n="5"/>[a]bhāvaḥ a[d]vayaḥś [ca]k[ṣu]ṣpathasamati .. .. a[tha] ca [maṃ] + /// [nt]. saṃjānanti</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/47(c)</idno>
+          <idno type="old">E. i.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>See IOL San 429</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// .. .. rā [bhī]t[ā] tra
+<lb n="2"/>/// + .. maṃ .. [śrr]īḥ
+<lb n="3"/>/// + + [tha]sa</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="3"/>/// + + + [m e]va
+<lb n="4"/>/// + .. .. a[r]ūp[ī]ḥ
+<lb n="5"/>/// [nt]. saṃjānanti</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 428</idno>
+          <idno type="current">IOL San 432</idno>
+          <idno type="current">Or.8212/47</idno>
+          <idno type="old">E.i.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 12; JĀA(Lha) 31.11-32.11 = JĀA(Lhb) 38.4-40.8</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>sa ca dha[r]maśabdaḥ śāntaḥ śītībhūtaḥ [s](a)[rvva] .. (t)[vānā]ṃ [sarvopa] + /// + .. tathāgatasvaragho
+<lb n="2"/>ṣa iti loke saṃkhyāṅ gacchati a .. ◯saur maṃjuśrrīs tath[āgat]. + /// + .. saṃbha[vat]i satvānā
+<lb n="3"/>m eva pūrvvakuśalamūlakarma◯vipākena ta[thāga]ta .. /// .. .. rvva[s]ukha .. /// + + na .. rth. [prra]mantā
+<lb n="4"/>nāṃ ca satvānāṃ saṃcodanārthaṃ ◯ sa śabdo ni .[c]. [r]. .[i] + + /// .. .. [nti] a[y]. /// + [th]āga[tasyātm]. + ..
+<lb n="5"/>+ + (d)i[ka]rmikānāṃ [b]o[dh]i[sa]t[v]ānāṃ sarva .āla .ṛ + + + + /// + + + ..ṃ .. + +  /// [g]. .. .. + + + + +
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>+ + + tu [maṃ]juśrrīr anu[t]p(a)[nn]. an(i)[r]uddhas ta[thā]gat[o] + + + + /// lā[va] .. + + + +
+<lb n="2"/>pratham[e] māse nirgate satvānām ◯ pūrvvakarma .. .. + + /// .. .. [tṛ]ṇa[gu] .. /// + ṣadhi[v]ana .. .. +
+<lb n="3"/>nāṃ ca saṃjananārthaṃ sarvvasa◯tvānāṃ ca sukhasa[ṃ] .. /// .. .. śe [t]ād[ṛś]. /// + + .. .[ā] .. .. [y]. n[t]i :
+<lb n="4"/>yenodakaṃ saṃbhavati : saṃbhūtaṃ ca mahāpṛthivyāṃ [prra]pa[t]. + /// + budvīpakāś ca manu
+<lb n="5"/>ṣ[y]ās [t](a)s[m]iṃ samaye prramuditā bha[va]ṃti (pr)ī(t)[imana]saḥ [t]. /// + maṃjuśrrīḥ samaye</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="15">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 432</idno>
+          <idno type="old">E. i.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>See IOL San 428; Folio No. 12; JĀA(Lha) 31.11-32.11 = JĀA(Lhb) 38.4-40.8</note>
+            <q type="transliteration" lang="skt"><lb n="3"/>/// .. .. rvva[s]ukha .. ///
+<lb n="4"/>/// .. .. [nti] a[y]. ///
+<lb n="5"/>/// + + + ..ṃ .. + +  ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="2"/>/// .. .. [tṛ]ṇa[gu] .. ///
+<lb n="3"/>/// .. .. śe [t]ād[ṛś]. ///
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="16">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/47</idno>
+          <idno type="old">2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>See IOL San 428; Folio No. 12; JĀA(Lha) 31.11-32.11 = JĀA(Lhb) 38.4-40.8</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + .. tathāgatasvaragho
+<lb n="2"/>/// + .. saṃbha[vat]i satvānā
+<lb n="3"/>/// + + na .. rth. [prra]mantā
+<lb n="4"/>/// + [th]āga[tasyātm]. + ..
+<lb n="5"/>/// [g]. .. .. + + + + +
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// lā[va] .. + + + +
+<lb n="2"/>/// + ṣadhi[v]ana .. .. +
+<lb n="3"/>/// + + .. .[ā] .. .. [y]. n[t]i :
+<lb n="4"/>/// + budvīpakāś ca manu
+<lb n="5"/>/// + maṃjuśrrīḥ samaye</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="17">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 430</idno>
+          <idno type="current">IOL San 433</idno>
+          <idno type="current">IOL San 438</idno>
+          <idno type="old">E. i.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 13; JĀA(Lha) 32.11-33.12 = JĀA(Lhb) 40.8-44.2</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>upary antarīkṣāt mahān udakas[k]andh[o n]. pa[t]. .. .. [t](a)[smiṃ] sa[ma] + /// + vati [ • ] yadā tu maṃ
+<lb n="2"/>juśrrīḥ upary antarīkṣān mahān uda◯kaskandhaḥ pṛthivyā[ṃ] pa[t]. .. /// [s]aṃtarpi[t]ā mahāpṛthi
+<lb n="3"/>vī na punar atra maṃjuśrrīḥ me◯gho na meghaprrajñapti(r) [v]. /// .. .. [n]tar[īk]ṣā[d v]. /// + skandha[ḥ prra]patati :
+<lb n="4"/>āpsaṃbhogo maṃjuśrrīs tatraivānta◯rīkṣe anta[rdh]ī[y]. + + + /// .. .y. vāri + /// .. syopary aṃta .[ī] + [v]ā
+<lb n="5"/>+ +ṃ .ogena sa[n]dhārya[m]. [ṇa]sya m[u]ṃcato vāri me + + + + + /// + + .. .[ī] + /// [kṣātma] .. .. + + + + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>+ .. .. na punar atra ma[ṃj]u[ś]rr(ī)[r] m(e)ghaḥ sa[ṃ]vidyate .. + + + + /// + + .. .. + /// .. [gat]iga[ti] .. + .. + +
+<lb n="2"/>evam eva maṃjuśrrīḥ pūrvvakuśa◯lamūlasaṃ .. .. + + + /// .. sat[v]ā[n](ā)[ṃ] /// + + .. [va]kaprratye .. + [d]dh.
+<lb n="3"/>jñānābhilāṣiṇām avaropi◯takuśalamūlānāṃ n[i] .. /// + ti[bhāna] /// + + [thā]gato (’)[rhāṃ] samyaksaṃ
+<lb n="4"/>buddho loke utpanna iti saṃkhyā gacchati : sa [ya]d bhā[ṣat]e .. + /// + + .[e] + + /// + + gata iti nāma{{de}}«dhe»yaṃ
+<lb n="5"/>k[ṛ]taṃ [a]tha cāsad ayaṃ maṃjuśrrīḥ śab(d)o ni .. .. .i de .. [manu] .[y]. + /// + + [dya]te [a]nimitto maṃju</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="18">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 433</idno>
+          <idno type="old">E. i.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>See IOL San 430; Folio No. 13; JĀA(Lha) 32.11-33.12 = JĀA(Lhb) 40.8-44.2</note>
+            <q type="transliteration" lang="skt"><lb n="3"/>/// .. .. [n]tar[īk]ṣā[d v]. ///
+<lb n="4"/>/// .. .y. vāri + ///
+<lb n="5"/>/// + + .. .[ī] + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + + .. .. + ///
+<lb n="2"/>/// .. sat[v]ā[n](ā)[ṃ] ///
+<lb n="3"/>/// + ti[bhāna] ///
+<lb n="4"/>/// + + .[e] + + ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="19">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 438</idno>
+          <idno type="old">E. i.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>See IOL 430 + 433; Folio No. 13; JĀA(Lha) 32.11-33.12 = JĀA(Lhb) 40.8-44.2</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + vati [ • ] yadā tu maṃ
+<lb n="2"/>/// [s]aṃtarpi[t]ā mahāpṛthi
+<lb n="3"/>/// + skandha[ḥ prra]patati :
+<lb n="4"/>/// .. syopary aṃta .[ī] + [v]ā
+<lb n="5"/>/// [kṣātma] .. .. + + + + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// .. [gat]iga[ti] .. + .. + +
+<lb n="2"/>/// + + .. [va]kaprratye .. + [d]dh.
+<lb n="3"/>/// + + [thā]gato (’)[rhāṃ] samyaksaṃ
+<lb n="4"/>/// + + gata iti nāma{{de}}«dhe»yaṃ
+<lb n="5"/>/// + + [dya]te [a]nimitto maṃju</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 431</idno>
+          <idno type="old">E. i.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 14; JĀA(Lha) 33.14-34.15 = JĀA(Lhb) 44.4-46.8</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + [ti]bhāna[ṃ s]adevakaṃ l[o]
+<lb n="2"/>/// .. nirṇāṇavaineyānāṃ
+<lb n="3"/>/// + [i]ti [na ca ma]ṃjuśrrīs ta
+<lb n="4"/>/// + + [thā]gato (’)rhā[n s](a) .. k[s](a)ṃ
+<lb n="5"/>/// [p]. j[ñ]a[ptiḥ] .i + .[o] + +
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// [syā]sa[t]. .. + + + +
+<lb n="2"/>/// + .. [s]ravaśavartt[ī] .. + [s].
+<lb n="3"/>/// + + [p]unaḥ maṃ[ju]śrrīḥ sama
+<lb n="4"/>/// .. d[e]vanikāyeṣu sa
+<lb n="5"/>/// + .. makk[r]īḍā[r]atimana</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="21">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 437</idno>
+          <idno type="old">E. i.2</idno>
+          <idno type="current">IOL San 438</idno>
+        </msIdentifier>
+        <msContents>
+          <note>(Left fragment of IOL San 438)</note>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>(Left fragment of IOL San 438)</note>
+            <note>Folio No. 15; JĀA(Lha) 34.17-35.15 = JĀA(Lhb) 46.10-50.3</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + + + + + + .. vanikāyeṣu muhū
+<lb n="2"/>/// + + + + + [y]e ca kuśalamūlāni
+<lb n="3"/>/// [h](ā)brrahm[ā] daśa .. sāhasrra[śa]tavaśa
+<lb n="4"/>/// + [ś](r)[īr n]i[rmi] + .. .[ā]brrahmā [d]i .. + di
+<lb n="5"/>/// + + [l]. .. + [r ma](ṃ)ju[ś]rrī .. .. + + +
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + + + + + .. sa[ṅgī] .. .. .. + + +
+<lb n="2"/>/// + .. lo[k]. + .[i] sa ca mahā .. .[m].
+<lb n="3"/>/// [hābrra]h[m]a[bh]. va + papattim āṃkā(ṃ)kṣaṃnti •
+<lb n="4"/>/// + + + + + [j]uśrrī Mahābrrahmā (’)vaśiko
+<lb n="5"/>/// + + + + + .. [ca] sarvadevanikāye</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="22">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 438</idno>
+        </msIdentifier>
+        <msContents>
+          <note>(Left fragment of IOL San 438)</note>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>See IOL San 437; Folio No. 15; JĀA(Lha) 34.17-35.15 = JĀA(Lhb) 46.10-50.3</note>
+            <q type="transliteration" lang="skt"><lb n="3"/>/// [h](ā)brrahm[ā] daśa
+<lb n="4"/>/// + [ś](r)[īr n]i[rmi]
+<lb n="5"/>/// + + [l]. ..</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + + + +
+<lb n="2"/>/// + .. lo[k].
+<lb n="3"/>/// [hābrra]h[m]a[bh]. va</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="23">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 436</idno>
+          <idno type="current">IOL San 447</idno>
+          <idno type="old">E. i.2</idno>
+        </msIdentifier>
+        <msContents>
+          <note>(Left fragment of IOL San 447)</note>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 16; JĀA(Lha) 35.17-36.13 = JĀA(Lhb) 50.5-52.6</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + + + [l]amūlādhiṣṭhānena na
+<lb n="2"/>/// + + [ś]. (’)bhāvaḥ [a]nimittaḥ sa
+<lb n="3"/>/// + + + myaksaṃbu .. śunyo (’)va
+<lb n="4"/>/// + .. + .. nni[rud]dh. + + [c].
+<lb n="5"/>/// .. .. .. rvva .. .. .. + + +
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// .ālaṃ[kṛ] + + .. [ga]t. [p]rr. .. .. + + +
+<lb n="2"/>/// + .. + + + .. .[i] .[ā]n[ā] .. + + bā
+<lb n="3"/>/// + + + + + + ..ḥ aci[nty]. animi
+<lb n="4"/>/// + + + + + + gatātmabhāval lakṣa
+<lb n="5"/>/// + + + + + + nām* mahādharma[ṃ] ni</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="24">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 447</idno>
+        </msIdentifier>
+        <msContents>
+          <note>(Left fragment of IOL San 447)</note>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>See IOL San 436; Folio No. 16; JĀA(Lha) 35.17-36.13 = JĀA(Lhb) 50.5-52.6</note>
+            <q type="transliteration" lang="skt"><lb n="4"/>/// + ..
+<lb n="5"/>/// .. ..
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// .ālaṃ[kṛ]
+<lb n="2"/>/// + ..</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="25">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 441</idno>
+          <idno type="current">IOL San 442</idno>
+          <idno type="old">E.i.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 17; JĀA(Lha) 36.15-38.2 = JĀA(Lhb) 52.8-56.10</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + + + + + + [g](a)taḥ sama sarvatr[o]
+<lb n="2"/>/// + + + + + +  [thā]gatasyaitad adhivaca
+<lb n="3"/>/// gataḥ sa .. + + [dha]rmāḥ s[u] .. [t](a)sya sā
+<lb n="4"/>/// .. [bh]ū[t]. .. + [la]sya dhar[ma] .. .. [n]ā
+<lb n="5"/>/// .. .. [yo j]. bu[d]vīpe [p]. r[v]. .. + +
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// .. .. .. .. .. .. .. .[y]ā[n] m. .. .. .. + +
+<lb n="2"/>/// .. .. [ś]ā .. .. + + [yaṃti] .. + .. [p].
+<lb n="3"/>/// [k](a)lpa[ya] .. + [v]ikalpa[ya]nt[i] na ci
+<lb n="4"/>/// + + [l]. + + + kṣaṇopaga[t]āḥ ama
+<lb n="5"/>/// + + + + + .[ā]ḥ noc[c]ā na nīcā na</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="26">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 441</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>See IOL San 442; Folio No. 17; JĀA(Lha) 36.15-38.2 = JĀA(Lhb) 52.8-56.10</note>
+            <q type="transliteration" lang="skt"><lb n="3"/>/// gataḥ sa ..
+<lb n="4"/>/// .. [bh]ū[t]. ..
+<lb n="5"/>/// .. .. [yo j].
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// .. .. .. ..
+<lb n="2"/>/// .. .. [ś]ā .. ..
+<lb n="3"/>/// [k](a)lpa[ya] ..
+<lb n="4"/>/// + + [l].</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="27">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 443</idno>
+          <idno type="old">E.i.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 18; JĀA(Lha) 38.4-39.10 = JĀA(Lhb) 56.12-60.3</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + + [di]na • [na t]. r[e] na ni[mne] + [s]th(a)l[e] na oghe na tarkk[ā]
+<lb n="2"/>/// .. .. + + + + .. [v]iśeṣe[ṇ]. + [na]maddhyotkṛṣṭāvabhāsa
+<lb n="3"/>/// + [na] ka[lp]. + t. na vi[k]. + yati na [ciṃta]yati
+<lb n="4"/>/// .. nno (’)n[i]ruddhaḥ .. [la]kṣaṇo .. + .āpagataḥ .. [m](a)[n](a)skā
+<lb n="5"/>/// + .. .. .ā .. + .. n. [c]c[o] .. .. .. na [ba] .o [n]. + + +
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + .[ñ]. .. .. + [jñaḥ na tark]. [nātark](a)[ḥ na c]. + + + +
+<lb n="2"/>/// t(a)naḥ [na] man[o] n[ā]mano [n]. + + [to] nāni[y]. [ta]ḥ na
+<lb n="3"/>/// .. [p]yaḥ [na] .. .[o nā]dṛśya[ḥ] + + trī nā[netrī] na mārga
+<lb n="4"/>/// + + .. + + .. kalpā[p]. + ..ḥ atha ca punar mañju
+<lb n="5"/>/// + + .āsa[p]rra[{{sa}}y]uk[t]ā .. + .itāś ca jñānaraśmayo :</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="28">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 445</idno>
+          <idno type="old">E.i.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 19; JĀA(Lha) 39.12-40.13 = JĀA(Lhb) 60.4-62.8</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// .. + + [pa]taṃti .. .. .. [ś]cāt [pr](a)[tye]kabuddhayānasaṃprra
+<lb n="2"/>/// [t]i • [ta]ta[ḥ] paś[c]āt [k](u)śalā[ddhy]. .. yānāṃ yathādhimuktā
+<lb n="3"/>/// .ā[ṃ] satvā[n](āṃ k)[ā]y[e] ta[th]. + .. jñānaraśmiyo nipa
+<lb n="4"/>/// .. kuśal[air dha] .. [ḥ tatra c](a) [m]. + [śrr]īs tathā[gataḥ] .. ma
+<lb n="5"/>/// + + .. [sy]ā + [sat]va[s]y[o]dāraṃ dha[rma]ṃ .. .. + + + +
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + .. [dh]. [m]u[k]t. + .. yaṃ [śrrā]va[ka]y[ān]. .. .. .. + + 
+<lb n="2"/>/// [s]y. vaṃ bhavati • aya[m] u[d]ā .. .[i]muktiko (’)sy. [m]. [h].
+<lb n="3"/>/// [yi]ṣyāmi [• a]yaṃ ś[rr]āvaka + nādhimuktiko (’)sya śrrā
+<lb n="4"/>/// dṛṣṭiṃ kariṣyāmi yāva mi + tvaniyatānām api
+<lb n="5"/>/// .. + .[ā]sasyaivaṃ vi[k]alpo [bh](a)vati • tat kasya heto</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="29">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 444</idno>
+          <idno type="old">E.i.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 20; JĀA(Lha) 40.15-41.15 = JĀA(Lhb) 62.9-66.6</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + .. .. [pu]naḥ [sa] .v. ..ṃ .[u] .. .. [ś]. yasa[ṃ]tānavaici
+<lb n="2"/>/// .[īḥ a]s[t]i mahā[s]āgare sarvābhi[p](r)[ā]yaparipūraṇan nāma
+<lb n="3"/>/// [t]. [t]ā[dṛś]aṃ [tat]o ś(a)bdha[ṃ] niścar. + satvāḥ saṃ[j]ānanti tañ ca
+<lb n="4"/>/// + [ci]ttaṃ n[i]ścittaṃ cittamanovijñ[ā] .. [p]agataṃ evam eva maṃ
+<lb n="5"/>/// + + .. .o niś(c)i .. + .. .. .. .. [jñā]nāpa[g]. .. + + + +
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + .. [m]nam[oh]. .. .. .y. .. mṛ .ā [na nit]y. .. + + +
+<lb n="2"/>/// .. aprracintyaḥ asvabhāva .. .. [bh]āvyaḥ svabhāvana
+<lb n="3"/>/// [a]vyāhāraḥ vya[va]hārasamu[c](ch)[e] .. ḥ anānanda(ḥ) nirāna
+<lb n="4"/>/// .. ..[ḥ] sarvva[vya]vahārasamucchi[nna]ḥ adṛśyaḥ anālo
+<lb n="5"/>/// + [n]. .. ..ḥ na grrāhyo [a]g[rrā]h[yaḥ] .. paśyaṃ na nirdeśyaḥ na</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="30">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 447</idno>
+          <idno type="old">E.i.2</idno>
+        </msIdentifier>
+        <msContents>
+          <note>(Bigger right fragment of IOL San 447)</note>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 21; JĀA(Lha) 41.17-43.4 = JĀA(Lhb) 66.7-68.12</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + + + + .. [nda]rvi[taḥ asaṃkliṣṭa](ḥ) [a]pariśodhanārhaḥ na
+<lb n="2"/>/// + + + .k. ñca[n]aḥ araṇaḥ ana .. raḥ aghoṣaḥ sarva
+<lb n="3"/>/// .. [h]. rdhā no[bhayā]ntareṇopa[l]. .[y]. te atha ca puna maṃju
+<lb n="4"/>/// + .. thāśayādhimukta satva sa [t]. .. .. to dhar[m]a{ṃ}[de]śanāṃ niśca
+<lb n="5"/>/// + + + [th]. maṃ .. .rr.ḥ .[r]. .. śrru .ā[śa]bdhaḥ [p]. .. .. + + + +
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + + [m]. ntar. .. pa .. .[y]. [te] • no[tpa]n[n]o [: na] .. .. + + +
+<lb n="2"/>/// + .. vimuktiḥ nāvimuktiḥ n. .ā[v]. .[y]. [:] na niravady. [: na]
+<lb n="3"/>/// .. tur nābdhātu[r na] {s}  tejavadhāt[u] .[n]. vāyavadhātuḥ na saṃ
+<lb n="4"/>/// + + .. .. anakṣaraḥ arutaḥ .. ggh[o]ṣaḥ ghoṣasamatikkrā
+<lb n="5"/>/// + + + + .. na rūpī nārūpī : [n]. cetano{{ḥ}}  nācetanaḥ</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="31">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 446</idno>
+          <idno type="old">E.i.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 22; JĀA(Lha) 43.5-44.6 = JĀA(Lhb) 68.13-70.12</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// .[ṛt]i • .. [mana]sikāraḥ avita ..ḥ avicāraḥ cittamano
+<lb n="2"/>/// [nu]tpaṃno aniruddhaḥ akalpa[ṃ] a .[i]kalpa[ṃ] cittamanovijñānā
+<lb n="3"/>/// + [n]āṃ satvānāṃ {{:}}  nānāruta«ghau»śau + [v]ijñaptito niścaraṃnti • sa
+<lb n="4"/>/// + t[m]aḥ na bahirdhāḥ nobhaya[m aṃnt](a) .. ṇopalabh[y](a)[t]e : notpa
+<lb n="5"/>/// + (jñ)ā[na]vān* nā[j](ñ)ā .. .. .. [n a]prraj[ñ]avā[n]* .. .. + + + +
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + sth[ā]na[vā] .. s. .. .. .. [ni]ṣadyā nā .. .. + + +
+<lb n="2"/>/// + skṛto : nāsaṃkṛtaḥ na .. .rr. paṃco : nāprra + .. .. ni
+<lb n="3"/>/// ..ḥ aghoṣaḥ ghoṣasamatti .[ā]ntaḥ atulaḥ tulasa
+<lb n="4"/>/// rūpī nārūpī na cettano nā[ce]ttanaḥ na cetyo nāce
+<lb n="5"/>/// .. .. [na] .[ī] .āraḥ avitarkaḥ .. vicāraḥ cittamano</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="32">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 448</idno>
+          <idno type="old">E.i.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 23; JĀA(Lha) 44.6?-45.14 = JĀA(Lhb) 70.12?-74.2</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// [anutp]. .. [ani]ruddhaḥ aka[l]. avikalpa cittamano
+<lb n="2"/>/// p[ti]to tathāgatavāg niścara[nt]. satvā saṃjānanti 7 ||
+<lb n="3"/>/// vanaspatayo vṛddhi vairūḍi .. pulyatām āpadyaṃte •
+<lb n="4"/>/// [r](v)[i]śeṣāḥ niścintā • cittamanovijñānāpagataḥ e
+<lb n="5"/>/// + .. mūlāni [v]. .. .. .. .[i] vaipulya[tām āpa] .. .. +
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// carakanigrrantha .. .[ṛ] .. [nāṃ sa]r[v]a[t]īrthyā[ya]tan[ā] ..
+<lb n="2"/>/// [ku]śalamūlāni sarvāṇi tāni tathāgataṃ niśṛtya : ta
+<lb n="3"/>/// [ga]taṃ kalpayati {r}na vikal[pay]ati sarvvakalpavika
+<lb n="4"/>/// [jñā]nāpagataḥ atarko (’)tarkāvacāra adṛśyaḥ anā
+<lb n="5"/>/// [vik](a)[l](p)[o n]irvviśeṣaḥ 8 || ta[dya](th)ā maṃjuśrrīḥ ākāśaṃ</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="33">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 449</idno>
+          <idno type="old">E.i.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 24; JĀA(Lha) 45.16-46.13 = JĀA(Lhb) 74.3-76.8</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// [nna a] .. .[ṣy]. + [a]prrapaṃca • aru[taḥ] arūpī • anidharśanam*
+<lb n="2"/>/// ly. tul[ā]samatikkrāntaḥ anupamaḥ upamā[[sama]]tikkrāntaḥ
+<lb n="3"/>/// + [ma]tikkrāṃntam* cittamanovijñ[ā]nāpagatam* alakṣana •
+<lb n="4"/>/// .. kṣepam* vākpathasamattikrrāntam* sarvatrāṇugatam a
+<lb n="5"/>/// + [ā]kāśasya hī[na] .. [dhyotkṛṣ]ṭ(a)tā[ṃ] saṃjā[n]. .. e ..
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + .. iruddhaḥ nāt. ta[ṃ n](ā)[nā] .. [to na prra]tyutpa[nn.] .. [la]kṣy. ..
+<lb n="2"/>/// [a]vijñapanīyam* asparśa[m] aniketaṃ asīma asama
+<lb n="3"/>/// ..m* agrrāhyaḥ cakṣuṣpathasa[ma]ttikkrāntam* citamano
+<lb n="4"/>/// [h].ḥ a[ni]ryuhaḥ anukṣepaḥ a[prra]kṣepaḥ vākpathasama
+<lb n="5"/>/// .. [t]i ..ṃ .. [atha] ca maṃjuśrrīḥ [hī]namadhyotkṛṣṭāśayāḥ</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="34">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 477</idno>
+          <idno type="old">E.i.42</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 25; JĀA(Lha) 46.16-48.6 = JĀA(Lhb) 76.9-80.5</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// [h]. [n]. .. [śayā]dhimuktaḥ satv. [a]sya satvasya hīnaṃ rū
+<lb n="2"/>/// satva (’)[s]ya madhyaṃ rūpakāyavarṇapariniṣpattiṃ darśayi
+<lb n="3"/>/// + [va]rṇapariniṣpattiṃ darśayiṣyāmi : na maṃjuśrrīḥ tathā
+<lb n="4"/>/// .. m apy anugantavyāḥ na maṃjuśrrīs tathāgatasyaivaṃ bhavati
+<lb n="5"/>/// + .. aya madhyā[śa]{  • }yādhi[mukt]. satvaḥ [asya satva] .. +
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// h[āyā]naṃ deśay[iṣy]. [m]. .. .. .. [j]uśrrīs tathāgatasyai[v](a)[ṃ] ..
+<lb n="2"/>/// [k]ṣānti vīryaṃ dhyānaṃ na maṃjuśrrīs tathāgatasyaivaṃ bhavati a[y]aṃ
+<lb n="3"/>/// .. naivaṃ maṃjuśrrīs tathāgatasya [vi]kalpā bhavaṃti • tat kasmād dhe
+<lb n="4"/>/// jā[to] (’)[nu]tpannaḥ cittamanovijñānāpagataḥ na maṃjuśrrīs ta
+<lb n="5"/>/// [yati] + [vi] .. lpayati kṣaṇi .[o m]aṃjuśrrīs tathāgataḥ a</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="35">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 476</idno>
+          <idno type="old">E.i.42</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 26; JĀA(Lha) 48.7-49.5 = JĀA(Lhb) 80.5-84.5. The characters on recto 1-2 and on verso 4-5 (referred in [NOTE]) are found on a tiny fragment, joined to IOL San 476 by paper tape.  Probably a different fragment.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// .. .. .. .. [k](o)[ṭī] atyaṃ[ta]tā sa[ṃbh]. .. koṭī maṃjuśrrīs tathā [NOTE. First two set of dots]
+<lb n="2"/>/// .. ta .. .. vam eva maṃjuśrrīḥ samā[ḥ] sarvadharmā nir[v]vikalpā ni [..  ta ..]
+<lb n="3"/>/// .[ā] maṃjuśrrīr anupalabdhiḥ sa[r]vadharmāṇāṃ sā samatā yā sa
+<lb n="4"/>/// .. tā • aniśrritasya sarvadharmeṣu nāsti cittasya [prrat]i .ā
+<lb n="5"/>/// + .. .[rr]. .. [tta]ṃte : ya[ś]. .i[pary]. .t. [citt]aḥ sa [yathā]v[a] .. +
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// [yadā] na prracarat[i t]. [d]. .. [sa]ṃ[sa]rati • ya[dā] .. [saṃ] .. +
+<lb n="2"/>/// [yaṃ]n sarvatrānulomo bhavati • sarvvatrānulomo dh[arma]prr. .ṛ
+<lb n="3"/>/// .i[ṃ]cit prāpayati • tat kasya hetoḥ pratyayahetujanita
+<lb n="4"/>/// .. .. .. .. niyāmaprrāptaḥ sa sarvvadharmamanasikāraiḥ sā [NOTE. First three set of dots]
+<lb n="5"/>/// + .. vi .. .. .. [as]aṃvāsyo [bh]ava[t]i [t]adā na bhavati na vi [NOTE. + .. vi ..]</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="36">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 474</idno>
+          <idno type="old">E. i.42</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 27; JĀA(Lha) 49.7-50.12 = JĀA(Lhb) 84.6-88.5. The characters (referred in [NOTE]) on recto 1-2 and on verso 4-5 are found on a tiny fragment, joined to IOL San 474 by paper tape.  Probably a different fragment.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// [v]. .. .. .. [ti • tadā yo]ni[ś]. dha .. prrayukto bhavati • yo [NOTE. [v]. ..]
+<lb n="2"/>/// [sv]. + t* yaś ca śunyatānubodha[ḥ s]ā bodhiḥ sa evaṃ śunyatā [NOTE. [sv].]
+<lb n="3"/>/// + [ā]layānubodhāya bodhiḥ bodhiś ca yoniśaprrayogo • yo
+<lb n="4"/>/// [g](a)ḥ asantaḥ abaddhaḥ amuktaḥ prrayogaḥ anekatvā .[ān]ā
+<lb n="5"/>/// + .. .. tatra yo[g]o .. .. [māṇaṃ na ph]alasā[kṣ]āt[kri]yā +
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// .[i]śya[te :] yā ca prra .ṛ. .. [prr]. .. sva[ratāḥ] sā [as]aṃkleśa ..
+<lb n="2"/>/// [t ka]sya hetoḥ na śuddhaḥ śuddhyate śuddha eva saḥ yaś ca .. .dh. ḥ
+<lb n="3"/>/// .[ī]prrahāṇaṃ tatra sarvasnehā nirudhyaṃte : yatra sarvasnehā
+<lb n="4"/>/// prra + + + .. • tathatāprratiṣṭhitāś ca sarvadharmāḥ saṃskṛtāś cā [NOTE. prra +]
+<lb n="5"/>/// [b]odh[i] + + + .. [s]k[ṛ]tam* [na d]vayaprraj[ñ](a)p[t]i sā tathatā yā ta [NOTE.  [b]odh[i]]</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="37">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 475</idno>
+          <idno type="old">E. i.42</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 28; JĀA(Lha) 50.13-51.16 = JĀA(Lhb) 88.6-90.9</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// .. + + [nā]ga[tatathatā] yā a[n]āgatatathatā sā aga
+<lb n="2"/>/// that[ā yā ca] najāttutathatā sā na saṃkliśyate • na viśuddhya
+<lb n="3"/>/// [r]u[d]dhyate • sā nirvāṇena samā yā nirvāṇena samā sā na
+<lb n="4"/>/// .. [g](a)[t]ā na prratyutpannā • yā nātītā nānāgatā na [prra] ..
+<lb n="5"/>/// + + .. || tatvārthā .i + .. .. [m etat*] tatvam u[cy]ate ta[thā] ..
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + + + [bo]dhiś cāva .. .. .. .. [rtha uc]ya .e tr[i]vimo .. .. ..
+<lb n="2"/>/// .v (a)[s](aṃ)bhedārthaḥ ayam ucyate artha arthaḥ aruta a
+<lb n="3"/>/// .. [n]. jñānaṃ ca idam ucyate jñānam* artha ucyate ya ta
+<lb n="4"/>/// .[ā so] .. [rtha]ḥ yā-d-arthānugamatajñāne vijñānānugamana
+<lb n="5"/> /// .. .ā + + + .. rmeṣu [na] prravartate • yā sarvadharmeṣv aprravṛtti</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="38">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 472</idno>
+          <idno type="current">IOL San 473</idno>
+          <idno type="old">E. i.42</idno>
+          <idno type="old">E. i.39</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 29;  JĀA(Lha) 51.16-52.21 = JĀA(Lhb) 90.9-94.3</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>[r y]. cārthavya[ṃ]janena sa[m]atā sā advayārthena sa + + /// + + [j](ñ)[ā]ne[na sa]matā sā a[d]vayamukhaprraveśajñā[n].
+<lb n="2"/>nītārthena neyārthasamatā samā • sā śunyatā .. /// + .. [sa]mā pudgalasamatāyā dharmasamatā samā
+<lb n="3"/>dharmasamatāyā viviktasama◯tā samā v[i] .. /// [r]ūpasaṃgasaktānāṃ maṃjuśrrīḥ cakṣuḥ saṃgaḥ rūpacakṣuḥ
+<lb n="4"/>[p]rakṛtijñānam asaṃgaḥ dṛṣṭisaṃgasa◯ktānāṃ svakā .. /// [y](a)prrakṛtiśunyatā jñānam asaṃgaḥ ayoniśamana
+<lb n="5"/>.[i] .[ā] .. ..[ṃg]. sa[ktān]. [dh]. r(m)ālo[ka]ḥ saṃ[gaḥ yoniś]. + /// + + .. .. .. .. + + .. .. .. vici[k]i .. .. .. ..
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>[kt]. [nā] .. [kṣ]. [ḥ] sa[ṃ]gaḥ adhi[m]uktiv[i]mukti • yathābhū[t]. + /// + + [a] .. .. .. [d]ṛ .. .. .[y]. .. ..[ṃga] .. ḥ yathāva .. .. .. +
+<lb n="2"/>[dhaḥ] asaṃga nīvaraṇasaṃga{ḥ}saktā◯nāṃ bodhyaṃgāni .. /// [va]raṇavimokṣajñānam asaṃgaḥ || prrakṛtipariśuddhā maṃ
+<lb n="3"/>juśrrīḥ sarvadharmā hetu{ḥ}prratya{  • }◯yā sāmagrry[ā] /// + hetu{{  • }}r vyavadā{{ne}}nahetuś ca parijñātavya • saṃkle
+<lb n="4"/>śahetuviśuddhya vyavadānahetuvi◯śuddhyā ca na sthā .. /// + .. vadānahetu • ātmasamutthānaṃ dṛṣṭisamutthā
+<lb n="5"/>[na]ṃ ca saṃkleśahetu • nairātmyadharmāvatāraḥ k[ṣ]ānti + + /// + + + kleśahe[tu] • [a]dhyātmopaśamo bahirdhāprracāraś ca</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="39">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 472</idno>
+          <idno type="old">E. i.42</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>See IOL San 473; Folio No. 29;  JĀA(Lha) 51.16-52.21 = JĀA(Lhb) 90.9-94.3</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + + [j](ñ)[ā]ne[na sa]matā sā a[d]vayamukhaprraveśajñā[n].
+<lb n="2"/>/// + .. [sa]mā pudgalasamatāyā dharmasamatā samā
+<lb n="3"/>/// [r]ūpasaṃgasaktānāṃ maṃjuśrrīḥ cakṣuḥ saṃgaḥ rūpacakṣuḥ
+<lb n="4"/>/// [y](a)prrakṛtiśunyatā jñānam asaṃgaḥ ayoniśamana
+<lb n="5"/>/// + + .. .. .. .. + + .. .. .. vici[k]i .. .. .. ..
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + + [a] .. .. .. [d]ṛ .. .. .[y]. .. ..[ṃga] .. ḥ yathāva .. .. .. +
+<lb n="2"/>/// [va]raṇavimokṣajñānam asaṃgaḥ || prrakṛtipariśuddhā maṃ
+<lb n="3"/>/// + hetu{{  • }}r vyavadā{{ne}}nahetuś ca parijñātavya • saṃkle
+<lb n="4"/>/// + .. vadānahetu • ātmasamutthānaṃ dṛṣṭisamutthā
+<lb n="5"/>/// + + + kleśahe[tu] • [a]dhyātmopaśamo bahirdhāprracāraś ca</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="40">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 470</idno>
+          <idno type="old">E. i.39 + i.4</idno>
+          <idno type="old">E. i.4</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 30; JĀA(Lha) 52.21-54.4 = JĀA(Lhb) 94.3-98.4</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>[v]y(a)vadānahetu • kāmavyāpādavih[iṃ]s[ā]vita[r]k. [saṃ] + /// + + .. tītyadharmāvatār[aḥ k]ṣ[ā](ṃ)tir vyavadānahetuḥ ca
+<lb n="2"/> tvāro viparyāsāḥ saṃkleśahetuḥ catvāri smṛtyupa[sthā] /// + [k](l)eśahetu • paṃcendriyāṇi vyavadānahetuḥ ṣaḍ ā
+<lb n="3"/>yatanāni saṃkleśahetuḥ ṣaḍ ā◯nusmṛtayo (v)y. /// .. tuḥ sapta bodhyaṃgāni vyavadānahetuḥ aṣṭau mithya ..
+<lb n="4"/>ni saṃkleśahetuḥ aṣṭau samyaktvāni ◯ vyavadānahe[tu] /// [v]ānupūrva .. māpattayo : [vy]avadānahetuḥ .. .āku
+<lb n="5"/>[śal]ā .. r.. pathāḥ saṃ[kl]eśahetuḥ daśa kuśalā .. [rma] /// + .[e] .. ku[śalā] .. .. .. .e .. .. .. .. [h]. [t]. [sa] .. [ku] .. +
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>.. .. .k. .. vyavadānah[e]tu[ḥ] tat[r]a ya[ḥ] .. [kl]. .. .. + /// + .[rr]. [k]ṛ[t]. .. .y. .. + + .. .. .. [n]. [j]. [v]. .. .[pud]. [l]. +
+<lb n="2"/>s[v]ām[i]kā aparigrrahāḥ nirvyāpārā māyopamāḥ a[l]. /// paśamaḥ sa prraśamaḥ yaḥ prraśamaḥ sā prrakṛtiḥ yā prra[kṛ]
+<lb n="3"/>tiḥ so (’)nupalambhaḥ yo (’)nupalaṃbhaḥ ◯ so (’)nila[[ya]]ḥ ya /// [ś]asamān   sarvadharmān prajānati • saṃkleśavyavadānen(a)
+<lb n="4"/>ca vyavaharati na cākāśadharmatāṃ ◯ vijahāti ta[t k]. /// + .. syotpādo vā nirodho vā bhavet* maṃjuśrrīr āha [ • ]
+<lb n="5"/>[t](a)[t k](a)thaṃ ca bhagavān*s tathāgatena bodhiḥ p[rr]āp[t]ā .. .. + /// + + [gatena bo]dhiḥ prrāp[t]ā : [ma]ṃjuśrrī āha • tatra kata</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="41">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 461</idno>
+          <idno type="current">IOL San 468</idno>
+          <idno type="old">E. i.39</idno>
+          <idno type="old">E. i.4</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 31; JĀA(Lha) 54.4-55.18 = JĀA(Lhb) 98.4-102.14</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>+ + .. .. n mū[laṃ] katamat prat[i]ṣṭhānaṃ bhagavān ā .. [s]. + /// + + + [ṣ](ṭh)[ā]nam* [ta]thāgat. .. [m](aṃ)juśrrīr b[o]dhisamatayā
+<lb n="2"/>sarvvadharmasamatā jñātā • tasmā ta◯d ucyate amū[l]ā [a] /// + + buddha iti || bodhir maṃjuśrrīḥ śāṃtopaśāntā ca  •
+<lb n="3"/>.. tra katamaḥ śamaḥ katamaś copa◯śamaḥ ādhyā[t](ma)ṃ /// .. cakṣur maṃjuśrrīḥ śunya ātmanā cātmanīyena ca pra
+<lb n="4"/>[k]. .[ir a]sy(’) eṣā{ṃ}  evaṃ śrrotraṃ ghrrāṇaṃ ji◯hvā kāyo manaḥ /// [t k](a)[s]ya hetoḥ prrakṛtir asyaiṣāya[[ṃ]] cakṣuḥ śunyam iti pa
+<lb n="5"/>[ri]j[ñ]āya rūpeṣu na dhāvati tenocyate upaśama iti .. /// + .. .āvati : [gh]rr[ā] ..ṃ .. .yam (i) .. [pa]rijñāya gandheṣu [na]
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>dhāvati • jihvā śunyeti parijñāya raseṣu na dhāvati • [kā] + /// + dhāvati • ma[naḥ śu](n)y(a)[m iti par]ijñāya [dharme]ṣu [na]
+<lb n="2"/>dhāvati tenocyate upaśama iti || ◯ bodhir maṃjuśrrīḥ prra .. /// .. tayā • kena kāraṇenocyate prrakṛtiprrabhāsvare
+<lb n="3"/>ti • yā sā prrakṛtiḥ sā asaṃkli◯ṣṭā ākāśasa .. /// .. raṇā ākāśopamā atyaṃtaprrabhasvarā prrakṛti ||
+<lb n="4"/>bodhiḥ maṃjuśrrīr anāyūhatā aniryūhatā • tatra [k]. .. /// + .. nāyūhatā ucyate anudgraha sarvadharmā
+<lb n="5"/>.[ā] .. nir[y](ū)hatā ucya[te] an[u]t[sa]rg[g]aḥ sar[v](a)[dh](a)[rm]. + + /// + (a)[n]i[ry](ū)[ha]tā • [ogh]. .. [v]atara[t ta]thā ca sa [tā]</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="42">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 468</idno>
+          <idno type="old">E. 4</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>See IOL San 461; Folio No. 31; JĀA(Lha) 54.4-55.18 = JĀA(Lhb) 98.4-102.14</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + + + [ṣ](ṭh)[ā]nam* [ta]thāgat. .. [m](aṃ)juśrrīr b[o]dhisamatayā
+<lb n="2"/>/// + + buddha iti || bodhir maṃjuśrrīḥ śāṃtopaśāntā ca  •
+<lb n="3"/>/// .. cakṣur maṃjuśrrīḥ śunya ātmanā cātmanīyena ca pra
+<lb n="4"/>/// [t k](a)[s]ya hetoḥ prrakṛtir asyaiṣāya[[ṃ]] cakṣuḥ śunyam iti pa
+<lb n="5"/>/// + .. .āvati : [gh]rr[ā] ..ṃ .. .yam (i) .. [pa]rijñāya gandheṣu [na]
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + dhāvati • ma[naḥ śu](n)y(a)[m iti par]ijñāya [dharme]ṣu [na]
+<lb n="2"/>/// .. tayā • kena kāraṇenocyate prrakṛtiprrabhāsvare
+<lb n="3"/>/// .. raṇā ākāśopamā atyaṃtaprrabhasvarā prrakṛti ||
+<lb n="4"/>/// + .. nāyūhatā ucyate anudgraha sarvadharmā
+<lb n="5"/>/// + (a)[n]i[ry](ū)[ha]tā • [ogh]. .. [v]atara[t ta]thā ca sa [tā]</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="43">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 471</idno>
+          <idno type="old">E. i.39</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 32; JĀA(Lha) 55.19-57.4 = JĀA(Lhb) 102.14-106.17</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>.. [yathā] tathatay. [na ā]ran na pāra[ṃ] sama[nupa] .y. + + ///
+<lb n="2"/>maṃjuśrrīr animittā anāraṃbaṇā • tatra katamā a[ni] + ///
+<lb n="3"/>samanupaśyan[[at]]ā • anāraṃbaṇa◯tā śrrotravi .[ñ]. ///
+<lb n="4"/>[n]imittatā • gandhasyāghrrāṇatā anā◯raṃbaṇatā • [ji] ///
+<lb n="5"/>[pa]labdhi[r] animit[ta]tā • sparśānām as[pr]aṣ[ṭ](a)[vy]. .. .. .. + + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>ayaṃ ma[ṃ]juśrrīḥ āryāṇaṃ g[oca]ra[ḥ] yas tr(ai)dhātu .. + ///
+<lb n="2"/>dhvasamā trimaṇḍalaparicchinnā ta◯tra katamo [maṃ] .. ///
+<lb n="3"/>nne manaskāro notpadyate • sa ci◯ttamanovi[jñ]. ///
+<lb n="4"/>te anāgataṃ na kalpayati prratyutpannaṃ prrapaṃ[c]. ///
+<lb n="5"/>[y]ā na śrrotra na gh[rr]āṇa na jihvā na kāya na + + + ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="44">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 469</idno>
+          <idno type="old">E. i.39</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 33; JĀA(Lha) 57.5-58.13 = JĀA(Lhb) 106.19-112.3</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + + [c]y(a)t(e) yatra notpādo na sthitiḥ na vyayaḥ tad ucyat. .[ṛ] + ///
+<lb n="2"/>/// .. sarvadharmāṇāṃ yaḥ svabhāvaḥ «sa abhāvaḥ» yo abhāvaḥ sa tatra [nā] + ///
+<lb n="3"/>/// .. bhedaḥ tathatā padam* aprratiṣṭhā◯na abhedaḥ dharma .. ///
+<lb n="4"/>/// + .. dam* śunyatā abhedaḥ ānimi◯tta padam* avita[rk]. ///
+<lb n="5"/>/// + + .. [bhe]daḥ [ākāś]aṃ padam* a[nu]palambhaḥ [a](bh)[e] + + + + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + .. a[bhe]da n[ir]v[āṇaṃ] padam* anabhinirvṛ[tt]. + + + + ///
+<lb n="2"/>/// [maṃ]juśrrī[r] jaḍo niśceṣṭaḥ acetanaḥ ◯ tṛṇakāṣṭakuḍya + ///
+<lb n="3"/>/// kāyasya cittasya {vā}  cāvabo◯dhaḥ iyam ucya[te] ///
+<lb n="4"/>/// [k]āyena vā cittena vā dharmeṇa vā adharmeṇa vā bhūte .. ///
+<lb n="5"/>/// + .. r[v](a)dharmaiḥ tat kasya hetoḥ [na] maṃjuśrrīr bodhiḥ ka[syaci] + + ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="45">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 462</idno>
+          <idno type="old">E. i.39</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 34; JĀA(Lha) 58.15-60.6 = JĀA(Lhb) 112.5-116.1</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + .. .. .. [v](a)can[ī]y. tathā ma[ṃ]juśrīr bodhir asthānā-r-asaṃ(s)[k]ṛ + + ///
+<lb n="2"/>/// + [nī]yā tat kasya hetoḥ na maṃjuśrrīr bhūte vacanaṃ saṃvidya .. ///
+<lb n="3"/>/// [a]grrāhyatā katamā anāla◯yatā cakṣuḥpa .. ///
+<lb n="4"/>/// .ānupalabdhir anālayatā : ghrrā◯ṇaparijñā agrrā[hy]. ///
+<lb n="5"/>/// .. [ya]tā kāyaparijñā agrrāhya[t]ā s[p]. ṣ[ṭ](a)[vy]ān[upal]. + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// .. [th]ā[gat]ena agrrāhyā anā[la]yā [bo]dhir abh[is](aṃ)[b]u[ddh]. .. + ///
+<lb n="2"/>/// hāya śabdhānupalabdhitaḥ śrrotra◯vijñānaṃ na prratiṣṭhi[t]. ///
+<lb n="3"/>/// [ya] rasānupalabdhito jihvāvi◯jñānaṃ na prratiṣṭhi[t]. ///
+<lb n="4"/>/// .. hāya dharmānupalabdhito manovijñānaṃ na prratiṣṭhita[m*] ///
+<lb n="5"/>/// + .[i] ..ṃ[j]. .ī[ḥ] sa[tv]ānāṃ cittaprratiṣṭhānāni • ka[ta] .. + + ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="46">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 460</idno>
+          <idno type="old">E. i.39</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 35; JĀA(Lha) 60.7-61.11 = JĀA(Lhb) 116.3-118.8</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + śrrīḥ satvānāṃ cittaprratiṣṭhānaṃ tāni khalu punar (i)[m]. + + + ///
+<lb n="2"/>/// [r i]ti maṃjuśrrīḥ śunyatāyā etad adhivacanam* yay[ā] .. + ///
+<lb n="3"/>/// .. na yathaiva śūnyatā tathaivā◯bhisaṃbuddhā na maṃ[j]. ///
+<lb n="4"/>/// .. tat* yad uta śunyatā va bodhir vā ◯ yatra maṃjuśrrīr na [ś]. ///
+<lb n="5"/>/// + .[iy]eta tat [ka]s[m]ād dhetoḥ ad[v]ayā mamjuśrrī bodhis [s]arva .. ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + [ru]d[dh]āḥ an[ā]cārā aprrac[ā]rā asamudācār. + ///
+<lb n="2"/>/// .. dhivacanaṃ na punar atra maṃjuśrrīḥ ◯ paramārtthataḥ ka[śc]. ///
+<lb n="3"/>/// [a]vacanīyaṃ cākāśa eva◯m eva maṃjuśrrīḥ śū ///
+<lb n="4"/>/// [a]nāmakā maṃjuśrrī sarvadharmāḥ nāmnā ca vyavahṛyaṃ(t)[e] ///
+<lb n="5"/>/// .[ā] yena nāmnā yo dharmo (’)bhilapyate so (’)pi dharmo na [d]e + + ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="47">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 463</idno>
+          <idno type="old">E. i.39</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 36; JĀA(Lha) 61.13-63.3 = JĀA(Lhb) 118.9-122.7</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + [tā] yathā anutpannāḥ aniruddhā alakṣaṇāś c[it]t. + + ///
+<lb n="2"/>/// .. na maṃjuśrrīr baddho mucyate || bodhir maṃjuśrrīr ākāśasamā ā .. ///
+<lb n="3"/>/// [rma]syābhūtāpariniṣpattiḥ nā◯sau samo vā viṣamo .. ///
+<lb n="4"/>/// .. cāpi saṃbuddhāḥ yathā a◯ṇur api dharmo na sa[mī] + ///
+<lb n="5"/>/// + [ma]ñ ca maṃjuśrrīr bhūtajñānaṃ abhū[tv]ā maṃj[uś](r)ī [s](a)r.. .. + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + [a]parigrrahās saṃbhavanti • asv[āmi]kā a[p](a)r(i)[grra] .. .. + ///
+<lb n="2"/>/// + .. kaścid vartayitā tad ucya◯te vartmopacchedāya + ///
+<lb n="3"/>/// .. vatpadam* yāthāvatpadaṃ maṃ◯juśrrīr bodhi • yathā .. ///
+<lb n="4"/>/// [jñ]ānaṃ tathatā na vyativartate • yathā bodhis tathā pṛthi + ///
+<lb n="5"/>/// + + [v](a)r[ta]te • yathā bo[dh]i[s t](a)[th]ā cakṣurdhātuḥ rūpa + + + ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="48">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 478</idno>
+          <idno type="old">E. i.41</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 37;  JĀA(Lha) 63.4-64.11 = JĀA(Lhb) 122.8-126.4</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// [v]ijñānadhātuḥ ghrrāṇadhātu[r] g(a)ndhadhātu(r) [gh]rr. + + + + + + ///
+<lb n="2"/>/// .. dhātuḥ manodhātur dharmadhātur manovijñānadhātus t. + + + ///
+<lb n="3"/>/// .[ā]gatena yāthāvad abhisaṃbu◯ddhā aviparīta[to] ///
+<lb n="4"/>/// + saṃkrāṃtā • madhye viviktāḥ e◯vam eva teṣāṃ {d}yathā .. ///
+<lb n="5"/>/// + + [ba]hu[tv](a)ṃ [v]opalabhyate || bodhir maṃjuśrrīr ākāraprra[v]e + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// .. .rr. ucya[te] āra[ṃ]bhaḥ sarv[e]ṣā[ṃ] kuśalānān dharmāṇāṃ an[ā] + ///
+<lb n="2"/>/// [a]nākāra ucyate cittanātula◯nāgaṇanāprratya[ve] ///
+<lb n="3"/>/// .[u]lāsamatikramaḥ yatra vijñā◯nakarma nās[t]i • [ā] ///
+<lb n="4"/>/// .. r maṃjuśrrīr anāsrravā anupādānā • tatra maṃju[śrr]ī + + + ///
+<lb n="5"/>/// .. [v]āṇāṃ vigamaḥ kata[m]e[ṣ]āṃ caturṇā[m*] .. + + + + + ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="49">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 479</idno>
+          <idno type="current">IOL San 480</idno>
+          <idno type="current">IOL San 481</idno>
+          <idno type="old">E.i.4</idno>
+          <idno type="old">E.i.43</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 38; JĀA(Lha) 64.13-65.16 = JĀA(Lhb) 126.6-128.13</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// . [u]pādānānāṃ vigamaḥ katam[e]ṣāṃ caturṇām* kā .. + + + /// + [marś]. pādānas[y]a + + + ///
+<lb n="2"/>/// [m](a)[ṃ]juśrrīś catvāry upādānāni sarvāṇy avidyayā andhīkṛt[ā] + /// .y. m abhiniviśyopād[ī] .. + ///
+<lb n="3"/>/// + tmavādopādānamūla◯parijñātāvī ātmav. /// ..ḥ yā cātmaviśuddhir yac [c]. .. ///
+<lb n="4"/>/// + [rdhi]kārāḥ yaś cādvayā◯rthaḥ so (’)nutpādā{{ṃ}}nirodha .. /// .. novijñānāni na p[rr]. + + + ///
+<lb n="5"/>/// + [jñ]ā[n]ā[n]i [p]. va[rttaṃ]te tatra na [k](a)[ś](c)i .. .i[kal](p)o ye .. + + /// .. [ryā]t* sa yoni[śo] + + + + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + .. .. [y]. [t]. .. yac cāv[i]dy[āy]. .. .u(t)th. + [ta dv]. [d]. .. .. + /// .. [d]vādaśānāṃ bh. + + + + ///
+<lb n="2"/>/// + j[ā]tiḥ sa niyāmaḥ yo niyāmaḥ sa nītārthaḥ yo .. /// .. [m]ārthaḥ sa niṣpudga[l]. + + ///
+<lb n="3"/>/// .. lapyārthaḥ sa prratītyasa◯mutpādārthaḥ yaḥ p[r]. .. /// + yo dharmārthaḥ sa tathāgat. /// [yaḥ: ḥ is upadhmānīya]
+<lb n="4"/>/// [ta]d ucyate : yaḥ prratītyasa◯mutpādaṃ paś[y]a[t]i sa dhar..ṃ + /// + .. taṃ paśyati • tathā c. + ///
+<lb n="5"/>/// + t [p](a)śyati • tatra maṃjuś[rr]īḥ [k](a)[t](a)[ma]t kiñcanam* ya .. + + + /// + + cāraṃbaṇaṃ pa[śy]. + + ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="50">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 480</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>See IOL San 481 and IOL San 479; Folio No. 38; JĀA(Lha) 64.13-65.16 = JĀA(Lhb) 126.6-128.13</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>///ṣāṃ caturṇām* kā .. + + + ///
+<lb n="2"/>/// yā andhīkṛt[ā] + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="4"/>/// paś[y]a[t]i sa dhar..ṃ + ///
+<lb n="5"/>/// t kiñcanam* ya .. + + + ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="51">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 479</idno>
+          <idno type="old">E. i.4</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>See IOL San 481 and IOL San 480; Folio No. 38; JĀA(Lha) 64.13-65.16 = JĀA(Lhb) 126.6-128.13</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + [marś]. pādānas[y]a + + + ///
+<lb n="2"/>/// .y. m abhiniviśyopād[ī] .. + ///
+<lb n="3"/>/// ..ḥ yā cātmaviśuddhir yac [c]. .. ///
+<lb n="4"/>/// .. novijñānāni na p[rr]. + + + ///
+<lb n="5"/>/// .. [ryā]t* sa yoni[śo] + + + + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// .. [d]vādaśānāṃ bh. + + + + ///
+<lb n="2"/>/// .. [m]ārthaḥ sa niṣpudga[l]. + + ///
+<lb n="3"/>/// + yo dharmārthaḥ sa tathāgat. /// [yaḥ: ḥ is upadhmānīya]
+<lb n="4"/>/// + .. taṃ paśyati • tathā c. + ///
+<lb n="5"/>/// + + cāraṃbaṇaṃ pa[śy]. + + ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="52">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 453</idno>
+          <idno type="old">E. i.4</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 39; JĀA(Lha) 65.18-67.1 = JĀA(Lhb) 128.14-132.9</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// .. buddhāḥ samatayā samāḥ || bodhir maṃjuśrrīḥ śuddhā .. + + ///
+<lb n="2"/>/// [ś]rrīḥ śuddhir ānimittaṃ vimalam aprraṇihitam anaṅgaṇam* + ///
+<lb n="3"/>/// ◯ prrabhāsvaratā{ṃ}  anaṅgaṇam* aprrapaṃca śu[d]dh[i] ///
+<lb n="4"/>/// ◯ naṅgaṇam* ākāśaṃ śuddhir gaganaṃ vimalaṃ kham a[n]. ///
+<lb n="5"/>/// + ..[m*] s[k]. [ndh]. [par]i[jñ]ā śu .[i] .. .. .. [s]. .. .o [v]i[ma]l. .. [y]. + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + .. [nn]. dha[r]m(a)dhā[tus]th[i]t[ijñān]. .. .. .. .. [m* iti h](i) [m](aṃ)[j]u + ///
+<lb n="2"/>/// ◯nta[ṃ] yat praśāntaṃ tad upaśāntam* yad upaśāntaṃ .. ///
+<lb n="3"/>/// ◯ bodhi{ḥ}s tathā dharmāḥ yathā dharmās tathā satvā[ḥ] .. ///
+<lb n="4"/>/// [m]āḥ sarvadharmāḥ niṣṭhāparyantakāraṇenāprratipa .. ///
+<lb n="5"/>/// [p]ān sarvadharmān abhisaṃbud[dhy](a) satvānāṃ ca dharmadh[āt]. + + ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="53">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 452</idno>
+          <idno type="old">E. i.4</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 41?; JĀA(Lha) 68.14-70.3 = JĀA(Lhb) 138.3-142.11</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + + + tavya • akṣapa[ṇit]v. [d ak]ṣ. .. [s] t(a)t kasm[ā]d dhe + ///
+<lb n="2"/>/// + + + [d a]saṃskṛtaṃ yad asaṃskṛta tatra notpādo na [ni] ///
+<lb n="3"/>/// + [vai]ṣā dharmatā dharmasthitaye eṣā dhātuḥ yathā dha ///
+<lb n="4"/>/// [g]. tata jñānaṃ na nirvṛttam īdṛśe[[na]] dharmanayaprraveśenā .. ///
+<lb n="5"/>/// + p[t]ir eṣā nātra kaś[c]i maṃj[u]ś[rr]īd dharma utpad[ya]te vā .. + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + nuttarā bodhi || atha maṃju[ś]rr(ī)ḥ kumārabhūto [u] .. + ///
+<lb n="2"/>/// [bh](a)gavāṃs tenāṃjaliṃ prraṇamya{ṃ}  ābhir gāthābhir bhaga[v]. ///
+<lb n="3"/>/// .. nirālambha namo (’)stu te • aprratiṣṭha anāyūha [a] ///
+<lb n="4"/>/// + + .. ākāśasamatāṃ gataḥ nopalipyasi kā .[e] ///
+<lb n="5"/>/// + + + lam[bha] namo (’)stu te [4] .. [m]. .e .i sama yā .i + ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="54">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 450</idno>
+          <idno type="old">E. i.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 44; JĀA(Lha) 79.11-80.18? = JĀA(Lhb) 172.5-176.8</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>puṇyābhisaṃsk[ā]r(a)[s] t(e)ṣāṃ bodhisatvā .. .. + + ///
+<lb n="2"/>saṃkhyām api kalām api gaṇanām apy upa .. ///
+<lb n="3"/>nāṃ sabodhisatvānāṃ saśrrāvakā◯[n]āṃ ///
+<lb n="4"/>ṣṭhet* yo vānyaḥ prravrrajito bodhi◯sa[tv]. ///
+<lb n="5"/>sya sa pūrv[v]a[kaḥ] .. .ā .i[sa]ṃskāraḥ śatim. ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>[p]aniśām a[p]i [na] .[ṣ]. .. [t]. [s](a)cen maṃjuśrrī[s tri] .. ///
+<lb n="2"/>ṣām ekaiko bodhisatvo daśasu dikṣu ◯ gaṃ[g]. ///
+<lb n="3"/>naprratyayabhaiṣajyapariṣkārai◯[r u] ///
+<lb n="4"/>yo yo vānyo bodhisatvo : śīlavān* ā[ś]. ///
+<lb n="5"/>asya puṇyābhi[s](a)ṃ .ārasya sa pūrvavak. + + ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="55">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 451</idno>
+          <idno type="old">E. i.4</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note>Folio No. 46; JĀA(Lha) 82.9-83.12 = JĀA(Lhb) 182.3-184.15</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>bhaveyur atha gṛhī b[o]dh[i]satvas tān sarvva[satv]. + + ///
+<lb n="2"/>ddhaḥ antaśas tiryagyonigatāyā (’)pi satvā + + ///
+<lb n="3"/>ṭīnayutaśatasahasraparamā◯ṇu + ///
+<lb n="4"/>daśabuddhakṣetrānabhilapyakoṭī◯nayu[t]. ///
+<lb n="5"/>śrāva[k]asaṃghaṃ daśa[b]. .. .[e] + .. [bh]ilap[yak]o .ī .. ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Sarvabuddhaviṣayāvatārajñānālokālaṃkāra]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>ṣa[jy](a)pariṣk[ā]rai[r u] .. .. .. + + [s]ya [ca tathāg]. ///
+<lb n="2"/>dhātun vaśirājamaṇiratnaprrati[p]ū◯[rṇ]ān kṛ[tvā] ///
+<lb n="3"/>muktaḥ antaśas tiryagyonigatāyā ◯ (’)pi + ///
+<lb n="4"/>dānamayaḥ śatatamām api kalān no .[ai] + ///
+<lb n="5"/>mate • tat kasya hetor avaivartikā[n]ām i + + ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="56">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 434</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Not Yet Identified;
+                            Sarvabuddhaviṣayāvatārajñānālokālaṃkāra?]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/> ILLEGIBLE
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt"/>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/> ILLEGIBLE
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="57">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 435</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">[Not Yet Identified;
+                            Sarvabuddhaviṣayāvatārajñānālokālaṃkāra?]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>a /// [s]. tva ta .. ///
+<lb n="2"/>b /// .[n]./mbho? .. + + ///
+</q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">[Not Yet Identified;
+                            Sarvabuddhaviṣayāvatārajñānālokālaṃkāra?]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>a /// [vi/ci] .. + + ///
+<lb n="2"/>b /// .. r. m* .. ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="58">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 439</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">[Not Yet Identified;
+                            Sarvabuddhaviṣayāvatārajñānālokālaṃkāra?]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>a /// .[t]. thāga[t]. ///
+<lb n="2"/>b /// + .. su .. .. ///
+<lb n="3"/>c /// + .. .. .. ///</q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">[Not Yet Identified;
+                            Sarvabuddhaviṣayāvatārajñānālokālaṃkāra?]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>a /// + .. .. .. ///
+<lb n="2"/>b /// + buddha .. ///
+<lb n="3"/>c /// .. śaḥ [m]. + ///</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="59">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 440</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">[Not Yet Identified;
+                            Sarvabuddhaviṣayāvatārajñānālokālaṃkāra?]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>a /// + + .. .. ///
+<lb n="2"/>b /// .. [ṣṭh]./.rr. .i ..ṃ ///
+<lb n="3"/>c /// .. .ī + + ///</q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">[Not Yet Identified;
+                            Sarvabuddhaviṣayāvatārajñānālokālaṃkāra?]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>a /// .. .. + ///
+<lb n="2"/>b /// .. thi .. ///
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

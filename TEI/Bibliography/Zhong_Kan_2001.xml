@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Zhong_Kan_2001">
+  <author lang="chi-Latn">Zhong Kan deng</author>
+  <author lang="chi-Hant">&#x9418;&#x4F83;&#x7B49;</author>
+  <title level="m" lang="chi-Latn">Xixia jianshi</title>
+  <title level="m" lang="chi-Hant">&#x897F;&#x590F;&#x7C21;&#x53F2;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Yinchuan</pubPlace>
+    <publisher>Ningxia renmin chubanshe</publisher>
+    <date>2001</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>History</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

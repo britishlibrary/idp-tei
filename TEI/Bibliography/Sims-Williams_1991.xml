@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Sims-Williams_1991">
+  <author>Sims-Williams, Nicolas</author>
+  <title level="a" lang="eng">A Sogdian greeting</title>
+  <imprint>
+    <title level="m" lang="eng" type="shortRef">Emmerick_Weber_1991</title>
+    <biblScope type="pp">176-186</biblScope>
+  </imprint>
+  <note/>
+  <keywords>Sogdian</keywords>
+  <keywords/>
+  <genBibl/>
+</bibl>

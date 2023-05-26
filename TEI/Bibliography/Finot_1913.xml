@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Finot_1913">
+    <editor>Finot, Louis M.</editor>
+    <title level="a" lang="fre">Le Pr&#x101;tmok&#x1E63;as&#x16B;tra des Sarv&#x101;stiv&#x101;dins</title>
+    <imprint>
+      <title level="j">JA</title>
+      <biblScope type="vol">II</biblScope>
+      <biblScope type="pp">465-557</biblScope>
+      <date>1913</date>
+    </imprint>
+    <note>texte sanskrit par M. Louis Finot avec la version chinoise de Kum&#x101;rajiva traduite en fran&#xE7;ais (M. &#xC9;douard Huber)</note>
+    <keywords/>
+  </bibl>
+</listBibl>

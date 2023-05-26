@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Hu_Yubing_1998">
+    <author lang="chi-Latn">Hu Yubing</author>
+    <author lang="chi-Hant">&#x80E1;&#x7389;&#x51B0;</author>
+    <title level="m" lang="chi-Latn">Xixia zhil&#xFC;e jiaozheng</title>
+    <title level="m" lang="chi-Hant">&#x897F;&#x590F;&#x5FD7;&#x7565;&#x6821;&#x8A3C;</title>
+    <title level="m" lang="eng"/>
+    <imprint>
+      <pubPlace>Lanzhou</pubPlace>
+      <publisher>Gansu wenhua chubanshe</publisher>
+      <date>1998</date>
+    </imprint>
+    <keywords>Tangut</keywords>
+    <keywords>History</keywords>
+    <genBibl>tangut</genBibl>
+  </bibl>
+</listBibl>

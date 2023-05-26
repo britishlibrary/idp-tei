@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Giles_1928">
+    <author>Giles, Lionel</author>
+    <title level="a" lang="eng">Chinese Inscriptions and Records</title>
+    <imprint>
+      <title level="m" type="shortRef">Stein_1928</title>
+    </imprint>
+    <note>Appendix I</note>
+    <keywords>Chinese/inscriptions/records</keywords>
+    <genBibl>collections_en</genBibl>
+  </bibl>
+</listBibl>

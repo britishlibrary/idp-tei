@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Niida_1939">
+    <author lang="jap">&#x4EC1;&#x4E95;&#x7530;&#x5347;</author>
+    <title level="m" lang="jap">&#x30B9;&#x30BF;&#x30A4;&#x30F3;&#x3001;&#x30DA;&#x30EA;&#x30AA;&#x4E24;&#x6C0F;&#x6566;&#x714C;&#x5C06;&#x6765;&#x6CD5;&#x5F8B;&#x53F2;&#x6599;&#x6570;&#x79CD;</title>
+    <imprint>
+      <pubPlace>&#x6771;&#x4EAC;</pubPlace>
+      <publisher>&#x4E1C;&#x4EAC;&#x5927;&#x5B66;&#x51FA;&#x7248;&#x4F1A;&#x6240;</publisher>
+      <date>1939</date>
+    </imprint>
+  </bibl>
+</listBibl>

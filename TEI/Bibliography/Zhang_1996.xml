@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Zhang_1996">
+  <author>Zhang, Guang-da</author>
+  <title level="a" lang="eng">Kocho (Kao-ch'ang)</title>
+  <imprint>
+    <title level="m" lang="eng" type="shortRef">Litvinsky_1996</title>
+    <biblScope type="pp">303-314</biblScope>
+  </imprint>
+  <keywords>Kocho</keywords>
+</bibl>

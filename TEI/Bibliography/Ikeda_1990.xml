@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listbibl>
+  <bibl id="Ikeda_1990">
+    <author>Ikeda On</author>
+    <title level="m" lang="jpn-Latn">Ch≈´goku kodai shahon shikigo sh≈´roko</title>
+    <title level="m" lang="jpn">中國古代寫本識語集錄</title>
+    <imprint>
+      <pubPlace>Tokyo</pubPlace>
+      <publisher>Tokyo Daigaku Toyo Bunka Kenkyujo</publisher>
+      <date>1990</date>
+      <edition>1st edition</edition>
+    </imprint>
+    <keywords>Colophon</keywords>
+    <keywords>Buddhism</keywords>
+    <note/>
+  </bibl>
+</listbibl>

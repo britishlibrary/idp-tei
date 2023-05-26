@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listbibl>
+  <bibl id="Wang_Ding_2004">
+    <author>Wang Ding</author>
+    <title level="a" lang="ger">Ein khitanisches Fragment mit uigurischen Glossen in der Berliner Turfansammlung</title>
+    <imprint>
+      <title level="j" lang="eng">Turfan Revisited: The First Century of Research into the Arts and Cultures of the Silk Road</title>
+      <bibliScope type="pp">371-79</bibliScope>
+      <pubPlace>Berlin</pubPlace>
+      <date>2004</date>
+      <note/>
+    </imprint>
+    <keywords>manuscripts</keywords>
+    <keywords>Khitan</keywords>
+    <keywords>Uigurisch</keywords>
+    <keywords>Turfan</keywords>
+    <note/>
+  </bibl>
+</listbibl>

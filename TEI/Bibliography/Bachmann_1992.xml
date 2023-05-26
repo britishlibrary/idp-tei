@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Bachmann_1992">
+    <author n="1">Bachmann, K.</author>
+    <title level="m" lang="eng">Conservation Concerns: A Guide for Collector and Curators</title>
+    <imprint>
+      <pubPlace>Washington D.C.</pubPlace>
+      <publisher>Smithsonian Institution Press</publisher>
+      <date>1992</date>
+      <idno type="ISBN">1-56098-174-1</idno>
+    </imprint>
+    <keywords>Preservation</keywords>
+    <keywords>Conservation</keywords>
+    <genBibl>Conservation</genBibl>
+  </bibl>
+</listBibl>

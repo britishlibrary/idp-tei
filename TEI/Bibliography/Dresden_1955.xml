@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Dresden_1955">
+    <author>Dresden, M.J</author>
+    <title level="a" lang="eng">The Jatakastava or "Praise of the Buddha's Former Births</title>
+    <imprint>
+      <title level="j">Transactions of the American Philosophical Society</title>
+      <biblScope type="issue">45.5</biblScope>
+      <biblScope type="pp">39-58</biblScope>
+      <date>1955</date>
+    </imprint>
+    <keywords>I-Jataka</keywords>
+    <keywords>Buddha</keywords>
+    <keywords/>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Emmerick_1996">
+    <author>Emmerick, Ronald E.</author>
+    <title level="a" lang="eng">A Khotanese monastic account book</title>
+    <imprint>
+      <title level="m">Emmerick_1996a</title>
+      <biblScope type="pp">51-65</biblScope>
+      <date>1996</date>
+    </imprint>
+    <keywords>HT</keywords>
+    <keywords>monasteries</keywords>
+    <keywords>accounts</keywords>
+  </bibl>
+</listBibl>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Sieg_1955">
+    <author>Sieg, Emil</author>
+    <title level="a" lang="ger">Die medizinischen und tantrischen Texte der Pariser Sammlung in
+            Tocharisch B</title>
+    <imprint>
+      <title level="j" lang="ger">Zeitschrift für Vergleichende Sprachforschung</title>
+      <biblScope type="issue">72</biblScope>
+      <biblScope type="pp">63-83</biblScope>
+      <date>1955</date>
+    </imprint>
+  </bibl>
+</listBibl>

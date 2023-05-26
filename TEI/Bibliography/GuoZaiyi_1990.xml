@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="GuoZaiyi_1990">
+    <author lang="chi" n="1">&#x90ED;&#x5728;&#x8D3B;</author>
+    <author lang="chi" n="2">&#x5F20;&#x6D8C;&#x6CC9;</author>
+    <author lang="chi">&#x9EC4;&#x5F81;</author>
+    <title level="m" lang="chi">&#x6566;&#x714C;&#x53D8;&#x6587;&#x96C6;&#x6821;&#x8BAE;</title>
+    <imprint>
+      <pubPlace>&#x9577;&#x6C99;</pubPlace>
+      <publisher>&#x5CB3;&#x9E93;&#x66F8;&#x793E;</publisher>
+      <date>1990</date>
+    </imprint>
+  </bibl>
+</listBibl>

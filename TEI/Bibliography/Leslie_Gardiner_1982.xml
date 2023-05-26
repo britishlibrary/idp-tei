@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Leslie_Gardiner_1982">
+  <author n="1">Leslie, D.D.</author>
+  <author n="2">Gardiner, K.H.J.</author>
+  <title level="a" lang="eng">Chinese Knowledge of Western Asia during the Han</title>
+  <imprint>
+    <title level="j" lang="eng" type="shortRef">T'oung Pao</title>
+    <biblScope type="issue">68</biblScope>
+    <biblScope type="pp">254-308</biblScope>
+    <date>1982</date>
+  </imprint>
+  <note/>
+  <keywords>Han</keywords>
+  <keywords>Western Asia</keywords>
+</bibl>

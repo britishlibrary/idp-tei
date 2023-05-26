@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<bibl id="Bai_1982">
+  <author>Bai, Shouyi</author>
+  <title level="m" lang="eng">An Outline History of China</title>
+  <imprint>
+    <pubPlace>Beijing</pubPlace>
+    <publisher>Foreign Languages Press</publisher>
+    <date>1982</date>
+    <idno type="ISBN"/>
+  </imprint>
+  <note/>
+  <keywords>History</keywords>
+  <keywords>China</keywords>
+  <genBibl>collections_ch</genBibl>
+</bibl>

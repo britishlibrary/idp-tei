@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Bailey_1936">
+    <author>Bailey, H.W</author>
+    <title level="a" lang="eng">An itinerary in Khotanese Saka</title>
+    <imprint>
+      <title level="j">Acta Orientalia</title>
+      <biblScope type="issue">14</biblScope>
+      <biblScope type="pp">258-67</biblScope>
+      <date>1936</date>
+    </imprint>
+    <keywords>Khotanese</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

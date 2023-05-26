@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Scheil_1995">
+    <author>Scheil, J&#xF6;rg-Michael</author>
+    <title level="m" lang="ger">Die chinesischen Vertragsurkunden aus Turfan</title>
+    <title type="s" lang="ger">M&#xFC;nchener Ostasiatische Studien, Band</title>
+    <biblScope>72</biblScope>
+    <imprint><pubPlace>Stuttgart</pubPlace><publisher>Franz Steiner</publisher><date>1995</date><idno type="ISBN">3515067426 9783515067423</idno>"
+        </imprint>
+    <keywords>Turfan</keywords>
+    <keywords>legal</keywords>
+    <keywords>social</keywords>
+  </bibl>
+</listBibl>

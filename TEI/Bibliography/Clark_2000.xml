@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<bibl id="Clark_2000">
+  <author>Clark, Larry Vernon</author>
+  <title level="a" lang="eng">"The Conversion of B&#xF6;g&#xFC; khan to Manichaeism</title>
+  <imprint>
+    <title level="m" lang="eng" type="shortRef">Emmerick_2000</title>
+    <date>2000</date>
+    <biblScope type="pp">83-123</biblScope>
+  </imprint>
+  <keywords>Manichaeism</keywords>
+  <keywords/>
+  <genBibl>collections_ge</genBibl>
+</bibl>

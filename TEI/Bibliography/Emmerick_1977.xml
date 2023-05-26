@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Emmerick_1977">
+    <author>Emmerick, R.E</author>
+    <title level="a" lang="eng">The Confession of Acts</title>
+    <imprint>
+      <title level="j">Acta Iranica</title>
+      <biblScope type="issue">16</biblScope>
+      <biblScope type="pp">87-115</biblScope>
+      <date>1977</date>
+    </imprint>
+    <keywords>Confession</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

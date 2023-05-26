@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Stein_1971">
+    <author>Stein, Rolf A.</author>
+    <title level="a" lang="fre">Du r&#xE9;cit au rituel dans les manuscrits tib&#xE9;tains de Touen-houang</title>
+    <imprint>
+      <title type="m" lang="fre">&#xC9;tudes tib&#xE9;taines d&#xE9;di&#xE9;es &#xE0; la m&#xE9;moire de Marcelle Lalou</title>
+      <date>1971</date>
+      <pubPlace>Paris</pubPlace>
+      <publisher>Librairie d'Am&#xE9;&#x301;rique et d'Orient</publisher>
+    </imprint>
+    <note>Pelliot tib. 239, 1194</note>
+    <genBibl>collections_fr</genBibl>
+  </bibl>
+</listBibl>

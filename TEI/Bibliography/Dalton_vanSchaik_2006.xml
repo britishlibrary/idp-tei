@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Dalton_vanSchaik_2006">
+    <author n="1">van Schaik, Sam</author>
+    <author n="2">Dalton, Jacob</author>
+    <title level="m" lang="eng">Tibetan Tantric Manuscripts from Dunhuang: A Descriptive
+            Catalogue of the Stein Collection at the British Library</title>
+    <imprint>
+      <pubPlace>Leiden</pubPlace>
+      <publisher>Brill</publisher>
+      <date>2006</date>
+      <edition>1st edition <date>2006</date></edition>
+    </imprint>
+    <keywords>Tibet</keywords>
+    <keywords>Dunhuang</keywords>
+    <keywords>Buddhism</keywords>
+    <keywords>Tantra</keywords>
+    <genBibl>vanschaik</genBibl>
+  </bibl>
+</listBibl>

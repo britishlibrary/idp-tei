@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Weber_Photo Edition II">
+    <author>Weber, Dieter</author>
+    <title level="a" lang="engl">Iranian Manichaean Turfan texts in publications since 1934: Photo Edition.</title>
+    <title level="j" lang="engl" type="shortRef">Corpus Inscriptionum Iranicarum, Suppl. Series 4</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>CII</publisher>
+      <date>2000</date>
+    </imprint>
+    <keywords>Iranian</keywords>
+    <keywords>Manichaean</keywords>
+    <keywords>publication</keywords>
+    <keywords>Turfan</keywords>
+    <genBibl>CII</genBibl>
+  </bibl>
+</listBibl>

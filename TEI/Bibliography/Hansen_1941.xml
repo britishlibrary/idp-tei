@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Hansen_1941">
+    <author>Hansen, Olaf</author>
+    <title level="a" lang="ger">Berliner soghdische Texte I. 
+		Bruchstücke einer soghdischen Version der Georgspassion (C1)</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">Abhandlungen der Preußischen Akademie der Wissenschaften</title>
+      <biblScope type="issue">Berlin 1941, No. 10</biblScope>
+    </imprint>
+    <keywords>Sogdian</keywords>
+    <keywords>Christian</keywords>
+    <keywords>Sogdian</keywords>
+    <keywords>n</keywords>
+    <keywords>religion</keywords>
+  </bibl>
+</listBibl>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Yakubovsky_1947">
+  <author>Yabukovsky, A. Yu</author>
+  <title level="a" lang="rus">Arabskie i persidskie istochniki ob uigurskom turfanskom knyazhestve v IX-X vekah [Arab and Persian historians on the Turfan Uygur principality in the ninth-tenth centuries</title>
+  <imprint>
+    <title level="j" lang="rus" type="shortRef">Gosudarstvennyy Ermitazh Trudy otdela Vostoka</title>
+    <biblScope type="issue">4</biblScope>
+    <biblScope type="pp">423-443</biblScope>
+    <date>1947</date>
+  </imprint>
+  <note/>
+  <keywords>Uighur</keywords>
+</bibl>

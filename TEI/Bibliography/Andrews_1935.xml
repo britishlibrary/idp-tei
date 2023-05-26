@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Andrews_1935">
+    <author>Andrews, F.H</author>
+    <title level="m" lang="eng">Descriptive Catalogue of Antiquities Recovered by Sir Aurel Stein  during His Explorations in Central Asia, Kansu and Eastern Iran</title>
+    <imprint>
+      <pubPlace>Delhi</pubPlace>
+      <publisher>Manager of Publications</publisher>
+      <date>1935</date>
+    </imprint>
+    <keywords>Expedition</keywords>
+    <keywords>Central Asia</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

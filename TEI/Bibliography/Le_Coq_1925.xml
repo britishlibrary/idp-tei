@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Le_Coq_1925">
+    <author>Le Coq, Albert von</author>
+    <title level="m" lang="ger">Bilderatlas zur Kunst- und Kulturgeschichte Mittel-Asiens</title>
+    <imprint>
+      <pubPlace>Berlin</pubPlace>
+      <publisher>Reimer und Vohsen</publisher>
+      <date>1925</date>
+    </imprint>
+    <note/>
+    <keywords>CCA/history/art</keywords>
+    <genBibl>collections_de</genBibl>
+  </bibl>
+</listBibl>

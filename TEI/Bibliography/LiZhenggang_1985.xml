@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="LiZhenggang_1985">
+    <author lang="chi">&#x674E;&#x8BC1;&#x521A;</author>
+    <title level="m" lang="chi">&#x6566;&#x714C;&#x77F3;&#x5BA4;&#x7ECF;&#x5377;&#x4E2D;&#x672A;&#x5165;&#x85CF;&#x7ECF;&#x8BBA;&#x8457;&#x8FF0;&#x76EE;&#x5F55;</title>
+    <imprint>
+      <pubPlace>&#x53F0;&#x5317;</pubPlace>
+      <publisher>&#x65B0;&#x6587;&#x4E30;&#x51FA;&#x7248;&#x516C;&#x53F8;</publisher>
+      <date>1985</date>
+    </imprint>
+  </bibl>
+</listBibl>

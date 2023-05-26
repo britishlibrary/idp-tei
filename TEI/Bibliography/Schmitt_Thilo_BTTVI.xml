@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Schmitt_Thilo_BTTVI">
+    <author>Schmitt, Gerhard</author>
+    <author>Thilo, Thomas</author>
+    <title level="a" lang="ger">Katalog chinesischer buddhistischer Textfragmente, Band I, mit einem Anhang von Akira Fujieda und Thomas Thilo.</title>
+    <title level="j" lang="ger" type="shortRef">Berliner Turfantexte VI</title>
+    <imprint>
+      <pubPlace>Berlin</pubPlace>
+      <publisher>Akademie-Verlag</publisher>
+      <date>1975</date>
+    </imprint>
+    <keywords>chinesisch</keywords>
+    <keywords>buddhistisch</keywords>
+    <keywords>Text</keywords>
+    <keywords>Fragmente</keywords>
+    <genBibl>Berliner Turfantexte</genBibl>
+  </bibl>
+</listBibl>

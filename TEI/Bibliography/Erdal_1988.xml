@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Erdal_1988">
+    <author>Erdal, Marcel</author>
+    <title level="a" lang="eng">Uigurica from Dunhuang</title>
+    <imprint>
+      <title level="j">Bulletin of the School of Oriental and African Studies</title>
+      <biblScope type="issue">51,2</biblScope>
+      <biblScope type="pp253-254"/>
+      <date>1988</date>
+    </imprint>
+    <keywords>I-Uigur</keywords>
+    <keywords>Dunhuang</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

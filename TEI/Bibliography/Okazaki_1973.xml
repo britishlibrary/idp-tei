@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Okazaki_1973">
+  <author>Okazaki, Joji</author>
+  <respStmt type="translator">Grotenhuis, Elisabeth ten</respStmt>
+  <title level="m" lang="eng">Pure Land Buddhist Painting</title>
+  <imprint>
+    <title level="s">Japanese Arts Library</title>
+    <biblScope type="issue">4</biblScope>
+    <pubPlace>Tokyo</pubPlace>
+    <publisher>PANDE</publisher>
+    <date>1973</date>
+    <idno type="ISBN">0870112872 : 9780870112874</idno>
+  </imprint>
+  <keywords>art</keywords>
+</bibl>

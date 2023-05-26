@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Li_Xihou_2005">
+  <author lang="chi-Latn">Li Xihou deng</author>
+  <author lang="chi-Hant">&#x674E;&#x932B;&#x539A;&#x7B49;</author>
+  <title level="m" lang="chi-Latn">Liao xixia jin shi yanjiu</title>
+  <title level="m" lang="chi-Hant">&#x907C;&#x897F;&#x590F;&#x91D1;&#x53F2;&#x7814;&#x7A76;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Fuzhou</pubPlace>
+    <publisher>Fujian renmin chubanshe</publisher>
+    <date>2005</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>History</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

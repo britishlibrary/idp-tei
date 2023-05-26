@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="SBAW">
+    <title level="j" lang="ger">Sitzungsberichte der Preußischen Akademie der Wissenschaften</title>
+    <imprint>
+      <pubPlace>Berlin</pubPlace>
+      <publisher>Akademie der Wissenschaften</publisher>
+    </imprint>
+    <genBibl>journals</genBibl>
+  </bibl>
+</listBibl>

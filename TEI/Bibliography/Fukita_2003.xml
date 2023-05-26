@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Fukita_2003">
+    <editor>Fukita, Takamichi</editor>
+    <title level="m" lang="ger">The Mahāvadānasūtra, A New Edition Based on Manuscripts Discovered in Northern Turkestan</title>
+    <imprint>
+      <title level="s">Sanskrit-Wörterbuch der buddhistischen Texte aus den Turfan-Funden, Beiheft</title>
+      <biblScope type="vol">10</biblScope>
+      <pubPlace>Göttingen</pubPlace>
+      <date>2003</date>
+    </imprint>
+    <note/>
+    <keywords>manuscript</keywords>
+    <keywords>sanskrit</keywords>
+    <keywords>turfan</keywords>
+    <keywords>SHT</keywords>
+    <keywords>buddhism</keywords>
+  </bibl>
+</listBibl>

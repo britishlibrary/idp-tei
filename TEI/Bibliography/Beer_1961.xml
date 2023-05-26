@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Beer_1961">
+    <author>Beer, A.</author>
+    <author>Ho, Ping-Yü</author>
+    <author>Lu, Gwei-Djen</author>
+    <author>Needham, J.</author>
+    <author>Pulleyblank, E. G.</author>
+    <author>Thompson, G. I.</author>
+    <title level="a" lang="eng">An 8th-century meridian line: I-Hsing's chain of gnomons and the pre-history of the metric system</title>
+    <imprint>
+      <title level="j">Vistas in Astronomy</title>
+      <biblScope type="vol">4</biblScope>
+      <biblScope type="pp">3-28</biblScope>
+      <date>1961</date>
+    </imprint>
+    <note/>
+    <keywords/>
+    <genBibl>astronomy</genBibl>
+  </bibl>
+</listBibl>

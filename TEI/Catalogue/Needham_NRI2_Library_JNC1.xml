@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Report on a Journey in the Northwest, occupying Aug., Sep., Oct., Nov., 1943." (typed report for the Foreign Office, 44pp.)</title>
+        <author id="JN">Joseph Needham</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The British Library</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2015</date>
+      </publicationStmt>
+      <editionStmt>
+        <edition>First electronic edition</edition>
+        <date>2015</date>
+        <respStmt>Converted to XML encoding by<name>Sam van Schaik</name></respStmt>
+      </editionStmt>
+      <sourceDesc>
+        <p>Typed report, pressmark NR12/Library/JN-C:1.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Imported to 4D on 07/10/2014 by Sam van Schaik.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>PDF prepared by: IDP. Copyright: The Needham Research Institute.</p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>The Needham Research Institute</repository>
+          <collection>Needham</collection>
+          <idno type="current">NRI2/Library/JN-C:1</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">Journal written by Joseph Needham of his journey through northwest China to Dunhuang, Aug-Dec 1943.</title>
+            <note>
+              <p>
+                <link url="http://idp.bl.uk/downloads/NRI2_Library_JNC1_images.pdf">All images available here as a single PDF.</link>
+              </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

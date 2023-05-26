@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Bischoff_Hartman_1971">
+    <author n="1">Bischoff, F.A.</author>
+    <author n="2">Hartman, C.</author>
+    <title level="a" lang="eng">Padmasambhavas Invention of the Phur-bu: Ms. Pelliot Tibetain 44</title>
+    <title level="m" lang="fr">Etudes tibetaines dediees a la memoire de Marcelle Lalou</title>
+    <biblScope type="pp">11-28</biblScope>
+    <imprint>
+      <pubPlace>Paris</pubPlace>
+      <publisher>Adrien Maisonneuve</publisher>
+      <date>1971</date>
+    </imprint>
+    <keywords>Tibetan</keywords>
+    <keywords>Buddhism</keywords>
+  </bibl>
+</listBibl>

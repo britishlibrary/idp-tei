@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Galambos_2008c">
+    <author>Galambos, Imre</author>
+    <title level="m" lang="eng">
+An English participant in the Japanese exploration of Central Asia: The role of A. O. Hobbs in the third Otani expedition
+</title>
+    <imprint>
+      <title level="m" lang="eng">Popova_2008</title>
+      <date>2008</date>
+      <biblScope type="pp">188-202</biblScope>
+    </imprint>
+    <keywords>Dunhuang</keywords>
+    <keywords>manuscripts</keywords>
+    <keywords>Otani expeditions</keywords>
+    <keywords>Japanese</keywords>
+    <genBibl>galambos</genBibl>
+  </bibl>
+</listBibl>

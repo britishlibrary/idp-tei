@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Three Sanskrit Fragments of the Ratnaketuparivarta</title>
+        <author>Hartmann, Jens-Uwe and Chanwit Tudkeao</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>IDP</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2010</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Jens-Uwe Hartmann and Chanwit Tudkeao, “Three Sanskrit Fragments of the Ratnaketuparivarta,” in: Buddhist Manuscripts from Central Asia: The British Library Sanskrit Fragments, Volume II.1 (Texts), ed. by Seishi KARASHIMA and Klaus WILLE, Tokyo: The International Research Institute for Advanced Buddhology at Soka University, 2009, pp. 589-596.</p>
+        <bibl>
+          <ref>Hartmann, Jens-Uwe and Chanwit Tudkeao_2009</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Input and marked up by IRIAB.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This catalogue contains transliterations of Sanskrit fragments in the Stein Collection at the British Library.</p>
+    </head>
+    <body>
+      <msDescription n="Or.15010/47">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.15010/47</idno>
+          <idno type="Hoernle">Hoernle 142 S.B. 96</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Ratnakeruparivarta</title>
+            <note>Parallels: Rk(K) 80.11-81.18; Rk(Tib) 91.20-92.23; Rk(Ch1) 136b26-136c6; Rk(Ch2) 551b14-551c10</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>.. + .. toraṇeṣu sthitā niṣaṃṇā saṃdṛ[śyant](i) [k]. + + + ///
+
+
+<lb n="2"/>+ [l]. [va]rṇṇā nīlālaṃkārāḥ śvai[ta]vastracchatra [l]ohita + + + ///
+
+
+<lb n="3"/>+ (n)īlāṃ cchatradhvajapatākāṃ dhārayanti • m. .. hārāṃ dhā[[ra]](ya)nt(i) + ///
+
+
+<lb n="4"/>(dh)āra(yantā saṃ)dṛśyanti • kecin māṃjiṣ[ṭh]ā ○ māṃjiṣṭhā varṇṇā • .. + ///
+
+
+<lb n="5"/>(dhāra)[ya]nt(ā saṃdṛ)śyan[ti] • kecit sapta ○ ratnamayaṃ varṇatā ///
+
+
+<lb n="6"/>+ .. + .. .[n]. mayān dhārayantā saṃdṛśyanti • kecin nānā .. ///
+
+
+<lb n="7"/>.. .. .. tradhvajapatākā[[ṃ]] dhārayantā saṃdṛśyanti • kecin māra + ///
+
+
+<lb n="8"/>bha .. + .. .. ntam eva namasyamānā stu{t}vantaḥ saṃdṛśyanti : keci .ṛ + ///
+
+
+<lb n="9"/>bhū[ta] + ntā saṃdṛśyanti • [ya]dā a(drā)[kṣ]ī(n māra)[ḥ] pāpīmān* s. + ///
+
+
+
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Ratnaketuparivarta</title>
+            <note>Parallels: Rk(K) 81.17-82.20; Rk(Tib) 92.22-94.2; Rk(Ch1) 136c7-136c18; Rk(Ch2) 551c11-552a4</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>bhā .e + [||] na bhūy(o) mama sahāyo .t. + + .. sarvvabhāgyat. + + ///
+
+
+<lb n="2"/>hya + + .i ha sāpariṣadhaṃ etaṃ me paścimaṃ balaṃ 2 || i[ti] + ///
+
+
+<lb n="3"/>+ .. + .utkṣipituṃ taṃ spraṣṭuṃ na śaknoti • icchate [[’]]sya patr[ā] + ///
+
+
+<lb n="4"/>+ + + (ta)d yathā vidyuṃ dṛśyati no ○ palabhyati • tad yathā + ///
+
+
+<lb n="5"/>+ [pa]śyati [nopa]la[bha]te na saṃdṛśyate ○ punaḥ satvasaṃtrāsa ///
+
+
+<lb n="6"/>(ve)gena [u](bh)ā[bh]yāṃ pāṇibhyāṃ [pṛthiṃ i]cchati parāhanituṃ pra ..///
+
+
+<lb n="7"/>+ [cche]ta • evam eva māraḥ [pāpīm]āṃ pa[ś]yati (p)ṛth[[iv]]īṃ na spṛśa(t)i no .. + ///
+
+
+<lb n="8"/>+ .. [pi sa]tvaṃ nopalabhati ca saṃspṛ[[śa]]ti • paśya(t)i ca sa + + + + + ///
+
+
+<lb n="9"/>.. (mātra)[y]ā [kṣubdhaḥ] trastaḥ rudati • sarvvaṃ śarīram a .. v[ṛ](kṣa) + + + + + ///
+
+
+
+
+
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="IOL San 664">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 664</idno>
+          <idno type="Stein">Kha. i. 43</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Ratnaketuparivarta</title>
+            <note>Parallels: Rk(K) 157.3-158.6; Rk(Tib) 241.4-242.9; Rk(Ch1) 150b28- 150c4; Rk(Ch2) 576c28-577a5</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>v  /// + + (ra)[tna]k(e)[t](o mahā) ////// .. + + + + ///
+
+
+<lb n="2"/>w  /// brahmāṇaṃ saha ///
+
+
+<lb n="3"/>x  /// haṃ bhadra[mu]kha ///
+
+
+<lb n="4"/>y  /// + (b)uddhaḥ avidyāndhakā ///
+
+
+<lb n="5"/>z  /// .. duḥkhebhyaḥ (pa)ri ///
+
+
+
+
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Ratnaketuparivarta</title>
+            <note>Parallels: Rk(K) 158.9-159.4; Rk(Tib) 242.12-18; Rk(Ch1) 150c5-7; Rk(Ch2) 577a7-12</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// .. nyebhyaḥ buddha(k)ṣ(e)[t]re///
+
+
+<lb n="2"/>/// .. iha saṃnipatitā ///
+
+
+<lb n="3"/>/// + + (pa)ripāca[n]ārthaṃ ///
+
+
+<lb n="4"/>/// + + mucchrayavidhvaṃsa ///
+
+
+<lb n="5"/>/// + + + .. ta n. [y]. s. ///
+
+
+<lb n="6"/>/// + + + + + + .. ///
+
+
+
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/68">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.15010/68</idno>
+          <idno type="Hoernle">143S. B. 93</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Ratnaketuparivarta</title>
+            <note>Parallels: Rk(Tib) 190.4-191.13; Rk(Ch2) 569b2-25</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// .. .. .. .. bhi • .. .. .. [ca] .. .. pari .. [t]āṃ vā {deva}devanāgayakṣā .. + + + + + + +
+
+
+<lb n="2"/>/// .. .ṣ. [ṇā]rthaṃ sarva .. tyupa[patti] • [sa]ṃ(sā)[ra]sasalilocchoṣaṇārthaṃ [a]nu[p](adhiś)[e] + + + + +
+
+
+<lb n="3"/>/// (bo)dhau cit[t]am utpā[dāya] • e(va)ṃ (yūya)ṃ + .. śī[r](ṣa)rogeṇopahatā[s ta]ṃ .. .. + .. + + +
+
+
+<lb n="4"/>/// + + .[eṣu] budhadhar[m]e[ṣu p]. .. .. .. .i .. .. + māraviṣayaviśiṣṭhatarasya [buddha] .. ..
+
+
+<lb n="5"/>/// + + .ārāḥ {[sa]}pa[r]i[v]āraḥ duṣṭayak[ṣ]ā yā(vad d)[uṣṭ](akaṭapū)[t]anā evam āhu .. ..  + + +
+
+
+<lb n="6"/>/// + + + .. b[u]d[dha]dharmeṣu pratya[k]ṣ[ā] bha .. [ḥ sar]v[aviśi]ṣ[ṭ]asya ca buddhaviṣaya .. [l]. + + +
+
+
+
+
+
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Ratnaketuparivarta</title>
+            <note>Parallels: Rk(Tib) 191.15-192.3; Rk(Ch2) 569b27-569c8</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// + + + (ī)dṛś(ai)[r] māyāśā[ṭh]yair bodhicittam utpādayeyam* | atha saras[v]ato .. .. .. .. + + +
+
+
+<lb n="2"/>/// + + + (pu)[ra]ta iha buddhakṣetre śāsanasya sad[dharm](an)e(trīsa)[n]dhārako bhaviṣyā[mi] .. + + +
+
+
+<lb n="3"/>/// + + [thā]gatasya śāsanna gurugauraveṇa [p]ra[t]igṛhṇāmy ahaṃ e(ta)rhi yāva[d asta]gate + + +
+
+
+<lb n="4"/>/// + + (a)yaṃ mā[[ra]]cakrāparājite dharmaparyā[y]. na pracaret tatra [cā]haṃ sa .. .ā .. .. ..
+
+
+<lb n="5"/>/// + [n]iga(ma)[ja](napa)deṣu tān kulaputrān vā kuladuhitaro [v]ā rakṣi(ṣ)[yā](mi) pa + + + +
+
+
+<lb n="6"/>/// .. .id dha .. + + + āsanābhirūḍha imaṃ dharmaparyā[y]am [i]cchat[i] .. + + + + + +
+
+
+
+
+
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

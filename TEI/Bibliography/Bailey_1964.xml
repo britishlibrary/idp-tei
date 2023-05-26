@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Bailey_1964">
+    <editor>Bailey, Harold W.</editor>
+    <title level="m" lang="eng">Saka Documents III</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>Percy Lund, Humphries</publisher>
+      <date>1964</date>
+    </imprint>
+    <note>Corpus Inscriptionum Iranicarum, pt. II, vol. V, Plates III</note>
+    <genBibl>collections_en</genBibl>
+  </bibl>
+</listBibl>

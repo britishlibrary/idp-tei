@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Thomas_1987">
+    <author>Thomas, Werner</author>
+    <title level="a" lang="ger">Ein neues Pātayantika-Fragment in Toch. B</title>
+    <imprint>
+      <title level="j" lang="eng">Tocharian and Indo-European Studies</title>
+      <biblScope type="issue">1</biblScope>
+      <biblScope type="pp">169-191</biblScope>
+      <date>1987</date>
+    </imprint>
+  </bibl>
+</listBibl>

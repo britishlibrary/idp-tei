@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Takakusu_1896">
+    <author>Yijing</author>
+    <respStmt type="translator">Takakusu, Junjireo</respStmt>
+    <title level="m" lang="eng">Record of the Buddhist Religion as Practiced in India and the Malay Archipelage (A.D. 671-95)</title>
+    <imprint>
+      <pubPlace>Oxford</pubPlace>
+      <publisher>The Clarendon Press</publisher>
+      <date>1896</date>
+    </imprint>
+  </bibl>
+</listBibl>

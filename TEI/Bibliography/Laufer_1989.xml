@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Laufer_1989">
+    <author>Laufer, Roger</author>
+    <title level="m" lang="fre">Le Texte et son inscription</title>
+    <imprint>
+      <pubPlace>Paris</pubPlace>
+      <publisher>Centre national de la Recherche scientifique</publisher>
+      <date>1989</date>
+    </imprint>
+    <note/>
+    <keywords/>
+    <genBibl>bookbinding</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Kogi_1982">
+    <author>Kudara, Kogi and Rohrborn, Klause</author>
+    <title level="a" lang="ger">Zwei verirrte Blatter des uighurischen Goldenglanz-Sutras im Etnografiska Museum, Stockholm</title>
+    <imprint>
+      <title level="j">Zeitschrift der Deutschen Morgenlandischen Gesellschaft</title>
+      <biblScope type="issue">132</biblScope>
+      <biblScope type="pp">346-347</biblScope>
+      <date>1982</date>
+    </imprint>
+    <keywords>Uigur</keywords>
+    <keywords>Buddhist</keywords>
+    <keywords>Sutra</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

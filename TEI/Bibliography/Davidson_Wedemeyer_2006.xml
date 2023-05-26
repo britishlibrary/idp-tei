@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Davidson_Wedemeyer_2006">
+    <editor n="1">Davidson, Ronald M.</editor>
+    <editor n="2">Wedemeyer, Christian</editor>
+    <title level="m" lang="eng">Tibetan Buddhist Literature and Praxis (Proceedings of the Tenth
+            Seminar of the IATS, 2003, Volume 4)</title>
+    <imprint>
+      <pubPlace>Leiden</pubPlace>
+      <publisher>Brill</publisher>
+      <date>2006</date>
+      <edition>1st edition <date>2006</date></edition>
+      <idno type="ISBN">9004155481 9789004155480</idno>
+    </imprint>
+  </bibl>
+</listBibl>

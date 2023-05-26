@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Tchuguevskogo_1983">
+    <author>Tchuguevskogo, L. I.</author>
+    <title level="m" lang="rus">Kitaiskie Dokumenti iz Dun'khuna: Vipusk 1</title>
+    <title level="m" lang="eng">Chinese Doucments from Dunhuang, Part 1</title>
+    <imprint>
+      <pubPlace>Moscow</pubPlace>
+      <publisher/>
+      <date>1983</date>
+    </imprint>
+    <note>Facsimile text, translation from the Chinese with notes and commentary</note>
+    <keywords>DH/catalogue/fascmilie/translation</keywords>
+    <biblScope/>
+    <genBibl>collections_ru</genBibl>
+  </bibl>
+</listBibl>

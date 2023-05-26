@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Lalou_1936">
+    <author>Lalou, Marcelle</author>
+    <author>Gombaz, Gisbert</author>
+    <author>Janse, Olov R. T.</author>
+    <author>Lamotte, Etienne</author>
+    <author>Przyluski, Jean</author>
+    <title level="s" lang="fre">Mélanges chinois et bouddhiques</title>
+    <imprint>
+      <biblScope type="vol">IV</biblScope>
+      <pubPlace>Bruxelles</pubPlace>
+      <publisher>Institut belge des Hautes Etudes chinoises</publisher>
+      <date>1935-1936</date>
+    </imprint>
+    <note/>
+    <keywords/>
+  </bibl>
+</listBibl>

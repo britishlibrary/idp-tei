@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Mackenzie_1976">
+    <author>Mackenzie,D.N</author>
+    <title level="a" lang="eng">The Buddhist Sogdian Texts of the British Library</title>
+    <imprint>
+      <title level="j">Acta Iranica"</title>
+      <biblScope type="issue">?</biblScope>
+      <biblScope type="pp"/>
+      <date>1976</date>
+    </imprint>
+    <keywords>Buddhist</keywords>
+    <keywords>Sogdian</keywords>
+    <keywords>t</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

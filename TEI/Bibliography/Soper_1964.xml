@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Soper_1964">
+    <author>Soper, Alexander C.</author>
+    <title level="a" lang="eng">Representations of Famous Images at Tun-huang</title>
+    <imprint>
+      <title type="j" lang="eng">Artibus Asiae</title>
+      <biblScope type="issue">27</biblScope>
+      <biblScope type="pp">349-64</biblScope>
+      <date>1964-5</date>
+    </imprint>
+    <genBibl>Dunhuang_Mogao</genBibl>
+  </bibl>
+</listBibl>

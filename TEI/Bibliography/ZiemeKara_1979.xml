@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="ZiemeKara_1979">
+    <author>Zieme, Peter</author>
+    <author>Kara, Gyorgy</author>
+    <title level="m" lang="ger">Ein uigurisches Totenbuch: Naropas Lehre in uigurischer &#xDC;bersetzung von vier tibetischen Traktaten nach der Sammelhandschrift aus Dunhuang British Museum Or.8212 (109)</title>
+    <imprint>
+      <pubPlace>Wiesbaden</pubPlace>
+      <publisher>Harrassowitz</publisher>
+      <date>1979</date>
+    </imprint>
+    <note>Facsimile, critical edition, German translation and Uighur Glossary for British Library MS. Or.8212/109</note>
+    <genBibl>translations</genBibl>
+    <keywords>Uighur</keywords>
+  </bibl>
+</listBibl>

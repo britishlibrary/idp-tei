@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Dunhuangwenxian_1967">
+    <author lang="chi">&#x6566;&#x714C;&#x6587;&#x732E;&#x7814;&#x7A76;&#x59D4;&#x5458;&#x4F1A;</author>
+    <title level="m" lang="chi">&#x30B9;&#x30BF;&#x30A4;&#x30F3;&#x6566;&#x714C;&#x6587;&#x732E;&#x53CA;&#x3073;&#x65E2;&#x7ECD;&#x4ECB;&#x897F;&#x57DF;&#x51FA;&#x571F;&#x6C49;&#x6587;&#x6587;&#x732E;&#x5185;&#x5BB9;&#x5206;&#x7C7B;&#x76EE;&#x5F55;&#x7A3F;&#x7F16;&#xFF08;&#x975E;&#x4F5B;&#x6559;&#x6587;&#x732E;&#x4E4B;&#x90E8;&#xFF09;&#x53E4;&#x6587;&#x4E66;&#x7C7B;1&#xFF0C;2&#x5206;&#x518C;</title>
+    <imprint>
+      <pubPlace>&#x6771;&#x4EAC;</pubPlace>
+      <publisher>&#x6566;&#x714C;&#x6587;&#x732E;&#x7814;&#x7A76;&#x59D4;&#x54E1;&#x4F1A;</publisher>
+      <date>1967</date>
+    </imprint>
+  </bibl>
+</listBibl>

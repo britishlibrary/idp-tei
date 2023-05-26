@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="galambos_2008b">
+    <author>Galambos, Imre</author>
+    <title level="a" lang="eng">Devotional use of manuscripts found at Dunhuang: The case of the Baoenjing</title>
+    <imprint>
+      <title level="j" lang="eng">Dunhuangxue yanjiu</title>
+      <biblScope type="issue">2</biblScope>
+      <biblScope type="pp">272-292</biblScope>
+      <date>2008</date>
+    </imprint>
+    <keywords>Dunhuang</keywords>
+    <keywords>manuscripts</keywords>
+    <keywords>Baoenjing</keywords>
+    <keywords>Buddhism</keywords>
+    <genBibl>galambos</genBibl>
+  </bibl>
+</listBibl>

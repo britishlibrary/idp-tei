@@ -1,0 +1,1529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sogdische Handschriften der Berliner Turfansammlung. So 20001-20300.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>print edition</edition>
+      </editionStmt>
+      <sourceDesc>
+        <p>electronic</p>
+        <p>Input and marked up by Susann Rabuske. Imported to 4D on 11/21/14 by Susann Rabuske.</p>
+        <bibl>
+          <ref>So_20001-20300</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Beschreibung der sogdischen Manuskripte aus der Berliner Turfansammlung</p>
+    </head>
+    <body>
+      <msDescription n="20001">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20001</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 7a, Z. 4-14; v: Kephalaia-artiger Lehrtext über das Geben der Gabe an die Erwählten. 
+							Zusammengehörig mit Ch/U 6096 verso und Дх 09540 verso.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">299</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20002">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20002</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 310, Bd. 11, S. 527c, Z. 7-S. 528a, Z. 4, verschiedene sogdische und alttürkische Kolophone, 
+							anscheinend auch als Schreibübungen ohne Bezugnahme auf den Text auf der Versoseite; 
+							v: Lehrtext über die Erlösung der Seele. Zusammengehörig mit Ch/So 19520, 19521 und 19522.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">300</ref>
+              </bibl>
+              <bibl>
+                <ref target="Yoshida_1993a">S. 129-130</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20102">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20102</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 366, Bd. 12, S. 347b, Z. 1-7; v: Briefanfang im Entwurf oder als Formular.</p>
+              <p>1. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">301</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20103">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20103</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt, vermutlich Prosatext.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">302</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20122">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20122</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">Wuzurgān Āfrīwan</title>
+            <note>
+              <p>2. Canto der sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">303</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20128">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20128</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 278, Bd. 9, S. 702c, Z. 1-3; v: zu einer Buchrolle mit Parabeln gehörig.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">304</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20129">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20129</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 278, Bd. 9, S. 620a, Z. 27-620b; v: Lehrtext, worin die fünf Seelenglieder erwähnt werden.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">305</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20130">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20130</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 374, Bd. 12, S. 401c, Z. 6-11; v: Kritzelei, mit möglicherweise glücksverheißendem Spruch.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">306</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20135">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20135</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S.15c, Z. 11-S. 16a, Z. 5; v: Narisaf-Hymnus.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">307</ref>
+              </bibl>
+              <bibl>
+                <ref target="Schmitt_Thilo_BTTVI">S. 62</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_Yoshida_1992">S. 119-134</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20138">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20138</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S.12b, Z. 23-S. 12c, Z. 6; v: Erzählung? 
+							Mit einem Dialog über das Wissen(?), worin auch Jäger erwähnt werden.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">308</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20146">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20146</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 665, Bd. 16, S.424b, Z. 22-28; v: Xwāstwānīft, Ende des § 12B.</p>
+              <p>Zusammengehörig mit Ch/U 7080 v.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">309</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20150">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20150</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 374, Bd. 12, S.572c, Z. 19-26; v: Unbestimmt. Mehrere Fragen, u.a. wird das Höllenfeuer erwähnt.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">310</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20153">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20153</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Hymnus auf den Licht-Nous.</p>
+              <p>Zusammensetzbar mit So 18139.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">255</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20166">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20166</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 440, Bd. 14, S.138c, Z. 26-S. 139a, Z. 8; v: Nāfnāmak. Liste mit Namen von Völkerschaften.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">311</ref>
+              </bibl>
+              <bibl>
+                <ref target="Henning_Sogdica">S. 8-11</ref>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II">Taf. 180</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20182 recto">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20182 recto</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Taishō 278, Bd. 9, S.703b, Z. 15-S. 705a, Z. 18; Taishō 278, Bd. 9, S.703a, Z. 10-S. 703b, Z. 15</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">222</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20182 verso">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20182 verso</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>v/5-136/ Erzählung von der Religion und vom Weltmeer mit Epimythion; 
+							v/136-202/ Erzählung von den Schlangen Trageschwer und Trageleicht mit Epimythion.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Zusammengehörig mit Ch/So 1500 (5)v und Ch/U 6914v.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">222</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20183">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20183</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Jesus-Hymnus "So wollen wir machen" aus Manis Psalmen.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition. Unter Glas zusammen mit So 20184-85 und So 20187-88.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">312</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20184">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20184</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Lehrtext. Ähnlich dem Sermon vom Licht-Nous.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition. Unter Glas zusammen mit So 20183 und 20185 sowie So 20187-88.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">313</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20185">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20185</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Hymnen. 2. S. möglicherweise Teil eines Montagshymnus.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition. Unter Glas zusammen mit So 20183-84 und So 20187-88.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">314</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20186">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20186</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">Xwāstwānīft</title>
+            <note>
+              <p>§§ 9A, 9B und 10A.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition. Zusammengesetzt mit So 10085 und 13910.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">14</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20187">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20187</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Hymnen, worin die Erlösungserwartung ausgesprochen wird. 2.S.: möglicherweise ein Hymnus auf die Lebendige Seele.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition. Unter Glas zusammen mit So 20183-85 und 20188.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">315</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20188">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20188</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Hymnen im Stil der Kurzhymnen im Bet- und Beichtbuch. Gepriesen wird Zurwān.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition. Unter Glas zusammen mit So 20183-85 und 20187.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">316</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20189">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20189</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Möglicherweise ein der manichäischen Missionsgeschichte zugehöriges Fragment.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition. Unter Glas zusammen mit So 20190.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXIII_16">63</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20190">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20190</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Möglicherweise Hymnen auf die Engel oder die Hierarchie oder kosmogonische Prosa.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition. Unter Glas zusammen mit So 20189. Das Fragment trug die alte Signatur U 253b.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">317</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20191">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20191</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">Xwāstwānīft.</title>
+            <note>
+              <p>Zusammengehörig mit So 10650(14).</p>
+              <p>1. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">56</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20192">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20192</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zugehörig zu einer Preisung Jesu als dem fünffältigen Neuen Tag.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition. Das Fragment trug die alte Signatur U 295.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">318</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20193a">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20193a</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zum Gigantenbuch gehörig.</p>
+              <p>Zusammengehörig mit So 10700a. Das Fragment trug die alte Signatur U 302a.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">60</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20193b">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20193b</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zum Gigantenbuch gehörig. Das Fragment trug die alte Signatur U 302b.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">319</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20199">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20199</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 278, Bd. 9, S.702c, Z. 12-17; v: Zum Parabelbuch gehörig. Teil der Parabel mit einem Richter.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition. Das Fragment trug die alte Signatur Ch/U 7224.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">320</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_BTTXV">S. 19</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20202">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20202</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Brief, worin u.a. über Fortschritte bei Kindern berichtet wird. 
+							Mit "Kindern", wörtlich "Kleine", sind vermutlich Klosterschüler gemeint; v: Anschrift, möglicherweise nur als Entwurf.</p>
+              <p>Das Fragment trägt zusätzlich die Bezeichnung K 2.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">321</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20203">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20203</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Einleitung zu einem kephalaia-artig eingebetteten Lehrtext über den Aufstieg und die Erlösung der Lichtteilchen.</p>
+              <p>Das Fragment trägt zusätzlich die Bezeichnung K 3.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">322</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXIII_16">74</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20206">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20206</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich eine Erzählung. Die Erwähnung der drei durch den Textabbruch nicht näher identifizierbaren 
+							mysteriösen Dinge(?) lässt an die Geschichte von den drei Prinzen denken.</p>
+              <p>Das Fragment trägt zusätzlich die Bezeichnung K 6.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">323</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20208a">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20208a</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">Huyadagmān I</title>
+            <note>
+              <p>Verse 66a-67 und 70-71.</p>
+              <p>1. Turfan-Expedition. Unter Glas zusammen mit So 20208b. Die Glasplatte trägt zusätzlich die Bezeichnung K 8.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">324</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sims-Williams_1989">S. 322-324</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_MHC">Taf. 67c und d</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20208b">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20208b</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">Bemahymnen</title>
+            <note>
+              <p>1. Turfan-Expedition. Unter Glas zusammen mit So 20208a. Die Glasplatte trägt zusätzlich die Bezeichnung K 8.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">325</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sims-Williams_1989">S. 330-331</ref>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II">Taf. 181</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20216">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20216</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 1551, Bd. 28, S.851c, Z. 20-29; v: Kirchengeschichtlicher Text. Ermahnung Nafšās an ihre Schwester, Königin Taδī.</p>
+              <p>Zusammengehörig mit Ch/So 20505 sowie Ōtani 7481 und 7251. Die Glasplatte trägt zusätzlich die Bezeichnung K 16.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">326</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_BTTXI">S. 123</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20217a">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20217a</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt. Möglicherweise Lehrtext oder Hymnus über die Erwählten.</p>
+              <p>Fundort Qočo; 1. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 20217b. Die Glasplatte trägt zusätzlich die Bezeichnung K 17.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">327</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20217b">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20217b</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt. Möglicherweise Lehrtext oder Hymnus über die Erwählten.</p>
+              <p>1. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 20217a. Die Glasplatte trägt zusätzlich die Bezeichnung K 17.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">328</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20220">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20220</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>I: "Predigt der 3000"(?). Lehrtext, worin Verfehlungen aufgelistet sind. II: "Erhebungspredigt"(?) 
+							Lehrtext über die Sterne, die ihren Platz verlassen haben.</p>
+              <p>Die Glasplatte trägt zusätzlich die Bezeichnung K 20.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">329</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20224">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20224</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Jesushymnus "Voll wollen wir machen". In der Überschrift als "Mahlsegen" bezeichnet.</p>
+              <p>Die Glasplatte trägt zusätzlich die Bezeichnung K 24.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">330</ref>
+              </bibl>
+              <bibl>
+                <ref target="Waldschmidt_Lentz_1926">S. 93-96</ref>
+              </bibl>
+              <bibl>
+                <ref target="Morano_1982">S. 35-39</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_Photo Edition I">Taf. 149b und 150b</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20229">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20229</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Sermon über die vier Weltgegenden. Beschreibung von menschenähnlichen Wesen unterschiedlichster Gestalt.</p>
+              <p>Die Glasplatte trägt zusätzlich die Bezeichnung K 29.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">331</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_2001c">S. 186-188</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20230">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20230</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 374, Bd. 12, S.418a, Z. 6-S. 418b, Z. 2; v: Fragment eines Briefes eines Bacchus(?) an den Herrscher von Qočo.</p>
+              <p>Zusammengehörig mit Si K/21 4161.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">332</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_1992">S. 80</ref>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II">Taf. 181</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20231">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20231</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S.20b, Z. 14-17; v: Erzählung(?), worin mehrfach der Teufel und ein Buch erwähnt werden.</p>
+              <p>Zusammengehörig mit Ch/So 20233. Das Fragment trägt zusätzlich die Bezeichnung K 31.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">333</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20232">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20232</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S.31c, Z. 20-S.32a, Z. 3;  v: Didaktische Homilie über die Lüge(?).</p>
+              <p>Fundort Toyuk; 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">334</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20233">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20233</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S.20b, Z. 14-17; v: Erzählung(?), worin mehrfach der Teufel und ein Buch erwähnt werden.</p>
+              <p>Zusammengehörig mit Ch/So 20231. Das Fragment trägt zusätzlich die Bezeichnung K 33.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">333</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20234">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20234</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Lehrtext. Vermutlich über den Sonnengott.</p>
+              <p>Zusammengehörig mit So 10200(6) und 10201(6). Das Fragment trägt zusätzlich die Bezeichnung K 34.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">34</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20235">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20235</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich zu einer Erzählung gehörig.</p>
+              <p>Das Fragment trägt zusätzlich die Bezeichnung K 35.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">335</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20237">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20237</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Brieffragment. Vermutlich von einem Tītīk verfasst.</p>
+              <p>Das Fragment trägt zusätzlich die Bezeichnung K 37.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">336</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20238">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20238</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt. Über das Wirken des Licht-Nous?</p>
+              <p>Das Fragment trägt zusätzlich die Bezeichnung K 38.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">337</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20240">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 20240</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Eschatologische Passage in einem Lehrtext über den Aufsteig und die Erlösung der Lichtteilchen; 
+							v: Predigt über die finstere Natur des Körpers und über die Seele.</p>
+              <p>Das Fragment trägt zusätzlich die Bezeichnung K 40.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">338</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXIII_16">75</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20501">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20501</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 34c, Z. 3-11; v/1-8/ Ende eines unbestimmten Hymnus; v/9-21/ Eingangsformel und Beginn von Wuzurgān Āfrīwan.</p>
+              <p>Zusammengehörig mit Ch/U 6546. 3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">339</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20502">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20502</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 223, Bd. 8, S. 269c, Z. 27-S. 270a, Z. 2; v: Unbestimmt. Lehrtext oder kirchengeschichtliche Erzählung.</p>
+              <p>2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">340</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20503">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20503</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 278, Bd. 9, S. 702c, Z. 26-29; Kolophon; v: Zum Parabelbuch gehörig. Teil der Erzählung mit einem Richter.</p>
+              <p>2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">341</ref>
+              </bibl>
+              <bibl>
+                <ref target="Yoshida_First Fruits">S. 84</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20504">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20504</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 60c, Z. 15; v: Unbestimmt. Vermutlich Lehrtext oder Erzählung. Zusammengehörig mit Ch/So 20515v.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">342</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20505">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20505</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 1551, Bd. 28, S.851c, Z. 20-23; v: Kirchengeschichtlicher Text. Ermahnung Nafšās an ihre Schwester, Königin Taδī.</p>
+              <p>Zusammengehörig mit Ch/So 20216 sowie Ōtani 7481 und 7251.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">326</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20506">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20506</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 1331, Bd. 21, S.530b, Z. 15-20; v: Ende der Erzählung vom Kar-Fisch.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition. Zusammensetzbar mit Ch/U 6540.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">343</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_1998">S. 174-175</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20507a">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20507a</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 374, Bd. 12, S.506a, Z. 19-23; v: Predigt Manis oder kanonischer Brief?</p>
+              <p>3. Turfan-Expedition. Unter Glas zusammen mit Ch/So 20507b.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">344</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20507b">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20507b</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 374, Bd. 12, S.505c, Z. 2-10; v: Predigt Manis oder kanonischer Brief?</p>
+              <p>3. Turfan-Expedition. Unter Glas zusammen mit Ch/So 20507a.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">345</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20508">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20508</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9,  S. 47c, Z. 7-12; v: Brieffragment.</p>
+              <p>1. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">346</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20509">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20509</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9,  S. 33c, Z. 8-13; v: Lehrtext, worin ein Gleichnis von einem Hasen eingebaut ist. 
+							Zusammengehörig mit Ch/So 11603, Ch/U 6330 und Ōtani 7223 und 9049.</p>
+              <p>3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">72</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20510">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20510</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9,  S. 54a, Z. 1-10; v: Sermon vom Licht-Nous. Zusammengehörig mit Ch/So 10100l, 14760 und Ch/U 8092.</p>
+              <p>3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">24</ref>
+              </bibl>
+              <bibl>
+                <ref target="Yoshida_First Fruits">S. 72-74</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20511">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20511</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 278, Bd. 9,  S. 702c, Z. 5-9; v: Zum Parabelbuch gehörig. Teil der Erzählung mit einem Richter.</p>
+              <p>3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">347</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20512">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20512</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 264, Bd. 9,  S. 170a, Z. 14-20; v: Unbestimmt. Möglicherweise das Ende einer Erzählung mit Beginn des nachfolgenden Epimythions?</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">348</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20513">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20513</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9,  S. 52c, Z. 13-23; Ziffernliste. I/v: 41-58; II: r: ca. 22-31 Myriaden, v: 36-42 Myriaden.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">349</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20514">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20514</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9,  S. 16b, Z. 19-29; v: Vermutlich Schreibübung für einen Brief.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">350</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20515">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 20515</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 60c, Z. 14-19; v: Unbestimmt. Vermutlich Lehrtext oder Erzählung. Zusammengehörig mit Ch/So 20504v.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">342</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

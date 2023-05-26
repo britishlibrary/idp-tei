@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Mullock_1995">
+    <author>Hilary Mullock</author>
+    <title level="a" lang="eng">Xuan Paper</title>
+    <imprint>
+      <title level="j" lang="eng">The Paper Conservator</title>
+      <biblScope type="issue">Vol. 19</biblScope>
+      <biblScope type="pp">23-30</biblScope>
+      <date>1995</date>
+    </imprint>
+    <keywords>Chinese paper</keywords>
+    <keywords>Preservation</keywords>
+    <genBibl>Conservation</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Schlingloff_1956">
+    <author>Schlingloff, Dieter</author>
+    <title level="a" lang="ger">Die Birkenrindenhandschriften der Berliner Turfansammlung</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">MIO</title>
+      <biblScope type="issue">4</biblScope>
+      <biblScope type="pp">120-127</biblScope>
+      <date>1956</date>
+    </imprint>
+    <note>2 Tafeln</note>
+    <keywords>manuscripts</keywords>
+    <keywords>SHT</keywords>
+    <keywords>turfan</keywords>
+  </bibl>
+</listBibl>

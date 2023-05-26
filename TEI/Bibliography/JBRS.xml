@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="JBRS">
+    <title level="j" lang="eng">Journal of the Bihar and Orissa Research Society</title>
+    <imprint>
+      <pubPlace>Bankipore</pubPlace>
+      <publisher>Bihar and Orissa Research Society</publisher>
+      <date>1915-1942</date>
+    </imprint>
+    <genBibl>journals</genBibl>
+  </bibl>
+</listBibl>

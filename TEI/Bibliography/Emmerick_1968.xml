@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Emmerick_1968">
+    <author>Emmerick, R.E</author>
+    <title level="a" lang="eng">Names from Central Asia</title>
+    <imprint>
+      <title level="j">Central Asiatic Journal</title>
+      <biblScope type="issue">12</biblScope>
+      <biblScope type="pp">88-91</biblScope>
+      <date>1968</date>
+    </imprint>
+    <keywords>I-Central Asia</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

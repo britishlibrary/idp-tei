@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Zieme_Zuck">
+    <author>Zieme, Peter</author>
+    <title level="a" lang="ger">Türkische Zuckungsbücher</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">Scripta Ottomanica et Res Altaica.
+			Festschrift für Barbara Kellner-Heinkele zu ihrem 60. Geburtstag. Hrsg. v. Peter Zieme, Ingeborg Hauenschild und Claus Schönig.</title>
+      <pubPlace>Wiesbaden</pubPlace>
+      <date>2002</date>
+      <biblScope type="pp">379-395</biblScope>
+    </imprint>
+    <keywords>Türkisch</keywords>
+    <keywords>Zuckungsbücher</keywords>
+    <keywords>Ottomanica</keywords>
+    <keywords>Altaica</keywords>
+    <keywords>Festschrift</keywords>
+  </bibl>
+</listBibl>

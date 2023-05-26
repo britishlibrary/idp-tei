@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Maršak_Kramarovskij_1996">
+  <author n="1">Maršak, Boris</author>
+  <author n="2">Kramarovski, M</author>
+  <title level="m" lang="rus">Sokrovišča Priob'ja (Treasures of the Ob'basin)</title>
+  <imprint>
+    <title level="s">Catalogue de l'exposition de l'Ermitage</title>
+    <pubPlace>Saint Petersburg</pubPlace>
+    <publisher>Formika</publisher>
+    <date>1996</date>
+  </imprint>
+  <note/>
+</bibl>

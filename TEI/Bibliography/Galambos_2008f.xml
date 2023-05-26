@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="galambos_2008e">
+    <author>Galambos, Imre</author>
+    <title level="a" lang="eng">A 10th century manuscript from Dunhuang concerning the Gantong monastery at Liangzhou</title>
+    <imprint>
+      <title level="j" lang="eng">Tonko shahon kenkyu nenpo</title>
+      <biblScope type="issue">2</biblScope>
+      <biblScope type="pp">63-82</biblScope>
+      <date>2008</date>
+    </imprint>
+    <keywords>Gantong monastery</keywords>
+    <keywords>Liangzhou</keywords>
+    <keywords>Buddhism</keywords>
+    <keywords>Dunhuang manuscripts</keywords>
+    <genBibl>galambos</genBibl>
+  </bibl>
+</listBibl>

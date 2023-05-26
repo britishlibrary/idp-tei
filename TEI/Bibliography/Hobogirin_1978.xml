@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Hobogirin_1978">
+    <author n="1">Demieville, Paul</author>
+    <author n="2">Durt, Herbet</author>
+    <author n="3">Seidel, Anna</author>
+    <title level="m" lang="fre">Repertoire du Canon Bouddhique Sino-Japanais: Edition de
+             Taisho</title>
+    <imprint>
+      <pubPlace>Paris</pubPlace>
+      <pubPlace>Tokyo</pubPlace>
+      <publisher>Libraririe d'Amerique et d'Orient</publisher>
+      <publisher>Maison Franco-Japnonaise</publisher>
+      <date>1978</date>
+    </imprint>
+    <note>Fascicule annexe du Hobogirin</note>
+    <keywords>Religion/Buddhism</keywords>
+  </bibl>
+</listBibl>

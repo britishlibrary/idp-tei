@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Journal written by Joseph Needham of his journey through northwest China to Dunhuang between August-December 1943</title>
+        <author id="JN">Joseph Needham</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The British Library</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2014</date>
+      </publicationStmt>
+      <editionStmt>
+        <edition>First electronic edition</edition>
+        <date>2014</date>
+        <respStmt>
+                    Converted to XML encoding by
+                    <name>Sam van Schaik
+                    </name>
+                </respStmt>
+      </editionStmt>
+      <sourceDesc>
+        <p>Journal, pressmark NRI2/5/12/1.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Imported to 4D on 07/10/2014 by Sam van Schaik.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>PDF prepared by: IDP. Transcription by: The Needham Research Institute with additional work by Michael Rank for IDP. Copyright: The Needham Research Institute.</p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>Cambridge</settlement>
+          <repository>The Needham Research Institute</repository>
+          <collection>Needham</collection>
+          <idno type="current">NRI2/5/12/1</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">Journal written by Joseph Needham of his journey through northwest China to Dunhuang, Aug-Dec 1943 (unpublished manuscript, 71pp. with four inserts.)
+                      </title>
+            <note>
+              <p><link url="http://idp.bl.uk/downloads/NRI2_5_12_1.pdf">Transcription (PDF) available here.</link> Transcription by: The Needham Research Institute with additional work by Michael Rank for IDP. Copyright: The Needham Research Institute. <link url="http://idp.bl.uk/downloads/NRI2_5_12_1_images.pdf">All images (PDF) available here.</link></p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

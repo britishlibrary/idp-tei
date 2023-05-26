@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Ross_1909">
+    <title level="a" lang="eng">A Polyglot List of Birds in Turki, Manchu and Chinese</title>
+    <imprint>
+      <title level="s" lang="eng">Memoirs of the Asiatic Society of Bengal</title>
+      <biblScope type="issue">Vol. 2. No. 9.</biblScope>
+      <biblScope type="pp">253-340</biblScope>
+      <pubPlace>Calcutta</pubPlace>
+      <publisher>The Asiatic Society</publisher>
+      <date>1909</date>
+    </imprint>
+    <note/>
+    <keywords/>
+  </bibl>
+</listBibl>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Zieme_1995">
+    <author>Zieme, Peter</author>
+    <title level="a" lang="engl">An Uigur Monasterial Letter from Toyoq</title>
+    <imprint>
+      <title level="j" lang="engl" type="shortRef">Studies on the Inner Asian Languages</title>
+      <biblScope type="issue">X</biblScope>
+      <date>1995</date>
+      <biblScope type="pp">1-7</biblScope>
+    </imprint>
+    <keywords>Uigur</keywords>
+    <keywords>Monastierial</keywords>
+    <keywords>Toyoq</keywords>
+    <keywords>Fragmente</keywords>
+    <genBibl>Studies on the Inner Asian Languages</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Chen_1960">
+    <author>Chen, Kenneth</author>
+    <title level="a" lang="eng">Some Problems in the Translation of the Chinese Buddhist Canon</title>
+    <imprint>
+      <title level="j">Tsinghua Journal of Chinese Studies</title>
+      <biblScope type="issue">NS 2, no.1</biblScope>
+      <biblScope type="pp">178-88</biblScope>
+      <date>1960</date>
+    </imprint>
+    <keywords>Chinese</keywords>
+    <keywords>Buddhism</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

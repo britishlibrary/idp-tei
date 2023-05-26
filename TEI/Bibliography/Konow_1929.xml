@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Konow_1929">
+    <author>Konow, S</author>
+    <title level="a" lang="eng">The Dates in Saka Texts from Khotan and Tun-huang</title>
+    <imprint>
+      <title level="j">Acta Orientalia</title>
+      <biblScope type="issue">7</biblScope>
+      <biblScope type="pp">66-76</biblScope>
+      <date>1929</date>
+    </imprint>
+    <keywords>Khotan</keywords>
+    <keywords>Tun-huang</keywords>
+    <keywords>Dunhuang</keywords>
+    <genBibl>GoldenLight</genBibl>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

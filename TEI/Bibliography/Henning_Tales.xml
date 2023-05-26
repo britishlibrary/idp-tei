@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Henning_Tales">
+    <author>Henning, Walter B.</author>
+    <title level="a" lang="engl">Sogdian Tales</title>
+    <imprint>
+      <title level="j" lang="engl" type="shortRef">Bulletin of the School of Oriental and African Studies</title>
+      <biblScope type="issue">1945</biblScope>
+      <biblScope type="pp">465-487</biblScope>
+    </imprint>
+    <keywords>Sogdian</keywords>
+    <keywords>Tales</keywords>
+    <keywords>BSOAS</keywords>
+  </bibl>
+</listBibl>

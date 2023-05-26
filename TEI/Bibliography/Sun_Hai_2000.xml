@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Sun_Hai_2000">
+  <author lang="chi-Latn">Sun Hai</author>
+  <author lang="chi-Hant">&#x5B6B;&#x6D77;</author>
+  <title level="m" lang="chi-Latn">Xixia Wang Li Yuanhao</title>
+  <title level="m" lang="chi-Hant">&#x897F;&#x590F;&#x738B;&#x674E;&#x5143;&#x660A;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Yinchuan</pubPlace>
+    <publisher>Ningxia renmin chubanshe</publisher>
+    <date>2000</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords> Li Yuanhao </keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

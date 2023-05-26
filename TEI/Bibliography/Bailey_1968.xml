@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Bailey_1968">
+    <author>Bailey, Harold W.</author>
+    <title level="m" lang="eng">Saka Documents: Text Volume</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>Percy Lund, Humphries</publisher>
+      <date>1968</date>
+      <genBibl>collections_en</genBibl>
+    </imprint>
+  </bibl>
+</listBibl>

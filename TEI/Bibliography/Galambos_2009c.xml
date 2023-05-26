@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="galambos_2009c">
+    <author>Galambos, Imre</author>
+    <title level="a" lang="eng">The Blagoveshchensk massacre of July 1900: Translation from A. Vereshchagin's account of his journey down the Amur</title>
+    <imprint>
+      <title level="j" lang="eng">Sinologiai Szemle</title>
+      <biblScope type="issue">1</biblScope>
+      <biblScope type="pp">1-12</biblScope>
+      <date>2009</date>
+    </imprint>
+    <keywords>Amur</keywords>
+    <keywords>Blagoveshchensk</keywords>
+    <keywords>Chinese</keywords>
+    <keywords>Boxer rebellion</keywords>
+    <genBibl>galambos</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<bibl id="Brill_1991">
+  <author>Brill, E J</author>
+  <title level="m" lang="eng">Turcica</title>
+  <imprint>
+    <pubPlace>Leiden</pubPlace>
+    <publisher>EJ Brill</publisher>
+    <date>1976</date>
+    <idno type="ISBN"/>
+  </imprint>
+  <note/>
+  <keywords/>
+  <keywords/>
+  <genBibl>tibet</genBibl>
+</bibl>

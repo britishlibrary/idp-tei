@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Whitfield_2004">
+    <author>Whitfield, Susan</author>
+    <author>Sims-Williams, Ursula</author>
+    <title level="m" lang="eng">The Silk Road: Trade, Travel, War and Faith</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>The British Library</publisher>
+      <date>2004</date>
+    </imprint>
+    <keywords>Exhibition</keywords>
+    <keywords>Samarkand</keywords>
+    <keywords>Khotan</keywords>
+    <keywords>Kroraina</keywords>
+    <keywords>Miran</keywords>
+    <keywords>Dunhuang</keywords>
+    <keywords>Gaochang</keywords>
+    <genBibl>whitfield_susan</genBibl>
+    <genBibl>exhibition</genBibl>
+  </bibl>
+</listBibl>

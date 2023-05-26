@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Some recently identified Sanskrit fragments from the Stein and Hoernle
+                    collections in the British Library, London (2)</title>
+        <author>Wille, Klaus</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>IDP</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2007</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Klaus WILLE, “Some recently identified Sanskrit fragments from the Stein and Hoernle collections in the British Library, London (2),” in: Buddhist Manuscripts from Central Asia: The British Library Sanskrit Fragments, Volume I, ed. by Seishi KARASHIMA and Klaus WILLE, Tokyo: The International Research Institute for Advanced Buddhology at Soka University, 2006, pp. 27-64.</p>
+        <bibl>
+          <ref>Wille_2006</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Input and marked up by IRIAB.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This catalogue contains transliterations of Sanskrit fragments in the Stein Collection at the British Library.</p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein/Hoernle</collection>
+          <idno type="current">Or.8212/1</idno>
+          <idno type="old">D. iii.3+4</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Ratnaketuparivarta]</title>
+            <note>The script represents a transition from the early southern Turkestan Brāhmī to the southern Turkestan Brāhmī (main type). The text corresponds to RKP 124.6-125.7. Cf. AKh, p. 294: “D. III.3. MS. on paper; Brāhmī; No. 2. Two small fragments; from left and right sides of leaf, the former numbered 96. See Note ii.” AKh, p. 295: “Note ii. [by Dr. Hoernle:] No. 2, also one piece of No. 3, make up one almost complete leaf, numbered 96. Size: about 12" 3". Language: Sanskrit. Characters: upright Gupta, of seventh or eighth century. Contents: apparently a Buddhist canonical work.”</note>
+            <q type="transliteration" lang="sanskrit">
+              <lb n="1"/>
+            </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit">
+              <lb n="1"/>
+            </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein/Hoernle</collection>
+          <idno type="old">Or.8212/7(1)</idno>
+          <idno type="old">D. vi.1</idno>
+          <idno type="old">Or.6403B2(2)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Samādhirājasūtra]</title>
+            <note>Written in the southern Turkestan Brāhmī (main type). Three times the Central Asian vowel -e is written with a long stroke and a flag-shaped hook to the right, but only once apparently because the Indian -e otherwise would have touched the preceding anusvāra. Five times the looped diacritic sign for -i is written. Cf. the description in AKh I, p. 297: “D. VI.1. MS. on paper; Brāhmī; No. 28. Note xv. Lefthand fragment, 4 1/2" 3", with string-hole, of a leaf numbered 70. Full size, probably 18" 3". Language: Sanskrit. Characters: upright Gupta of seventh or eighth century. Contents: apparently some Buddhist canonical work; on obverse, end of section 43, the beginning of the 44th section being Smarāmy-ahaṃ kalpāṅs-atīta ..., on reverse, end of section 51. [Dr. Hoernle.].” To the same folio belongs Hoernle Or.6403B2(2) [M 3] which contains two fragments which are fitted in a sheet of paper on which a first transliteration (by A.F. Rudolf Hoernle) is written. The right fragment is given here in bold, the left fragment in italics. The text differs considerably from the Sanskrit text known so far [cf. SRS(D) II, pp. 256-259: chapter 17, verses 142c-157c] and also from the Tibetan translation. For the Chinese translation cf. T 639, 15.572a28-b29.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 bhāṣā[mi śī]lasya [c]a varṇa agraṃ [g]r. ¯ ˘ ¯ [tat]ra [t]a[t]o ba ¯ ˘ x (41) ≈ ¯ ˘¯ ¯ ˘ ˘ ¯ ˘ ¯ (|) ≈ ¯ .. śīle ca sadā pratiṣṭhita• (|) ≈ ¯ ˘ ¯ ¯ ˘ ˘ ¯ ˘ ¯ ˘ x (|)<lb n="2"/>2 tāṃś ce[va] bodhāya niyo[j]a[y]ā(mi 42) .. bra[h]maca(r)[ye] ˘ ˘ ¯ ˘ ¯ x (|) ≈ ¯ ˘¯ ¯ ˘ ˘ ¯ ˘ ¯ x (|) tebhya[ś ca] de .i ˘ ˘ ¯ ˘ ¯ x (|) ≈ ¯ ˘ ¯ ¯ ˘ ˘ ¯ ˘ ¯<lb n="3"/>3 tha[t]* 43 smarāmy ahaṃ kalpam atītam adhvani .. ///<lb n="4"/>4 .. .ā pratijñāya-m-ahaṃ hi sthātvā • ◯ ///<lb n="5"/>5 + + + + + ¯ ¯ .. me kṣānti dṛḍhāpi mai ¯ ///<lb n="6"/>6 + + + + + + + + + + samṛddho dha[n]. ///<lb n="7"/>7 + + + + + + + + + + + .[i]ca[ryā] ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 + + + + + + + + + + + + m. [p]. ///<lb n="2"/>2 + + + + + + + + + + [t]uṣṭa ita[re] ///<lb n="3"/>3 + + ≈ ¯ ˘ ¯. tuṣṭa ramāmy araṇye 5[1] + ///<lb n="4"/>4 sada {{[sū]ratasya sarvatra me}}  vardhati + + ///<lb n="5"/>5 ṇḍapādam* dṛḍha[ṃ] samādā[n]a [an]e .. .ārṣaḥ (53) ///<lb n="6"/>6 sā • bha[v]āmy ahīnendriya [c]. ˘ .. na 4 ya ¯ ˘ ¯ ¯ ˘ ˘ ¯ ˘ ¯ x (|) ≈ ¯ ˘ ¯ ¯ ˘sadā bha[v](āmi |) ≈ ¯ ˘ ¯ ¯ ˘ ˘ ¯ ˘ ¯ x (|)<lb n="7"/>7 [k](u)rvvat[y] (u)pasthānam udagraciṃ .. (55) ≈ ¯ ime yā ˘ ˘ ¯ ˘ ¯ x (|) ≈ ¯ ˘ ¯ ¯˘ ˘ ¯ ˘ ¯ (gu)[ṇ]ām* ye śikṣitavyāḥ sa[da pa] ˘ ¯ x (|) ≈ ¯ ˘ ¯ ¯ ˘ ˘ ¯ ˘
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein/Hoernle</collection>
+          <idno type="old">Or.8212/25(1)</idno>
+          <idno type="old">Or.8212/25(3)</idno>
+          <idno type="old">Kha.i.60</idno>
+          <idno type="old">Or.8212/6(14)</idno>
+          <idno type="old">Kha.i.29</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Written in the southern Turkestan Brāhmī (main type). Six times the Central Asian vowel -e is written, but only once apparently because the Indian -e otherwise would have touched the preceding superscribed vowel. There are two separated fragments of Kha. i.60. Fragment Or.8212/25(3) is given here in italics and Kha. i.209 in bold. Parallels: Ka 93b2-95a3; Otani (Lushun) SLLMC A-5 v4-8; SHT 4303, fragm. 17r5-v5 [ed. Wille 2000]; SI P/11.1 fragm. 3r2-4 [ed. BB 33, pp. 129f., No. 46]; KN 87.8(?)- 90.2; Wa 38.6(ḥ)-39.33, 214.25(?)-216.20.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 /// + + [m]. .. .. .. [s]. .. + + /// nasya nirgacchata .. + + + ///<lb n="2"/>2 /// .. ryāta t[ai]s tuṣṭama .[ā same] + /// .āmya ārabdhavī[r]. + .[v]. + ///<lb n="3"/>3 /// + [ś]i tiṣṭhan duḥkhavipramu[k]tā + /// + .āmasya madhye sthit. ///<lb n="4"/>4 /// + + .. .. .. + .i .. ta a[dya mā] /// + + .. naḥ putrāḥ pri[y]. ///<lb n="5"/>5 /// + + + + + + + + + + + + /// + + hasrasaṃkulara .. + ///<lb n="6"/>6 /// + + + + + + + + + + + + /// + + + .ā upaga .. + + + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>3 /// + + + + + + + + + + + + /// + + + + [ye]h[i] t. [r]. + + ///<lb n="2"/>4 /// + + + + + + + + + + + + /// + + .. tidarśanīyā [4] + ///<lb n="3"/>5 /// + + + .. .. + .. . s.ḥ puru[ṣ]o /// + + .[i]śiṣṭāḥ 45 te cā[p]i ///<lb n="4"/>6 /// + + ev[ema haṃ] śārisut[ā] /// + + m[i] 6 putrāś ci[m]e + ///<lb n="5"/>7 /// .. .ai[dh]ātu[k]aṃ syād yatha taṃ nive[ś]. /// [r]ṇam* 7 aśeṣa[t]. ///<lb n="6"/>8 /// + + .ātukim[u]k[t]a śā[nt]o .. .. /// dhātukaṃ ca mam’ i ///
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="4">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein/Hoernle</collection>
+          <idno type="old">Or.8212/34(2)</idno>
+          <idno type="old">Kha.i.90</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Suvarṇabhāsottamasūtra]</title>
+            <note>Written in the southern Turkestan Brāhmī (main type); the text corresponds to Suv 7.5-8.8.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>v /// + + + .yu .. + + + + + + ///<lb n="2"/>w /// + .. kāny āsanā .. + + ///<lb n="3"/>x /// + [bh]ūtāni [te]ṣu ca paryaṅk. + ///<lb n="4"/>y /// + ṣu padmeṣu catvāro buddhā + ///<lb n="5"/>z /// tnaketus tathāgataḥ p[rr]ādu[rbhū] ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 /// [ta]ḥ prrādurbhū[taḥ] samananta[ra] .ā ///<lb n="2"/>2 /// + .. nagaraṃ mahatāvabhāse .. ///<lb n="3"/>3 /// + + [gaṃ]gānadīvāli[k]. [s]. .. + ///<lb n="4"/>4 /// + + .. [d]yā[n]i [p]. .. .. .. + + + ///
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="5">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein/Hoernle</collection>
+          <idno type="old">Or.8212/15(3)</idno>
+          <idno type="old">Kha.i.96</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Śūraṃgamasamādhisūtra]</title>
+            <note>Written in the early southern Turkestan Brāhmī. Cf. Ser III 1435: “Kha. i.96. [...] One small fr., 2 1/2" 2 1/2", remains of 6 ll., from the Śūraṅgamasamādhi-sūtra, giving the name of Dṛḍhamati Bodhisattva.” In the Tibetan translation the text of the fragment corresponds to Peking Kanjur, section Mdo, vol. thu (70), fol. 314a5-b6 = TT 800, vol. 32, p. 86.2.5-3.6; Derge[Taipei] Kanjur, section Mdo sde, vol. da (11), foll. 288a5-b5 = No. 132, vol. 11, p. 534.575.5-576.5. In the Chinese translation of Kumārajīva the corresponding passage is found in T 642, 15.638b-c (translation Śgs §§ 95-98). The fragments Crosby 262/263, Stein Kha. i.303 and Stein unnumbered (SS 41) + Hoernle 151/2 (Or.15001/1) contain the same passage.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>u t. [ā] .. + + + + + ///<lb n="2"/>v mati bo[dhi] .. + + ///<lb n="3"/>w ddhy[ā]śa{{..}}yato .. + + ///<lb n="4"/>x bhasatkāraślok[ā](r)[th]. .. + ///<lb n="5"/>y [m]. dhiyā viśeṣaṃ tathā .. ///<lb n="6"/>z kā ucaṃganatāya v. ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 śrutvā anuttarāyaṃ sa[my](a) ///<lb n="2"/>2 kaḥ punar upāye ad〈dh〉yā ///<lb n="3"/>3 dṛḍhamati bodhi[s](atv)o + ///<lb n="4"/>4 samādhiṃ śrutvā .. + + + ///<lb n="5"/>5 ti samayo + + + + + ///<lb n="6"/>6 .. .. .. .. + + + + + ///
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein/Hoernle</collection>
+          <idno type="old">microfilm IOL 17B</idno>
+          <idno type="old">Kha.i.100 or 180</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Ratnaketuparivarta]</title>
+            <note>Written in the early southern Turkestan Brāhmī. The text corresponds to RKP 14.2-16.9.</note>
+            <q type="transliteration" lang="sanskrit">
+              <lb n="1"/>
+            </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit">
+              <lb n="1"/>
+            </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein/Hoernle</collection>
+          <idno type="old">SS 53</idno>
+          <idno type="old">microfilm IOL 17A</idno>
+          <idno type="old">Kha.i.105.b</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Written in the early southern Turkestan Brāhmī. Parts of some akṣaras of the MS are folded down to the other side. Parallels: Ka 115a7-118a3; Otani (Lushun) SLLMC B-5r7-9; SHT 4303, fragm. 26 [ed. Wille 2000]; KN 112.1-115.12; Wa 48.24-51.19, 231.7-31.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// + + + + + + śa va .. ///<lb n="2"/>b /// .. + + + + ..m* grā[me] + ///<lb n="3"/>c /// .. ṣu bālo dadr[ū]ya ka[ṇḍ]. ///<lb n="4"/>d /// [mī] 13 so cāpi ā[ḍhy]. ///<lb n="5"/>e /// + .. samantataḥ sthito dh. ///<lb n="6"/>f /// + + ṣit[ā]ṃ g[ṛ]hava .. .. + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// + .. .[u] .[y]. [t]. [9] + + + ///<lb n="2"/>b /// .. etādṛśa .. + k. .. ///<lb n="3"/>c /// .. rvvadravyam* 31 rājñā ca [j]. ///<lb n="4"/>d /// .. pūra pūrvvaṃ anye ca .. .. ///<lb n="5"/>e /// .. .. + + .. śeṣa[t]. .. .. ///<lb n="6"/>f /// + + + + + + [g]uṇāṃ + ///
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="old">Or.8212/63(6)</idno>
+          <idno type="old">Kha. i.108.b</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Written in the southern Turkestan Brāhmī (main type). Parallels: Ka 69b3-70b2; SI M/16.3r3-v7 [ed. Vorobyova-Desyatovskaya 1995, p. 34]; KN 64.13-65.10; Wa 205.22-206.2.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>w /// + b[o]dh[i]satv. [r]. + + + + + + + + + ///<lb n="2"/>x /// + [yi]tukāmaḥ imaṃ [sad]dh(ar)m. + + + + + + ///<lb n="3"/>y /// śayāmi • api [tu] khalu punaḥ śāripu[t]r. + + .y. ///<lb n="4"/>z /// .. .. .. [s](r)ā(ṇ)āṃ .. .. r(ma)ṃ [dh]ārayitvā vividhāṃ [ca] ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 /// .o ’rh[ān] s(a)[m]y(a)ks(aṃb)[ud]dh(o) [l](o)k[e] bhaviṣyasi vidyācaraṇasa〈ṃ〉pa .. ///<lb n="2"/>2 /// + [t]e[na] khalu punaḥ śāriputra samaye .. + + + + + ///<lb n="3"/>3 /// + .. maṃ suramaṇīyaṃ p[rās]ā .[i] + + + + + + + + ///<lb n="4"/>4 /// + + r.. [s]. .[r]ā .ā + + + + + + + + + + + + + ///
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="9">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="old">SS 58</idno>
+          <idno type="old">microfilm IOL 17A</idno>
+          <idno type="old">Kha.i.152.b</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">[A: Rāhulastava]</title>
+            <note>Written in the early southern Turkestan Brāhmī. Cf. Ser III, p. 1436: “Kha. i.152. Set of six frs., about 2 1/4" 2 1/2", from middle of 6 apparently consecutive fols. of Pōthī in Skr. and Upright Gupta, with remains of 5 or 6 ll. Text metrical, and belongs to a Buddha-stotra, probably of Mātṛceṭa; but it is too scrappy to read with confidence.” One of the fragments contains on side A remains of verses from the Rāhulastava (cf. Stotras D), the sequence of the verses is different.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>a /// + .. .v. .. .. .. .. + + ///<lb n="2"/>b /// .[āna] saṃsāradu[ḥkh]. + ///<lb n="3"/>c /// a[vīci]r a[p]i ra[m]ya .. + ///<lb n="4"/>d /// saṃsārasulabhair duḥ + ///<lb n="5"/>e /// parā[n] eva ta[d uddi]śya .. ///<lb n="6"/>f /// sādhor utsā[hama]ha .. ///
+</q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>a /// rī bhagavanta ro .. + ///<lb n="2"/>b /// viśrāntanidāgha do .. ///<lb n="3"/>c /// kāṃ .e ca śa .ā .k. .e .. + ///<lb n="4"/>d /// .. .. .. .. .. dāstya .. .. ///<lb n="5"/>e /// .. .. lā tasya .ṛ .. .. + ///<lb n="6"/>f /// + + .. .. .. + + .. ///
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="old">Or.8212/67</idno>
+          <idno type="old">Kha.i.189</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Śūraṃgamasamādhisūtra]</title>
+            <note>There are three fragments, the script is the early southern Turkestan Brāhmī. Cf. Ser III 1437: “Kha. i.189. [...] (1) three frs. of ś ūraṅgamasamādhi (Dṛḍhamati).” 170.1 In the Tibetan translation the text of the fragment corresponds to Peking Kanjur, section Mdo, vol. thu (70), fol. 286a1-b6 = TT 800, vol. 32, p. 75.1.1-2.6; Derge[Taipei] Kanjur, section Mdo sde, vol. da (11), foll. 263a2-b5 = No. 132, vol. 11, p. 526.523.2-524.5. In the Chinese translation of Kumārajīva the corresponding passage is found in T 642, 15.631c (translation Śgs § 21, Nos. 83-100). In verso 5f. the remains of some ślokas are preserved. Cf. Śgs, p. 119, note 43: “In the Tibetan translation, § 21 is followed by a partly versified passage going from folios 286b5-289a3. These stanzas probably did not appear in the original Sanskrit used by Kumārajīva as he certainly would not have omitted to translate them.”</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 /// [ḍ]āratiparibhogasaṃdarśanat paryattacittat.<lb n="2"/>2 /// (l)[o]kikakkriyānuvarttanatā 80 sarvvaloka<lb n="3"/>3 /// + + + + .. lo ra sarvveryāpathasaṃdar[śa]<lb n="4"/>4 /// + + + + + (b)[o]dhisvayambhujñā[n]. .. +<lb n="5"/>5 /// + + + + + [r](śa)nagamanajñāna[ṃ] sa[r]. +<lb n="6"/>6 /// + + + + + + .[o]paśānto ’nimi[ttav]i ..
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 /// + + + + + + [p]rratiprrasrram[bh]aṇatā<lb n="2"/>2 /// + + + + + .. satvavinayā[bh]i[sa]ṃ<lb n="3"/>3 /// + + + + + .. ddhyana dharmacakkraprrava(r)t(a)<lb n="4"/>4 /// + + .. .y. [te] dṛḍhamate śūraṅgamo sa<lb n="5"/>5 /// [ā]kāśaṃ hi yathā śuddhaṃ rajasā nopali<lb n="6"/>6 /// .. nimittaṃ yena lakṣyate cittaṃ ya[s]āṃ
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="11">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="old">Or.8212/67[2]</idno>
+          <idno type="old">Kha.i.189</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Śūraṃgamasamādhisūtra]</title>
+            <note>In the Tibetan translation the text of the fragment corresponds to Peking Kanjur, section Mdo, vol. thu (70), fol. 317b2-318a3 = TT 800, vol. 32, p. 87.4.2-5.3; Derge[Taipei] Kanjur, section Mdo sde, vol. da (11), foll. 291b1-292a2 = No. 132, vol. 11, p. 535.582.1-583.2. In the Chinese translation of Kumārajīva the corresponding passage is found in T 642, 15.639b-c (translation Śgs §§ 109-110).</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 + + + + .. [bh]agav[ā]n ā(ha) + + + + + + + + + + ///<lb n="2"/>2 + + + + bodhicittavyāk(ara)[ṇ](e)na [vy](āk)[ṛ] + + [ta]thāny[e] + ///<lb n="3"/>3 + + + + (v)[yāk](a)raṇena ◯ vyākṛt[ā] + + + .. dṛḍhama[te] ///<lb n="4"/>4 + + + + .. t[as ta]thā ◯ ny[e] ’py aparim[āṇā] bodhi[sa]tvā ///<lb n="5"/>5 mate [j]ñ. + .. ro bodhi[satvo] ’ya[ṃ] ca [viśeṣamati]r bodhisa[tv]. ///<lb n="6"/>6 tā .. .. ñ ca dṛḍhamate : aya〈ṃ〉 ca maitreyo bodhisatvo + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 .. t(i)[lābhav]yākaraṇ[e]na vyākṛt[ā] dṛḍhamat[i bo]dhisatvo [m]. + ///<lb n="2"/>2 aci ..ṃ (vyā)[k](a)[ra]ṇaṃ : ya .. bhūmi sarvvaśrrā[vaka]pratyekabu[ddh]. ///<lb n="3"/>3 + + + + .. bodhisatvā ◯ .. .. [c]intya [a]tha khalu yā ///<lb n="4"/>4 + + + + .. citānutta ◯ [rā]yāṃ s(amyaksaṃ)[b]odhau tāØ [p]. ///<lb n="5"/>5 + (vyāka)[raṇ]ena vyākṛ〈tā〉 [ye] + .. [s](a)ṃ(mukhakṣā)[nt]iprrati[l]. + ///<lb n="6"/>6 + + + .. .. [kṣā]ntiprratilā(bhavyākaraṇaṃ) + + + + + + ///
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="12">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="old">Or.8212/67[3]</idno>
+          <idno type="old">Kha.i.189</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">[Not yet identified]</title>
+            <note>Not yet identified; in my opinion this fragment belongs to another manuscript than the two Śūraṃgamasamādhisūtra fragments, viz. to Kha. i.96 [Or.8212/15(2)] which is not yet identified as well:</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>x /// .. [g]. [r]. .y. .. .. .. ///<lb n="2"/>y /// .. metvā yi .. .ty. ///<lb n="3"/>z /// + .. [g]. rūca ki .. ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 /// + + .. khalu .. ///<lb n="2"/>2 /// + bodhisatv. .. .[ī] ///<lb n="3"/>3 /// .[y]. .. .. .. .i .. .. ///
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="old">Or.8212/26(2)</idno>
+          <idno type="old">Kha.i.199</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Written in the early southern Turkestan Brāhmī. Parallels: Ka 358a1-359a3; KN 371.6-372.10; Wa 143.19-144.3, 273.16-274.2.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>u /// + + + + + .. .. 5 .. + + + + + + ///<lb n="2"/>v /// ◯ pta bhoti prakṛtī[y](a) + + + + + + ///<lb n="3"/>w /// ◯ sya tathāgate parini(r)[v]ṛ + + + .. + ///<lb n="4"/>x /// .. dvādaśabhir manaḥkarmagu[ṇ](a)śate[bh]. + ///<lb n="5"/>y /// + ekagāthām api śroṣyati tasya ba .. ///<lb n="6"/>z /// .. pi saṃvatsaram api dharmaṃ deśayati yaṃ .. ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 /// .. kāni lokavyavahārāṇi bhaviṣyaṃti [m]. ///<lb n="2"/>2 /// + keci tṛsahasramahāsahasrāyāṃ + ///<lb n="3"/>3 /// + vispanditāni prajānāti iñji .. + ///<lb n="4"/>4 /// ◯ [m]anendriyaṃ pariśuddhaṃ [bh]. + + .i .. + + ///<lb n="5"/>5 /// ◯ tathāgatabhāṣi[t](a)[ṃ] + + + + + ///<lb n="6"/>6 /// + + + .. .i + .. .[ā]ni bh. + + + + + + ///
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="old">Or.8212/6(7)</idno>
+          <idno type="old">Kha. i.209</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Udānavarga]</title>
+            <note>Written in the early southern Turkestan Brāhmī. The text corresponds to the Peyālavarga (Uv 24) and Mitravarga (Uv 25), the double circle covering the first three lines of recto clearly marks the transition of two vargas. The fragment is the first evidence of a Udānavarga manuscript from Khotan, a text which next to the Prātimokṣasūtra is most frequently attested on the northern Silk Road.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 /// + + .. ◎ ///<lb n="2"/>2 /// + .. ◎ ///<lb n="3"/>3 /// .. ◎ ///<lb n="4"/>4 /// .. [vīryya]vān* e + ///<lb n="5"/>5 /// .. vyayam* e .. ///<lb n="6"/>6 /// + kṣayam* ek. ///<lb n="7"/>7 /// [d](a)m* ek. ///<lb n="8"/>8 /// [da]m* e[k]. ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 /// hutam* mā[se] ///<lb n="2"/>2 /// .[o]ḍaśīm* māse ///<lb n="3"/>3 /// [ṣo]ḍaśīm* piyā[l]. ///<lb n="4"/>4 /// [ṣo]ḍaśīm* piyā[l]. ///<lb n="5"/>5 /// [ṇāṃ] kalām argha + ///<lb n="6"/>6 /// (|)| peyāla .. + ///<lb n="7"/>7 /// ca • saṃkhyaṃ + + ///<lb n="8"/>8 /// + .. [khy]. + + + ///
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="15">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="old">Or.8212/65(2)</idno>
+          <idno type="old">Kha.i.213</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Ratnaketuparivarta]</title>
+            <note>Written in the early southern Turkestan Brāhmī. The text corresponds to RKP 81.5-82.12.</note>
+            <q type="transliteration" lang="skt">
+              <lb n="1"/>
+            </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="skt">
+              <lb n="1"/>
+            </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="16">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="old">Or.8212/33(2)</idno>
+          <idno type="old">Kha.i.303</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Śūraṃgamasamādhisūtra]</title>
+            <note>Written in the early southern Turkestan Brāhmī, the foliation number 5[5] is on the recto. Cf. Ser III 1439: “Kha. i.303.b. [...] (1) small fr., 3 1/2" 2 1/2", with string-hole, fol. No. 55, and 6 ll., of ś ūraṅgamasamādhi-sūtra, showing name of Dṛḍhamati.” In the Tibetan translation the text of the fragment corresponds to Peking Kanjur, section Mdo, vol. thu (70), foll. 314b1-315a3 = TT 800, vol. 32, p. 86.3.1-4.3; Derge[Taipei] Kanjur, section Mdo sde, vol. da (11), foll. 288b1-289a3 = No. 132, vol. 11, p. 534.576.1-577.3. In the Chinese translation of Kumārajīva the corresponding passage is found in T 642, 15.638b-c (translation Śgs §§ 97-100). The fragments Crosby 262/263, Stein Kha. i.96 and Stein unnumbered (SS 41)+Hoernle 151/2 (Or.15001/1) contain the same passage.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 sya mahātmyaṃ ye ’pi dṛḍhamate bhikṣubhikṣuṇyu ///<lb n="2"/>2 vartanatāya lābhasatkāraślokārthāya ///<lb n="3"/>3 tebhyo ’py aha[ṃ] dṛḍhamate taṃ hetuṃ va[d]. ///<lb n="4"/>4 yenānuttarāyāṃ sa[ṃ]myaksaṃbodhau ///<lb n="5"/>5 (ā)ha kiṃ punar bhagavan māraḥ pāpīmataḥ sa .. ///<lb n="6"/>6 + .. mokṣahetu .[odhyau] ci[t]tam utpāditaṃ : bha ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 + sama[yo] .. .. n māraḥ pāpīmā[n*] t[e]na s. ///<lb n="2"/>2 + rmāṇi sa[rvva]mā[ra]cary. sarvvamāraśā + ///<lb n="3"/>3 pratilapsyat[e] ’nupūrvv[e]ṇā ◯ n[u]ttarāṃ sa[ṃ] ///<lb n="4"/>4 rāyāṃ saṃmyaksaṃbodhau ā ◯ ha • ya .. ///<lb n="5"/>5 mi : tat katha〈ṃ〉 māṃ ta[thā]gato vyākaroti bo[dhau] ///<lb n="6"/>6 .. māṃ tathāgato vyākaroti : atha bhagavāṃ .. ///
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="17">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="old">Or.8212/33(2)</idno>
+          <idno type="old">Kha.i.303</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Written in the southern Turkestan Brāhmī (main type). Cf. Ser III 1439: “Kha. i.303.b. [...] (2) fr. 4 1/2" x 4 1/4", on stiff paper, with 8 ll., perhaps of Saddharma-puṇḍarīka.” Parallels: Ka 203a4-205a3; Otani (LŸshun) SLLMC B-9r7-v3; KN 214.2-216.9.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 /// + + + + + + + + [y]. paramaṃ ca sau<lb n="2"/>2 /// + + + + + + (v)[y]ākaraṇena nā<lb n="3"/>3 /// + + + + (p)r(a)varaviśiṣṭa sarvabu<lb n="4"/>4 /// + + + + khalv āyuṣmān anandaḥ<lb n="5"/>5 /// + + + nucintayitvā prārthayitvā<lb n="6"/>6 /// (p)[r](ā)rth(a)yitvā bhagavataḥ pādayor nipatyai<lb n="7"/>7 /// + + + ..[ṃ h]i bhagavān pitā janak[o]<lb n="8"/>8 /// + + + + + + + + .opas[th]āyakā
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 /// + + + + + + + .. [ś]y. samyaksaṃbo<lb n="2"/>2 /// + + + + + (g)ṛ[h]y(a) bhagavato ’bhimukhāḥ<lb n="3"/>3 /// (b)[uddh](a)[j]ñ(ā)[n](a)m apy eva vayam api vyāka<lb n="4"/>4 /// + + + [m] āmaṃtrayati sma • bhaviṣya<lb n="5"/>5 /// + + + + [ks](a)ṃbuddho vidyācaraṇasaṃ<lb n="6"/>6 /// + + + + .. ṣ[ṭ]īnāṃ buddhakoṭīnāṃ<lb n="7"/>7 /// + + + + + + śāsanaparigra<lb n="8"/>8 /// + + + + + + [s](a)hasrāṇi pari
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="18">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8212/39</idno>
+          <idno type="old">Kha. ii.25</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Saṃyuktāgama]</title>
+            <note>There are altogether 28 fragments, six small ones the others minute. Cf. Ser III 1440: “Kha. ii.20, 25. Four small, and numerous minute frs. of birch-bark Pō thī in Skr. and Upright Gupta.” To the same manuscript belongs Kha. ii.1, 3, 6, 7-10, 12 + viii.11 (Or.8212/103A+B), ed. La Vallée Poussin 1913. Written in Gilgit/Bamiyan type I.</note>
+            <q type="transliteration" lang="skt">
+              <lb n="1"/>
+            </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="skt">
+              <lb n="1"/>
+            </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="19">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="old">SS 108</idno>
+          <idno type="old">Kha.viii.8</idno>
+          <idno type="old">microfilm IOL 17B</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Written in the southern Turkestan Brāhmī (main type), the foliation number 248 is on the recto. Parallels: Ka 248a1-b7; KN 258.5-259.5; Wa 241.4-23.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>u .. jnaḥ .. + + + ///<lb n="2"/>v naṃ niśā[m]y. .. + ///<lb n="3"/>w duḥkhaṃ varadha .. + ///<lb n="4"/>x cit* tāvāpra .. + ///<lb n="5"/>y anyaḥ sa tena [k]. ///<lb n="6"/>z sa tena kāle[n]. ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 kālena tena sa ///<lb n="2"/>2 ayam eva sa .[e] ///<lb n="3"/>3 t[t]o pi mama bhi + ///<lb n="4"/>4 ripūritā + ///<lb n="5"/>5 nmahāpu[ru] + + ///<lb n="6"/>6 tathā .. + + + ///<lb n="7"/>7 .. [m]. + + + + ///
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="old">SS 108</idno>
+          <idno type="old">Kha.ix.27</idno>
+          <idno type="old">microfilm IOL 17B</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Written in the southern Turkestan Brāhmī (main type), the foliation number 33 is on the recto. There are altogether ten fragments of one folio. The two fragments Stein Kha. ix.36 [ed. Saddhp(C), pp. 281f., I fol.78 = microfilm IOL 17A], here given again in italics, belong to the same folio. The text of the verses corresponds closely to the socalled Kashgar manuscript. Parallels: Ka 32a5-33a6; KN 24.13-25.12; Wa 16.14-17.13.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 (ritya)jitvā k[ṣ]āntīratā dhyānaba(l)[āś] c(a) .. [rā]ḥ [ba]hu[b](odhisatvā yatha)<lb n="2"/>2 (gaṃgavāli)[k]āḥ sa[rve] (ca dṛśyaṃ)[ti] jinasya raśmiy[ā 14 a](niñjamā)[nāś ca]<lb n="3"/>3 (avedhamā) .. .. (nt)y(āṃ) sth(i) .. (dh)y(ānaratāḥ) .. .. .. (t)[ā]ḥ d[ṛ]śyaṃ[ti] (bahu) putra jināna ora<lb n="4"/>4 sāḥ dhyā(nena ye pra)s(th)i(ta) [a]grabodhim* 15 bhūta[ṃ] pa[d](aṃ ś)āntam anāsravaṃ ca<lb n="5"/>5 prajānamā(nāś ca prakāśa) .. [nt]i [d]e[ś]e[n]ti [dh](a)r[m](a)ṃ [b](a)[h](u) lokadhātu[ṣu] sugatā<lb n="6"/>6 nubhāvād i(ya) .. (d)[ṛ] .. (kriyā 1)[6] (d)ṛ(ṣ)[ṭ]v(ā ca tāḥ) [p](ar)i[ṣa] catasra tāyināṃ<lb n="7"/>7 candrārkadī[p](asya i)[d](a)[ṃ] prrabhāvam* harṣasthitāḥ [sa]rvi bhavit[v](a) [t](a)[t)[kṣ](a)[ṇ](a)ṃ [an](y)au[ny](a)<lb n="8"/>8 pṛcchanti kathaṃ (nu eta)m* 17 acirasya ca sau naradevapūj[i](taḥ samādhito)
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 vyutthitu lo[k](anāyaka)ḥ varaprabhaṃ pu[t]ra tadadhvabhā[ṣ]ī[d] yau bodhi[s](atvo vidu dharmabhā)<lb n="2"/>2 ṇakaḥ 18 (lokasya) [ca]kṣuś ca gatiṃ ca [t]va[ṃ] vi[du]r v[ai]śvāsi[kaḥ] kauśa[dhar](aś) [c](a) [m](ah)y(a)[m*] .. ..<lb n="3"/>3 tra sākṣī mama (dharmakośe bh)[āṣ]ā[m](y a)[haṃ y](a)ṃ (h)i .. .. .. [p](r)ā[ṇ]i[n]ām* (1)[9 s](a)ṃsthāpayitvā<lb n="4"/>4 bahubodhi[s](atvān harṣi) .. (saṃva) .. (yi) [s](aṃs)t(a)[vi]tvā • prakāśayī sau jina<lb n="5"/>5 m-agradha[rmaṃ] (paripūrṇam a)bhyaṃtarakal[p]a [ṣ]aṣṭiḥ 20 yaṃ cai[v](a) sau bhāṣati loka(nā)<lb n="6"/>6 (yaka ekāsana)stha(ḥ p)[r](a) .. (rāg)[r](a)dhar[m]aṃ .. taṃ [sarva](m ādhā)[ra]yi sau jinātma[j]o va<lb n="7"/>7 (raprabho yo) abhu dharma .. (ṇa) ..ḥ 2[1] sa ca jino [bhā](ṣiṣu agradharmaṃ) [pr](a)[harṣa]<lb n="8"/>8 (yitvā ja)natām anekān* tasmiṃ[ś c](a) di[va]se vadati .. (nāyakaḥ purato hi lokasya sadevakasya 22)
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="21">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.15001/1</idno>
+          <idno type="old">Hoernle 151/2</idno>
+          <idno type="old">SS 41</idno>
+          <idno type="old">Kha.ix.27</idno>
+          <idno type="old">microfilm IOL 17A</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Śūraṃgamasamādhisūtra]</title>
+            <note>Written in the early southern Turkestan Brāhmī, partly rubbed off. In the Tibetan translation the text of the fragment corresponds to Peking Kanjur, section Mdo, vol. thu (70), foll. 314a3-315a2 = TT 800, vol. 32, p. 86.2.3-4.2; Derge[Taipei] Kanjur, section Mdo sde, vol. da (11), foll. 288a3-289a2 = No. 132, vol. 11, p. 534.575.3-577.2. In the Chinese translation of Kumārajīva the corresponding passage is found in T 642, 15.638bc (translation Śgs §§ 95-99). The fragments Crosby 262/263, Stein Kha. i.96 an i.303 contain the same passage.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 + + + + + .. pa [e]tāṃ samā[dhiṃ] bhā[ṣā] + + + /// + [t](a)[d] avocat* k[en](ā)s[i] p[ā]pīma ta<lb n="2"/>2 + + + + + + .. [t]. vā [m]o[c]ito vā ā[ha] + .. .. + /// tvo ten[ā]smi{ṃ}  tato ba[n]dha[na]to [mo]ci<lb n="3"/>3 + + + + + .. [t]. p[ā]pīma[ṃ ta] .y. pratijñā [kṛ]tā .. /// .. [t]pāditaṃ • ta[ttra kha]lu bhagavā[ṃ] dṛḍha<lb n="4"/>4 (matiṃ bodhisa)[tva]m āmantre[s]i ◯ syād yath[ā p]. syā /// + .. ya cittaṃ utpādayati na [a]<lb n="5"/>5 (dhyāśayena) + + .. [vam] e[va dṛ] ◯ [ḍhamat]e .. + /// + + + .. .. .. [pr]. .. .[r]. .. .. ..<lb n="6"/>6 + + + + + + + + .. .. [tā]ya bodhāya c[i]tt. .. + /// + + + + .. [sy]. .. .. .. .. [māy]ā[ṃ] sa<lb n="7"/>7 + + + + + + + + + .. [t]. [s]ra[v]eri[t]. s[y]. .. .. .. + /// + + + + + .[ī] + .[ā] + + + .[ā] ..<lb n="8"/>8 + + + + + + + + + .. .. vyas[th]ā .. + + + + + + /// + + + + + + + + + + + + +
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>s + + + + + + + (sam)y(a)[ksaṃ]bo[d]hā + + + + /// + + + + + + + + + + + + +<lb n="2"/>t + + + + + + + + .. yato .. .. .. .. .. + + /// + + + + .. .. .. .. .. .. .. .. .[u]<lb n="3"/>u + + + + + + + tv. [bhaga]van[t]aṃm etad avo[ca] .. /// + + + .. .. [rth]. .. [y]e .. .. ..<lb n="4"/>v + + + + + + [b]. [ndh]. .. [m]o[kṣa] ◯ .. .. .. .. + + /// + + + t. .. [viṣ]ya[ti] .. .. .. .. [ṣya]<lb n="5"/>w + + + + + .. m[āra]ḥ pāpī ◯ maṃ im[eva] ca .. /// + [ci]ttotpādakuśa[lam]ū[le]na sarvva<lb n="6"/>x + + + + (sa)r[v](va)māracarī sarvvamāraśāṭhyā sarvvamāra .. /// .. māṃ śūraṅgamā[sa]mādhi pra[t]i[l]. .i<lb n="7"/>y + + + + + + .. [s](a)myaksaṃbodhim abhisaṃbu .[i] + + + /// [ta]d avocat* vyākṛto ’[pi] (pā)pīma [ta]thā<lb n="8"/>z + + + + + + .[ghā] so āha • .. ahaṃ (k)[u] + + + /// + .[āṃ c]itta u[tpāda]yā[mi katha](ṃ) mama
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="22">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="old">microfilm IOL 17B</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Ratnaketuparivarta]</title>
+            <note>Written in the early southern Turkestan Brāhmī. The text corresponds to RKP 14.2-16.9.</note>
+            <q type="transliteration" lang="skt">
+              <lb n="1"/>
+            </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="skt">
+              <lb n="1"/>
+            </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="23">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="old">Or.8672B/1</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Adhyardhaśatikā Prajñāpāramitā]</title>
+            <note>Written in the southern Turkestan Brāhmī (main type), partly rubbed off. There was only one manuscript of this text known from Khotan to date. The text corresponds to Adhś fol. 15v5-16v4.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 /// .. daṃ [jñāna]muṣṭipari[gra]has [s]arvasatvavi[na]ya[jñā]nagarbhaṃ nāma prajñāpā<lb n="2"/>2 /// .. [ma]tāyā : [krodhasa] .. [tā] • sa[rva]satvavina[yana]tāyā : kkrodhavi<lb n="3"/>3 /// + + + .. .. .. [satvavajra]tāyā : krodhavajratā [• ta]t kasya hetoḥ<lb n="4"/>4 /// + + + .. .. .. .. sama[tā]pratiṣṭhita[s tath]āgata[ḥ pu]nar a[pī] + +
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 /// + + + .. .. .. [sa]rvasa[matāyā] prajñāpāramitā sa[m]atā • sarv[ā] + +<lb n="2"/>2 /// + + .. .. .. .. mitā [dharmatā] • sarvakarmatayā prajñāpārami[tā]<lb n="3"/>3 /// vāṃs tathāgatāḥ pu[nar a]pi sarvasatvādhiṣṭhānaṃ nāma prajñāpāra<lb n="4"/>4 /// thā[g]ata[g]arbhās samantabhadramahābodhisatvasarvātma[n]ayā [vajra]
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="24">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="old">Or.8672B/2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Written in the early southern Turkestan Brāhmī. Parallels: Ka 286b7-289a3; SHT 4303, fragm. 68v6 [ed. Wille 2000]; Stein F xii.7, foll. 29a4-30a4 (= FB MS) [ed. Saddhp(C), pp. 249f.]; Otani (Lushun) SLLMC A-11a r(2); Stein Kha. i.223b1 [ed. Saddhp(C), p. 286, XV fol. 67]; SI L/12.2r3-v3 [ed. Tyomkin 1995, pp. 12-14]; KN 299.6-300.13; Wa 101.6-102.10.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 /// bodhisatvānāṃ sahasraparivārāṇāṃ paṃca[śa] .. ///<lb n="2"/>2 /// .. tura trayo dvaya eka bodhisatvaparivā .. + ///<lb n="3"/>3 /// tvānā[ṃ] mahāsatvānā[ṃ] na teṣāṃ saṃkh[y]āsti .. .. + ///<lb n="4"/>4 /// + + hāyāṃ loka[dh]. .. [dhāraṇ]ī .. .. .. + + + ///<lb n="5"/>5 /// + + + .. [tra] sa .. ga[v]. + + + + + + + + + ///<lb n="6"/>6 /// [ṇ]ṇ. k. .. tenopa .. .r. + + + + + + + + + ///<lb n="7"/>7 /// [pādau] śir[asā] va[ṃd]i .. + .. + + + + + + + + ///<lb n="8"/>8 /// + + + + .. + .. .. + + .. + + + + + + + + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>t /// + .. .. pṛth[i]vīvi .. + .. + + + + + + + ///<lb n="2"/>u /// .ānā [p]. [r]. pūrṇaṃ p. + + + + + + + + ///<lb n="3"/>v /// + .. .. .. .. ca .v. .. .. .. + + + + + + + ///<lb n="4"/>w /// + + + sa[ṃ]skāram abhi .. .k. .. + + + + + ///<lb n="5"/>x /// .. śc[ād]bhakta[ṃ] saṃjānaṃti imā ca .. hāṃ .. + ///<lb n="6"/>y /// .. khalu punar mahato bodhi[s]atvaṃ rāśeś ca[tv]. .. ///<lb n="7"/>z /// [nā]ma bodhisatvo mahāsatvo anantacāri[traś c]. ///
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="25">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="old">Or.8672B/3</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Written in the southern Turkestan Brāhmī (main type). For palaeographical reasons in my opinion this fragment belongs to the Khādaliq manuscript edited in Wille 2000 and is the last but one or last but two folio. Parallels: Ka 457b1-458a5; KN 485.8-486.9; Wa 178.18-28.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 /// + [ye]na bhagavāṃ śākya .. ///<lb n="2"/>2 /// .. yāḥ sannatakāyā .. ///<lb n="3"/>3 /// .. [n]irghoṣeṇa bhagavaṃ ..ṃ ///<lb n="4"/>4 /// + + .[ā] .. [thāgat]. + + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>[blank]<lb n="2"/>2 /// + + .. + .[y]. [m]. .. + + ///<lb n="3"/>3 /// + [pa]ripūrayiṣyāma .. ///<lb n="4"/>4 /// n arhataḥ samyaksaṃbuddh[ā] ///<lb n="5"/>5 /// .. [t]athāgatānām ā[r]. ///
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="26">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="old">Or.8672C/3</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Saddharmapuṇḍarīkasūtra]</title>
+            <note>Written in the early southern Turkestan Brāhmī, the foliation number 8[9] is on the recto. Parallels: Ka 223a7-225a6; SHT 4303, fragm. 53r6-54v6 (ed. Wille 2000); KN 234.9-237.2; Wa 232.11-20.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 [bhai]ṣajyarāja [ta]thāgata[sya dharm]. si .[ā] + + + + + + + + + + + + ///<lb n="2"/>2 kulaputtre[ṇa ni] .[ī] .itavy. vā ta .. + + + + + + + + + + + + ///<lb n="3"/>3 [ṣa]jyarāja [bodhisatv]. .. [i]maṃ dha[rmapa]ryāya sa[ṃ]prakāśayi[ta]vyaḥ .. + + ///<lb n="4"/>4 [p]. [r]. [ṣ]. dā puraskṛtaḥ saṃpra[kā]śay[i]tavyaḥ anyalokadhātu[sthita]ś cāhaṃ bhai ///<lb n="5"/>5 .. .. mānayiṣyā[m]i nirmi ◯ taś cāsya bhikṣubh[ikṣ]. ṇi-up[ā]sa[k]. + + ///<lb n="6"/>6 taṃ dharma bhāṣamāṇaṃ śrutvā ◯ na ppratibādhayiṣyanti • na pprati .. ///<lb n="7"/>7 gato bhaviṣyati • ekako advitīya imaṃ dharmaparyāyaṃ svāddhyā[y]. + ///<lb n="8"/>8 garuḍakinnaramahoraga bahavo saṃpreṣay[i]ṣyām[i] • dharmaśravaṇā[y]a + ///<lb n="9"/>9 kariṣyāmi • yāni cāsyaito dha[rma]paryāyā[t pa]da[v]ya[ṃ]janāni • [pa]riu .. + ///<lb n="10"/>10 [tyu]cārayiṣyāmi • anuprabaddhy. [cāsyai]ma[ṃ] dharmaparyāyaṃm anupra + ///
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="skt"><lb n="1"/>1 .. || līyanāṃ sarvva varjitvā [śṛ]ṇuyāt sūtram īdṛśam* dur[l]abho śr. + + ///<lb n="2"/>2 yā kūpa [ja]ṅgale • śuṣkaṃ pāṃsu ca paśyeta utkha[n]. .. punaḥ pun. + + ///<lb n="3"/>3 rasya śuṣkaṃ pānsva ya dṛśya[t]e 3 yadā tu ardra[ṃ pa]śyeta pān[s]. + ///<lb n="4"/>4 emeva dūri to bhonti buddhajñānasya tādṛśa• aśruṇa[nt]ā i[m]. .. + ///<lb n="5"/>5 vakānāṃ viniścayam* ◯ sūtrarājā śruṇiṣ[yan]ti śrutvā ca + ///<lb n="6"/>6 yathāpi [ardra] pāṃsu ◯ sminn āsanne v[ā] .. m-ucyate 7 .. + ///<lb n="7"/>7 [abhī]to bhāṣi sūtrima[n* 8] maitrābalaṃ mama līnaṃ kṣāntisau[ra]ty. c. ///<lb n="8"/>8 ye loḍudaṇḍā .. .. [strebhiḥ] ā[k](r)ośās [t](a) .. [ta]rj[j]anā bhā .. + + ///<lb n="9"/>9 ṣu ā[tma]bhā .. mama .. .. [d]. .. + + + + + + + + + + + + ///<lb n="10"/>10 [da] sū[traṃ] prakāś. .. [pr]. [ṣiṣye] .. + + + + + + + + + + + + ///
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

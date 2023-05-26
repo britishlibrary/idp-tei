@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Wang_Zhiping_2006">
+  <author lang="chi-Latn">Wang Zhiping deng</author>
+  <author lang="chi-Hant">&#x738B;&#x5FD7;&#x5E73;&#x7B49;</author>
+  <title level="m" lang="chi-Latn">Xixia bowuguan</title>
+  <title level="m" lang="chi-Hant">&#x897F;&#x590F;&#x535A;&#x7269;&#x9928;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Yinchuan</pubPlace>
+    <publisher>Ningxia renmin chubanshe</publisher>
+    <date>2006</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>Musium</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

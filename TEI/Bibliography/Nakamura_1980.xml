@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Nakamura_1980">
+    <author>Nakamura, Hajime</author>
+    <title level="m" lang="eng">Indian Buddhism: A Survey with Bibliographical Notes</title>
+    <imprint>
+      <pubPlace>Osaka</pubPlace>
+      <publisher>KUFS Publication</publisher>
+      <date>1980</date>
+    </imprint>
+    <keywords>Buddhism</keywords>
+    <keywords>India</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

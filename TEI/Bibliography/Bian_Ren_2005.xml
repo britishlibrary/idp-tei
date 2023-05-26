@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Bian_Ren_2005">
+  <author lang="chi-Latn">Bian Ren</author>
+  <author lang="chi-Hant">&#x908A;&#x4EBA;</author>
+  <title level="m" lang="chi-Latn">Xixia:xiaoshi zai lishi jiyi zhong de guodu</title>
+  <title level="m" lang="chi-Hant">&#x897F;&#x590F;&#xFF1A;&#x6D88;&#x901D;&#x5728;&#x6B77;&#x53F2;&#x8A18;&#x61B6;&#x4E2D;&#x7684;&#x570B;&#x5EA6;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Beijing</pubPlace>
+    <publisher>Waiwen chubanshe</publisher>
+    <date>2005</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>History</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

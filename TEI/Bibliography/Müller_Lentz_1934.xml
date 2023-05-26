@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Müller_Lentz_1934">
+    <author>Müller, F.W.K.</author>
+    <author>Lentz, W.</author>
+    <title level="a" lang="ger">Soghdische Texte II.</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">Sitzungsberichte der Preußischen Akademie der Wissenschaften, Phil.-Hist. Klasse</title>
+      <biblScope type="issue">XXI</biblScope>
+      <date>1934</date>
+      <biblScope type="pp">504-606</biblScope>
+    </imprint>
+    <keywords>Sogdian</keywords>
+    <keywords>Syriac</keywords>
+    <keywords>Christian</keywords>
+    <keywords>religion</keywords>
+  </bibl>
+</listBibl>

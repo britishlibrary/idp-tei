@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Le_Coq_1911">
+    <author>Le Coq, Albert von</author>
+    <title level="m" lang="ger">Sprichw&#xF6;rter und Lieder aus der Gegend von Turfan mit einer dort aufgenommenen W&#xF6;rterliste</title>
+    <imprint>
+      <title level="s">Baessler Archiv. Beitr&#xE4;ge zur V&#xF6;lkerkunde</title>
+      <biblScope type="vol">Beiheft 1</biblScope>
+      <pubPlace>Leipzig</pubPlace>
+      <publisher>Teubner</publisher>
+      <date>1911</date>
+    </imprint>
+    <note/>
+    <keywords>TF/Folk customs/song/dictionary</keywords>
+    <genBibl>collections_de</genBibl>
+  </bibl>
+</listBibl>

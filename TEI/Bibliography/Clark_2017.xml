@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Clark_2017">
+    <author>Clark, Larry</author>
+    <title level="a" lang="engl">Uygur Manichaean texts. Texts, translations, commentary. Volume III: Ecclesiastical texts</title>
+    <title level="j" lang="ger" type="shortRef">Corpus Fontium Manichaeorum, Series Turcica III</title>
+    <imprint>
+      <pubPlace>Turnhout</pubPlace>
+      <publisher>Brepols</publisher>
+      <date>2017</date>
+    </imprint>
+    <keywords>Uygur</keywords>
+    <keywords>Manichaean</keywords>
+    <keywords>translations</keywords>
+    <keywords>commentary</keywords>
+    <keywords>Ecclesiastical</keywords>
+    <genBibl>Corpus Fontium Manichaeorum</genBibl>
+  </bibl>
+</listBibl>

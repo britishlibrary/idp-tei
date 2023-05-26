@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Stein_1978">
+    <author>Stein, Rolf A.</author>
+    <title level="a" lang="fre">'A propos des documents relatifs au phur bu</title>
+    <imprint>
+      <title type="m" lang="eng">Proceedings of the Csoma de Kor&#xF6;s Memorial Symposium</title>
+      <date>1978</date>
+      <pubPlace>Budapest</pubPlace>
+      <publisher>Akademiai Kiado</publisher>
+    </imprint>
+    <keywords>tantra</keywords>
+  </bibl>
+</listBibl>

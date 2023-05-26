@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Conze_1961">
+    <author>Conze, E</author>
+    <title level="m" lang="eng">The Prajnaparamita Literature</title>
+    <imprint>
+      <pubPlace>Tokyo</pubPlace>
+      <publisher>Bibliographia Philologica Buddhica Series Major I</publisher>
+      <date>1964</date>
+    </imprint>
+    <keywords>China</keywords>
+    <keywords>Buddhism</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

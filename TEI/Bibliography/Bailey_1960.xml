@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Bailey_1960">
+    <editor>Bailey, Harold W.</editor>
+    <editor>Emmerick, R. E.</editor>
+    <title level="m" lang="eng">Saka Documents</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>Percy Lund Humphries</publisher>
+      <date>1960</date>
+    </imprint>
+    <note>Corpus Inscriptionum Iranicarum</note>
+    <genBibl>collections_en</genBibl>
+  </bibl>
+</listBibl>

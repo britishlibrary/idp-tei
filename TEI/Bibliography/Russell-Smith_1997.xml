@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Russell-Smith_1997">
+  <author>Russell-Smith, Lilla</author>
+  <title level="a" lang="eng">Uygur Influence on Dunhuang Painting</title>
+  <imprint>
+    <title level="j" lang="eng" type="shortRef">IDP News</title>
+    <biblScope type="issue"> 8-9</biblScope>
+    <biblScope type="pp">4-5</biblScope>
+    <date>Summer-Winter 1997</date>
+  </imprint>
+  <keywords>Uighur</keywords>
+  <keywords>Dunhuang</keywords>
+  <genBibl>collections_dh</genBibl>
+</bibl>

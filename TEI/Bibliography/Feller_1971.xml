@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Feller_1971">
+    <author n="1">Feller, R. L.</author>
+    <author n="2"> Stolow, N.</author>
+    <author n="3"> Jones, E.</author>
+    <title level="m" lang="eng">Picture Varnishes and their Solvents</title>
+    <imprint>
+      <pubPlace>Cleveland</pubPlace>
+      <publisher>Press of Case Western Reserve Universit</publisher>
+      <date>1971</date>
+      <idno type="ISBN">0829501819 9780829501810</idno>
+    </imprint>
+    <keywords>Artist Material</keywords>
+    <genBibl>conservation</genBibl>
+  </bibl>
+</listBibl>

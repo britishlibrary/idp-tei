@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Feer_Csoma_1881">
+    <author n="1">Feer, Leon</author>
+    <author n="2">Korosi Csoma, Sandor</author>
+    <editor>Leroux, Ernest</editor>
+    <title level="m" lang="fr">Analyse du Kandjour et du Tandjour, recueil des livres sacres au Tibet par Alexandre Csoma de Koros</title>
+    <imprint>
+      <title level="s">Annales du Musee Guimet</title>
+      <biblScope type="issue">Tome II.</biblScope>
+      <biblScope type="pp">131-555</biblScope>
+      <pubPlace>Paris</pubPlace>
+      <date>1881</date>
+      <note>Traduite de l'anglais et augmentee de diverses additions et remarques par M. Leon Feer</note>
+    </imprint>
+  </bibl>
+</listBibl>

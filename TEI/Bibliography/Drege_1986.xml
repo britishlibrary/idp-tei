@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Drege_1986b">
+    <author n="1">Drege, Jean-Pierre</author>
+    <author n="2">Ishigami-Iagolnitzer</author>
+    <author n="3">Cohen, Monique</author>
+    <title level="m" lang="fre">Le livre et l'imprimerie en Extreme-Orient et en Asie du Sud:
+            Actes du Colloque</title>
+    <imprint>
+      <pubPlace>Bordeaux</pubPlace>
+      <publisher>Societe des Bibliophiles de Guyenne </publisher>
+      <date>1986</date>
+    </imprint>
+    <keywords>printing/book</keywords>
+    <biblScope/>
+  </bibl>
+</listBibl>

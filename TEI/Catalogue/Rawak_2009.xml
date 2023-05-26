@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>IDP Site Information</title>
+        <author id="SW">Whitfield, Susan</author>
+        <author id="ZWH">Zhang Wenhui</author>
+        <author id="CT">Till, Catherine</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>IDP</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2009</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>No printed source: created as electronic file</p>
+        <bibl>
+          <ref>Rawak_2009</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Site</projectDesc>
+      <editorialDecl>Imported on 27 January 2009</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>These site reports have been been prepared by IDP researchers and are individually credited. Thanks are owing to Catherine Till and Zhang Wenhui who carried out much of the preliminary research. Work on these reports is still in progress. and comments and additions are welcome.</p>
+      <p>Note: Names of sites within Chinese Central Asia are referred to by the common name they are known by today but alternative names are given. Subject to funding, IDP plans to prepare an online historical gazetteer of the Silk Road.</p>
+    </head>
+    <body>
+      <msDescription type="SW" n="Rawak.">
+        <msIdentifier>
+          <settlement>Khotan</settlement>
+          <idno type="current">Rawak</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="Whole site">
+            <div n="1" type="General Introduction">
+              <p>Rawak is an ancient temple site in the desert about 40 km north of the modern city of Khotan (Hetian) in Karakash (Moyu) county. The site is dominated by a large stupa dated from about the 3th or 4th centuries A.D to the 5th or 6th century. Around the stupa there are other smaller structures which were originally decorated with a large number of colossal statues. The courtyard of the temple was surrounded by a wall, which contained terracotta relieves and some wall-paintings. The stupa and other structures form a three-dimensional mandala.</p>
+            </div>
+            <div n="2" type="Exploration of the site">
+              <p><name type="person" lang="eng">M. Aurel Stein</name>: Excavated 11-18 April, 1901 and 16-17 September 1906</p>
+              <p>Stein first visited Rawak during his First Central Asian expedition in April 1901. At the site he found the large stupa which he described as 'by far the most imposing structure I had seen among the extant ruins of the Khotan region.' Part of the stupa, and almost all of the rest of the site, was covered by sand dunes, in places rising to about 25 ft. In places where the sand left the walls and structures uncovered, he found fragments of coloured stucco from the statues lying in the sand.</p>
+              <p>His excavations over the following eight days uncovered 91 large stucco statues of buddhas and bodhisattvas, with smaller ones inbetween of attendant gods. The sand that filled the ruins also played a conserving role, protecting the stuccos from the fierce wind and holding them up where they would have collapsed on their own. Therefore, when Stein left the site, he replaced the sand he had removed, writing, 'All that could be done in the case of these large sculptures was to bury them again safely in the sand after they had been photographed and described, and to trust that they would remain undisturbed under their protecting cover — until that time, still distant it seems, when Khotan shall have its own local museum.' (<emph>SBR</emph> 466)</p>
+              <p>Subsequently, as a result of the activities of treasure seekers most of the colossal statues had disappeared by Stein's second visit in 1906: 'the wall, which I had found lined with a continuous row of stucco relievo figures, mostly colossal, now displayed bare brickwork. My care in burying these under sand, just as I had found them, proved in vain, and of the interesting specimens of Khotan sculptural art then unearthed, all that survives now, I fear, are my photographs.' (<emph>Serindia</emph> 128-9)</p>
+              <p>Stein's photographs of his first expedition are in the Library of the Hungarian Academy of Sciences in Budapest but all have been digitised inn collaboration with IDP and are available online on IDP. See, in particular, for the sequences Stein Photo 5/3(7-31) and Stein Photo 6(44-67) for the Rawak sculptures.</p>
+              <p>On his visit in September 1906, Stein excavated the ruins that lay between the great stupa and a nearby site complex know as Tati of Hanguya. Here he found many small terracotta reliefs dating, he thought, to the 5-6th centuries.</p>
+              <p><name type="person" lang="eng">Dr. Emil Trinkler</name> (1896-1931): Visited in 1928</p>
+              <p>The German-Swiss expedition (1928-29) under the leadership of Dr. Emil Trinkler also visited Rawak in 1928. The expedition gathered a significant amount of scientific (geological, climatic, etc) material. Beside this, they also collected six cases of archaeological material which were later first seized by the local government but later allowed to be taken to Germany.</p>
+              <p><name type="person" lang="eng">Huang Wenbi</name> (1893-1966): Visited June 12, 1929</p>
+              <p>The Chinese archaeologist Huang Wenbi, who was part of the Swedish-Chinese expedition under the leadership of Sven Hedin, made a short visit to Rawak during his trip to the Tarim basin.</p>
+              <p>Trinkler's finds were initially confiscated by the local authorities but then was allowed to leave to Germany. In 1930, the Metropolitan Museum of Art acquired part of the Central Asian collection brought back by Trinkler, including some items from Rawak (e.g. a statue head with Hellenistic features). The rest of the material is now in Bremen, Germany.</p>
+            </div>
+            <div n="3" type="Rawak on IDP">
+              <p>IDP visited Rawak in November 2008 on its research trip with the Xinjiang Institute of Archaeology, taking a series of documentary photographs, some replicating those taken by Stein a century earlier. All these are available online under the pressmark Photo 1187/2. Stein's photographs, plans, maps and site finds are also being digitised as part of IDP</p>
+            </div>
+            <div n="4" type="Current Accessibility">
+              <p>The site of Rawak is accessible from Khotan although desert driving makes special vehicles necessary. The site comes under the Xinjiang Institute of Archaeology. </p>
+            </div>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Sims-Williams_1976">
+    <author>Sims-Williams, Nicholas</author>
+    <title level="a" lang="eng">The Sogdian Fragments of the British Library</title>
+    <imprint>
+      <title level="j" lang="eng">Indo-Iranian Journal</title>
+      <biblScope type="issue">18</biblScope>
+      <biblScope type="pp">43-82</biblScope>
+      <date>1976</date>
+    </imprint>
+    <genBibl>collections_en</genBibl>
+    <genBibl>catalogue</genBibl>
+  </bibl>
+</listBibl>

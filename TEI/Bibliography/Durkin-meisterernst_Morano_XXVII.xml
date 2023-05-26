@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Durkin-Meisterernst_Morano_BTTXXVII">
+    <author>Durkin-Meisterernst, Desmond</author>
+    <author>Morano, Enrico</author>
+    <title level="a" lang="engl">Mani's Psalms. Middle Persian, Parthian and Sogdian texts in the Turfan Collection.</title>
+    <title level="j" lang="ger" type="shortRef">Berliner Turfantexte XXVII</title>
+    <imprint>
+      <pubPlace>Turnhout</pubPlace>
+      <publisher>Brepols</publisher>
+      <date>2010</date>
+    </imprint>
+    <keywords>Middle Persian</keywords>
+    <keywords>Parthian</keywords>
+    <keywords>Sogdian</keywords>
+    <keywords>Psalms</keywords>
+    <keywords>Mani</keywords>
+    <genBibl>Berliner Turfantexte</genBibl>
+  </bibl>
+</listBibl>

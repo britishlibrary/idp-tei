@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Sinor_1987">
+    <author>Sinor, Denis</author>
+    <title level="m" lang="eng">Inner Asia (A Syllabus)</title>
+    <title type="s" lang="eng">The Uralic and Altaic Series</title>
+    <imprint>
+      <biblScope type="issue">96</biblScope>
+      <pubPlace>Bloomington</pubPlace>
+      <publisher>Indiana University</publisher>
+      <date>1987</date>
+      <edition>3rd edition</edition>
+      <publisher>Curzon Press</publisher>
+    </imprint>
+  </bibl>
+</listBibl>

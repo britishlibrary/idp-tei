@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Yoshida_1989">
+  <author>Yoshida, Y.</author>
+  <title level="a" lang="eng">On reconstructing Sogdian names transcribed in Chinese characters</title>
+  <imprint>
+    <title level="j" lang="eng" type="shortRef">Sanseidō bukkuretto</title>
+    <biblScope type="issue">78</biblScope>
+    <biblScope type="pp">66-71</biblScope>
+    <date>1989</date>
+  </imprint>
+  <note>in Japanese</note>
+  <keywords>Sogdian</keywords>
+  <keywords>linguistics</keywords>
+</bibl>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Mei_Yi_2006">
+  <author lang="chi-Latn">Mei Yi</author>
+  <author lang="chi-Hant">&#x6885;&#x6BC5;</author>
+  <title level="m" lang="chi-Latn">Daofeng shang de wenming:song liao jin xixia de linglei lishi</title>
+  <title level="m" lang="chi-Hant">&#x5200;&#x92D2;&#x4E0A;&#x7684;&#x6587;&#x660E;&#xFF1A;&#x5B8B;&#x907C;&#x91D1;&#x897F;&#x590F;&#x7684;&#x53E6;&#x985E;&#x6B77;&#x53F2;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Beijing</pubPlace>
+    <publisher>Zhongguo haiguan chubanshe</publisher>
+    <date>2006</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>History</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

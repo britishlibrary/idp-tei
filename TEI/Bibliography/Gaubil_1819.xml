@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Gaubil_1819">
+    <author>Gaubil, A.</author>
+    <title level="a" lang="fre">Histoire de l'Astronomie chinoise, depuis le commencement de la
+            monarchie chinoise jusqu'à l'an 206 avant J.-C.</title>
+    <imprint>
+      <title level="m">Lettres édifiantes et curieuses écrites des missions étrangères.
+                Tome quatorzième</title>
+      <biblScope type="vol">XIV</biblScope>
+      <biblScope type="pp">302-447</biblScope>
+      <pubPlace>Lyon</pubPlace>
+      <publisher>Chez J. Vernarel, libraires</publisher>
+      <date>1819</date>
+    </imprint>
+    <note/>
+    <keywords/>
+    <genBibl>astronomy</genBibl>
+  </bibl>
+</listBibl>

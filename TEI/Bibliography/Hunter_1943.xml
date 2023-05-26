@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Hunter_1943">
+    <author n="1">Hunter, D.</author>
+    <title level="m" lang="eng">Papermaking: The History and Technique of an Ancient Craft</title>
+    <imprint>
+      <pubPlace>New York</pubPlace>
+      <publisher>Dover Publications</publisher>
+      <date>1943</date>
+    </imprint>
+    <keywords>Papermaking</keywords>
+    <keywords>Conservation</keywords>
+    <genBibl>Conservation</genBibl>
+  </bibl>
+</listBibl>

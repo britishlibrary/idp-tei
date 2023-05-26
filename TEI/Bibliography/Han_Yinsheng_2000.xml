@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Han_Yinsheng_2000">
+  <author lang="chi-Latn">Han Yinsheng</author>
+  <author lang="chi-Hant">&#x97D3;&#x852D;&#x665F;</author>
+  <title level="m" lang="chi-Latn">Dangxiang yu xixia lishi ziliao huibian.shang.zhong .xia.buyi</title>
+  <title level="m" lang="chi-Hant">&#x9EE8;&#x9805;&#x8207;&#x897F;&#x590F;&#x6B77;&#x53F2;&#x8CC7;&#x6599;&#x532F;&#x7DE8;.&#x4E0A;.&#x4E2D;.&#x4E0B;.&#x88DC;&#x907A;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Yinchuan</pubPlace>
+    <publisher>Ningxia renmin chubanshe</publisher>
+    <date>2000</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>History</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

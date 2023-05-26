@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Schmidt_1983">
+    <author>Schmidt, Klaus T.</author>
+    <title level="a" lang="ger">Vorläufige Bemerkungen zu den in der Staatsbibliothek
+            Preussischer Kulturbesitz in Berlin neu gefundenen tocharischen Handschriftenfragmenten</title>
+    <imprint>
+      <title level="m">Steppat_1983</title>
+      <biblScope type="pp">271-279</biblScope>
+      <date>1983</date>
+    </imprint>
+  </bibl>
+</listBibl>

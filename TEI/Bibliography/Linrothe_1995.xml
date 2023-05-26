@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Linrothe_1995">
+  <author>Linrothe, Rob</author>
+  <title level="a" lang="eng">Tangut Buddhist Art</title>
+  <imprint>
+    <title level="j" lang="eng" type="shortRef">Monumenta Serica</title>
+    <biblScope type="issue">43</biblScope>
+    <biblScope type="pp">235-262</biblScope>
+    <date>1995</date>
+  </imprint>
+  <note/>
+  <keywords>Buddhism</keywords>
+  <keywords>Art</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

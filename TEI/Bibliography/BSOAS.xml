@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="BSOAS">
+    <title level="j" lang="ger">Bulletin of the School of Oriental and African Studies</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>School of Oriental and African Studies</publisher>
+    </imprint>
+    <genBibl>journals</genBibl>
+  </bibl>
+</listBibl>

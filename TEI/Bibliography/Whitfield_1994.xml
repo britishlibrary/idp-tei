@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Whitfield_1994">
+    <editor>Whitfield, Susan</editor>
+    <editor>Grayling, A. C.</editor>
+    <title level="m" lang="eng">A Literary Companion to China</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>John Murray</publisher>
+      <date>1994</date>
+    </imprint>
+    <genBibl>whitfield_susan</genBibl>
+  </bibl>
+</listBibl>

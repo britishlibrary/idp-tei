@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Maspero_1953">
+    <author>Maspero, Henri</author>
+    <title level="m" lang="fre">Les Documents Chinois de la Troisieme Expedition de Sir
+            Aurel Stein en Asie Centrale</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>The Trustees of the British Museum</publisher>
+      <date>1953</date>
+    </imprint>
+    <note>A catalogue of the documents and fragments brought back by Sir Aurel Stein from his third expedition into Central Asia. Maspero describes 607 Chinese items, which fall into the series between Or.8212/200 and Or.8212/855. He divides the items by site, and within each site, by period. There are separate (and very full) introductions to each section. Each entry has a sequence number, which does not correspond to the items' numbers in the Or.8212 series.</note>
+    <keywords>DH/CCA/catalogue</keywords>
+    <genBibl>collections_en</genBibl>
+  </bibl>
+</listBibl>

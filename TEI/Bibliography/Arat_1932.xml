@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Arat_1932">
+    <author>Rachmati, Gabdul Rašid</author>
+    <title level="a" lang="ger">Zur Heilkunde der Uiguren II.</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">Sitzungsberichte der Preußischen Akademie der Wissenschaften,
+			Phil.-hist. Kl.</title>
+      <biblScope type="issue">22</biblScope>
+      <date>1932</date>
+      <biblScope type="pp">401-448</biblScope>
+    </imprint>
+    <keywords>Heilkunde</keywords>
+    <keywords>Uiguren</keywords>
+    <keywords>Sitzungsberichte</keywords>
+    <keywords>Preußische</keywords>
+    <keywords>Akademie</keywords>
+  </bibl>
+</listBibl>

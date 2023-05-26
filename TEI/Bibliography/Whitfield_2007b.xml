@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Whitfield_2007b">
+    <author>Whitfield, Susan</author>
+    <title level="a" lang="eng">The Dunhuang Manuscripts: From Cave to Computer</title>
+    <imprint>
+      <title level="m" lang="eng">Books in Numbers</title>
+      <editor>Idema, Wilt</editor>
+      <pubPlace>Hong Kong</pubPlace>
+      <publisher>Chinese University of Hong Kong</publisher>
+      <date>2007</date>
+    </imprint>
+    <genBibl>whitfield_susan</genBibl>
+  </bibl>
+</listBibl>

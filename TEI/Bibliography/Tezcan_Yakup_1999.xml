@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Tezcan_Yakup_1999">
+    <author>Tezcan, Semih</author>
+    <author>Yakup, Abdulrashid</author>
+    <title level="a" lang="rus">A Chagatai Turkic Text on the Life of Mani</title>
+    <imprint>
+      <title level="j" lang="eng">Studies on the Inner Asian Languages</title>
+      <biblScope type="issue">14</biblScope>
+      <biblScope type="pp">65-72</biblScope>
+      <date>1999</date>
+    </imprint>
+    <note/>
+    <keywords>Mani</keywords>
+    <genBibl>manichaean</genBibl>
+  </bibl>
+</listBibl>

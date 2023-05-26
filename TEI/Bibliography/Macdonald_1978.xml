@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Macdonald_1978">
+    <author n="1">Macdonald, Ariane</author>
+    <author n="2">Imaeda, Yoshiro</author>
+    <title level="m" lang="fre">Choix de documents tibétains conservés à la Bibliothèque
+            nationale complété par quelques manuscrits de l'India Office et du British
+            Museum</title>
+    <imprint>
+      <pubPlace>Paris</pubPlace>
+      <publisher>Bibliothèque nationale</publisher>
+      <date>1978</date>
+      <idno type="ISBN">2717714162:9782717714166</idno>
+    </imprint>
+    <note>Fascimiles of selected Dunhuang mss. mainly from the Pelliot collection, with two India Office Library mss. as well (where these are connected with the Pelliot mss.). 2 vols.</note>
+    <keywords>Tibetan</keywords>
+    <keywords>facsimiles</keywords>
+    <keywords>manuscripts</keywords>
+    <genBibl>collections_en</genBibl>
+  </bibl>
+</listBibl>

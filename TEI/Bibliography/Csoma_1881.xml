@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Csoma_1881">
+    <author>Csoma, Alexander Korosi</author>
+    <editor>Feer, Leon</editor>
+    <title level="m" lang="fr">Analyse du Kandjour, recueil des livres sacres au Tibet.</title>
+    <imprint>
+      <pubPlace>Paris</pubPlace>
+      <publisher>Leroux</publisher>
+      <date>1881</date>
+    </imprint>
+  </bibl>
+</listBibl>

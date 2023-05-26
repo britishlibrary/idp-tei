@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Ligeti_1971">
+    <author>Ligeti, Louis</author>
+    <title level="a" lang="french">Fragments mongols de Berlin</title>
+    <imprint>
+      <title level="j" lang="engl" type="shortRef">Acta Orientalia Academiae Scientiarum Hungaricae, Tomus XXIV (2)</title>
+      <biblScope type="issue">1971</biblScope>
+      <biblScope type="pp">139-164</biblScope>
+    </imprint>
+    <keywords>Fragments</keywords>
+    <keywords>mongols</keywords>
+    <keywords>Berlin</keywords>
+  </bibl>
+</listBibl>

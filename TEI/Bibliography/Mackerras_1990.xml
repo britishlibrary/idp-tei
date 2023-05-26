@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Mackerras_1990">
+  <author>Mackerras, Colin</author>
+  <title level="a" lang="eng">The Uighurs</title>
+  <imprint>
+    <title level="m" lang="eng" type="shortRef">Sinor_1990</title>
+    <pubPlace>Cambridge</pubPlace>
+    <publisher>Cambridge University Press</publisher>
+    <date>1990</date>
+  </imprint>
+  <note/>
+  <genBibl/>
+</bibl>

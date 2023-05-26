@@ -1,0 +1,4663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gandhari Documents From Niya: Links to Gandhari.org</title>
+        <author>Salomon, Richard</author>
+        <author>Cox, Collett</author>
+        <author>Allon, Mark</author>
+        <author>Lenz, Tim,</author>
+        <author>Neelis, Jason</author>
+        <author>Glass, Andrew</author>
+        <author>Shih, Tien-chang</author>
+        <author>Baums, Stefan</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Washington, Seattle</publisher>
+        <pubPlace>http://www.gandhari.org</pubPlace>
+        <date>2008</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>No printed source: created as electronic file</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>XML created by Sam van Schaik in April 2008 based on a text file created
+                by Andrew Glass. Title and URLs updated in 2014 to link to the Gandhari.org
+                website instead of old EBMP website.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This is a list of links from the Niya documents in the British Library Stein collection to the editions at <link url="http://www.gandhari.org">www.gandhari.org</link></p>
+    </head>
+    <body>
+      <msDescription n="CKD 398">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1353</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0398">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 397">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1354</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0397">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 399">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1355</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0399">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 401">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1356</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0401">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 400">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1357</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0400">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 402">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1359</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0402">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 407">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1360</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0407">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 403">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1361(A)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0403">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 406">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1362</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0406">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 404">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1363(A)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0404">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 405">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1363(B)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0405">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 410">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1364</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0410">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 409">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1365</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0409">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 408">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1366</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0408">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 412">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1367</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0412">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 411">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1368</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0411">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 413">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1369</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0413">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 414">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1370</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0414">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 415">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1372</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0415">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 418">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1374</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0418">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 417">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1375</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0417">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 416">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1376</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0416">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 419">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1377</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0419">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 420">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1378</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0420">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 421">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1381</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0421">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 422">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1382</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0422">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 423">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1383</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0423">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 424">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1384</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0424">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 425">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1385(A)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0425">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 427">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1386</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0427">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 247">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1387</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0247">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 510">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1388</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0510">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 513">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1389</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0513">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 512">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1390</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0512">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 515">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1391(A)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0515">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 516">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1392</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0516">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 514">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1393</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0514">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 517">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1395</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0517">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 518">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1396</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0518">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 521">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1398</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0521">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 522">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1399</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0522">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 519">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1400</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0519">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 523">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1401</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0523">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 520">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1402</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0520">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 270">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1404</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0270">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 525">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1405</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0525">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 540">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1406</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0540">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 526">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1408</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0526">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 527">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1410</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0527">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 528">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1411</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0528">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 530">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1412</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0530">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 529">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1413</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0529">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 532">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1414</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0532">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 533">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1416</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0533">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 531">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1417</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0531">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 534">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1418</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0534">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 535">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1419</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0535">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 536">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1421</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0536">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 537">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1422</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0537">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 538">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1423</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0538">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 567">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1425</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0567">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 539">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1427</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0539">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 541">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1428</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0541">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 542">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1429</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0542">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 544">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1430</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0544">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 545">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1431</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0545">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 546">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1433</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0546">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 548">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1434</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0548">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 561">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1435</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0561">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 549">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1436</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0549">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 547">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1437</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0547">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 550">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1438</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0550">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 551">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1439</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0551">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 552">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1440</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0552">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 562">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1441</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0562">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 553">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1442</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0553">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 554">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1443</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0554">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 555">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1444</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0555">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 556">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1445</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0556">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 558">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1446</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0558">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 557">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1447</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0557">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 559">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1448</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0559">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 560">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1449</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0560">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 563">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1450</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0563">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 564">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1451</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0564">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 565">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1453</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0565">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 213">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1480</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0213">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 214">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1483</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0214">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 215">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1484</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0215">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 216">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1485</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0216">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 217">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1486</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0217">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 218">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1487</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0218">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 219">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1488</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0219">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 220">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1490</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0220">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 345">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1491</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0345">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 221">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1493</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0221">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 222">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1494</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0222">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 223">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1495</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0223">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 224">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1497</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0224">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 225">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1498</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0225">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 226">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1499</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0226">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 227">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1500</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0227">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 228">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1501</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0228">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 229">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1502</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0229">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 231">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1503</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0231">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 230">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1504</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0230">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 232">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1505</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0232">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 233">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1506</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0233">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 234">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1507</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0234">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 235">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1508</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0235">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 236">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1509</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0236">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 237">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1511</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0237">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 238">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1512</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0238">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 239">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1513</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0239">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 240">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1514</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0240">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 241">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1515</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0241">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 242">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1516</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0242">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 243">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1518</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0243">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 244">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1519</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0244">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 370">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1520</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0370">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 245">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1522</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0245">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 246">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1523</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0246">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 248">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1524</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0248">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 249">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1525</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0249">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 250">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1526</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0250">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 251">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1527</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0251">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 253">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1528</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0253">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 255">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1529</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0255">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 256">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1530</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0256">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 258">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1531</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0258">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 259">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1533</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0259">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 252">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1534</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0252">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 254">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1535</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0254">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 257">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1536</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0257">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 260">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1538</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0260">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 261">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1539</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0261">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 262">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1540(A)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0262">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 266">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1541(A)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0266">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 263">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1542</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0263">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 264">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1543</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0264">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 265">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1544(A)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0265">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 267">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1546</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0267">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 297">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1547</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0297">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 268">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1549</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0268">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 269">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1550</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0269">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 524">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1551</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0524">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 271">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1552</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0271">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 272">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1553</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0272">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 274">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1554</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0274">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 273">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1555</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0273">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 275">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1556</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0275">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 276">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1557</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0276">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 277">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1558</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0277">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 278">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1559</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0278">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 279">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1560</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0279">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 280">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1561</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0280">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 281">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1562</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0281">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 282">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1563</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0282">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 283">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1564</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0283">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 284">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1565</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0284">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 285">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1566</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0285">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 286">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1567</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0286">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 287">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1568</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0287">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 288">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1569</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0288">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 289">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1571</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0289">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 290">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1572</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0290">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 293">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1573</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0293">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 291">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1574</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0291">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 292">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1575</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0292">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 294">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1576</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0294">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 295">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1577</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0295">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 296">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1578</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0296">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 299">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1579</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0299">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 298">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1580</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0298">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 302">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1581</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0302">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 301">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1582</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0301">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 300">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1583</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0300">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 304">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1584</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0304">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 303">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1585</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0303">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 305">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1586</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0305">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 306">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1587</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0306">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 307">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1590</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0307">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 308">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1591</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0308">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 309">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1592</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0309">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 310">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1593(A)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0310">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 311">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1594</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0311">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 312">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1595(A)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0312">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 313">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1596</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0313">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 314">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1597</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0314">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 315">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1598</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0315">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 316">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1600</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0316">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 317">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1601</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0317">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 318">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1602(A)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0318">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 319">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1603</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0319">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 320">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1604</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0320">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 323">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1605</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0323">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 322">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1606(A)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0322">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 321">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1607(B)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0321">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 325">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1608</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0325">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 324">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1609</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0324">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 326">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1610</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0326">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 327">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1611</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0327">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 328">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1612</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0328">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 329">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1613</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0329">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 331">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1614</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0331">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 330">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1615</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0330">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 333">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1616</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0333">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 332">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1617</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0332">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 334">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1618</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0334">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 335">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1619</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0335">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 336">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1621</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0336">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 337">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1622</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0337">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 338">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1623</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0338">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 339">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1624</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0339">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 340">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1625</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0340">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 341">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1626</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0341">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 342">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1627</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0342">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 343">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1628</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0343">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 344">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1629</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0344">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 347">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1630</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0347">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 348">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1631(A)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0348">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 346">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1632(A)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0346">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 349">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1632(B)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0349">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 350">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1633</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0350">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 351">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1634</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0351">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 352">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1635</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0352">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 353">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1636</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0353">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 354">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1637</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0354">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 355">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1639</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0355">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 356">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1640</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0356">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 357">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1641</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0357">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 358">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1642</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0358">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 362">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1643</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0362">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 359">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1644</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0359">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 360">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1645</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0360">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 361">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1646</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0361">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 363">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1647</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0363">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 364">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1648</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0364">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 366">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1649</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0366">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 365">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1650</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0365">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 367">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1651</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0367">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 368">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1652</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0368">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 369">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1653</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0369">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 371">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1654</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0371">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 376">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1655(A)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0376">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 372">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1655(B)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0372">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 373">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1656</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0373">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 374">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1657</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0374">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 375">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1658</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0375">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 378">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1659</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0378">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 377">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1660</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0377">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 379">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1661</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0379">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 380">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1662</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0380">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 382">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1663</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0382">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 381">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1664</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0381">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 384">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1665</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0384">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 383">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1666</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0383">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 385">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1668</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0385">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 386">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1669</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0386">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 387">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1670</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0387">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 389">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1671</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0389">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 388">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1672</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0388">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 390">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1673</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0390">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 391">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1674</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0391">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 392">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1675</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0392">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 393">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1676</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0393">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 394">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1677</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0394">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 764">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1678</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0764">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 395">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1680</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0395">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 396">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1681</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0396">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 511">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1682</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0511">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="CKD 543">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8211/1732</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <note>
+              <link url="http://www.gandhari.org/a_document.php?catid=CKD0543">Click
+                                here for transcription this manuscript at the Gandhari.org
+                                website</link>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

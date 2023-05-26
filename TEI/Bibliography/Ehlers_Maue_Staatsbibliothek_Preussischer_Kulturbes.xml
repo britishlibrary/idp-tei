@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Ehlers_Maue_Staatsbibliothek Preussischer Kulturbesitz_1987-2005">
+    <author>Ehlers, Gerhard</author>
+    <author>Maue, Dieter</author>
+    <author>Staatsbibliothek Preussischer Kulturbesitz.</author>
+    <title level="m" lang="ger">Alttürkische Handschriften</title>
+    <imprint>
+      <pubPlace>Stuttgart</pubPlace>
+      <publisher>F. Steiner Verlag Wiesbaden</publisher>
+      <date>1987-2005</date>
+    </imprint>
+    <note>Verzeichnis der Orientalischen Handschriften in Deutschland. 13,9-10, 13,13-17.</note>
+    <keywords/>
+    <genBibl>collections_de</genBibl>
+  </bibl>
+</listBibl>

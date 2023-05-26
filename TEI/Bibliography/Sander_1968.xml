@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Sander_1968">
+    <author>Sander, Lore</author>
+    <title level="m" lang="ger">Pal&#xE4;ographisches zu den Sanskrithandschriften der Berliner Turfansammlung</title>
+    <imprint>
+      <pubPlace>Wiesbaden</pubPlace>
+      <publisher>Frantz Steiner</publisher>
+      <date>1968</date>
+    </imprint>
+    <note/>
+    <keywords>Palaeography</keywords>
+    <keywords>Turfan</keywords>
+    <keywords>Sanskrit</keywords>
+    <GenBibl>collections_de</GenBibl>
+    <GenBibl>palaeography</GenBibl>
+    <biblScope/>
+  </bibl>
+</listBibl>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Zieme_Bolalım">
+    <author>Zieme, Peter</author>
+    <title level="a" lang="ger">Bolalım bäg yutuz – Ein buddhistisches Stabreimgedicht aus Toyok</title>
+    <imprint>
+      <title level="j" lang="turk" type="shortRef">Uygurlardan Osmanlıya. Şinasi Tekin’in Anısına. Ed. Günay Kut, Fatma Büyükkarci</title>
+      <date>Istanbul 2005</date>
+      <biblScope type="pp">732-737</biblScope>
+    </imprint>
+    <keywords>buddhistisch</keywords>
+    <keywords>Stabreimgedicht</keywords>
+    <keywords>Toyok</keywords>
+  </bibl>
+</listBibl>

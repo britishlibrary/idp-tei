@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Russell-Smith_2002">
+  <author>Russell-Smith, Lilla </author>
+  <title level="a" lang="eng">Digitising Dunhuang</title>
+  <imprint>
+    <title level="j" lang="eng" type="shortRef">British Museum Magazine</title>
+    <biblScope type="issue"> 42</biblScope>
+    <biblScope type="pp">18-20</biblScope>
+    <date>Spring 2002</date>
+  </imprint>
+  <keywords>Dunhuang</keywords>
+</bibl>

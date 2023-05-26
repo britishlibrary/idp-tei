@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Sports_1997">
+    <title level="m" type="eng">The Silk Road and Sports</title>
+    <biblScope type="issue">Record Vol. 3</biblScope>
+    <imprint>
+      <pubPlace>Nara</pubPlace>
+      <publisher>Research Center for Silk Roadology</publisher>
+      <date>1997</date>
+    </imprint>
+  </bibl>
+</listBibl>

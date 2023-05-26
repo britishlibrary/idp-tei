@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Cocheteux_Takahashi_1995">
+  <editor n="1">Cocheteux, Marie-France</editor>
+  <editor n="2">Takahashi, Agnès</editor>
+  <title level="m" lang="fre">Sérinde, Terre de Bouddha. Dix siècle d'art sur la route de la soie</title>
+  <imprint>
+    <pubPlace>Paris</pubPlace>
+    <publisher>RMN</publisher>
+    <date>1995</date>
+    <idno type="ISBN">2711830683 9782711830688</idno>
+  </imprint>
+  <note>catalog of the exhibtion at the Galeries Nationales du Grand Palais, 24 October 1995-19 February 1996</note>
+  <keywords>Buddhism</keywords>
+  <genBibl>collections_fr</genBibl>
+</bibl>

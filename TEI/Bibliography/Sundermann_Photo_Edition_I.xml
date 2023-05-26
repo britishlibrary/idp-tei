@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Sundermann_Photo Edition I">
+    <author>Sundermann, Werner</author>
+    <title level="a" lang="engl">Iranian Manichaean Turfan texts in early publications (1904-1934): Photo Edition.</title>
+    <title level="j" lang="engl" type="shortRef">Corpus Inscriptionum Iranicarum, Suppl. Series 3</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>CII</publisher>
+      <date>1996</date>
+    </imprint>
+    <keywords>Iranian</keywords>
+    <keywords>Manichaean</keywords>
+    <keywords>publication</keywords>
+    <keywords>Turfan</keywords>
+    <genBibl>CII</genBibl>
+  </bibl>
+</listBibl>

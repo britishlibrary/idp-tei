@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<bibl id="Cohen_2000">
+  <author>Cohen, Monique, Dr&#xE8;ges, Jean-Pierre, and Gi&#xE8;s, Jacques.</author>
+  <title level="m" lang="eng">La S&#xE9;rinde terre d' &#xE9;changes. Art, religion, commerce du Ier au Xe si&#xE8;cle. Actes du colloque International Galeries nationales du Grand Palais 13-14-15 f&#xE9;vrier 1996</title>
+  <imprint>
+    <pubPlace>Paris</pubPlace>
+    <publisher>La Documentation Fran&#xE7;aise</publisher>
+    <date>2000</date>
+    <idno type="ISBN">2110042818 9782110042811</idno>
+  </imprint>
+  <genBibl/>
+</bibl>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Catalogue of Lidai fabao ji fragments</title>
+        <author>Adamek, Wendi Leigh</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The International Dunhuang Project</publisher>
+        <pubPlace>London</pubPlace>
+        <date>1997</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>No printed source: created as electronic file</p>
+        <bibl>
+          <ref>Adamek_1997</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Input and marked up by Susan Whitfield. Imported to 4D on 30/11/05 by
+                Susan Whitfield.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>This catalogue by<name lang="eng-Latn">Wendi Leigh Adamek</name>was prepared for IDP
+            online in 1997.</head>
+    <body>
+      <msDescription type="WLE" n="1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.1776(A)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="V.1">
+            <title lang="chi-Latn">[Li dai fa bao ji]</title>
+            <note>
+              <p>This is a fragment of 'Li dai fa bao ji' (See Or.8210/S.516/R.1)
+                                containing the biographies of the fifth and sixth Patriarchs of the
+                                Tang dynasty [i.e. Hongren and Huineng]. The chronicle traces the
+                                history of Buddhism in China from AD 60-774. Its contents and its
+                                significance as evidence for a Sichuan branch of Chan which honoured
+                                four patriarchs - Zhishen (609-701) to Wuzhu (714-74) - are examined
+                                    in<ref target="Yanagida_1966">278-349</ref>(summarized in<ref target="Demieville_1970">82</ref>). Yanagida 1983, an English
+                                translation of the introduction to his edition of P.2125, summarizes
+                                the history, literary features, and teachings of the chronicle and
+                                supplies a bibliography. Additional mss. segments include a nearly
+                                complete text in S.516/R.1, and partial texts on Or.8210/S.1611,
+                                Or.8210/S.5916, P.3717, and P.3727. Adamek is preparing a
+                                forthcoming English translation.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Or.8210/S.516"/>
+              </bibl>
+              <bibl>
+                <ref target="T.156"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription type="WLE" n="2">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">Or.8210/S.6557</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Latn">Heze heshang wenda za zhengyi</title>
+            <note>
+              <p>Variant version of 'Heze heshang wenda za zhengyi' (Miscellaneous
+                                Dialogues of the Venerable of Heze) which survives in P.3047
+                                    (see<ref target="Suzuki_Koda_1934"/>) and the Ishii ms.
+                                    (see<ref target="Suzuki_1968">vol. 3</ref>). It is by
+                                Shenhui.</p>
+            </note>
+            <listBibl/>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

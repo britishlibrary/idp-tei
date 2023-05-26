@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Zhongguo_2004">
+  <author lang="chi-Latn">Zhongguo guojia bowuguan</author>
+  <author lang="chi-Hant">&#x4E2D;&#x570B;&#x570B;&#x5BB6;&#x535A;&#x7269;&#x9928;</author>
+  <title level="m" lang="chi-Latn">Daxia xunzong- xixia wenwu jicui</title>
+  <title level="m" lang="chi-Hant">&#x5927;&#x590F;&#x5C0B;&#x8E64;&#xFF0D;&#x897F;&#x590F;&#x6587;&#x7269;&#x8F2F;&#x8403;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Beijing</pubPlace>
+    <publisher>Zhongguo shehui kexue chubanshe</publisher>
+    <date>2004</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>Artefact</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

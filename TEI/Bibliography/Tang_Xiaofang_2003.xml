@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Tang_Xiaofang_2003">
+  <author lang="chi-Latn">Tang Xiaofang</author>
+  <author lang="chi-Hant">&#x6E6F;&#x66C9;&#x82B3;</author>
+  <title level="m" lang="chi-Latn">Xixia yishu</title>
+  <title level="m" lang="chi-Hant">&#x897F;&#x590F;&#x85DD;&#x8853;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Yinchuan</pubPlace>
+    <publisher>Ningxia renmin chubanshe</publisher>
+    <date>2003</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>Art</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

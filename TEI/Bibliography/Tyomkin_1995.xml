@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Tyomkin_1995">
+    <author>Tyomkin, E.N.</author>
+    <title level="a" lang="fre">Unique Sanskrit Fragments of the 'Sutra of Golden Light' in the Manuscript Collection of the St.Petersburg Branch of the Institute of Oriental Studies
+        </title>
+    <imprint>
+      <title level="j">Manuscripta Orientalia:International Journal for Oriental Manuscript Research </title>
+      <biblScope type="issue">I,1</biblScope>
+      <biblScope type="pp">29-38</biblScope>
+      <date>1995</date>
+    </imprint>
+    <keywords>Golden</keywords>
+    <keywords>Sutra</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

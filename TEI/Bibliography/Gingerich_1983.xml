@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Gingerich_1983">
+    <author>Gingerich, O.</author>
+    <title level="m" lang="fre">The New Encycopaedia Britannica</title>
+    <imprint>
+      <pubPlace>Chicago</pubPlace>
+      <publisher>Encyclopedia Britannica</publisher>
+      <date>1983</date>
+      <edition>15th edition</edition>
+    </imprint>
+    <note/>
+    <keywords/>
+    <genBibl>astronomy</genBibl>
+  </bibl>
+</listBibl>

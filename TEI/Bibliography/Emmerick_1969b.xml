@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Emmerick_1969b">
+    <author>Emmerick, R.E</author>
+    <title level="a" lang="eng">Khotanese Manuscript 'Huntington K'</title>
+    <imprint>
+      <title level="j">Asia Major</title>
+      <biblScope type="issue">15</biblScope>
+      <biblScope type="pp">1-6</biblScope>
+      <date>1969b</date>
+    </imprint>
+    <keywords>I-khotan</keywords>
+    <keywords>Manuscript</keywords>
+    <keywords/>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

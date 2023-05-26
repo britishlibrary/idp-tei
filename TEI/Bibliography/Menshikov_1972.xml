@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Menshikov_1972">
+    <author>Menshikov, L. N.</author>
+    <title level="m" lang="rus-Latn">Bianʹvėnʹ o vozdaianii za milosti: rukopisʹ iz
+            dunʹkhuanskogo fonda Instituta vostokovedeniia</title>
+    <imprint>
+      <pubPlace>Moscow</pubPlace>
+      <publisher>Izd-vo "Nauka," Glav. red. vostochnoĭ lit-ry</publisher>
+      <date>1972</date>
+    </imprint>
+    <note>2 vols.</note>
+    <keywords>DH/literature/bianwen</keywords>
+    <genBibl>collections_ru</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Enomoto_1989">
+    <author>Enomoto, Fumio</author>
+    <title level="a" lang="eng">Sanskrit Fragments from the Saṃyuktāgama Discovered in Bamiyan and Eastern Turkestan</title>
+    <imprint>
+      <title level="s" lang="ger">Sanskrit-Texte aus dem buddhistischen Kanon: Neuentdeckungen und Neueditionen</title>
+      <biblScope type="issue">I</biblScope>
+      <title level="s" lang="ger"> Sanskrit-Wörterbuch der buddhistischen Texte aus den Turfan-Funden : Beiheft</title>
+      <biblScope type="issue">2</biblScope>
+      <biblScope type="pp">7-16</biblScope>
+      <pubPlace>Göttingen</pubPlace>
+      <date>1989</date>
+    </imprint>
+    <keywords>manuscript</keywords>
+    <keywords>sanskrit</keywords>
+    <keywords>turfan</keywords>
+    <keywords>SHT</keywords>
+    <keywords>buddhism</keywords>
+  </bibl>
+</listBibl>

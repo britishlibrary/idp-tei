@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Wu_Fengyun_2003">
+  <author lang="chi-Latn">Wu Fengyun</author>
+  <author lang="chi-Hant">&#x5433;&#x5CF0;&#x96F2;</author>
+  <title level="m" lang="chi-Latn">Xixia qianbi-mengxiang yu huihuang</title>
+  <title level="m" lang="chi-Hant">&#x897F;&#x590F;&#x9322;&#x5E63; &#xFF0D;&#x5922;&#x60F3;&#x8207;&#x8F1D;&#x714C;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Yinchuan</pubPlace>
+    <publisher>Ningxia renmin chubanshe</publisher>
+    <date>2003</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>Artefact</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

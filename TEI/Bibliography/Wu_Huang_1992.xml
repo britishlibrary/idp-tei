@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Wu_Huang_1992">
+    <author>Wu, Huang</author>
+    <title level="a" lang="eng">What is Bianxiang? On the Relationship between Dunhuang Art and Dunhuang Literature</title>
+    <imprint>
+      <title level="j">Harvard Journal of Asiatic Studies</title>
+      <biblScope type="issue">52</biblScope>
+      <biblScope type="pp">111-92</biblScope>
+      <date>1992</date>
+    </imprint>
+    <keywords>Dunhuang</keywords>
+    <keywords>Literature</keywords>
+    <keywords>Bianxiang</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

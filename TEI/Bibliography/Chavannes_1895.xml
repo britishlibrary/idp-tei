@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Chavannes_1895">
+    <author>Chavannes, E.</author>
+    <title level="m" lang="fre">Les Mémoires Historiques de Se-Ma Ts'ien</title>
+    <imprint>
+      <pubPlace>Paris</pubPlace>
+      <publisher>Maisonneuve</publisher>
+      <date>1895</date>
+      <edition>new ed. <date>1967</date></edition>
+    </imprint>
+    <note/>
+    <keywords/>
+    <genBibl>astronomy</genBibl>
+  </bibl>
+</listBibl>

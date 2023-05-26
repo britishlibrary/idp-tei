@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="He_Guangbo_2001">
+  <author lang="chi-Latn">He Guangbo</author>
+  <author lang="chi-Hant">&#x4F55;&#x5EE3;&#x535A;</author>
+  <title level="m" lang="chi-Latn">Shushanji yanjiu lunji</title>
+  <title level="m" lang="chi-Hant">&#x8FF0;&#x5584;&#x96C6;&#x7814;&#x7A76;&#x8AD6;&#x96C6;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Lanzhou</pubPlace>
+    <publisher>Gansu renmin chubanshe</publisher>
+    <date>2001</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>Documents</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

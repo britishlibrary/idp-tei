@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Sieg_1991">
+    <author>Sieg, Emil</author>
+    <editor>Janert, K. L.</editor>
+    <title level="m" lang="ger">Kleine  Schriften (hrsg. von Klaus Ludwig Janert)</title>
+    <imprint>
+      <title level="s">Glasenapp-Stiftung</title>
+      <biblScope type="vol">31</biblScope>
+      <pubPlace>Stuttgart</pubPlace>
+      <publisher>Steiner</publisher>
+      <date>1991</date>
+    </imprint>
+    <note/>
+    <keywords>SHT</keywords>
+  </bibl>
+</listBibl>

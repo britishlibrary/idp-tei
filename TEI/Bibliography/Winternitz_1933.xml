@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Winternitz_1933">
+    <author>Winternitz, Maurice</author>
+    <title level="m" lang="eng">A History of Indian Literature</title>
+    <imprint>
+      <pubPlace>Calcutta</pubPlace>
+      <publisher>University of Calcutta</publisher>
+      <date>1933</date>
+    </imprint>
+    <keywords>India</keywords>
+    <keywords>Buddhist</keywords>
+    <keywords>Literature</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

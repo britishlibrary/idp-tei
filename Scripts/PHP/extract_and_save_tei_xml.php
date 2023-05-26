@@ -67,7 +67,8 @@
 	$run_details_array[1]['report_url_github'] = 'https://britishlibrary.github.io/idp-tei/reports/' . $run_report_filename ;	
 	$run_details_array[1]['sql_string'] = "SELECT  A.`CatalogueID`, A.`Shortref`, A.`Type`, A.`UUID` FROM Catalogue AS A  ORDER BY A.`Shortref` ASC LIMIT 5000";
 	$run_details_array[1]['subtotal_count_sw'] = "N";	# set to Y to have subtotals for change in all but final col value (assumed sorting on those first)	
-	$run_details_array[1]['uuid_table'] = "";	# set to "Images" if want hyerlink for UUID value; otherwise leave blank
+	$run_details_array[1]['uuid_table'] = "Catalogue";	# set to "Images" if want hyerlink for UUID value; otherwise leave blank
+	$run_details_array[1]['uuid_table_blobname'] = 'XMLBlob';
 	$run_details_array[1]['report_cols'] = array();
 	$run_details_array[1]['report_cols'][1] = "CatalogueID"; # 1st col should be unique
 	$run_details_array[1]['report_cols'][2] = "Shortref";
@@ -83,7 +84,8 @@
 	$run_details_array[2]['report_url_github'] = 'https://britishlibrary.github.io/idp-tei/reports/' . $run_report_filename ;	
 	$run_details_array[2]['sql_string'] = "SELECT  A.`Short ref`, A.`Title`, A.`Author`, A.`UUID` FROM Bibliography AS A ORDER BY A.`Short ref` ASC LIMIT 5000";
 	$run_details_array[2]['subtotal_count_sw'] = "N";	# set to Y to have subtotals for change in all but final col value (assumed sorting on those first)	
-	$run_details_array[2]['uuid_table'] = "";	# set to "Images" if want hyerlink for UUID value; otherwise leave blank
+	$run_details_array[2]['uuid_table'] = "Bibliography";	# set to "Images" if want hyerlink for UUID value; otherwise leave blank
+	$run_details_array[2]['uuid_table_blobname'] = 'XMLRecord';
 	$run_details_array[2]['report_cols'] = array();
 	$run_details_array[2]['report_cols'][1] = "Short ref"; # 1st col should be unique
 	$run_details_array[2]['report_cols'][2] = "Title";
@@ -206,6 +208,7 @@ function create_report_files_for_run_number($run_number, $run_details_array, $co
 	$fields_array = 					$run_details_array[$run_number]['report_cols'];
 	$run_subtotal_count_sw =			$run_details_array[$run_number]['subtotal_count_sw'];
 	$run_uuid_table =					$run_details_array[$run_number]['uuid_table'];
+	$run_uuid_table_blobname =			$run_details_array[$run_number]['uuid_table_blobname'];
 	
 	$batch_update_twoway_file = "";
 	$batch_update_twoway_forwards_file = "";
@@ -242,6 +245,7 @@ function create_report_files_for_run_number($run_number, $run_details_array, $co
 	<tr><td>SQL:</td><td><span style='color:red;'>$run_sql_string</span></td></tr>
 	<tr><td>Subtotaling?:</td><td><span style='color:black;'>$run_subtotal_count_sw</span></td></tr>	
 	<tr><td>UUID table:</td><td><span style='color:black;'>$run_uuid_table</span></td></tr>	
+	<tr><td>UUID table blobname:</td><td><span style='color:black;'>$run_uuid_table_blobname</span></td></tr>	
 	<tr><td>Report file:</td><td><b>$run_report_file</b></td></tr>
 	<tr><td>Report on locahost:</td><td><a target='REP_WIN' href='$run_report_url_localhost'>$run_report_url_localhost</a></td></tr>
 	<tr><td>Report on Github:</td><td><a target='REP_WIN' href='$run_report_url_github'>$run_report_url_github</a></td></tr>
@@ -352,6 +356,29 @@ function create_report_files_for_run_number($run_number, $run_details_array, $co
 				
 				if ($field_name == 'UUID') # 
 				{
+					
+					# use REST to extract blob and save to file
+					# zzz
+					
+					if ($run_uuid_table == 'Catalogue')
+					{
+						$rest_table = $run_uuid_table;
+						$rest_uuid = $field_value;
+						$rest_blobname = $run_uuid_table_blobname;
+						$rest_save_filename = convert_shortref_to_filename($rest_table, odbc_result($RecordSet, 'Shortref'));
+						call_rest_to_expand_xml_blob_and_save($rest_table, $rest_uuid, $rest_blobname, $rest_save_filename);
+					}
+					
+					if ($run_uuid_table == 'Bibliography')
+					{
+						$rest_table = $run_uuid_table;
+						$rest_uuid = $field_value;
+						$rest_blobname = $run_uuid_table_blobname;
+						$rest_save_filename = convert_shortref_to_filename($rest_table, odbc_result($RecordSet, 'Short ref'));
+						call_rest_to_expand_xml_blob_and_save($rest_table, $rest_uuid, $rest_blobname, $rest_save_filename);
+					}					
+					
+					
 					if ($run_uuid_table == 'Images')
 					{
 						$uuid_url = "http://idp.bl.uk/api/Images/getImageByUUID?UUID=$field_value&imageType=_L";
@@ -427,10 +454,7 @@ function create_report_files_for_run_number($run_number, $run_details_array, $co
 			
 			if ($key == $final_col_key)
 			{
-				if ($run_number == 5) # report intended map
-				{
-					$output_html_table .= "<th>Intended Mapped English</th><th>Intended Mapped Form Value</th>\n";
-				}
+
 				
 				$output_html_table .= "<th>COUNT ($final_col_value)</th>\n";
 			}
@@ -616,6 +640,22 @@ function create_report_files_for_run_number($run_number, $run_details_array, $co
 	
 }
 
+
+#-------------------
+#
+function convert_shortref_to_filename($table, $shortref)
+{
+	$filename = $shortref . ".xml";
+	
+	$filename = preg_replace('/\s/', "_", $filename);
+	
+	$filename  = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI/$table/$filename";
+	
+
+	
+	return $filename;
+}
+
 #-------------------
 #
 function map_form_value($form_value_mapping_array, $old_form_value)
@@ -786,6 +826,442 @@ function load_up_items_pressmark_array($conn)
 	}
 	
 	return $items_pressmark_array;
+	
+}
+
+
+#--------------------
+#	
+function use_curl_to_login_to_create_session_if_required($cookie_name, $cookie_file_path, $ip_and_port_REST, $global_dev_or_test_or_live_sw, $verbose)
+{
+
+	echo "<hr/>";
+		
+	# check existence and creation time of 4D cookie and only login if more than 2 hours old
+#	$cookie_name = "4DSID_third_test.4dbase";
+#	$cookie_file_path = "C:/BRITISH_LIBRARY/IDP/4D/Test 4D application localhost/third_test.4dbase/demo_cookies/" . $cookie_name;
+	$max_age_minutes_can_reuse_cookie = 60.0;
+	
+	
+	if (file_exists($cookie_file_path))
+	{
+		$cookie_value = file_get_contents($cookie_file_path);
+		$last_mod_date_time = date("F d Y H:i:s", filemtime($cookie_file_path));
+		if ($verbose) echo "<p>4D session cookie <b>$cookie_file_path</b> was last modified: <b>$last_mod_date_time</b></p>";
+		
+	
+		$current_date_time = date("F d Y H:i:s");
+		if ($verbose) echo "<p>Current date and time: <b>$current_date_time</b></p>";
+		
+		$from_time = strtotime($last_mod_date_time); 
+		$to_time = strtotime($current_date_time); 
+		$cookie_age_minutes = round(abs($from_time - $to_time) / 60,1);
+		if ($verbose) echo "<p>Difference in minutes (age of cookie): <b>$cookie_age_minutes</b> minutes</p>";
+		
+		if ( ($cookie_age_minutes - $max_age_minutes_can_reuse_cookie) < 0.0)
+		{
+			if ($verbose) echo "<p>Since cookie age <b>$cookie_age_minutes</b> (minutes) is less than maximum age </b>$max_age_minutes_can_reuse_cookie</b> (minutes) will NOT relogin - subsequent REST requests can reuse the current cookie (WARNING: if subsequent REST requests seem to fail (due to login failure) a good idea is to temporarily comment out the <b>return false;</b> statement in the PHP script, rerun current script - forcing a (re)login - then comment in that line once more so as avoid running out of licenses by logging in too many times - if that happens must stop and start the Web server in 4D)</p>";
+			# HINT: comment this return false line out to force continuation so perform login attempt regardless of expiry (warning: will use up needless licenses and cause max sessions)
+			# I find I sometimes need to do this when returning to this demo otherwise subsequent REST requests fail
+			return false;  # HARD-CODED SWITCH (comment out temporarily?)
+			
+		}
+		else
+		{
+			if ($verbose) echo "<p>4D session cookie <b>$cookie_file_path</b> has expired (older than <b>$max_age_minutes_can_reuse_cookie</b> minutes) so must login again</p>";
+		}
+	}
+	else
+	{
+		if ($verbose) echo "<p>4D session cookie <b>$cookie_file_path</b> does not exist</p>";
+	}
+	
+	if ($verbose) echo "<p>Will now perform login...</p>";
+	
+	
+//	$rest_url = "http://127.0.0.1:809/rest/\$directory/login"; // see https://doc4d.github.io/docs/next/REST/authUsers suspect must provide email and password for a user in the POST
+//	$rest_url = "http://192.168.98.19:809/rest/\$directory/login";  // IPv4 address from console ipconfig/all 
+	$rest_url = "http://$ip_and_port_REST/rest/\$directory/login"; 
+	// creates a coookie called 4DSID_third_test.4dbase in Edge > Settings > Cookies and site permissions > (first item)
+	if ($verbose) echo "<p>Will use REST URL <b>$rest_url</b> (POSTed with login credentials) to login and so start a session. We must trap the returned cookie (in response header) and save it for use in later requests in order to maintain the same session.</p>";	
+//	$json_ret = use_file_get_contents_for_rest_url($rest_url);	
+
+
+
+
+
+	
+	$url = $rest_url;
+	$ch = curl_init($url);
+	curl_setopt($ch, CURLOPT_URL, $url);
+	curl_setopt($ch, CURLOPT_POST, true);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+	
+	
+	
+	# IMPORTANT: 4D credentials must be sent in the headers and NOT in the post data!
+	# use the version for IDP_DB_Development
+	$headers_idp_dev = array(
+		"Accept: application/json",
+		"Content-Type: application/json",
+		"username-4D: Julian Cook",
+		"password-4D: JC",
+		"session-4D-length: 60"
+	);
+	
+	# use the version for IDP Test
+	$headers_idp_test = array(
+		"Accept: application/json",
+		"Content-Type: application/json",
+		"username-4D: JulianCook",
+		"password-4D: julian#123",
+		"session-4D-length: 60"
+	);
+	
+	# use the version for IDP Live
+	$headers_idp_live = array(
+		"Accept: application/json",
+		"Content-Type: application/json",
+		"username-4D: Julian Cook",
+		"password-4D: JC",
+		"session-4D-length: 60"
+	);
+	
+	$headers = $headers_idp_dev;  # HARD-CODED SWITCH
+	if ($global_dev_or_test_or_live_sw == 'T')
+	{
+		$headers = $headers_idp_test;
+	}
+	if ($global_dev_or_test_or_live_sw == 'L')
+	{
+		$headers = $headers_idp_live;
+	}	
+	
+	echo "<p>Headers data (var_dump):</p>";
+	var_dump($headers);
+	
+	
+	curl_setopt($ch, CURLOPT_HTTPHEADER, $headers); // all important use of login details in HTTP request headers
+	
+	curl_setopt($ch, CURLOPT_VERBOSE, true);
+	curl_setopt($ch, CURLINFO_HEADER_OUT, true);
+
+	// login data for POST - see form equivalent at https://doc4d.github.io/docs/next/REST/authUsers 
+	// am not convinced this is working - the On REST Authentication method does not seem to be fed username-4D and password-4D as would expect
+	
+	# IMPORTANT: 4D credentials must be sent in the headers and NOT in the post data!
+	
+	$data = <<<DATA
+	{
+	  "username-4D": "Julian Cook",
+	  "password-4D": "JC",
+	  "session-4D-length": "60"
+	}
+	DATA;
+	
+	# version for IDP_DB_Development
+	$data_json_idp_dev = <<<DATA
+	{
+	  "username-4D": "Julian Cook",
+	  "password-4D": "JC"
+	}
+	DATA;
+	
+	# use the version for IDP Test
+	$data_json_idp_test = <<<DATA
+	{
+	  "username-4D": "JulianCook",
+	  "password-4D": "julian#123"
+	}
+	DATA;	
+	
+	# use the version for IDP Live
+	$data_json_idp_live = <<<DATA
+	{
+	  "username-4D": "Julian Cook",
+	  "password-4D": "JC"
+	}
+	DATA;	
+	
+	$data_json= $data_json_idp_dev; # HARD-CODED SWITCH
+	if ($global_dev_or_test_or_live_sw == 'T')
+	{
+		$data_json= $data_json_idp_test;
+	}
+	if ($global_dev_or_test_or_live_sw == 'L')
+	{
+		$data_json= $data_json_idp_live;
+	}		
+	
+	# $data_string = "username-4D=Julian%20Cook%password-4D=JC";
+	
+	echo "<p>POST data (but login details must be sent in headers NOT as post data) (var_dump):</p>";
+	var_dump($data_json);
+
+	curl_setopt($ch, CURLOPT_POSTFIELDS, $data_json); // not sure this achieves anything since must send login details in headers not as post data
+#	curl_setopt($ch, CURLOPT_POSTFIELDS, $data_string); // use string NOT JSON
+	
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt($ch, CURLOPT_HEADERFUNCTION, "HandleHeaderLine"); // to get response header
+
+	$resp = curl_exec($ch);
+	
+	$headers = curl_getinfo($ch, CURLINFO_HEADER_OUT);
+#	echo "<p>Curl headers (do they mention cookie?) (WARNING: these are the SENT headers rather than the response! for the response headers including set-cookie see function HandleHeaderLine):</p>";
+#	print_r($headers);
+	
+
+#	echo "<p>DUMPING LOGIN RESPONSE:</p>";
+#	var_dump($resp);
+
+	
+	curl_close($ch);
+
+	
+	return $resp;
+}
+
+
+
+#----------
+# XML version expects XML from a blob (octet-stream) to be returned not JSON
+function use_curl_for_rest_url_xml($rest_url, $cookie_name, $cookie_file_path, $verbose)
+{
+	$verbose_display = 'false';
+	if ($verbose)
+	{
+		$verbose_display = 'true';
+	}
+#	echo "<p>TESTING in use_curl_for_rest_url() for \$rest_url <b>$rest_url</b> and \$verbose [<b>$verbose_display</b>] </p>";
+
+	$ch = curl_init();
+ 
+ # QN: do we need to force it to use the cookie 4DSID_third_test.4dbase for 127.0.0.1 ? Or can we in some other way tell the server who we are and it will go to the cookie and NOT begin a new session?
+
+    curl_setopt($ch, CURLOPT_URL, $rest_url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+	
+#	$ckfile = "4DSID_third_test.4dbase"; # absolute path to hard-coded location of 4D session cookie
+#	curl_setopt ($ch, CURLOPT_COOKIEJAR, $ckfile);
+#	curl_setopt ($ch, CURLOPT_COOKIEFILE, $ckfile);
+
+	# sending manually set cookie
+#	curl_setopt($ch, CURLOPT_HTTPHEADER, array("Cookie: 4DSID_third_test.4dbase=681973F18F6AF3428CD8A3AF8BEAC642")); # value from Edge cookie (created by browser
+# sending cookies from file
+#	$cookie_name = "4DSID_third_test.4dbase";
+#	$cookie_file_path = "C:/BRITISH_LIBRARY/IDP/4D/Test 4D application localhost/third_test.4dbase/demo_cookies/" . $cookie_name; # should have been created during initial call to login
+
+
+# for XML from a blob use application/octet-stream NOT application/json
+# we find this out using Postman to post http://192.168.98.19:809/rest/Catalogue[F91DF62E6B93462DB2E538F04B518FD6]/XMLBlob?$binary=true&$version=0&$expand=XMLBlob
+#
+# for info on cookies in 4D sessions see
+# https://blog.4d.com/a-better-understanding-of-4d-rest-sessions/
+# use Postman to view the cookie called WASID4D
+# e.g. WASID4D=2FA348829C982F49BF96519AE10ABDC0; Path=/; Secure; HttpOnly; Expires=Mon, 15 May 2023 11:33:54 GMT;
+	$cookie_value = file_get_contents($cookie_file_path);
+	
+	echo "<p>[use_curl_for_rest_url_xml] \$cookie_file_path: $cookie_file_path</p>";
+	echo "<p>[use_curl_for_rest_url_xml] \$cookie_value from file is: $cookie_value</p>";
+	echo "<p>[use_curl_for_rest_url_xml] \$cookie_name is: $cookie_name</p>";
+
+	$headers = array(
+	   "Accept: application/octet-stream",
+	   "Content-Type: application/octet-stream",
+	   "Cookie: $cookie_name=$cookie_value"
+	);
+	curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+	
+	curl_setopt($ch, CURLOPT_VERBOSE, true);
+	curl_setopt($ch, CURLINFO_HEADER_OUT, true);
+	
+	# sending cookies from file
+#	$cookie_name = "WASID4D";
+#	$cookie_file_path = "C:/BRITISH_LIBRARY/IDP/4D/demo_cookies/" . $cookie_name;
+#	curl_setopt($ch, CURLOPT_COOKIEFILE, $cookie_file_path);
+	
+#    curl_setopt($ch, CURLOPT_COOKIESESSION, false);	# dont know if has any effect
+	
+	
+#	curl_setopt($ch,  CURLOPT_HEADER,  0); // CURLOPT_HEADER enables curl to include protocol header 
+#	curl_setopt($ch,  CURLOPT_SSL_VERIFYPEER,  false); // CURLOPT_SSL_VERIFYPEER enables to fetch SSL encrypted HTTPS request.
+
+	curl_setopt($ch, CURLOPT_HEADERFUNCTION, "HandleHeaderLine"); // to get response header
+
+	$xml_ret = curl_exec($ch);
+	
+	$headers = curl_getinfo($ch, CURLINFO_HEADER_OUT);
+#	echo "<p>Curl headers (do they mention cookie?) (WARNING: these are the SENT headers rather than the response! for the response headers including set-cookie see function HandleHeaderLine):</p>";
+#	print_r($headers);
+
+
+	
+    curl_close($ch);
+	
+	
+	# To test XML return we simply grab the results but without a cookie
+#	$xml_ret = file_get_contents($rest_url);
+	
+
+
+	
+	
+	
+	if ($verbose) echo "<p>Here is a dump of the (decoded) JSON returned by the URL (assuming max sessions error did not occur):</p>\n";
+	
+	if ($verbose) var_dump($xml_ret);
+	
+
+	
+	return $xml_ret;
+}
+
+ 
+
+#--------------
+#
+function HandleHeaderLine( $curl, $header_line )
+{
+#    echo "<br>HandleHeaderLine() response header: ".$header_line; // or do whatever
+	
+	// check for Set-Cookie and if found write to a cookie file
+
+	if ( preg_match('/Set-Cookie: ([^=]*)=([^;]*);/si', $header_line, $matches) )
+	{
+		$cookie_name = $matches[1];
+		$cookie_value = $matches[2];
+#		echo "<p>HandleHeaderLine() Header line in response: found set-cookie name: <b>$cookie_name</b> and set-cookie value: <b>$cookie_value</b></p>\n";
+
+		#-------------
+		// site-dependent HARD-CODING : HandleHeaderLine must match what is set in Globals
+		// $cookie_file_path = "C:/BRITISH_LIBRARY/IDP/4D/Test 4D application localhost/third_test.4dbase/demo_cookies/" . $cookie_name;	
+		$cookie_file_path = "C:/BRITISH_LIBRARY/IDP/4D/demo_cookies/" . $cookie_name; 
+		#-------------
+		
+		echo "<p>HandleHeaderLine() Writing cookie to $cookie_file_path</p>";
+		file_put_contents($cookie_file_path, $cookie_value);
+		
+		$cookie_value = file_get_contents($cookie_file_path);
+		echo "<p>[HandleHeaderLine] \$cookie_file_path: $cookie_file_path</p>";
+		echo "<p>[HandleHeaderLine] \$cookie_value from file is: $cookie_value</p>";
+		echo "<p>[HandleHeaderLine] \$cookie_name is: $cookie_name</p>";
+		
+	}
+					
+    return strlen($header_line);
+}
+
+
+#--------------
+#
+function getHttpCode($http_response_header)
+{
+    if(is_array($http_response_header))
+	{
+        $parts=explode(' ',$http_response_header[0]);
+        if(count($parts)>1) //HTTP/1.0 <code> <text>
+            return intval($parts[1]); //Get code
+    }
+    return 0;
+}
+  
+  
+  
+
+#-------------------
+# 
+function call_rest_to_expand_xml_blob_and_save($rest_table, $rest_uuid, $rest_blobname, $rest_save_filename)
+{
+	
+	echo "<p>call_rest_to_expand_xml_blob_and_save() called for <b>$rest_table</b>, <b>$rest_uuid</b>, <b>$rest_blobname</b>, <b>$rest_save_filename</b></p>";
+		
+	$global_dev_or_test_or_live_sw = "D"; # D or T or L or B (Dev while at BL) H (Bath)
+	$dev_test_live_explain = "Dev";
+	if ($global_dev_or_test_or_live_sw == "T")
+	{
+		$dev_test_live_explain = "Test";
+	}
+	if ($global_dev_or_test_or_live_sw == "L")
+	{
+		$dev_test_live_explain = "Live";
+	}
+	if ($global_dev_or_test_or_live_sw == "B")
+	{
+		$dev_test_live_explain = "Dev (at BL)";
+	}
+	if ($global_dev_or_test_or_live_sw == "H")
+	{
+		$dev_test_live_explain = "Dev (in Bath)";
+	}	
+	
+ 
+ #----- IDP_DB_Development ------
+	// note it is on D: drive (external SSD)
+//	$cookie_name = "4DSID_IDP_DB_Development.4dbase";
+	$cookie_name = "WASID4D";
+	$cookie_file_path = "C:/BRITISH_LIBRARY/IDP/4D/demo_cookies/" . $cookie_name; // site-dependent HARD-CODING : HandleHeaderLine must match what is set in Globals
+	$verbose = false;
+	
+	# 3 places for IDP_Dev
+	$ip_and_port_REST_Localhost = "127.0.0.1:809"; // localhost (if NOT then as set in 4D Design > Settings > Web > Configuration)
+	$ip_and_port_REST_IDP_Dev_Eynsham = "192.168.98.19:809"; // Eynsham (if NOT then as set in 4D Design > Settings > Web > Configuration)	
+#	$ip_and_port_REST = "10.4.136.61:809"; // BL (AAC)
+	$ip_and_port_REST_IDP_Dev_IPhone = "172.20.10.2:809"; // IPhone personal hotspot (>ipconfig/all read off IPv4)
+	$ip_and_port_REST_IDP_Dev_BL_UG = "10.4.136.61:809"; // while at BL on UG
+	$ip_and_port_REST_IDP_Dev_Bath = "192.168.1.133:809"; // while at BL in Bath
+	
+	# fixed IDP Test (should correspond to idptest.bl.uk although the latter does not always map - check if site is up using IP address NOT iptest...)
+	$ip_and_port_REST_IDP_Test = "193.60.214.52:80";// IDP Test (in theory idptest.bl.uk but seem to need to specify IP address
+	$ip_and_port_REST_IDP_Live = "193.60.214.31:80";// IDP Live
+	 
+	$ip_and_port_REST = $ip_and_port_REST_IDP_Dev_Eynsham; # HARD-CODED SWITCH
+	$ip_and_port_REST = $ip_and_port_REST_IDP_Dev_IPhone; # HARD-CODED SWITCH
+	$ip_and_port_REST = $ip_and_port_REST_IDP_Dev_Bath; # HARD-CODED SWITCH
+	
+	if ($global_dev_or_test_or_live_sw == 'T')
+	{
+		$ip_and_port_REST = $ip_and_port_REST_IDP_Test;
+	}	
+	if ($global_dev_or_test_or_live_sw == 'L')
+	{
+		$ip_and_port_REST = $ip_and_port_REST_IDP_Live;
+	}
+	if ($global_dev_or_test_or_live_sw == 'B')
+	{
+		$ip_and_port_REST = $ip_and_port_REST_IDP_Dev_BL_UG;
+	}	
+	if ($global_dev_or_test_or_live_sw == 'H')
+	{
+		$ip_and_port_REST = $ip_and_port_REST_IDP_Dev_Bath;
+	}
+	if ($global_dev_or_test_or_live_sw == 'D')
+	{
+		$ip_and_port_REST = $ip_and_port_REST_IDP_Dev_Eynsham;
+	}
+	
+	$verbose = false;
+	
+	$resp= use_curl_to_login_to_create_session_if_required($cookie_name, $cookie_file_path, $ip_and_port_REST, $global_dev_or_test_or_live_sw, $verbose);
+	
+	$rest_url = "http://" . $ip_and_port_REST . "/rest/" . $rest_table . "[" . $rest_uuid . "]/" . $rest_blobname . "?\$binary=true&\$version=0&\$expand=" . $rest_blobname;
+	
+	$verbose = false;
+	$xml_ret = use_curl_for_rest_url_xml($rest_url, $cookie_name, $cookie_file_path, $verbose);	
+	$verbose = false;
+	
+	$dom = new \DOMDocument('1.0');
+	$dom->preserveWhiteSpace = true;
+	$dom->formatOutput = true;
+	$dom->loadXML($xml_ret);
+	$xml_pretty = $dom->saveXML();
+#	echo "<h4>The following is the XML (echo'd as HTML) - <span style='color:red;'>hint: View Source to see it in pretty XML format</span></h4><hr/>";
+#	echo ($xml_pretty);
+
+	file_put_contents($rest_save_filename, $xml_pretty);
+	
+	echo "<p>Wrote prettified contents of blob from REST call to <b>$rest_url</b> to file: <b>$rest_save_filename</b></p>";
+
+
 	
 }
   

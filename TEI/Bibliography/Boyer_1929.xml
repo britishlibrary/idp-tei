@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Boyer_1929">
+    <author>Boyer, Auguste M, Rapson, Edward James and Senart, Emile</author>
+    <title level="m" lang="eng">Kharosthi Inscriptions Discovered by Sir Aurel Stein in Chinese Turkestan</title>
+    <imprint>
+      <pubPlace>Oxford</pubPlace>
+      <publisher>Clarendon Press</publisher>
+      <date>1929</date>
+    </imprint>
+    <keywords>Inscriptions</keywords>
+    <keywords>Kharosthi</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="TimarBalazsy_1998">
+    <author n="1">Timar-Balazsy, A.</author>
+    <author n="2">Eastop, D.</author>
+    <title level="m" lang="eng">Chemical Principles of Textile Conservation</title>
+    <imprint>
+      <pubPlace>Oxford</pubPlace>
+      <publisher>Butterworths-Heinemann</publisher>
+      <date>1998</date>
+      <idno type="ISBN">0750626208 9780750626200</idno>
+    </imprint>
+    <keywords>Textile</keywords>
+    <keywords>Conservation</keywords>
+    <genBibl>Conservation</genBibl>
+  </bibl>
+</listBibl>

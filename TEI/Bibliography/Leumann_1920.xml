@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Leumann_1920">
+    <author>Leumann, E</author>
+    <title level="m" lang="ger">Buddhistiche Literatur nordarisch und deutsch, 1. Teil: Nebenstucke</title>
+    <imprint>
+      <imprint>
+        <pubPlace>Leipzig</pubPlace>
+        <publisher>Abhandlungen fur die kunde des MorgenlandesXV.2</publisher>
+        <date>1920</date>
+      </imprint>
+    </imprint>
+    <keywords>Buddhist</keywords>
+    <keywords>Literature</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

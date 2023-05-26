@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Shi_Jinbo_2000">
+  <author lang="chi-Latn">Shi Jinbo deng</author>
+  <author lang="chi-Hant">&#x53F2;&#x91D1;&#x6CE2;&#x7B49;</author>
+  <title level="m" lang="chi-Latn">Tianshenggaijiuxindingl&#xFC;ling</title>
+  <title level="m" lang="chi-Hant">&#x5929;&#x76DB;&#x6539;&#x820A;&#x65B0;&#x5B9A;&#x5F8B;&#x4EE4;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Beijing</pubPlace>
+    <publisher>Fal&#xFC; chubanshe</publisher>
+    <date>2000</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>Law</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

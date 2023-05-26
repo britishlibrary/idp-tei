@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="NGGW">
+    <title level="j" lang="ger">Nachrichten von der Gesellschaft der Wissenschaften zu Göttingen</title>
+    <imprint>
+      <pubPlace>Göttingen</pubPlace>
+      <publisher>Gesellschaft der Wissenschaften</publisher>
+    </imprint>
+    <genBibl>journals</genBibl>
+  </bibl>
+</listBibl>

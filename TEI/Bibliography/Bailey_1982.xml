@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Bailey_1982">
+    <author>Bailey, H.W</author>
+    <title level="m" lang="eng">The Culture of the Sakas in Ancient Iranian Khotan</title>
+    <imprint>
+      <pubPlace>New York</pubPlace>
+      <publisher>Caravan Books</publisher>
+      <date>1982</date>
+    </imprint>
+    <keywords>Khotan</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Yoshida_First Fruits">
+    <author>Yoshida, Yutaka</author>
+    <title level="a" lang="engl">First Fruits of Ryūkoku-Berlin Joint Project on the Turfan Iranian Manuscripts</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">Acta Asiatica: Bulletin of the Institute of Eastern Culture</title>
+      <biblScope type="issue">78 (2000)</biblScope>
+      <biblScope type="pp">71-85</biblScope>
+    </imprint>
+    <keywords>Ryūkoku</keywords>
+    <keywords>Berlin</keywords>
+    <keywords>Turfan</keywords>
+    <keywords>Iranian</keywords>
+    <keywords>Manuscripts</keywords>
+  </bibl>
+</listBibl>

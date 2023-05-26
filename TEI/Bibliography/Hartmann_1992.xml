@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Hartmann_1992">
+    <author>Hartmann, Jens-Uwe</author>
+    <author>Wille, Klaus</author>
+    <title level="a" lang="ger">Die nordturkistanischen Sanskrit-Handschriften der Sammlung Hoernle</title>
+    <imprint>
+      <title level="s">Sanskrit-Texte aus dem buddhistischen Kanon: Neuentdeckungen und
+                Neueditionen</title>
+      <biblScope type="vol">Zweite Folge</biblScope>
+      <pubPlace>Göttingen</pubPlace>
+      <publisher>Vandebhoeck &amp; Ruprecht</publisher>
+      <date>1992</date>
+    </imprint>
+    <note>Funde buddhistischer Sanskrit-Handschriften, II</note>
+    <keywords>Sanskrit/mss./Hoernle collection</keywords>
+    <genBibl>collections_en</genBibl>
+  </bibl>
+</listBibl>

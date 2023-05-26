@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Yijing_1963">
+    <author>Yijing</author>
+    <title level="a" lang="jap">Yijing's (I-tsing) translation of Suvarnaprabhasasutra</title>
+    <imprint>
+      <title level="j">Taisho Issaikyo</title>
+      <biblScope type="issue">XVI</biblScope>
+      <biblScope type="pp">403-56</biblScope>
+      <date>1963</date>
+    </imprint>
+    <keywords>Suvarnaprabhasasutra</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

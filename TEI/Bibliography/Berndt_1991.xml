@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Berndt_1991">
+    <author>Berndt, Harald</author>
+    <title level="a" lang="eng">Investigation of Some 12th Century Chinese Papers</title>
+    <imprint>
+      <title level="j" lang="eng">American Institute of Conservation Book and Paper Group Annual</title>
+      <biblScope type="issue">10</biblScope>
+      <date>1991</date>
+    </imprint>
+    <keywords>Conservation</keywords>
+    <keywords>Paper</keywords>
+    <keywords>Chinese</keywords>
+    <genBibl>Conservation</genBibl>
+  </bibl>
+</listBibl>

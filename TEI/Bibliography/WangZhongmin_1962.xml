@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="WangZhongmin_1962">
+    <author lang="chi-HanS">&#x738B;&#x91CD;&#x6C11;</author>
+    <author lang="chi-Latn">Wang Zhongmin</author>
+    <title level="m" lang="chi-HanS">&#x6566;&#x714C;&#x9057;&#x4E66;&#x603B;&#x76EE;&#x7D22;&#x5F15;</title>
+    <title level="m" lang="chi-Latn">Dunhuang yishu zongmu suoyin</title>
+    <imprint>
+      <pubPlace lang="chi-HanS">&#x5317;&#x4EAC;</pubPlace>
+      <pubPlace lang="chi-Latn">Beijing</pubPlace>
+      <publisher lang="chi-HanS">&#x5546;&#x52A1;&#x5370;&#x4E66;&#x9986;</publisher>
+      <publisher lang="chi-Latn">Shang wu yin shu guan</publisher>
+      <date>1962</date>
+    </imprint>
+  </bibl>
+</listBibl>

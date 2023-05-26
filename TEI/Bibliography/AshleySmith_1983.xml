@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="AshleySmith_1983">
+    <author n="1">Ashley-Smith, J.</author>
+    <title level="m" lang="eng">Adhesives and Coatings</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>Museums and Galleries Commission Conservation Unit</publisher>
+      <date>1983</date>
+      <idno type="ISBN">0948630051 : 9780948630057</idno>
+    </imprint>
+    <keywords>Conservation</keywords>
+    <keywords>Chemistry</keywords>
+    <genBibl>conservation</genBibl>
+  </bibl>
+</listBibl>

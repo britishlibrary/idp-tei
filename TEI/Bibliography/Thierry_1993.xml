@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Thierry_1993">
+  <author>Thierry, F.</author>
+  <title level="a" lang="fre">Sur les monnaies sassanides trouvées en Chine</title>
+  <imprint>
+    <title level="m" lang="fre" type="shortRef">Gyselen_1993</title>
+    <biblScope type="pp">89-139</biblScope>
+  </imprint>
+  <note/>
+  <keywords>monetary</keywords>
+  <keywords>Sassanids</keywords>
+  <genBibl/>
+</bibl>

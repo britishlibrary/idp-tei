@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="vanSchaik_2007">
+    <bibl id="vanSchaik_2007a"/>
+    <title level="a" lang="eng">Oral Teachings and Written Texts: Transmission and Transformation in Dunhuang</title>
+    <imprint>
+      <title level="m" lang="eng">Contributions to the Cultural History of Tibet</title>
+      <editor>Kapstein, Matthew</editor>
+      <editor>Dotson, Brandon</editor>
+      <pubPlace>Leiden</pubPlace>
+      <publisher>Brill</publisher>
+      <date>2007</date>
+      <biblScope type="pp">n/a</biblScope>
+    </imprint>
+    <keywords>Tibet</keywords>
+    <keywords>History</keywords>
+    <genBibl>vanschaik</genBibl>
+    <note/>
+  </bibl>
+</listBibl>

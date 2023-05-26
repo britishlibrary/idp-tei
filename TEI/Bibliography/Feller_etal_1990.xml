@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Feller_etal_1990">
+    <author n="1">Feller,R. L.</author>
+    <author n="2">Wilt, M.</author>
+    <title level="a" lang="eng">Evaluation of Cellulose Ethers for Conservation</title>
+    <imprint>
+      <title level="j" lang="eng">Research in Conservation Technical Report Series</title>
+      <biblScope type="issue">3</biblScope>
+      <publisher>Getty Conservation Institute</publisher>
+      <date>1990</date>
+    </imprint>
+    <keywords>Conservation</keywords>
+    <keywords>Chemistry</keywords>
+    <genBibl>conservation</genBibl>
+  </bibl>
+</listBibl>

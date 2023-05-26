@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Thomas_1918">
+    <author>Thomas, F. W.</author>
+    <author>Ui, Hakuju</author>
+    <title level="a" lang="eng">"The Hand Treatise", A Work of Aryadeva</title>
+    <imprint>
+      <title level="j">JRAS</title>
+      <biblScope type="pp">267-310</biblScope>
+      <date>1918</date>
+    </imprint>
+    <note/>
+    <keywords/>
+  </bibl>
+</listBibl>

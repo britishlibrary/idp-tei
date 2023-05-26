@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Wood_1996">
+  <author>Wood, Frances</author>
+  <title level="a" lang="eng">Two thousand Years at Dunhuang</title>
+  <imprint>
+    <title level="m" lang="eng" type="shortRef">Whitfield_1996</title>
+    <biblScope type="pp">1-6</biblScope>
+  </imprint>
+  <note/>
+  <keywords>Dunhuang</keywords>
+  <keywords>History</keywords>
+</bibl>

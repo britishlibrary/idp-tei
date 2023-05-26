@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Whitfield_2002">
+    <editor>Whitfield, Susan</editor>
+    <title level="m" lang="eng">Dunhuang Manuscript Forgeries</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>The British Library</publisher>
+      <date>2002</date>
+    </imprint>
+    <keywords>Forgeries</keywords>
+    <genBibl>whitfield_susan</genBibl>
+  </bibl>
+</listBibl>

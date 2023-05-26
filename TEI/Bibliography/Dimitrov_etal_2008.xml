@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Dimitrov_etal_2008">
+    <editor n="1">Dimitrov, Dragomir</editor>
+    <editor n="2">Hahn, Michael</editor>
+    <editor n="3">Steiner, Roland</editor>
+    <title level="m" lang="eng">Bauddhasāhityastabakāvalī : essays and studies on Buddhist Sanskrit literature. Dedicated to Claus Vogel by Colleagues, Students, and Friends.</title>
+    <imprint>
+      <title level="s">Indica et Tibetica</title>
+      <biblScope type="vol">36</biblScope>
+      <pubPlace>Marburg</pubPlace>
+      <publisher>Indica et Tibetica Verlag</publisher>
+      <date>2008</date>
+    </imprint>
+    <note/>
+    <keywords>sanskrit</keywords>
+    <keywords>buddhism</keywords>
+  </bibl>
+</listBibl>

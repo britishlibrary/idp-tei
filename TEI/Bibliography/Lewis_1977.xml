@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Lewis_1977">
+  <author>Lewis, Bernard</author>
+  <title level="a" lang="eng">Sources for the Economic History of the Middle East</title>
+  <imprint>
+    <title level="m" lang="eng" type="shortRef">Spuler_1977</title>
+    <biblScope type="pp">1-17</biblScope>
+  </imprint>
+  <note/>
+  <keywords>economics</keywords>
+  <keywords>History</keywords>
+  <genBibl/>
+</bibl>

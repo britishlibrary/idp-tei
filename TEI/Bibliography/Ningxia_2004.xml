@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Ningxia_2004">
+  <author lang="chi-Latn">Ningxia wenwu kaogu yanjiu</author>
+  <author lang="chi-Hant">&#x5BE7;&#x590F;&#x6587;&#x7269;&#x8003;&#x53E4;&#x7814;&#x7A76;&#x6240;</author>
+  <title level="m" lang="chi-Latn">Minningcun xixia mudi</title>
+  <title level="m" lang="chi-Hant">&#x95A9;&#x5BE7;&#x6751;&#x897F;&#x590F;&#x5893;&#x5730;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Beijing</pubPlace>
+    <publisher>Kexue chubanshe</publisher>
+    <date>2004</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>Historical remains</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

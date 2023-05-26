@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Edgerton_1993">
+    <author>Edgerton, Franklin</author>
+    <title level="m" lang="eng">Buddhist Hybrid Sanskrit Grammer and Dictionary</title>
+    <imprint>
+      <pubPlace>Delhi</pubPlace>
+      <publisher>Motilal Banarsidass</publisher>
+      <date>1993</date>
+    </imprint>
+    <keywords>Buddhism</keywords>
+    <keywords>Dictionary</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

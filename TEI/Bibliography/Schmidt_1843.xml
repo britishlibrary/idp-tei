@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Schmidt_1843">
+    <author>Schmidt, Isaac Jacob</author>
+    <title level="m" lang="ger">Der Weise und der Thor</title>
+    <imprint>
+      <pubPlace>St. Petersburg</pubPlace>
+      <publisher>W. Gra&#x308;ff</publisher>
+      <date>1843</date>
+    </imprint>
+    <note>2 Thle. Aus dem Tibetischen uebersetzt und mit dem Originaltexte herausgegeben von I. J. Schmidt</note>
+    <genBibl>translations</genBibl>
+  </bibl>
+</listBibl>

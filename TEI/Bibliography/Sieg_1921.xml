@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Sieg_1921">
+    <author>Sieg, Emil</author>
+    <author>Siegling, Wilhelm</author>
+    <title level="m" lang="ger">Tocharische Sprachreste I</title>
+    <imprint>
+      <pubPlace>Berlin and Leipzig</pubPlace>
+      <publisher>W. de Gruyter</publisher>
+      <date>1921</date>
+    </imprint>
+    <keywords>Tocharian A</keywords>
+    <keywords>catalogue</keywords>
+    <biblScope>collections_de</biblScope>
+  </bibl>
+</listBibl>

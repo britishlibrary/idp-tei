@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Sundermann_1986a">
+    <author>Sundermann, Werner</author>
+    <title level="a" lang="ger">Bruchstücke einer manichäischen Zarathustralegende</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">Studia Grammatica Iranica: Festschrift für Helmut Humbach (hrsg. R. Schmitt und P.O. Skjærvø).</title>
+      <pubPlace>München</pubPlace>
+      <date>München 1986</date>
+      <biblScope type="pp">461-482</biblScope>
+    </imprint>
+    <keywords>manichäisch</keywords>
+    <keywords>Zarathustra</keywords>
+    <keywords>Legende</keywords>
+    <keywords>Studia</keywords>
+    <keywords>Iranica</keywords>
+  </bibl>
+</listBibl>

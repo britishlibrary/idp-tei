@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Sieg_1949">
+    <author>Sieg, Emil</author>
+    <author>Siegling, Wilhelm</author>
+    <author>Thmoas, Werner</author>
+    <title level="m" lang="ger">Tocharische Sprachreste, Sprache B</title>
+    <imprint>
+      <pubPlace>G&#xF6;ttingen</pubPlace>
+      <publisher>Vandenhoeck and Ruprecht</publisher>
+      <date>1949-1953</date>
+    </imprint>
+    <keywords>Tocharian B</keywords>
+    <genBibl>collections_ge</genBibl>
+    <genBibl>catalogue</genBibl>
+  </bibl>
+</listBibl>

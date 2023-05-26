@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<bibl id="Fernie_1995">
+  <author>Fernie, Eric</author>
+  <title level="m" lang="eng">Art History and its Methods: a Critical Anthology</title>
+  <imprint>
+    <pubPlace>London</pubPlace>
+    <publisher>Phaidon</publisher>
+    <date>1995</date>
+  </imprint>
+  <genBibl/>
+</bibl>

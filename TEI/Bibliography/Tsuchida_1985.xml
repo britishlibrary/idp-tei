@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Tsuchida_1985">
+    <author>Tsuchida, R</author>
+    <title level="a" lang="ger">Textkritische Noten zum Sanskrittext des Goldglanz-Sutra</title>
+    <imprint>
+      <title level="j">Central Asiatic Journal</title>
+      <biblScope type="issue">29.1/2</biblScope>
+      <biblScope type="pp">111-152</biblScope>
+      <date>1985</date>
+    </imprint>
+    <keywords>I-Sanskrit</keywords>
+    <keywords>Suvarnaprabhasasutra</keywords>
+    <keywords/>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

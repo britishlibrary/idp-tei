@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Le_Coq_1916">
+    <author>Le Coq, Albert von</author>
+    <title level="m" lang="ger">Volkskundliches aus Ostturkistan</title>
+    <imprint>
+      <pubPlace>Berlin</pubPlace>
+      <publisher>Reimer</publisher>
+      <date>1916</date>
+    </imprint>
+    <note>K&#xF6;niglich Preussische Turfan-Expeditionen</note>
+    <keywords>TF/Folk customs</keywords>
+    <genBibl>collections_de</genBibl>
+  </bibl>
+</listBibl>

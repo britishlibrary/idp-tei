@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transliterations of IOL San 820, 729, 535, 819 in the India Office Library, London</title>
+        <author>KARASHIMA, Seishi</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>IDP</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2007</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Seishi KARASHIMA, “Four Sanskrit Fragments of the Ratnaketuparivarta in the Stein Collection,” in: Buddhist Manuscripts from Central Asia: The British Library Sanskrit Fragments, Volume I, ed. by Seishi KARASHIMA and Klaus WILLE, Tokyo: The International Research Institute for Advanced Buddhology at Soka University, 2006, pp. 177-189.</p>
+        <bibl>
+          <ref>Karashima_2006</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Input and marked up by IRIAB.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This catalogue contains transliteration of Sanskrit manuscripts in the Stein Collection at the British Library.</p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 820</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Ratnaketuparivarta]</title>
+            <note>Parallel to: Rk(K). 13.2-; Rk(Tib). 23.23.-; Rk(Ch1).130b28-; Rk(Ch2). 539c10-.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + + + .. .. n. h. ya[d]. + + + + + /// 
+
+
+<lb n="2"/>/// + + .yu-ogha • eṣā vrajāma va .. + + + ///  
+
+
+<lb n="3"/>/// + (m)[ā]rabalaviṣaya samanusmṛtya : [y]. + ///
+
+
+<lb n="4"/>/// + ne nipāteyā • yadā na kvaci śakno[ti] ///
+
+
+<lb n="5"/>/// .. m adhiṣṭhitāṃ : te (’)pi paṃcamātra mārakanyaśa[t]. /// 
+
+
+<lb n="6"/>/// .. ruṣṭa punas tathārūpa Mārabala[v]i + + + ///
+
+
+
+
+
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Ratnaketuparivarta]</title>
+            <note>Parallel to: Rk(K). 14.2-; Rk(Tib). 25.1-; Rk(Ch1). 130c6-; Rk(Ch2). 539c22-.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// .. man utpādeyā : yas te māma paric(ā)[r](i)[k](ā)/// 
+
+
+<lb n="2"/>/// .. syāgaccheyāṃ tam api buddhādhiṣṭhānabale  ///  
+
+
+<lb n="3"/>/// + [mp](a)nāyaḥ prāgh evā bahūn* bhūyas[y]. ///
+
+
+<lb n="4"/>/// + + ya ucyasvareṇa svaputragaṇaṃ .. ///
+
+
+<lb n="5"/>/// + + .[a]tispa[ṃ] āha : || gacchatha (p)[r]i + + +  /// 
+
+
+<lb n="6"/>/// + + + + + .. [v]ādī mā[y]. + + + + + ///
+
+
+
+
+
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 729</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Ratnaketuparivarta]</title>
+            <note>Parallel to: Rk(K). 37.8-; Rk(Tib). 47.5-; Rk(Ch1). 133a5-; Rk(Ch2). 543b23-.</note>
+            <q type="transliteration" lang="skt"><lb n="6"/>/// + + + + + + + .[t]. ku ◯ ///
+
+
+<lb n="7"/>/// + + + .ṛ[g]rāmaṃ mātṛgrāmabh. + ///  
+
+
+<lb n="8"/>/// + [hṇāti •] yāva anuttaraparin[i] ///
+
+
+<lb n="9"/>/// [bha]vati • pūrvvākṣiptāś ca mātṛgrā[m]. ///
+
+
+<lb n="10"/>/// [sā] mahāprabhāva sarv[v]amātṛgrā .. /// 
+
+
+
+
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Ratnaketuparivarta]</title>
+            <note>Parallel to: Rk(K). 37.16-; Rk(Tib). 47.17-; Rk(Ch1). 133a9-; Rk(Ch2). 543c1-.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// māṃ ratanaketudhāraṇiṃ sahaśrava .. /// 
+
+
+<lb n="2"/>/// paripūrṇṇo bhavati ṛjukamatasū ///  
+
+
+<lb n="3"/>/// + ya • saṃparāyavedanīy[a] ///
+
+
+<lb n="4"/>/// + + + [rm](a)p(r)atikṣepakasya ā + ///
+
+
+<lb n="5"/>/// + + + + + + + .. [rṇ].ṃ ◯ /// 
+
+
+
+
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 535</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Ratnaketuparivarta]</title>
+            <note>Parallel to: Rk(K). 117.12-; Rk(Tib). 157.3-; Rk(Ch1). 143b16-; Rk(Ch2). 562b1-.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + + + + + + + + + .. .. ḥ prat(i)[j] .. .. + .. [ni] + .. .. 
+
+
+<lb n="2"/>/// + + + + + + + .[v]. [s] sat[va]saṃgraheṇa saṃgṛhī[t]ā dhā[t]. [āya]  
+
+
+<lb n="3"/>/// + + + + + + + .. māṇo bhavet parikalpam upā[d]. [y]. .. .. 
+
+
+<lb n="4"/>/// + + + + [pha]le praveśayituṃ • ekaikaś câtra satvo vi[stīrṇa]-
+
+
+<lb n="5"/>/// + + + .. sarṣa[pa]phalasya sarvassatvātmābhāvapraveśa[na ū] .. [tvaṃ] 
+
+
+<lb n="6"/>/// .. [•] punar ap[araṃ] kulaputra yāvad eva pṛthivīdhātu .. .. ..
+
+
+
+
+
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Ratnaketuparivarta]</title>
+            <note>Parallel to: Rk(K). 118.9-; Rk(Tib). 157.17-; Rk(Ch1). 143b24-; Rk(Ch2). 562b11-.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// .. [thivīdhātu{ḥ}]prakṣiptā ūnatvaṃ vā prajñāyeta pūrṇatvaṃ vā e- 
+
+
+<lb n="2"/>/// + + + [yat k]iṃ[c].d ābdhātuḥ prajñāyate śaktaḥ sa Śākyamunis ta-  
+
+
+<lb n="3"/>/// + + + + .. .. ve[ś]ena ūnatvaṃ vā pūrṇatvaṃ vā pra[j]ñāyeta • e-
+
+
+<lb n="4"/>/// + + + + + + + t kiṃcid vāyudhātuḥ prajñāyate taṃ sarvaṃ vā-
+
+
+<lb n="5"/>/// + + + + + + + (v)[is](t)īrṇaṃ svaviṣaye saṃcarati • na cā[syai]ka 
+
+
+<lb n="6"/>/// + + + + + + + + +  .. [yā]n tatra e(ka)[r]ome tejodhātu
+
+
+
+
+
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="4">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 819</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[Ratnaketuparivarta]</title>
+            <note>Parallel to: Rk(K). 152.18-; Rk(Tib). 236.14-; Rk(Ch1), Taishō, XIII, No. 397, 150b10-; Rk(Ch2), Taishō, XIII, No. 402, 576a10-.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// + + .. .[i]pācayiṣyāmaḥ saddharmacirasthityarthaṃ • sarve 
+
+
+<lb n="2"/>/// + [k](a)ra[ṇ]ī[y](am*) tena khalu samayena sarve mahā-  
+
+
+<lb n="3"/>/// + .e asur(e)ndrā  apare catuṣaṣṭhikoṭinayutā ma-
+
+
+<lb n="4"/>/// .. yāvad vistareṇa saṃprakāśayiṣyāmaḥ sad(dha)rmane-
+
+
+<lb n="5"/>/// (ṇy)[up]āsakôpāsikā dhārmaśrāva(ṇ)i(k)[ā]ś ca rakṣiṣyāma 
+
+
+<lb n="6"/>/// (du)[ṣṭa]rūkṣa[v]isaraviktakaṭukabhāvān praśamayāmaḥ kṣema-
+
+
+
+
+
+</q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Ratnaketuparivarta]</title>
+            <note>Parallel to: Rk(K). 153.9-; Rk(Tib). 237.9-; Rk(Ch1). 150b15-; Rk(Ch2). 576a23-.</note>
+            <q type="transliteration" lang="skt"><lb n="1"/>/// iha bu{ṃ}ddhakṣetre (’)ntargatāḥ sādhukāraṃ praddhaduḥ sādhu sādhu bhadra- 
+
+
+<lb n="2"/>/// .ī yuṣmābhis tryadhvaprāptānāṃ buddhā[nā](ṃ) bhagavatāṃ pū-  
+
+
+<lb n="3"/>/// + naḥ samayena ye (’)syāṃ madhyāmikāyāṃ cāturdvīpi-
+
+
+<lb n="4"/>/// + [m](a)heśakyāḥ satvāḥ sarve côtthāyâsanebhyaḥ prāṃjalī
+
+
+<lb n="5"/>/// + .āma[ḥ par]ipālayiṣyāmaḥ imaṃ ca sar[v]abuddhādhi- 
+
+
+<lb n="6"/>/// + + [pra](k)āśayiṣyāmaḥ sa[ddha]rmadhārakāṃś ca pudgalā
+
+
+
+
+
+</q>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Zieme_1987a">
+    <author>Zieme, Peter</author>
+    <title level="a" lang="ger">Ein alttürkisches Avalokiteśvarastava</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">Altorientalische Forschungen</title>
+      <biblScope type="issue">14,1</biblScope>
+      <date>1983</date>
+      <biblScope type="pp">221-223</biblScope>
+    </imprint>
+    <keywords>alttürkisch</keywords>
+    <keywords>Avalokiteśvarastava</keywords>
+    <genBibl>Altorientalische Forschungen</genBibl>
+  </bibl>
+</listBibl>

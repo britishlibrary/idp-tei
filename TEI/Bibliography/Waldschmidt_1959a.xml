@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Waldschmidt_1959a">
+    <author>Waldschmidt, Ernst</author>
+    <title level="a" lang="ger">Kleine Brāhmī-Schriftrolle</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">NGAW</title>
+      <biblScope type="issue">I</biblScope>
+      <date>1959</date>
+      <biblScope type="pp">1-25</biblScope>
+    </imprint>
+    <note>2 Tafeln</note>
+    <keywords>manuscript</keywords>
+    <keywords>sanskrit</keywords>
+    <keywords>turfan</keywords>
+    <keywords>SHT</keywords>
+    <keywords>buddhism</keywords>
+  </bibl>
+</listBibl>

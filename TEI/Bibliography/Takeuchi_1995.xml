@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Takeuchi_1995">
+    <author>Takeuchi Tsuguhito</author>
+    <title level="m" lang="eng">Old Tibetan Contracts from Central Asia</title>
+    <imprint>
+      <pubPlace>Tokyo</pubPlace>
+      <publisher>Daizo Shuppan</publisher>
+      <date>1995</date>
+      <idno type="ISBN">4804310282 9784804310282</idno>
+    </imprint>
+    <biblScope>collections_en</biblScope>
+  </bibl>
+</listBibl>

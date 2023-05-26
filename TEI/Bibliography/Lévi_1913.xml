@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Lévi_1913">
+  <author>Lévi, S</author>
+  <title level="a" lang="fre">'Tokharien B' langue de Koutcha</title>
+  <imprint>
+    <title level="j" lang="fre" type="shortRef">Journal Asiatique</title>
+    <biblScope type="issue">11. 2</biblScope>
+    <biblScope type="pp">311-380</biblScope>
+    <date>1913</date>
+  </imprint>
+  <note/>
+  <keywords>Tocharian B</keywords>
+  <keywords/>
+</bibl>

@@ -1,0 +1,3215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sogdische Handschriften der Berliner Turfansammlung. So 14000-15000.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>print edition</edition>
+      </editionStmt>
+      <sourceDesc>
+        <p>electronic</p>
+        <p>Input and marked up by Susann Rabuske. Imported to 4D on 10/25/13 by Susann Rabuske.</p>
+        <bibl>
+          <ref>So_14000-15000</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Beschreibung der sogdischen Manuskripte aus der Berliner Turfansammlung</p>
+    </head>
+    <body>
+      <msDescription n="14000">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14000</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Parabel von den schätzesammelnden Kaufleuten.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">107</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_1995">291-294</ref>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II">165</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14001a">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14001a</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Sermon des Buddha Śākyamuni.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">108</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14030">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14030</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Text über die Vorgänger Manis; v: unbestimmt.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">109</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_1986a">474</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14030(1)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14030(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zu einer Sammelhandschrift mit Parabeln gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">110</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14040">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14040</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">111</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14041">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14041</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn">Sermon von der Seele</title>
+            <note>
+              <p/>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">112</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_BTTXIX">72-73</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14042">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14042</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">113</ref>
+              </bibl>
+              <bibl>
+                <ref target="Durkin-Meisterernst_Morano_BTTXXVII"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14150">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14150</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich Anfang von Manis Siegelbrief.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">114</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14151">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14151</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich zu Manis Siegelbrief gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">115</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14152">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14152</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>A: vermutlich zu Manis Siegelbrief gehörig; B: Bemahymnen.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">116</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14152a">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14152a</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>B: Bemahymnen.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">117</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14153">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14153</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich zu Manis Siegelbrief gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">118</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14154">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14154</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Bemahymnen.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">119</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14155">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14155</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Bemahymnen.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">120</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14156">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14156</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich zu Manis Siegelbrief gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">121</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14157">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14157</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Bemahymnen.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">122</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14158">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14158</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>A: Vermutlich zu Manis Siegelbrief gehörig; B: Bemahymnen.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">123</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14159">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14159</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich zu Manis Siegelbrief gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">124</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14185(1)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14185(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Kosmogonischer Text über die Vermischung und den Aufstieg der Lichtelemente.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Gehört zusammen mit So 14186.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">125</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14185(2)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14185(2)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Kosmogonischer Text über den Teufel, der von den Lichtmächten überwunden und eingeschlossen wird.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Gehört zusammen mit So 14188.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">126</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14186">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14186</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Kosmogonischer Text über die Vermischung und den Aufstieg der Lichtelemente.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Gehört zusammen mit So 14185(1).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">125</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14187">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14187</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Reuebekenntnis einer Hörerin, v: Kosmogonischer Text über den Aufstieg der Lichtelemente</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Gehört zusammen mit So 14190.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">127</ref>
+              </bibl>
+              <bibl>
+                <ref target="Reck_1995">S. 195</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14188">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14188</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Kosmogonischer Text über den Teufel, der von den Lichtmächten überwunden und eingeschlossen wird.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Gehört zusammen mit So 14185(2).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">126</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14190">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14190</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Reuebekenntnis einer Hörerin, v: Kosmogonischer Text über den Aufstieg der Lichtelemente</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Gehört zusammen mit So 14187.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">127</ref>
+              </bibl>
+              <bibl>
+                <ref target="Reck_1995">S. 195</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14191">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14191</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Über den Aufstieg der fünf Lichtelemente</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Gehört zusammen mit So 14192, 14193 und 14194.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">128</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14192">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14192</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Über den Aufstieg der fünf Lichtelemente</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Gehört zusammen mit So 14191, 14193 und 14194.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">128</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14193">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14193</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Über den Aufstieg der fünf Lichtelemente</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Gehört zusammen mit So 14191, 14192 und 14194.
+							Zusammen verglast mit So 14194.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">128</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14194">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14194</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Über den Aufstieg der fünf Lichtelemente.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Gehört zusammen mit So 14191, 14192 und 14193.
+							Zusammen verglast mit So 14193.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">128</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14195">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14195</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Kirchengeschichtlicher Text über Mani, eine Hörerin und eine Christin.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Vermutlich zusammengehörig mit So 14196.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">129</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14196">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14196</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Kirchengeschichtlicher Text über eine Christin, eine Hörerin und den Lichtapostel.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Vermutlich zusammengehörig mit So 14195.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">130</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14197">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14197</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich Teil eines kirchengeschichtlichen Textes.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 14198 und 14199.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">131</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14198">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14198</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich Teil eines kirchengeschichtlichen Textes.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 14197 und 14199.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">132</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14199">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14199</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich Teil eines kirchengeschichtlichen Textes.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 14197 und 14198.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">133</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14255">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14255</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Anthropogonischer Prosatext über die in die vier Himmelrichtungen gefallenen Archonten.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 14256.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">134</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14256">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14256</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Anthropogonischer Prosatext.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 14255.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">135</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14272">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14272</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 14270-14273.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">136</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14280">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14280</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 14281.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">137</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14285-13941">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14285 - 13941</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Teil eines kirchengeschichtlichen Textes.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">138</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_BTTXI">S. 34-36</ref>
+              </bibl>
+              <bibl>
+                <ref target="Klimkeit_1993">S. 203</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14290">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14290</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich Hymnen.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">139</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14342">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14342</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt.</p>
+              <p>1. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">140</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14380">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14380</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 14381-14391.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">141</ref>
+              </bibl>
+              <bibl>
+                <ref target="Durkin-Meisterernst_Morano_BTTXXVII"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14381">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14381</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 14380-14391.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">142</ref>
+              </bibl>
+              <bibl>
+                <ref target="Durkin-Meisterernst_Morano_BTTXXVII"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14382">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14382</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zur sogdischen Version der Hymnenzyklen Huyadagmān oder Angad Rōšnān gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 14380-14391.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">143</ref>
+              </bibl>
+              <bibl>
+                <ref target="Durkin-Meisterernst_Morano_BTTXXVII"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14383">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14383</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 14380-14391.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">144</ref>
+              </bibl>
+              <bibl>
+                <ref target="Durkin-Meisterernst_Morano_BTTXXVII"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14384">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14384</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Möglicherweise zur sogdischen Version der Hymnenzyklen Huyadagmān oder Angad Rōšnān gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 14380-14391.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">145</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_MHC">S. 28</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14385">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14385</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Möglicherweise zur sogdischen Version der Hymnenzyklen Huyadagmān oder Angad Rōšnān gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 14380-14391.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">146</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14386">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14386</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 14380-14391.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">147</ref>
+              </bibl>
+              <bibl>
+                <ref target="Durkin-Meisterernst_Morano_BTTXXVII"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14387">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14387</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 14380-14391.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">148</ref>
+              </bibl>
+              <bibl>
+                <ref target="Durkin-Meisterernst_Morano_BTTXXVII"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14388">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14388</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 14380-14391.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">149</ref>
+              </bibl>
+              <bibl>
+                <ref target="Durkin-Meisterernst_Morano_BTTXXVII"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14389">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14389</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 14380-14391.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">150</ref>
+              </bibl>
+              <bibl>
+                <ref target="Durkin-Meisterernst_Morano_BTTXXVII"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14390">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14390</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Sogdische Version des 2. Canto des Hymnenzyklus Wuzurgān Āfrīwan.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 14380-14391.</p>
+              <p>Zusammengehörig mit So 14443 und 14618.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">162</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14391">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14391</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Möglicherweise zur sogdischen Version der Hymnenzyklen Huyadagmān oder Angad Rōšnān gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 14380-14390.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">151</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14410">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14410</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>I: Orakelbuch, II: Hymnus auf den Sonnengott.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">152</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_BTTXIX">S. 92-95</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14411">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14411</idno>
+          <idno type="current">MIK III 200</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r/1-15/: Hymnus auf den Sonnengott; r/17-20: Hymnus auf Jesus.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">153</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_Photo Edition I">Taf. 147-148</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_BTTXIX">S. 92-95</ref>
+              </bibl>
+              <bibl>
+                <ref target="Waldschmidt_Lentz_1926">S. 93-94</ref>
+              </bibl>
+              <bibl>
+                <ref target="Morano_1982">S. 36-39</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14415">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14415</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Hymnen.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">154</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14425">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14425</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Omentext.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Zusammengehörig mit So 14427, 14428 und 14460-14462. Unter Glas zusammen mit So 14426-14430.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">155</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14426">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14426</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Hymnen.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 14425-14430.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">156</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14427">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14427</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Omentext.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Zusammengehörig mit So 14425, 14428 und 14460-14462. Unter Glas zusammen mit So 14425-14430.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">155</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14428">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14428</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Omentext.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Zusammengehörig mit So 14425, 14427 und 14460-14462. Unter Glas zusammen mit So 14425-14430.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">155</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14429">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14429</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Hymnen.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 14425-14430.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">157</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14430">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14430</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Hymnen.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 14425-14429.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">158</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14440">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14440</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Hymnus auf den Sonnengott aus der sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">159</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14441">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14441</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>1. Canto der sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Gehört zusammen mit So 14620.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">160</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14442">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14442</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>2. Canto der sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">161</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14443">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14443</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>2. Canto der sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Zusammengehörig mit So 14390 und 14618.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">162</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14444">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14444</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Ende des 1. Canto und Beginn des 2. Canto der sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">163</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14445">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14445</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Sogdische Version von Huyadagmān V.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">164</ref>
+              </bibl>
+              <bibl>
+                <ref target="MacKenzie_1985">424-428</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14460">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14460</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Omentext.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Zusammengehörig mit So 14425, 14427, 14428 und 14462. Unter Glas zusammen mit So 14461 und 14462.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">155</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14461">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14461</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Unbestimmt.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 14460 und 14462.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">165</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14462">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14462</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Omentext.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Zusammengehörig mit So 14425, 14427, 14428 und 14460. Unter Glas zusammen mit So 14460 und 14461.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">155</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14464">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14464</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">166</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14466">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14466</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 14465 bis 14468.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">167</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14467">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14467</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan oder MHC gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 14465 bis 14468.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">168</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14468">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14468</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="syr-Latn">Noch nicht identifiziert.</title>
+            <note>
+              <p>Unter Glas zusammen mit So 14465-14467.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_04">E53</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14470">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14470</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>I: Sogdische Version von Huyadagmān I; II: Zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">169</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_MHC">S. 23</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14550(1)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14550(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich Hymnen.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">170</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14570">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14570</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r/1-5/: Sogdische Version der Rede Lebendigen Seele Gōwišn ī grīw zīndag; r/8-v/21/: Beginn der sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">171</ref>
+              </bibl>
+              <bibl>
+                <ref target="Henning_BBB">S. 100 e 8</ref>
+              </bibl>
+              <bibl>
+                <ref target="Waldschmidt_Lentz_1926">S. 71</ref>
+              </bibl>
+              <bibl>
+                <ref target="Morano_2005">S. 281-284</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_BTTXXX"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14577">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14577</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich sogdische Version von Huyadagmān V.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Zusammengesetzt mit So 14594, 14594a und 14604.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">172</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_MHC">S. 26-27</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14578">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14578</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Möglicherweise zu den sogdischen Versionen der Hymnenzyklen Huyadagmān oder Angad Rōšnān gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">173</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14585">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14585</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Beginn der sogdischen Version von Huyadagmān (oder Angad Rōšnān?).</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 14586.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">174</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_MHC">S. 29-30</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14586">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14586</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>I: Beginn der sogdischen Version von Huyadagmān (oder Angad Rōšnān?); II: zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 14585.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">175</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_MHC">S. 29-30</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14586a">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14586a</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Möglicherweise zur sogdischen Version der Hymnenzyklen Huyadagmān oder Angad Rōšnān gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">176</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_MHC">S. 30</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14587">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14587</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 14588-14592.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">177</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14588">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14588</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 14587-14592.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">178</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14589">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14589</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 14587-14592.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">179</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14590">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14590</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 14587-14592.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">178</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14591">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14591</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 14587-14592.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">180</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14592">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14592</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 14587-14591.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">181</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14593">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14593</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 14595 und 14596.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">182</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14594">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14594</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich sogdische Version von Huyadagmān V.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Zusammengesetzt mit So 14577, 14594a und 14604.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">172</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_MHC">S. 26-27</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14594a">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14594a</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich sogdische Version von Huyadagmān V.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Zusammengesetzt mit So 14577, 14594 und 14604.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">172</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_MHC">S. 26-27</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14595">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14595</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zur sogdischen Version der Hymnenzyklen Huyadagmān oder Angad Rōšnān gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 14593 und 14596.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">183</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_MHC">S. 30-31</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14596">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14596</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig. Hymnen auf Zurwān.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 14593 und 14595.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">184</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14599">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14599</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">185</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14600">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14600</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Sogdische Version von Huyadagmān II.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">186</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_MHC">S. 24</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14601">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14601</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig. Hymnen auf Zurwān.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">187</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14602">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14602</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Sogdische Version von Huyadagmān I 70-71 und 74-75.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">188</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_MHC">S. 24</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14603">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14603</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig. Hymnen auf Zurwān.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">189</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14604">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14604</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich sogdische Version von Huyadagmān V.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Zusammengesetzt mit So 14577, 14594 und 14594a.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">172</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_MHC">S. 26-27</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14610">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14610</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich zur sogdischen Version von Huyadagmān VI gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">190</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_MHC">S. 27-28</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14610(2)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14610(2)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich zur sogdischen Version von Huyadagmān II-III gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 14611(2).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">192</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_MHC">S. 25</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14611">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14611</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Sogdische Version von Huyadagmān II.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">191</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_MHC">S. 24-25</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14611(2)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14611(2)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich sogdische Version von Huyadagmān I 55 und 59.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Unter Glas zusammen mit So 14610(2).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">193</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_MHC">S. 23-24</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14615">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14615</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Sogdische Version von Huyadagmān Vc und VI,1.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">194</ref>
+              </bibl>
+              <bibl>
+                <ref target="MacKenzie_1985">S. 422-424</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14616">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14616</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig. Hymnen auf Zurwān.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 14617 bis 14620.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">195</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14617">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14617</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig. Hymnen auf Zurwān.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 14616 bis 14620.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">196</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14618">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14618</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>2. Canto der sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition. Zusammengehörig mit So 14390 und 14443.</p>
+              <p>Unter Glas zusammen mit So 14616 bis 14620.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">162</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14619">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14619</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Zur sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan gehörig.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit So 14616 bis 14620.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">197</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14620">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14620</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>1. Canto der sogdischen Version des Hymnenzyklus Wuzurgān Āfrīwan.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+              <p>Gehört zusammen mit So 14441. Unter Glas zusammen mit So 14620.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">160</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14638">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14638</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>I: Zitat aus dem Buch der Giganten; II: Predigt über den Erwählten.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">198</ref>
+              </bibl>
+              <bibl>
+                <ref target="Henning_Giants">S. 69-70</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14639">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14639</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Erzählung über ein Kind.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">199</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14700(1)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 14700(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>v: Erzählung.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">200</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_1991c">S. 284</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14700(4)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 14700(4)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>v: Vermutlich Bruchstück eines Briefes.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">201</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14700(7)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 14700(7)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>v: Vermutlich Brieffragment.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">202</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14700(10)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14700(10)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Lehrtext über den Aufstieg des erlösten Lichts; v: Predigt.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">203</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXIII_16">72</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14700(11)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14700(11)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Vermutlich kosmogonisch. Zu einer Sammelhandschrift gehörig.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">204</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14700(12)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 14700(12)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>v: Liste von Teilen des Gesichts.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">205</ref>
+              </bibl>
+              <bibl>
+                <ref target="Henning_Sogdica">S. 5-6</ref>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II">Taf. 169</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14700(13)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 14700(13)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>v: Gebote für die Hörer.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">206</ref>
+              </bibl>
+              <bibl>
+                <ref target="Henning_Sogdica">S. 5</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sims-Williams_1985">S. 579-582</ref>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II">Taf. 170</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14700(15)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14700(15)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Lehrtext, worin der Teufel vorkommt.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">207</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14700(18)">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">So 14700(18)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Parabel über ein Mäuschen und einen Jäger. Auf der 2. Seite werden ein Löwe und ein großer Vogel genannt.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">208</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14715a">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 14715a</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 60c, Z. 9-20; v: Über das Fasten an den einzelnen Wochentagen.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit Ch/So 14715b.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">209</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14715b">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 14715b</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>Brieffragment.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+              <p>Unter Glas zusammen mit Ch/So 14715a.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">210</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14726">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 14726</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 310, Bd. 11, S.572a, Z. 24 - S. 572b, Z. 7; v: Dialog, in den eine gleichnishafte Erzählung eingebaut ist.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">211</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14730">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 14730</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 664, Bd. 16, S.400c, Z. 20 - S. 401a, Z, 26; v: Briefanfangsformeln.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">212</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14731">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 14731</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 15c, Z. 3-6; v: Erzählung von der Daēnā. 
+							Zusammengehörig mit Ch/So 10051 verso, Ch/O 10052 verso, Дх 06957 verso und Ōtani 7127.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">213</ref>
+              </bibl>
+              <bibl>
+                <ref target="Reck_1997a">S. 543-550</ref>
+              </bibl>
+              <bibl>
+                <ref target="Reck_2003">S. 336-338</ref>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II">Taf. 171</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14742">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 14742</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 374, Bd. 12, S. 431a, Z. 8 - b Z. 4; v: Brief.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">214</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14743">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 14743</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 473, Bd. 21, S. 443c, Z. 52 - S. 444a, Z. 18; v: Rätsel mit Auflösung.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">215</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14744">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 14744</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 44a, Z. 13 - S. 44c, Z. 6, Kolophon; v: Erzählung über die Reise eines Aγatfarn nach China.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">216</ref>
+              </bibl>
+              <bibl>
+                <ref target="Henning_Tales">S. 482</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14760">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 14760</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 220, Bd. 5, S. 148a, Z. 18 - 24,  v: Sermon vom Licht-Nous §§ 82 und 83.</p>
+              <p>Zusammengehörig mit Ch/So 10100lv, Ch/So 20510v und Ch/U 8092v. Unter Glas zusammen mit Ch/So 14761.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">24</ref>
+              </bibl>
+              <bibl>
+                <ref target="Henning_Sogdica">S. 2-3</ref>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II">Taf. 172</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14761">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 14761</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 664, Bd. 16, S. 379b, Z. 8 - 21,  v: Liste von Eigennamen.</p>
+              <p>Unter Glas zusammen mit Ch/So 14760.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">217</ref>
+              </bibl>
+              <bibl>
+                <ref target="Henning_Sogdica">S. 6-8</ref>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II">Taf. 172</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14790">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 14790</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 35a, Z. 5 - 15,  v: Sogdische Version der Rede der Lebendigen Seele, Gōwišn ī grīw zīndag.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">218</ref>
+              </bibl>
+              <bibl>
+                <ref target="Thilo_1985">S. 50</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_BTTXXX"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14791">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 14791</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 36b, Z. 3 - 16,  v: Sogdische Version der Rede der Lebendigen Seele, Gōwišn ī grīw zīndag.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">219</ref>
+              </bibl>
+              <bibl>
+                <ref target="Thilo_1985">S. 51</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_BTTXXX"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14792">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 14792</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 36a, Z. 8-18,  v: Sogdische Version der Rede der Lebendigen Seele, Gōwišn ī grīw zīndag.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">220</ref>
+              </bibl>
+              <bibl>
+                <ref target="Thilo_1985">S. 51</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_BTTXXX"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14829">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/So 14829</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="sogd-Latn"/>
+            <note>
+              <p>r: Taishō 1509, Bd. 25, S. 708b, Z. 6-13,  v: Hymnen auf die Gesandten. Zusammengehörig mit Ch/So 11600v.</p>
+              <p>Fundort Toyuk, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">71</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

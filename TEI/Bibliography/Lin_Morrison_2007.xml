@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Lin_Morrison_2007">
+    <author n="1">Lin Shitian</author>
+    <author n="2">Morrison, Alastair</author>
+    <title level="m" lang="eng">Tradition and Innovation: proceedings of the 6th IDP conservation conference</title>
+    <title level="m" lang="Chi">Rongshe yu chuangxin: guoji Dunhuang xiangmu di liu ci huiyi lunwenji</title>
+    <imprint>
+      <pubPlace>Beijing</pubPlace>
+      <publisher>Beijing Library Publishing House</publisher>
+      <date>2007</date>
+    </imprint>
+    <note/>
+    <keywords>Conservation/IDP/conference</keywords>
+    <genBibl>conservation</genBibl>
+  </bibl>
+</listBibl>

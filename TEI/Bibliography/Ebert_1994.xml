@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Ebert_1994">
+    <author>Ebert, Jorinde</author>
+    <title level="a" lang="ger">Darstellungen der Passion Manis in bekannten und unbekannten Bildfragmenten des Bema-Fest aus der Turfan-Sammlung</title>
+    <imprint>
+      <title level="m" lang="eng">Röhrborn_Veenker_1994</title>
+      <biblScope type="pp">1-28</biblScope>
+      <date>1997</date>
+    </imprint>
+    <note/>
+    <keywords>Manichaean Illuminated Books</keywords>
+    <genBibl>manichaean</genBibl>
+  </bibl>
+</listBibl>

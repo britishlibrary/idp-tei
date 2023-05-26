@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Ries_1976">
+    <author>Ries, Julien</author>
+    <author>Yakup, Abdulrashid</author>
+    <title level="a" lang="fre">La fête de Bêma dans l’église de Mani</title>
+    <imprint>
+      <title level="j" lang="fre">Revue des Études Augustiniennes</title>
+      <biblScope type="issue">22</biblScope>
+      <biblScope type="pp">218-233</biblScope>
+      <date>1976</date>
+    </imprint>
+    <note/>
+    <keywords/>
+    <genBibl>manichaean</genBibl>
+  </bibl>
+</listBibl>

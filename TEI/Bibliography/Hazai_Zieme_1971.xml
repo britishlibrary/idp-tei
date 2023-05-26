@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listbibl>
+  <bibl id="Hazai_Zieme_1971">
+    <author n="1">Hazai, Georg</author>
+    <author n="2">Zieme, Peter</author>
+    <title level="m" lang="ger">Fragmente der uigurischen Version des
+            "Jin'gangjing mit den Gathas des Meister Fu"</title>
+    <imprint>
+      <title level="m" lang="ger">Schriften zur Geschichte und Kultur des Alten Orient</title>
+      <bibliScope type="vol">3</bibliScope>
+      <title level="m" lang="ger">Berliner Turfantexte</title>
+      <bibliScope type="vol">I</bibliScope>
+      <pubPlace>Berlin</pubPlace>
+      <date>1971</date>
+    </imprint>
+    <keywords>Jingangjing</keywords>
+    <keywords>Gatha</keywords>
+    <keywords>Uigurische</keywords>
+    <genBibl>collections_de</genBibl>
+  </bibl>
+</listbibl>

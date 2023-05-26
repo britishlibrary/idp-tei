@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Trombert_1995">
+  <author>Trombert, Eric</author>
+  <title level="m" lang="fre">Le crédit à Dunhuang</title>
+  <imprint>
+    <pubPlace>Paris</pubPlace>
+    <publisher>Collège de France</publisher>
+    <date>1995</date>
+    <idno type="ISBN">2857570538 9782857570530</idno>
+  </imprint>
+  <note>Bibliothèque de l'Institut des Hautes Études Chinoises, vol. XXIX</note>
+  <keywords>history</keywords>
+  <keywords>Dunhuang</keywords>
+  <genBibl/>
+</bibl>

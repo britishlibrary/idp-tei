@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Henning_BBB">
+    <author>Henning, Walter B.</author>
+    <title level="a" lang="ger">Ein manichäisches Bet- und Beichtbuch</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">APAW 1936, Phil.-Hist. Kl.</title>
+      <biblScope type="issue">10 (1937)</biblScope>
+      <biblScope type="pp">417-557</biblScope>
+    </imprint>
+    <keywords>manichäisch</keywords>
+    <keywords>Beichtbuch</keywords>
+    <keywords>APAW</keywords>
+  </bibl>
+</listBibl>

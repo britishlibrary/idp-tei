@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Wang_2004b">
+  <author>Wang, Helen</author>
+  <title level="a" lang="eng">Catalogue of the Sir Aurel Stein Papers in the British Museum Central Archives</title>
+  <imprint>
+    <title level="m" lang="eng" type="shortRef">Wang_2004</title>
+    <biblScope type="pp">37-62</biblScope>
+  </imprint>
+  <note/>
+  <keywords>Aurel Stein</keywords>
+  <keywords>catalogue</keywords>
+  <genBibl>collections_en</genBibl>
+</bibl>

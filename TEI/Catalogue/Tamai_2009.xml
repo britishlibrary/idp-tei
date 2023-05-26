@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Tocharian Fragments in Or.15004, Or.15009 and Or.150010 of the Hoernle
+                    Collection</title>
+        <author>Tamai, Tatsushi</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>IDP</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2010</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Tatsushi Tamai, “The Tocharian Fragments in Or.15004, Or.15009 and Or.150010 of
+                    the Hoernle Collection,” in: Buddhist Manuscripts from Central Asia: The British
+                    Library Sanskrit Fragments, Volume II.1 (Texts), ed. by Seishi KARASHIMA and
+                    Klaus WILLE, Tokyo: The International Research Institute for Advanced Buddhology
+                    at Soka University, 2009, pp. 659-665.</p>
+        <bibl>
+          <ref>Tamai_2009</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Input and marked up by IRIAB.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This catalogue contains transliterations of Tocharian fragments in the Hoernle
+                Collection at the British Library.</p>
+    </head>
+    <body>
+      <msDescription n="Or.15004/3">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15004/3</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[]</title>
+            <note>(old type of the script in Tocharian)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>A1/// .. yna eṅ[s]. /// <lb n="2"/>A2/// + [l]a[c]ˎ
+                            ra + /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="toch B"><lb n="1"/>By /// + .. .. + /// <lb n="2"/>Bz /// n[t]e se [m]ā
+                            n. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15004/4">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15004/4</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[]</title>
+            <note>folio 2[1]</note>
+            <q type="transliteration" lang="toch B"><lb n="1"/>.. .. .. [yӓ] .. o[nolm]. /// <lb n="2"/>[p].e t[ī]
+                            .. tr[i]kau .. .. .. .. /// <lb n="3"/>.[o] .. .. .. .ā .e + + /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="toch B"><lb n="1"/>+ .. .. .. + .. .. + + /// <lb n="2"/>.. .. .. .. ..
+                            .. .. .. .. /// <lb n="3"/>w. k. ṢA .. .. .i .e .. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15004/20">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15004/20</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[]</title>
+            <note>Skt./Toch. bilingual, some different folios</note>
+            <q type="transliteration" lang="toch B"><lb n="1"/>Aa /// illegible (another piece) <lb n="2"/>Ab /// ..
+                            ṣṣ[a]te .i /// <lb n="3"/>Ac /// illegible (another piece) <lb n="4"/>Ad /// .oKˎ • saṃsāra sā .. /// <lb n="5"/>Ae /// .. + .. [ka]
+                            pa .. .. /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="toch B"><lb n="1"/>Ba /// TA .ñ. a .. .. .. /// <lb n="2"/>Bb /// .. ..
+                            [ta]syāstu • [ci] .. /// <lb n="3"/>Bc /// .. .e gra + + .i .. ///
+                                <lb n="4"/>Bd /// illegible </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15004/21">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15004/21</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="toch B"><lb n="1"/>Aa /// .. .. /// <lb n="2"/>Ab /// ku /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="toch B"><lb n="1"/>Ba /// [K](ˎ) e .[t]. /// <lb n="2"/>Bb /// [l]o + ..
+                            /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15004/71">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15004/71</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[]</title>
+            <note>Skt./Toch. bilingual</note>
+            <q type="transliteration" lang="toch B"><lb n="1"/>Aa /// snai .. .y. c. /// <lb n="2"/>Ab /// .. •
+                            loka[sy]. /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="toch B"><lb n="1"/>Ba /// .m. .. .so sa .. /// <lb n="2"/>Bb ///
+                            samān[ā] .. rta • ene .. (Toch.) /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15004/110">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15004/110</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="toch B"><lb n="1"/>Aa /// .. ṣ[ṣ]ai a .. /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="toch B"><lb n="1"/>Ba /// aś[ī]ya .. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15004/113">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15004/113</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="toch B"><lb n="1"/>Aa /// [nt]. [k]. /// <lb n="2"/>Ab /// n[ai] SA/MA
+                            /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="toch B"><lb n="1"/>Ba /// .. kʷ[ce] /// <lb n="2"/>Bb /// [l]. rya /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15004/118">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15004/118</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="toch B"><lb n="1"/>Aa /// [k]t. .. /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="toch B"><lb n="1"/>Ba /// rtse /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15004/119">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15004/20</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[]</title>
+            <note>(Skt. or Toch.?)</note>
+            <q type="transliteration" lang="toch B"><lb n="1"/>Aa /// na .. .ñ. /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="toch B"><lb n="1"/>Ba /// .. s.[e]ṃ [y]ā .i /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15009/87">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15009/87</idno>
+          <idno type="Hoernle">H.149/60</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Karmavācanā</title>
+            <note>cf. KaVā 97-103, SHT I 132, Or.15009/392 and H.149.add.50; cf.
+                            Hartmann/Wille 1992, p. 28; Toch. in italics; cf. Nagashima 2009:
+                            156f.</note>
+            <q type="transliteration" lang="toch B"><lb n="1"/>/// (cīva)r(aṃ vā) [a]bhimukha(ṃ) vaibhaṃgi[k](aṃ)
+                            samavahitaḥ saṃ[m]u + + + + /// <lb n="2"/>/// [y](a)t saṃghasya
+                            prāptakālaḥ kṣamate ājñā ca saṃghasya yat sa .. .. /// <lb n="3"/>/// tapariṣkāraṃ cīvaraṃ vā acīvaraṃ vābhimukhaṃ vaibhaṃ(g)ikaṃ
+                            sama + /// <lb n="4"/>/// + [gha]sya vibhajamāna prasādakarasya
+                            saṃghakarmeṇa dadyā .e + + /// <lb n="5"/>/// + + ma bhikṣu
+                            kālagataḥ tas[y]a [y]āvad e[v]a laghujīvita .. + + + /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Karmavācanā</title>
+            <note/>
+            <q type="transliteration" lang="toch B"><lb n="1"/>/// + .. kālagataḥ tasy[a] yā(vad e)v(a)
+                            l(a)[ghuj](ī)vitap[a]r(i)[ṣ]k. + + /// <lb n="2"/>/// + bhaṅgikaṃ
+                            samavahitaṃ saṃmukhībhūtasya saṃghasya vi[bh]. + /// <lb n="3"/>///
+                            [pr](a)tyaṃśa prāpnoti sa āyuṣmata evaṃ bhavatu tam ā[yu]ṣmaṃ svi + ///
+                                <lb n="4"/>/// adhitiṣṭhatu evaṃ dvir apy evaṃ trir api vācyam*ˎ
+                            ‖ śtwerameṃ ṣe srau[ka]ṃ /// <lb n="5"/>/// + taḥ saṃghaḥ
+                            it[tha]ṃnāma bhi[kṣu]ḥ kālagataḥ tasya [yā] + + + /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15009/89">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15009/89</idno>
+          <idno type="Hoernle">H.149/87</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[]</title>
+            <note>notes of different scribes, among them one colophon</note>
+            <q type="transliteration" lang="toch B"><lb n="1"/>a /// m. ntra t. ta sśa p[i] cā ti na v[ā] akṣ. vyā ..
+                            /// <lb n="2"/>b /// ya ce postaK¨ˎ .ts. ṣarmire kalyā .. /// <lb n="3"/>c /// .ā sa .. [c]i .[p]amo • wi ṣarmiriśkaṃ [p]aiykār[e]
+                            /// <lb n="4"/>d /// wate putt[a]rakṣite s[v]arna[ra] /// <lb n="5"/>e /// .. ti sa m. h. .. + .. + + + + + + .e .e /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Daśottarasūtra</title>
+            <note>cf. Daśo E.b-I.10; cf. Hartmann/Wille, p. 28; cf. Jens-Uwe Hartmann,
+                            Untersuchungen zum Dīrghāgama der Sarvāstivādins, Göttingen 1992 p. 128
+                            (unpublished Habilitationsschrift)</note>
+            <q type="transliteration" lang="toch B"><lb n="1"/>a /// + + + + .v. .. suvyaṃjan. [k]. .. .. + .. .ū .. + +
+                            /// <lb n="2"/>b /// + .. [ṇ]uta sādhu ca suṣṭhu ca manasi [k]uruta
+                            bhāṣi[ṣ]y. /// <lb n="3"/>c /// + dālanam*ˎ daśottaro dharmaparyāyaḥ
+                            katamaḥ eko + /// <lb n="4"/>d /// kāyagatā smṛtiḥ eko dharmaḥ
+                            parijñeyaḥ {[nanāṣale]} sparśaḥ {[ta ..]} .[ā] + /// <lb n="5"/>e
+                            /// + .. kāraḥ {[.. [tu]ne]} eko dharmo viśeṣabhāgīya {[wa ki pa ke ..]}
+                            yoni[ś]o + + + + /// <lb n="6"/>f /// + + + ś cetovimuktiḥ {[pa v.]}
+                            eko dharmo (’)bhijñeyaḥ sarv. {[.. sa na la [v]yo tu]} + + + + + /// <lb n="7"/>g /// + + + .i .. .ā [a]nan[y](a)thā bhū .ā .. .ā .. +
+                            [n]ā + + + + + /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15009/204">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15009/204</idno>
+          <idno type="Hoernle">H.149/177</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Catuṣpariṣatsūtra</title>
+            <note>CPS 24a.4−14; ed. DĀ (UH) No. 34; cf. T.24, No. 1450, 131a19-b12;
+                            Toch. in italics; cf. Ye 2009(2): 229f.</note>
+            <q type="transliteration" lang="toch B"><lb n="1"/>t /// + + .. + .. + + + + + /// <lb n="2"/>u /// +
+                            .vākāśyapo jaṭi ⃝/// <lb n="3"/>v /// .. racirasya paryā {[lyak[u]Rˎ
+                            [y]ama]} ⃝ /// <lb n="4"/>w /// [l]. m idam avocat* ya {[kʷ[r]i
+                            tañ[ˎ]]} ⃝ /// <lb n="5"/>x /// + + ṅga tvaṃ kāśyapa an. /// <lb n="6"/>y /// + + [r]aṃ praviśya sva[y]. + /// <lb n="7"/>z
+                            /// + + + + + + + + + + /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Catuṣpariṣatsūtra</title>
+            <note>See Ye 2009(2)</note>
+            <q type="transliteration" lang="toch B">
+              <lb n="1"/>
+              <lb n="2"/>
+              <lb n="3"/>
+              <lb n="4"/>
+            </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15009/296">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15009/296</idno>
+          <idno type="Hoernle">H.149.add. unnumbered</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Udānavarga</title>
+            <note>Uv 16.20-17.1; Skt./Toch. bilingual; cf. Hairabayashi 2009(2)</note>
+            <q type="transliteration" lang="toch B"><lb n="1"/>/// + [t]. ruw. nak. + /// <lb n="2"/>/// ś[c]o :
+                            dattaṃ bhavati + /// <lb n="3"/>/// [y]. prajā : [yo]kai nak[ī] ///
+                                <lb n="4"/>/// lam*ˎ āyor . .. + /// <lb n="5"/>/// .. ne
+                            [t].e .e + + + /// <lb n="6"/>/// + .. + + + + + + /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="toch B"><lb n="1"/>u /// + .. + + + + + + /// <lb n="2"/>v /// .. na n.
+                            .. + + + + /// <lb n="3"/>w /// [hā]ti saṅgam(*ˎ) [c]w. + /// <lb n="4"/>x /// [ce]Uˎ oro[cc]e kere[kau](na) /// <lb n="5"/>y
+                            /// .. naṃ : na nikete [r]. + /// <lb n="6"/>z /// + (k)erekauna ri
+                            .. + /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15009/335">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15009/335</idno>
+          <idno type="Hoernle">H. 149 unnumbered</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Varṇārhavarṇastotra</title>
+            <note>Mātṛceṭa, Varṇārhavarṇastotra, cf. VAV(UH) 2.2-5; Skt./Toch.
+                            bilingual; cf. Fukita 2009; foilo 48</note>
+            <q type="transliteration" lang="toch B"><lb n="1"/>tām eva • tawaKˎ • ātmagata • āñme /// <lb n="2"/>sākṣād iva • yneś ramT*ˎ • karomi • ◯ /// <lb n="3"/>te •
+                            ciśco 2 || asarvavit*ˎ • mā ◯ /// <lb n="4"/>svayaṃviditamāhātmyavistarā .. /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Varṇārhavarṇastotra</title>
+            <note/>
+            <q type="transliteration" lang="toch B"><lb n="1"/>[ś]co 3 || ayam*ˎ • se • evaṃvidhaś ca • .. /// <lb n="2"/>neccepi • sā • sāU*ˎ • yaś ca • kʷse ◯ /// <lb n="3"/>maḥ
+                            wināṢṢAlñe • astu • tā ◯ /// <lb n="4"/>yād[ṛ]śāḥ kʷce tasemanecci •
+                            tvādṛ[ś]. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15009/392">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15009/392</idno>
+          <idno type="Hoernle">H.149.add. unnumbered</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Karmavācanā</title>
+            <note>Karmavācanā, cf. KaVā 97-103, SHT I 132, Or.15009/87 and H.149.add.50;
+                            cf. Hartmann/Wille 1992, p. 28</note>
+            <q type="transliteration" lang="toch B"><lb n="1"/>A1 /// .. yaṃ navakānāṃ atha vā ayaṃ /// <lb n="2"/>A2 /// .. te weṃ wa[t]e trite ma ○ /// <lb n="3"/>A3 ///
+                            (āyu)ṣmaṃ evaṃnāmā bhikṣu ○ /// <lb n="4"/>A4 /// (samavahi)ta(ḥ)
+                            saṃmukhībhūtasya ○ /// <lb n="5"/>A5 /// (mamā)yatu adhiti[ṣ]ṭhatu •
+                            ev[a] + + /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Karmavācanā</title>
+            <note/>
+            <q type="transliteration" lang="toch B"><lb n="1"/>B1 /// .y. yāvad eva laghujīvi[t]. + + /// <lb n="2"/>B2 /// .ā mama iya tāva ○ /// <lb n="3"/>B3 /// .. vat*ˎ dvir
+                            api tṛr api ○ /// <lb n="4"/>B4 /// + .. te weṣle yototRA mā ○ ///
+                                <lb n="5"/>B5 /// + (kā)lagata tasya yāvad eva l(a)[ghu] /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15009/466">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15009/466</idno>
+          <idno type="Hoernle">H.149.add. unnumbered</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Mahallasūtra of the Dīrghāgama</title>
+            <note>ed. G. Melzer, 2006, Teil I, p. 80.</note>
+            <q type="transliteration" lang="toch B"><lb n="1"/>/// [m]. ṣv ādīna va .. + + + + + + /// <lb n="2"/>/// .. no vā na h[a] .. + + + + + + /// <lb n="3"/>/// ..
+                            kuleṣu vā ku[l]. + + + + + /// <lb n="4"/>/// .ā agninā vā dahyaṃte
+                            udake .. /// <lb n="5"/>/// + (t)[p]adyaṃte • ye tāṃ bhogān an. +
+                            /// <lb n="6"/>/// + + hmaṇaḥ sāṃdṛṣṭik(a)ḥ [k]. + /// <lb n="7"/>/// + (sa)hāyaka + + + + + /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Mahallasūtra</title>
+            <note/>
+            <q type="transliteration" lang="toch B"><lb n="1"/>/// + + yakaḥ sa .[ā] + + + /// <lb n="2"/>/// + +
+                            [hm]aṇāḥ brāhma[ṇ].ḥ gṛ + /// <lb n="3"/>/// + + ṇaiḥ praharaṃti
+                            ayaṃ br. /// <lb n="4"/>/// (ba)lakāyaṃ saṃnahya hastika ///
+                            {[retke[ts]e kraupe ārwer yāmormeṃ]} <lb n="5"/>/// [kai]r
+                            ākoṭyamā[n]ai .. + + + /// {[tsa .. na ..]} (Toch. ?) <lb n="6"/>///
+                            .. śvena bhrāṃte .. + + + + + /// <lb n="7"/>/// .. tor brāhma[ṇ]. +
+                            + + + + /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15009/471">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15009/471</idno>
+          <idno type="Hoernle">H.149.add. unnumbered</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[not yet identified dhāraṇī and vidyā against pains of the
+                            eyes]</title>
+            <note>cf. SHT III 900.</note>
+            <q type="transliteration" lang="toch B"><lb n="1"/>A1 /// .[ā]lokakarā bh[a]vaṃti .. /// <lb n="2"/>A2
+                            /// + .. • n[a]mo āryāval. /// <lb n="3"/>A3 /// + .. dyathā hu hu •
+                            hu [h]u /// <lb n="4"/>A4 /// + + .e [• ś]odhane • .. + .. /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[not yet identified dhāraṇī and vidyā against pains of the
+                            eyes]</title>
+            <note/>
+            <q type="transliteration" lang="toch B"><lb n="1"/>B1 /// + + + .utthita .. + .. /// <lb n="2"/>B2 /// +
+                            (sa)mutthitaṃ vā • sarva .. /// <lb n="3"/>B3 /// + naśyantu sarve
+                            ak[ṣ]i + /// <lb n="4"/>B4 /// [ṣ]uK*ˎ kauntsa āñme a + /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15009/662">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15009/662</idno>
+          <idno type="Hoernle">H.149 X11</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[?]</title>
+            <note/>
+            <q type="transliteration" lang="toch B"><lb n="1"/>.. .. || y. .. n. .g. [c]ā lu .. .. .. .c. .. r. .. ..
+                                <lb n="2"/>st.Kˎ śwetagirṣṣepi saṅkatse : te omteṃ PAsT¨ aiṣle : </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[Upasenasūtra]</title>
+            <note>on verso the Upasenasūtra starts, cf. Hartmann/Wille 1992, p.
+                            48.</note>
+            <q type="transliteration" lang="toch B"><lb n="1"/>/// [v]aṃ mayāṃś ca nam eka samayaṃ bhagavāṃ rājagṛheṃne
+                            dānaṃne[n]. /// <lb n="2"/>/// ṣmānupase .o .. j[a]gṛhe viharati
+                            śītavane śmaśāne .. + /// <lb n="3"/>/// leṅgopavicārā .t. rikāyāṃ
+                            athāyuṣmata upas[a] /// <lb n="4"/>/// + + + .. .. pratisaṃ (blank) </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15010/5">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15010/5</idno>
+          <idno type="Hoernle">H.149.225 or 255</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Udānavarga</title>
+            <note>cf. Uv 5.27a-6.9a; Toch. text after chapter 5; Skt. text ed. by
+                            Karashima 2009: 337</note>
+            <q type="transliteration" lang="toch B"><lb n="1"/>v /// + .. śc. nānā y[ā] .. .[v]. + (ś) [c]yut. .. + + +
+                            + /// <lb n="2"/>w /// .. paikāmai aklyīyamai sar[i]t yamaṣṣa + +
+                            /// <lb n="3"/>x /// + [wa]sene nāki karsoyM¨ˎ koSA saṃsārne [s]..
+                            /// <lb n="4"/>y /// + || || śīlaṃ [r]akṣeta medhāvī prārthayan
+                            [v]ai [su] /// <lb n="5"/>z /// [k](ṣ)eta pa .. .. ār[y]o dar[ś]. ..
+                            saṃpannaḥ sa /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Udānavarga</title>
+            <note/>
+            <q type="transliteration" lang="toch B"><lb n="1"/>1 /// pr. tibu[d]dh. .. .. ndati : 3 .. l. yāvaj jarā ..
+                            /// <lb n="2"/>2 /// kṛtvā puṇyā[ni] saprajñodatvā dānāni śī .. ///
+                                <lb n="3"/>3 /// + ndriyaiś ca susaṃvṛtaḥ bhojane cāpi [m]ā +
+                            /// <lb n="4"/>4 /// [v]ya parihāṇāyai nirvāṇa[s]yaiva [s]o .. + +
+                            /// <lb n="5"/>5 /// + .. yam* 8 .. .[ā] + .. ta .[ī] + + + + + /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

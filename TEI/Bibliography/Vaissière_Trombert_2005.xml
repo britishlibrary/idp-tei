@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Vaissière_Trombert_2005">
+  <editor n="1">Vaissière, Étienne</editor>
+  <editor n="2">Trombert, Eric</editor>
+  <title level="m" lang="fre">Les Sogdiens en Chine</title>
+  <imprint>
+    <pubPlace>Paris</pubPlace>
+    <publisher>EFEO</publisher>
+    <date>2005</date>
+    <idno type="ISBN">2855396530 9782855396538</idno>
+  </imprint>
+  <note/>
+  <keywords>sogdians</keywords>
+</bibl>

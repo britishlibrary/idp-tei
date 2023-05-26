@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Morano_1982">
+    <author>Morano, Enrico</author>
+    <title level="a" lang="engl">The Sogdian Hymns of Stellung Jesu</title>
+    <imprint>
+      <title level="j" lang="engl" type="shortRef">East and West N.S. 32</title>
+      <biblScope type="issue">1982</biblScope>
+      <biblScope type="pp">9-45</biblScope>
+    </imprint>
+    <keywords>Sogdian</keywords>
+    <keywords>Hymns</keywords>
+    <keywords>Jesu</keywords>
+  </bibl>
+</listBibl>

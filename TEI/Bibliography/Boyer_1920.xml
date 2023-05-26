@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Boyer_1920">
+    <author n="1">Boyer, A.M.</author>
+    <author n="2">Rapson, E.J.</author>
+    <author n="3">Senart, E.</author>
+    <author n="4">Noble, P.S.</author>
+    <title level="m" lang="eng">Kharosthi Inscriptions Discovered by Sir Aurel Stein in Chinese
+            Turkestan</title>
+    <imprint>
+      <pubPlace>Oxford</pubPlace>
+      <publisher>Clarendon Press</publisher>
+      <date>1920-29</date>
+    </imprint>
+    <keywords>Kharosthi/catalogue/Niya</keywords>
+  </bibl>
+</listBibl>

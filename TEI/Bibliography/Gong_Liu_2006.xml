@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<bibl id="Gong_Liu_2006">
+  <author n="1" lang="chi-Latn">Gong Shuduo</author>
+  <author n="2" lang="chi-Latn">Liu Delin</author>
+  <author n="1" lang="chi-Hant">&#x9F94;&#x66F8;&#x9438;</author>
+  <author n="2" lang="chi-Hant">&#x5289;&#x5FB7;&#x9E9F;</author>
+  <title level="m" lang="chi-Latn">Tushuo tianxia,liao xixia jin</title>
+  <title level="m" lang="chi-Hant">&#x5716;&#x8AAA;&#x5929;&#x4E0B;,&#x907C;&#x897F;&#x590F;&#x91D1;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Chanchun</pubPlace>
+    <publisher>Jilin chuban jituan youxian zeren gongsi</publisher>
+    <date>2006</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>History</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

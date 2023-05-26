@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Dalton_vanSchaik_2003">
+    <author n="1">van Schaik, Sam</author>
+    <author n="2">Dalton, Jacob</author>
+    <title level="a" lang="eng">Lighting the Lamp: the Structure of the Bsam gtan mig sgron</title>
+    <imprint>
+      <title level="j" lang="eng">Acta Orientalia</title>
+      <biblScope type="issue">64</biblScope>
+      <biblScope type="pp">153-175</biblScope>
+      <date>2003</date>
+    </imprint>
+    <keywords>Tibet</keywords>
+    <keywords>Buddhism</keywords>
+    <genBibl>vanschaik</genBibl>
+  </bibl>
+</listBibl>

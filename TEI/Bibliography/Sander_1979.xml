@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Sander_1979">
+    <author>Sander, Lore</author>
+    <title level="a" lang="eng">Buddhist Literature in Central Asia</title>
+    <imprint>
+      <title level="j">Encyclopaedia of Buddhism</title>
+      <biblScope type="issue">4</biblScope>
+      <biblScope type="pp">52-75</biblScope>
+      <date>1979</date>
+    </imprint>
+    <keywords>I-Buddhist</keywords>
+    <keywords>Literature</keywords>
+    <keywords>Central Asia</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

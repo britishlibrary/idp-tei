@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Mandelung_1990">
+  <author>Mandelung, W.</author>
+  <title level="a" lang="eng">al-Māturīdī</title>
+  <imprint>
+    <title level="m" lang="eng" type="shortRef">Encyclopédie de l'Islam</title>
+    <biblScope type="issue"> vol. VI</biblScope>
+    <biblScope type="pp">836-8</biblScope>
+    <date>1990</date>
+  </imprint>
+  <note/>
+  <keywords/>
+  <keywords/>
+</bibl>

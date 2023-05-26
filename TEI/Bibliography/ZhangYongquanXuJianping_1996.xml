@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="ZhangYongquanXuJianping_1996">
+    <author lang="chi" n="1">&#x5F20;&#x91D1;&#x6CC9;</author>
+    <author lang="chi" n="2">&#x8BB8;&#x5EFA;&#x5E73;</author>
+    <title level="m" lang="chi">&#x6566;&#x714C;&#x97F3;&#x4E49;&#x6C47;&#x8003;</title>
+    <imprint>
+      <pubPlace>&#x676D;&#x5DDE;</pubPlace>
+      <publisher>&#x676D;&#x5DDE;&#x5927;&#x5B66;&#x51FA;&#x7248;&#x793E;</publisher>
+      <date>1996</date>
+    </imprint>
+  </bibl>
+</listBibl>

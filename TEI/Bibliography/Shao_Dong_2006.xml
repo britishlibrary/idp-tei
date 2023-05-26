@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Shao_Dong_2006">
+  <author lang="chi-Latn">Shao dong</author>
+  <author lang="chi-Hant"> &#x90B5;&#x6771;</author>
+  <title level="m" lang="chi-Latn">Huashuo zhongguo,wu dai,bei song,liao,xixia ,jin,yuan</title>
+  <title level="m" lang="chi-Hant">&#x8A71;&#x8AAA;&#x4E2D;&#x570B;,&#x4E94;&#x4EE3;&#x2022;&#x5317;&#x5B8B;&#x2022;&#x5357;&#x5B8B;&#x2022;&#x907C;&#x2022;&#x897F;&#x590F;&#x2022;&#x91D1;&#x2022;&#x5143;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>yanji</pubPlace>
+    <publisher>Yanbian daxue chubanshe</publisher>
+    <date>2006</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>History</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Li_Huarui_1998">
+  <author lang="chi-Latn">Li Huarui</author>
+  <author lang="chi-Hant">&#x674E;&#x83EF;&#x745E;</author>
+  <title level="m" lang="chi-Latn">Song xia guanxi shi</title>
+  <title level="m" lang="chi-Hant">&#x5B8B;&#x590F;&#x95DC;&#x7CFB;&#x53F2;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Shijiazhuang</pubPlace>
+    <publisher>Hebei renmin chubanshe</publisher>
+    <date>1998</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>History</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

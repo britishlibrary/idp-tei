@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Weinstein_1987">
+    <author>Weinstein, Stanley</author>
+    <title level="m" lang="eng">Buddhism Under the T'ang</title>
+    <imprint>
+      <pubPlace>Cambridge, MA</pubPlace>
+      <publisher>Cambridge University Press</publisher>
+      <date>1987</date>
+    </imprint>
+    <genBibl>Buddhism</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Galambos_2003a">
+    <author>Galambos, Imre</author>
+    <title level="m" lang="eng">
+A New Approach to Digital Manuscripts from the Silk Road: The Dunhuang Character Database
+</title>
+    <imprint>
+      <title level="m" lang="eng">Ono_2003</title>
+      <date>2003</date>
+    </imprint>
+    <keywords>Silk Road</keywords>
+    <keywords>manuscripts</keywords>
+    <keywords>digitisation</keywords>
+    <genBibl>galambos</genBibl>
+  </bibl>
+</listBibl>

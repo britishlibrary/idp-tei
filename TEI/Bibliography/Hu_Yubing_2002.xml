@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Hu_Yubing_2002">
+  <author lang="chi-Latn">Hu Yubing</author>
+  <author lang="chi-Hant">&#x80E1;&#x7389;&#x51B0;</author>
+  <title level="m" lang="chi-Latn">Hanwen xixia wenxian congkao</title>
+  <title level="m" lang="chi-Hant">&#x6F22;&#x6587;&#x897F;&#x590F;&#x6587;&#x737B;&#x53E2;&#x8003;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Lanzhou</pubPlace>
+    <publisher>Gansu wenhua chubanshe</publisher>
+    <date>2002</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>Documents</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

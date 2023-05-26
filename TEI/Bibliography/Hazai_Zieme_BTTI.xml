@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Hazai_Zieme_BTTI">
+    <author>Hazai, Georg</author>
+    <author>Zieme, Peter</author>
+    <title level="a" lang="ger">Fragmente der uigurischen Version des "Jin'gangjing mit den Gāthās des Meisters Fu" 
+                                    nebst einem Anhang von T. Inokuchi</title>
+    <title level="j" lang="ger" type="shortRef">Berliner Turfantexte I</title>
+    <imprint>
+      <pubPlace>Berlin</pubPlace>
+      <publisher>Akademie-Verlag</publisher>
+      <date>1971</date>
+    </imprint>
+    <keywords>uigurisch</keywords>
+    <keywords>Jin'gangjing</keywords>
+    <keywords>Gāthās</keywords>
+    <keywords>Fu</keywords>
+    <genBibl>Berliner Turfantexte</genBibl>
+  </bibl>
+</listBibl>

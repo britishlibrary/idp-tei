@@ -1,0 +1,3289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>敦煌石室經卷中未入藏經論著述目錄</title>
+        <author>李翊灼</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>佛學叢報, 第8期</publisher>
+        <pubPlace>China</pubPlace>
+        <date>1923</date>
+      </publicationStmt>
+      <editionStmt>
+        <edition>First electronic edition</edition>
+        <date>2009</date>
+        <respStmt>Created by Liu Bo</respStmt>
+      </editionStmt>
+      <sourceDesc>
+        <p>Word document</p>
+        <bibl>
+          <ref>李翊灼_1923</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <projectDesc>Catalogue</projectDesc>
+    <editorialDecl>Marked up by Liu Bo. Imported to 4D on 11/11/09 by Liu Bo.</editorialDecl>
+    <preface>
+      <text>翊灼案：佛教典籍浩繁，歷來編目錄者，胥依經、律、論三藏列次三藏中，又複各分大小乘，以爲前後，此例尚嫌籠統，不便觀覽。茲准涅槃經、六波羅蜜多經定例，分爲大乘、小乘，大乘中分經藏、律藏、論藏、秘密藏、雜藏五類；小乘中不分，庶統緒朗然而易於尋攬。惟此項未入藏，經卷多系破碎，首尾不完，翊灼以限於日力，愧未及一一詳爲考證也。</text>
+    </preface>
+    <note>
+      <p/>
+    </note>
+  </teiHeader>
+  <text>
+    <head>本目錄共159條，分七大類：第1至第40條屬“大乘經藏類”；第41至第42條屬“大乘律藏類”；第43至第66條屬“大乘論藏類”；第67至第85條屬“大乘秘密藏類”；第86至第125條屬“大乘雜藏類”；第126至第137條屬“小乘類”；第138至第159條為“附錄”，著錄佛教以外其他宗教的文獻。</head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">辰字第五十三</idno>
+          <idno type="current">BD01053</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">華嚴略疏</title>
+            <note>
+              <p>一卷。翊灼案:此系釋六十華嚴，尋繹文義頗類雲華搜玄記，不知何人著也。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">寒字第八十四</idno>
+          <idno type="current">BD01484</idno>
+          <idno type="qianziwenno">始字第五十七</idno>
+          <idno type="current">BD07757</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">華嚴行願品頌</title>
+            <note>
+              <p>共二卷。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">宇字第三十五</idno>
+          <idno type="current">BD00235</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">普賢行願王經</title>
+            <note>
+              <p>一卷。翊灼案：此二經皆是唐譯之異本，可資讎校。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="4">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">芥字第四十五</idno>
+          <idno type="current">BD06045</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author/>
+            <title lang="chi-Hant">大方廣華嚴十惡經</title>
+            <note>
+              <p>一卷。翊灼案：此經未見著錄，本卷不完，未能覘其義趣以定真僞，姑附于此，俟後考證。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="5">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">洪字第十一</idno>
+          <idno type="current">BD00411</idno>
+          <idno type="qianziwenno">昃字第二十六</idno>
+          <idno type="current">BD00926</idno>
+          <idno type="qianziwenno">昃字第二十三</idno>
+          <idno type="current">BD00923</idno>
+          <idno type="qianziwenno">昃字第二十四</idno>
+          <idno type="current">BD00924</idno>
+          <idno type="qianziwenno">呂字第九十六</idno>
+          <idno type="current">BD02996</idno>
+          <idno type="qianziwenno">生字第九</idno>
+          <idno type="current">BD03909</idno>
+          <idno type="qianziwenno">崑字第九十九</idno>
+          <idno type="current">BD04499</idno>
+          <idno type="qianziwenno">岡字第六十二</idno>
+          <idno type="current">BD04562</idno>
+          <idno type="qianziwenno">夜字第四十三</idno>
+          <idno type="current">BD05243</idno>
+          <idno type="qianziwenno">河字第九十九</idno>
+          <idno type="current">BD06499</idno>
+          <idno type="qianziwenno">淡字第七十六</idno>
+          <idno type="current">BD06576</idno>
+          <idno type="qianziwenno">潛字第四十三</idno>
+          <idno type="current">BD06743</idno>
+          <idno type="qianziwenno">潛字第九十八</idno>
+          <idno type="current">BD06798</idno>
+          <idno type="qianziwenno">羽字第十九</idno>
+          <idno type="current">BD06819</idno>
+          <idno type="qianziwenno">師字第七十七</idno>
+          <idno type="current">BD07177</idno>
+          <idno type="qianziwenno">帝字第四十一</idno>
+          <idno type="current">BD07241</idno>
+          <idno type="qianziwenno">帝字第八十六</idno>
+          <idno type="current">BD07286</idno>
+          <idno type="qianziwenno">鳥字第八十七</idno>
+          <idno type="current">BD07387</idno>
+          <idno type="qianziwenno">始字第七十八</idno>
+          <idno type="current">BD07778</idno>
+          <idno type="qianziwenno">服字第九十一</idno>
+          <idno type="current">BD08291</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">維摩經疏</title>
+            <note>
+              <element>共二十卷。</element>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">盈字第八十六</idno>
+          <idno type="current">BD00886</idno>
+          <idno type="qianziwenno">昃字第五十</idno>
+          <idno type="current">BD00950</idno>
+          <idno type="qianziwenno">爲字第八十六</idno>
+          <idno type="current">BD03686</idno>
+          <idno type="qianziwenno">裳字第七十三</idno>
+          <idno type="current">BD08473</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">維摩經解</title>
+            <note>
+              <p>共四卷。翊灼案：此二種二十餘卷皆不完整，不能考爲何人之作，惟其文義頗精，實淨名經之要著也。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">騰字第四十七</idno>
+          <idno type="current">BD03147</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">維摩經科要</title>
+            <note>
+              <element>一卷。</element>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">致字第六十二</idno>
+          <idno type="current">BD03262</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">維摩經義科</title>
+            <note>
+              <p>一卷。翊灼案：此二種可備參考，惟首尾亦不完，不識爲何人著作。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="9">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">辰字第三十二</idno>
+          <idno type="current">BD01032</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi-Hant" type="person">慧遠</name>
+            </author>
+            <title lang="chi-Hant">維摩經義記</title>
+            <note>
+              <p>一卷。翊灼案：此卷未題釋瓊許寫，審其文義，蓋是隋慧遠所著之八卷本也。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">往字第九十一</idno>
+          <idno type="current">BD01791</idno>
+          <idno type="qianziwenno">歲字第十七</idno>
+          <idno type="current">BD02517</idno>
+          <idno type="qianziwenno">致字第七十一</idno>
+          <idno type="current">BD03271</idno>
+          <idno type="qianziwenno">致字第七十二</idno>
+          <idno type="current">BD03272</idno>
+          <idno type="qianziwenno">霜字第十六</idno>
+          <idno type="current">BD03716</idno>
+          <idno type="qianziwenno">夜字第七十一</idno>
+          <idno type="current">BD05271</idno>
+          <idno type="qianziwenno">重字第二十</idno>
+          <idno type="current">BD05920</idno>
+          <idno type="qianziwenno">淡字第五十一</idno>
+          <idno type="current">BD06551</idno>
+          <idno type="qianziwenno">帝字第九十</idno>
+          <idno type="current">BD07290</idno>
+          <idno type="qianziwenno">皇字第三</idno>
+          <idno type="current">BD07603</idno>
+          <idno type="qianziwenno">始字第十三</idno>
+          <idno type="current">BD07713</idno>
+          <idno type="qianziwenno">制字第三十二</idno>
+          <idno type="current">BD07832</idno>
+          <idno type="qianziwenno">字字第五十三</idno>
+          <idno type="current">BD08053</idno>
+          <idno type="qianziwenno">乃字第五十四</idno>
+          <idno type="current">BD08154</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">華嚴略疏</title>
+            <note>
+              <p>共十四卷。翊灼案：此與流通本之肇注有不同者，可資讎校。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="11">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">秋字第七十二</idno>
+          <idno type="current">BD01872</idno>
+          <idno type="qianziwenno">閏字第九十六</idno>
+          <idno type="current">BD02296</idno>
+          <idno type="qianziwenno">生字第二十四</idno>
+          <idno type="current">BD03924</idno>
+          <idno type="qianziwenno">柰字第八十二尾</idno>
+          <idno type="current">BD05782</idno>
+          <idno type="qianziwenno">薑字第七十</idno>
+          <idno type="current">BD06170</idno>
+          <idno type="qianziwenno">薑字第九十四</idno>
+          <idno type="current">BD06194</idno>
+          <idno type="qianziwenno">河字第五十三</idno>
+          <idno type="current">BD06453</idno>
+          <idno type="qianziwenno">河字第三十六</idno>
+          <idno type="current">BD06436</idno>
+          <idno type="qianziwenno">位字第四十八</idno>
+          <idno type="current">BD08648</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi-Hant" type="person">道液撰</name>
+            </author>
+            <title lang="chi-Hant">維摩經集解關中疏</title>
+            <note>
+              <p>共九卷。內題資聖寺沙門道液述。翊灼案：道液爲人不詳，此疏融會性空義旨甚精，可寶也。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="12">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">列字第十三</idno>
+          <idno type="current">BD01213</idno>
+          <idno type="qianziwenno">淡字第十九</idno>
+          <idno type="current">BD06519</idno>
+          <idno type="qianziwenno">淡字第七十五</idno>
+          <idno type="current">BD06575</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">賢護經疏</title>
+            <note>
+              <p>共三卷。翊灼案：此是性宗著述，疏義甚精，惜首尾不完。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">玉字第二十四</idno>
+          <idno type="current">BD04224</idno>
+          <idno type="qianziwenno">柰字第九十三</idno>
+          <idno type="current">BD05793</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">勝鬘經疏</title>
+            <note>
+              <p>一卷。翊灼案：此疏似六朝人著作，齊楊都沙門法瑗有勝鬘經解三卷，不知即此否也。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">服字第二十二</idno>
+          <idno type="current">BD08222</idno>
+          <idno type="qianziwenno">生字第六十八</idno>
+          <idno type="current">BD03968</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">觀彌勒上生經疏</title>
+            <note>
+              <p>共二卷。翊灼案：此是相宗人著述二卷，已得十之六七，可寶也。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="15">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">薑字第八十九</idno>
+          <idno type="current">BD06189</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">無量大慈經</title>
+            <note>一卷。<p>大乘經藏類</p></note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="16">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">鹹字第七十五</idno>
+          <idno type="current">BD06375</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">閻羅王受記經</title>
+            <note>
+              <element>一卷。內題佛說閻羅王受記令四衆道修生七齊往生淨土經。</element>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="17">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">海字第七十八</idno>
+          <idno type="current">BD06278</idno>
+          <idno type="qianziwenno">服字第六十二</idno>
+          <idno type="current">BD08262</idno>
+          <idno type="qianziwenno">衣字第二十二</idno>
+          <idno type="current">BD08322</idno>
+          <note>
+            <p/>
+          </note>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">讚僧功德經</title>
+            <note>
+              <element>共三卷。</element>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="18">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">宇字第二十七</idno>
+          <idno type="current">BD00227</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">菩薩見實三昧經</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="19">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">宙字第十五</idno>
+          <idno type="current">BD00315</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">究竟大悲經</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">盈字第十九</idno>
+          <idno type="current">BD00819</idno>
+          <idno type="qianziwenno">盈字第二十四</idno>
+          <idno type="current">BD00824</idno>
+          <idno type="qianziwenno">列字第五</idno>
+          <idno type="current">BD01205</idno>
+          <idno type="qianziwenno">露字第六十六</idno>
+          <idno type="current">BD03466</idno>
+          <idno type="qianziwenno">衣字第一</idno>
+          <idno type="current">BD08301</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">大通方廣經</title>
+            <note>
+              <p>共五卷。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="21">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection/>
+          <idno type="qianziwenno">昃字第二</idno>
+          <idno type="current">BD00902</idno>
+          <idno type="qianziwenno">結字第六十五</idno>
+          <idno type="current">BD03565</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">淨度三昧經</title>
+            <note>
+              <p>共二卷。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="22">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">來字第六十四</idno>
+          <idno type="current">BD01564</idno>
+          <idno type="qianziwenno">暑字第六十</idno>
+          <idno type="current">BD01660</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">普賢菩薩說咒經</title>
+            <note>
+              <p>共二卷。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="23">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">露字第九十五</idno>
+          <idno type="current">BD03495</idno>
+          <idno type="qianziwenno">鳥字第三十三</idno>
+          <idno type="current">BD07333</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">佛說禪門經</title>
+            <note>
+              <p>共二卷。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="24">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">果字第六十九</idno>
+          <idno type="current">BD05469</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">莊嚴成佛經</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="25">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">薑字第二十三</idno>
+          <idno type="current">BD06123</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">入無分別總持經</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="26">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">河字第六十四</idno>
+          <idno type="current">BD06464</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">慈教經</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="27">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">翔字第二十五</idno>
+          <idno type="current">BD06925</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">父母恩重經</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="28">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">始字第十七</idno>
+          <idno type="current">BD07717</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">大丈夫經</title>
+            <note>
+              <p>一卷。翊灼案：以上十四經，或向未見著錄，或久遺失，今姑附此，以待詳考。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="29">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">潛字第六十九</idno>
+          <idno type="current">BD06769</idno>
+          <idno type="qianziwenno">潛字第七十四</idno>
+          <idno type="current">BD06774</idno>
+          <idno type="qianziwenno">帝字第八十三</idno>
+          <idno type="current">BD07283</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">大般若經釋</title>
+            <note>
+              <p>共三卷。翊灼案：釋大般若者著錄，所見甚少，此卷或宗智論爲之興！</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="30">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">崑字第十二</idno>
+          <idno type="current">BD04412</idno>
+          <idno type="qianziwenno">闕字第九</idno>
+          <idno type="current">BD04909</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">般若心經疏</title>
+            <note>
+              <p>共二卷。翊灼案：此經疏家極多，此疏甚精，發揮性空義旨至爲透豁，唐初人著作也。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="31">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">收字第一</idno>
+          <idno type="current">BD01901</idno>
+          <idno type="qianziwenno">閏字第二十一</idno>
+          <idno type="current">BD02221</idno>
+          <idno type="qianziwenno">閏字第二十八</idno>
+          <idno type="current">BD02228</idno>
+          <idno type="qianziwenno">閏字四十八</idno>
+          <idno type="current">BD02248</idno>
+          <idno type="qianziwenno">菜字第十五</idno>
+          <idno type="current">BD05815</idno>
+          <idno type="qianziwenno">翔字第三十七</idno>
+          <idno type="current">BD06937</idno>
+          <idno type="qianziwenno">始字第三十七</idno>
+          <idno type="current">BD07737</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">金剛般若經疏</title>
+            <note>
+              <p>共七卷。翊灼案：此疏七卷似非一種，然斷文殘卷殊難究竟，繹其文義則甚精要，空宗之傑著也。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="32">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">結字第九十三</idno>
+          <idno type="current">BD03593</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">釋般若中名義</title>
+            <note>
+              <p>一卷。翊灼案：此卷可作空宗參考。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="33">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">海字第七十七</idno>
+          <idno type="current">BD06277</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">般若心經</title>
+            <note>
+              <p>一卷。翊灼案：此又一譯。可資讎校。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="34">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">地字第九十三</idno>
+          <idno type="current">BD00093</idno>
+          <idno type="qianziwenno">宇字第六十</idno>
+          <idno type="current">BD00260</idno>
+          <idno type="qianziwenno">閏字第二十四</idno>
+          <idno type="current">BD02224</idno>
+          <idno type="qianziwenno">閏字第七十六</idno>
+          <idno type="current">BD02276</idno>
+          <idno type="qianziwenno">閏字第九十一</idno>
+          <idno type="current">BD02291</idno>
+          <idno type="qianziwenno">餘字第四十六</idno>
+          <idno type="current">BD02346</idno>
+          <idno type="qianziwenno">致字第七十</idno>
+          <idno type="current">BD03270</idno>
+          <idno type="qianziwenno">制字第八十九</idno>
+          <idno type="current">BD07889</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">涅槃經疏</title>
+            <note>
+              <p>共八卷。翊灼案：此疏殘佚太多，不可考爲何人著作，文義旨趣則性宗也。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="35">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">雨字第九十</idno>
+          <idno type="current">BD03390</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">涅盤經義記</title>
+            <note>
+              <p>一卷。翊灼案：此隋慧遠所著，義至精要，日本續藏收而不全，此卷或能補其闕，則尤可寶也。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="36">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">黃字第十二</idno>
+          <idno type="current">BD00112</idno>
+          <idno type="qianziwenno">昃字第六十八</idno>
+          <idno type="current">BD00968</idno>
+          <idno type="qianziwenno">李字第二十</idno>
+          <idno type="current">BD05620</idno>
+          <idno type="qianziwenno">河字第三十九</idno>
+          <idno type="current">BD06439</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">法華經玄贊</title>
+            <note>
+              <p>共四卷。翊灼案：此爲唐慈恩寺窺基撰，以相宗之精英發明一乘之秘奧最極圓湛，此卷惜闕略太多，將來或能從日本續藏中鈔補以爲完璧，則尤可寶也。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="37">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">暑字第七十</idno>
+          <idno type="current">BD01670</idno>
+          <idno type="qianziwenno">致字第十五</idno>
+          <idno type="current">BD03215</idno>
+          <idno type="qianziwenno">結字第四十三</idno>
+          <idno type="current">BD03543</idno>
+          <idno type="qianziwenno">玉字第二十六</idno>
+          <idno type="current">BD04226</idno>
+          <idno type="qianziwenno">號字第六十六</idno>
+          <idno type="current">BD04766</idno>
+          <idno type="qianziwenno">李字第二十</idno>
+          <idno type="current">BD05620</idno>
+          <idno type="qianziwenno">菜字第十一</idno>
+          <idno type="current">BD05811</idno>
+          <idno type="qianziwenno">淡字第三十二</idno>
+          <idno type="current">BD06532</idno>
+          <idno type="qianziwenno">始字第五十三</idno>
+          <idno type="current">BD07753</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">法華疏</title>
+            <note>
+              <p>共九卷。翊灼案：此疏殘佚甚多，不可考辨，據其義理則賢家最精者，聞賢首有法華疏若干卷，與其是歟？</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="38">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">昃字第三十</idno>
+          <idno type="current">BD00930</idno>
+          <idno type="qianziwenno">官字第三十五</idno>
+          <idno type="current">BD07435</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">阿彌陀經義述</title>
+            <note>
+              <p>共二卷。翊灼案：此卷未見著錄，義甚精，惜殘佚也。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="39">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">鳥字第九十四</idno>
+          <idno type="current">BD07394</idno>
+          <idno type="qianziwenno">官字第四十三</idno>
+          <idno type="current">BD07443</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">觀無量壽佛經疏</title>
+            <note>
+              <p>共二卷。翊灼案：此經疏家甚多，此疏未曾經見，據其文義，則亦唐初人所撰也。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="40">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">藏字第九</idno>
+          <idno type="current">BD02109</idno>
+          <idno type="qianziwenno">調字第五十</idno>
+          <idno type="current">BD02850</idno>
+          <idno type="qianziwenno">陽字第三十四</idno>
+          <idno type="current">BD02934</idno>
+          <idno type="qianziwenno">雲字第十八</idno>
+          <idno type="current">BD03018</idno>
+          <idno type="qianziwenno">結字第五十九</idno>
+          <idno type="current">BD03559</idno>
+          <idno type="qianziwenno">菜字第八十九</idno>
+          <idno type="current">BD05889</idno>
+          <idno type="qianziwenno">鹹字第十四</idno>
+          <idno type="current">BD06314</idno>
+          <idno type="qianziwenno">鹹字第五十九</idno>
+          <idno type="current">BD06359</idno>
+          <idno type="qianziwenno">始字第六十二</idno>
+          <idno type="current">BD07762</idno>
+          <idno type="qianziwenno">制字第七十三</idno>
+          <idno type="current">BD07873</idno>
+          <idno type="qianziwenno">文字第五十八</idno>
+          <idno type="current">BD07958</idno>
+          <idno type="qianziwenno">裳字第十三</idno>
+          <idno type="current">BD08413</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">稻芉經隨聽手鏡記</title>
+            <note>
+              <p>共十二卷。翊灼案：此疏爲相宗秘要之典，所述多相宗入門精義，惜諸卷重復過多，合之仍闕尾也。</p>
+              <p>大乘經藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="41">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">藏字第五十五</idno>
+          <idno type="current">BD02155</idno>
+          <idno type="qianziwenno">藏字第七十四</idno>
+          <idno type="current">BD02174</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">梵網經菩薩戒疏</title>
+            <note>
+              <p>共二卷。翊灼案：此與智者、賢者二疏均不同，不知何人所著，惜已殘佚過半矣！</p>
+              <p>大乘律藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="42">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">菜字第七十八</idno>
+          <idno type="current">BD05878</idno>
+          <idno type="qianziwenno">爲字第十四</idno>
+          <idno type="current">BD03614</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">菩薩戒義</title>
+            <note>
+              <p>共二卷。翊灼案：此係散義，可備參考。</p>
+              <p>大乘律藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="43">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">海字第九十五</idno>
+          <idno type="current">BD06295</idno>
+          <idno type="qianziwenno">衣字第四十</idno>
+          <idno type="current">BD08340</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">起信論釋</title>
+            <note>
+              <p>共二卷。</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="44">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">鹹字第四十六</idno>
+          <idno type="current">BD06346</idno>
+          <idno type="qianziwenno">淡字第四十八</idno>
+          <idno type="current">BD06548</idno>
+          <idno type="qianziwenno">始字第四十</idno>
+          <idno type="current">BD07740</idno>
+          <idno type="qianziwenno">始字第四十一</idno>
+          <idno type="current">BD07741</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">起信論義述</title>
+            <note>
+              <p>共四卷。翊灼案：此二種皆賢首宗人著述，而義述尤與賢首義記大同，或即義記之初稿歟？</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="45">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">鹹字第七十八</idno>
+          <idno type="current">BD06378</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author/>
+            <title lang="chi-Hant">十地經論釋</title>
+            <note>
+              <p>一卷。翊灼案：此卷前後均佚，考其義趣，殆亦唐初人著作也。</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="46">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">海字第十七</idno>
+          <idno type="current">BD06217</idno>
+          <note>
+            <p>一卷。</p>
+          </note>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">因緣心論釋</title>
+            <note>
+              <p>翊灼案：此釋係龍猛菩薩造，歷代久佚之本也。</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="47">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">麗字第八十三</idno>
+          <idno type="current">BD04083</idno>
+          <idno type="qianziwenno">海字第三十九</idno>
+          <idno type="current">BD06239</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">因緣心釋論開決記</title>
+            <note>
+              <p>共二卷。翊灼案：此即釋前釋論者，發明相緣相義甚精，惜多佚也。</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="48">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">結字第三十</idno>
+          <idno type="current">BD03530</idno>
+          <idno type="qianziwenno">官字第四十二</idno>
+          <idno type="current">BD07442</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">大乘四法經論廣釋開決記</title>
+            <note>
+              <p>共二卷。翊灼案：古來釋四法經論者甚少，此卷發明顯透，可資尋繹。</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="49">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">騰字第六</idno>
+          <idno type="current">BD03106</idno>
+          <idno type="qianziwenno">露字第四十三</idno>
+          <idno type="current">BD03443</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">大乘五門十地實相論</title>
+            <note>
+              <p>共二卷。翊灼案：此論未見著錄，譯人及所出年代均不可考。</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="50">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">地字第五十四</idno>
+          <idno type="current">BD00054</idno>
+          <idno type="qianziwenno">盈字第二十七</idno>
+          <idno type="current">BD00827</idno>
+          <idno type="qianziwenno">閏字第六十六</idno>
+          <idno type="current">BD02266</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">金剛仙論</title>
+            <note>
+              <p>共三卷。翊灼案：此論日本續藏收，題爲金剛仙菩薩造，開元釋教錄則云金剛仙論十卷，尋閱文理，乃是元魏三藏菩提留支撰釋天親論者，未知孰是？</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="51">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">服字第六</idno>
+          <idno type="current">BD08206</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">圓明論</title>
+            <note>
+              <p>一卷。內題馬鳴菩薩造。又題目云：明心色因果品第一、要門方便品第二、辨明修道擇因果品第三、辨明三乘逆順觀品第四、簡異外道緣生本品第五、入邪正五門辨因果第六、自心現量品第七、簡妄想品第八、辨明聲體品第九。翊灼案：此論未見著錄，譯人、出時並不可考。</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="52">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">辰字第八十七</idno>
+          <idno type="current">BD01087</idno>
+          <idno type="qianziwenno">秋字第五十七</idno>
+          <idno type="current">BD01857</idno>
+          <idno type="qianziwenno">冬字第七十二</idno>
+          <idno type="current">BD02072</idno>
+          <idno type="qianziwenno">閏字第九十八</idno>
+          <idno type="current">BD02298</idno>
+          <idno type="qianziwenno">露字第八十二</idno>
+          <idno type="current">BD03482</idno>
+          <idno type="qianziwenno">光字第二十六</idno>
+          <idno type="current">BD05326</idno>
+          <idno type="qianziwenno">柰字第九十七</idno>
+          <idno type="current">BD05797</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">瑜伽師地論隨聽手記</title>
+            <note>
+              <p>共七卷。翊灼案：日本續藏收唐遁倫記二十四卷、窺基略篡十六卷，瑜伽師地論著述僅存此矣！此卷不知何人著作？其云隨聽手記，或亦聽奘師講演而記錄之歟？察爾則甚可貴也。</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="53">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">宇字第九十</idno>
+          <idno type="current">BD00290</idno>
+          <idno type="qianziwenno">宙字第六十六</idno>
+          <idno type="current">BD00366</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">瑜伽師地論科</title>
+            <note>
+              <p>共二卷。</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="54">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">張字第六十三</idno>
+          <idno type="current">BD01363</idno>
+          <idno type="qianziwenno">官字第十六</idno>
+          <idno type="current">BD07416</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">瑜伽師地論釋</title>
+            <note>
+              <p>共二卷。翊灼案：此二種可資參考。</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="55">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">荒字第七十八</idno>
+          <idno type="current">BD00578</idno>
+          <idno type="qianziwenno">辰字第七十三</idno>
+          <idno type="current">BD01073</idno>
+          <idno type="qianziwenno">列字第三十二</idno>
+          <idno type="current">BD01232</idno>
+          <idno type="qianziwenno">秋字第六十一</idno>
+          <idno type="current">BD01861</idno>
+          <idno type="qianziwenno">冬字第二十五</idno>
+          <idno type="current">BD02025</idno>
+          <idno type="qianziwenno">呂字第三十七</idno>
+          <idno type="current">BD02937</idno>
+          <idno type="qianziwenno">陽字第二十</idno>
+          <idno type="current">BD02920</idno>
+          <idno type="qianziwenno">金字第十八</idno>
+          <idno type="current">BD03818</idno>
+          <idno type="qianziwenno">玉字第五十六</idno>
+          <idno type="current">BD04256</idno>
+          <idno type="qianziwenno">號字第四十</idno>
+          <idno type="current">BD04740</idno>
+          <idno type="qianziwenno">柰字第九十八</idno>
+          <idno type="current">BD05798</idno>
+          <idno type="qianziwenno">菜字第三</idno>
+          <idno type="current">BD05803</idno>
+          <idno type="qianziwenno">潛字第五十七</idno>
+          <idno type="current">BD06757</idno>
+          <idno type="qianziwenno">潛字第五十九</idno>
+          <idno type="current">BD06759</idno>
+          <idno type="qianziwenno">官字第六十五</idno>
+          <idno type="current">BD07465</idno>
+          <idno type="qianziwenno">字字第三十二</idno>
+          <idno type="current">BD08032</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">百法論疏</title>
+            <note>
+              <p>共十六卷。翊灼案：此論疏者甚多，而流傳甚少，此卷不察爲何人著作，然其釋義精極，作者其爲大乘光之流亞無疑也。</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="56">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">露字第四十六</idno>
+          <idno type="current">BD03446</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">百法義章</title>
+            <note>
+              <p>一卷。翊灼案：此卷完全，釋義亦明了。</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="57">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">崑字第六</idno>
+          <idno type="current">BD04406</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">百法論述義</title>
+            <note>
+              <p>一卷。翊灼案：此卷殘佚太多，不可考辨矣！</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="58">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">露字第六</idno>
+          <idno type="current">BD03406</idno>
+          <idno type="qianziwenno">水字第六</idno>
+          <idno type="current">BD04106</idno>
+          <idno type="qianziwenno">出字第一百</idno>
+          <idno type="current">BD04400</idno>
+          <idno type="qianziwenno">海字第十九</idno>
+          <idno type="current">BD06219</idno>
+          <idno type="qianziwenno">鳥字第六十七</idno>
+          <idno type="current">BD07367</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">百法論開宗義記</title>
+            <note>
+              <p>共五卷。翊灼案：此記未見著錄，據文義亦唐初諸師所著，發明相宗義甚精詳也。</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="59">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">宙字第九十五</idno>
+          <idno type="current">BD00395</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">無名論</title>
+            <note>
+              <p>一卷。內題三慧品第一百九十四。</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="60">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">騰字第二十三</idno>
+          <idno type="current">BD03123</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">無名論 又一卷</title>
+            <note>
+              <p>一卷。內題觀聲性空證實際品、觀三處空證菩提品。</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="61">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">露字第二十一</idno>
+          <idno type="current">BD03421</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">無名論 又一卷</title>
+            <note>
+              <p>一卷。內題求善知識不惜內外壽命嫌疑第十品。</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="62">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">騰字第五十九</idno>
+          <idno type="current">BD03159</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">無名論 又一卷</title>
+            <note>
+              <p>一卷。內題禪章第五、般若章第六、出家章第七、孝慎章第八、戒色慾章第九。</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="63">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">號字第二十六</idno>
+          <idno type="current">BD04726</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">無名論 又一卷</title>
+            <note>
+              <p>一卷。內題顯一切衆生身內有佛父母品第六、對治服藥論第七、除一切衆生修道作佛道作佛病品第八、一切賢聖心海發作扭捩渾合品第九、一相諸法即道解脫品第十</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="64">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">人字第二十</idno>
+          <idno type="current">BD07520</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">無名論 又一卷</title>
+            <note>
+              <p>一卷。內題佛性同異章第七。</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="65">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">爲字第四十六</idno>
+          <idno type="current">BD03646</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">無名論 又一卷</title>
+            <note>
+              <p>一卷。內題煩惱即菩題品第九。翊灼案：以上各卷均是論類，惜均殘佚，姑存於是，以俟詳考。</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="66">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">帝字第十七</idno>
+          <idno type="current">BD07217</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">無名論釋</title>
+            <note>
+              <p>一卷。翊灼案：此卷文義審爲論釋，惜所佚太多，不可稽考。</p>
+              <p>大乘論藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="67">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">盈字第三十一</idno>
+          <idno type="current">BD00831</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">無量壽宗要陀羅尼經</title>
+            <note>
+              <p>一卷。翊灼案：此經未見著錄，綜核文句與元沙囉巴所出之無量壽決定光明王陀羅尼經，蓋同一梵本也。</p>
+              <p>大乘秘密藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="68">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">餘字第八十五</idno>
+          <idno type="current">BD02385</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">如意輪陀羅尼經</title>
+            <note>
+              <p>一卷。翊灼案：此又一譯，可資讎校。</p>
+              <p>大乘秘密藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="69">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">收字第五十七</idno>
+          <idno type="current">BD01957</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">諸星母陀羅尼經</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘秘密藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="70">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">收字第四十</idno>
+          <idno type="current">BD01940</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">金有陀羅尼經</title>
+            <note>
+              <p>一卷。翊灼案：此二經未見著錄。</p>
+              <p>大乘秘密藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="71">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">宇字第二十二</idno>
+          <idno type="current">BD00222</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">大佛頂首楞嚴陀羅尼經</title>
+            <note>
+              <p>一卷。翊灼案：此又一譯，可資讎校。</p>
+              <p>大乘秘密藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="72">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">推字第九十</idno>
+          <idno type="current">BD08590</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">解百生怨家陀羅尼經</title>
+            <note>
+              <p>一卷。翊灼案：此卷文義可疑，姑存於此，以俟後考。</p>
+              <p>大乘秘密藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="73">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">昃字第五</idno>
+          <idno type="current">BD00905</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">東方金剛大集想</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘秘密藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="74">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">水字第二</idno>
+          <idno type="current">BD04102</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">瑜伽禮</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘秘密藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="75">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">推字第七十九</idno>
+          <idno type="current">BD08579</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">法身禮</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘秘密藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="76">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">始字第六十八</idno>
+          <idno type="current">BD07768</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">救濟苦難陀羅尼 </title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘秘密藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="77">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">收字第六</idno>
+          <idno type="current">BD01906</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">施餓鬼水食真言印法</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘秘密藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="78">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">昃字第九</idno>
+          <idno type="current">BD00909</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">金剛蓮華大摧碎真言 </title>
+            <note>
+              <p>一卷。翊灼案：以上六種皆真言宗散法，此土阿闍梨之著作也。</p>
+              <p>大乘秘密藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="79">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">冬字第七十四</idno>
+          <idno type="current">BD02074</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">金剛頂四十九種壇法軌則</title>
+            <note>
+              <p>一卷。內題金剛峻經金剛頂，一切如來深妙秘密金剛界，大三昧耶，修行四十九種壇法作用威儀法則。</p>
+              <p>大乘秘密藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="80">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">冬字第七十四</idno>
+          <idno type="current">BD02074</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">大毘廬遮那佛金剛心地法門法界壇法軌則</title>
+            <note>
+              <p>一卷。同前並題大興善寺大廣智三藏不空奉詔譯。</p>
+              <p>大乘秘密藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="81">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">餘字第十九</idno>
+          <idno type="current">BD02319</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">金剛頂經金剛界修習瑜伽儀</title>
+            <note>
+              <p>一卷。內題金剛頂經，一切如業真實，攝大乘現證，大教王經，深妙秘密金剛界，大三味耶，修習瑜伽儀。末題大興善寺大廣智三藏不空奉詔譯。翊灼案：以上四種秘密軌則，皆真言宗要法也。</p>
+              <p>大乘秘密藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="82">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">光字第九十五</idno>
+          <idno type="current">BD05395</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">大神力都攝一切咒王帝殊羅尼金剛大道場三昧陀羅尼</title>
+            <note>
+              <p>一卷。翊灼案：此是佛頂部真言，與大佛頂咒同類也。</p>
+              <p>大乘秘密藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="83">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">官字第十五</idno>
+          <idno type="current">BD07415</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">如意輪王摩尼別行法印</title>
+            <note>
+              <p>一卷。翊灼案：此卷載印法甚悉，真言宗之秘典也。</p>
+              <p>大乘秘密藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="84">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">淡字第四</idno>
+          <idno type="current">BD06504</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">秘密義抄</title>
+            <note>
+              <p>一卷。翊灼案：此是真言宗散義。</p>
+              <p>大乘秘密藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="85">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">致字第八十六</idno>
+          <idno type="current">BD03286</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi-Hant" type="person">惠達</name>
+            </author>
+            <title lang="chi-Hant">頓悟大乘秘密心契禪門法</title>
+            <note>
+              <p>一卷。內題惠達和上撰。翊灼案：惠達不可考，此文係頌類，明義甚精也。</p>
+              <p>大乘秘密藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="86">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">果字第八十八</idno>
+          <idno type="current">BD05488</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">禮阿彌陀佛文</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="87">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">服字第二十八</idno>
+          <idno type="current">BD08228</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">淨土願文</title>
+            <note>
+              <p>一卷。翊灼案：此二處亦不完全，不可考證。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="88">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">果字第四十一</idno>
+          <idno type="current">BD05441</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">西方淨土讚</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="89">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">文字第八十九</idno>
+          <idno type="current">BD07989</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">歸西方讚</title>
+            <note>
+              <p>一卷。翊灼案：此二種義甚好，著者不可考矣！</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="90">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">潛字第五十一</idno>
+          <idno type="current">BD06751</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">淨土義</title>
+            <note>
+              <p>一卷。翊灼案：此卷發明淨土之義甚精，惜首尾不完。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="91">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">乃字第六十八</idno>
+          <idno type="current">BD08168</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">淨土懺</title>
+            <note>
+              <p>一卷。翊灼案：此懺亦非流通諸種，不詳作者也。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="92">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">宿字第九十九</idno>
+          <idno type="current">BD01199</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">安心義</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="93">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">寒字第八十一</idno>
+          <idno type="current">BD01481</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">真了性壇語</title>
+            <note>
+              <p>一卷。內題和尚頓教解脫禪門真了性壇語。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="94">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">閏字第八十四</idno>
+          <idno type="current">BD02284</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">無名上士集</title>
+            <note>
+              <p>一卷。內題觀行法，爲有緣沙門知嵩述。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="95">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">生字第二十四</idno>
+          <idno type="current">BD03924</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">大乘無生方便</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="96">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">劍字第八十七</idno>
+          <idno type="current">BD04687</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">堅義</title>
+            <note>
+              <p>一卷。內題本迹第三、真就第四、境智第五、因果第六。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="97">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">柰字第五十五</idno>
+          <idno type="current">BD05755</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">融即相無相論</title>
+            <note>
+              <p>一卷。內題三教對於三佛論第四、三根對於三教論第五、釋三佛有說無說論第六、辨共成佛爲不共成佛論第七、有執無執論第八、淨土論第九、二諦論第十、十二因緣論第十一、禪枝論第十二。末題承相王五門佛性義。又題汸丘釋道遵許。案許字或說是歟？又題沙彌庫狐純酢寫。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="98">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">宇字第四</idno>
+          <idno type="current">BD00204</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">一乘顯自心論</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="99">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">裳字第六十七</idno>
+          <idno type="current">BD08467</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">了性句</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="100">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">裳字第七十五</idno>
+          <idno type="current">BD08475</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">證心論</title>
+            <note>
+              <p>一卷。翊灼案：以上九種皆是禪宗人著述，發明心宗要義甚暢。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="101">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">重字第二十</idno>
+          <idno type="current">BD05920</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">無相禮</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="102">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">制字第七十九</idno>
+          <idno type="current">BD07879</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">□□觀修善法</title>
+            <note>
+              <p>一卷。翊灼案：此二種亦禪宗撰述之類。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="103">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">鳥字第九十三</idno>
+          <idno type="current">BD07393</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">所緣緣論釋</title>
+            <note>
+              <p>一卷。翊灼案：此釋不知何人所著，發揮相宗義旨甚精也。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="104">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">潛字第六十七</idno>
+          <idno type="current">BD06767</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">釋八識義 </title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="105">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">金字第三十三</idno>
+          <idno type="current">BD03833</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">釋唯心識義</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="106">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">月字第九十一</idno>
+          <idno type="current">BD00791</idno>
+          <idno type="qianziwenno">寒字第四十六</idno>
+          <idno type="current">BD01446</idno>
+          <idno type="qianziwenno">陽字第四十三</idno>
+          <idno type="current">BD02943</idno>
+          <idno type="qianziwenno">生字第四十七</idno>
+          <idno type="current">BD03947</idno>
+          <idno type="qianziwenno">珠字第五十一</idno>
+          <idno type="current">BD05051</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">相宗散義</title>
+            <note>
+              <p>共五卷。翊灼案：右三種皆相宗碎義，足資考證。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="107">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">日字第五十</idno>
+          <idno type="current">BD00650</idno>
+          <idno type="qianziwenno">重字第五十一</idno>
+          <idno type="current">BD05951</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi-Hant" type="person">智周</name>
+            </author>
+            <title lang="chi-Hant">大乘入道次第章</title>
+            <note>
+              <p>共二卷。翊灼案：此卷係唐智周撰，中土久佚，日本續藏收，惜不全也。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="108">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">珠字第七十四</idno>
+          <idno type="current">BD05074</idno>
+          <idno type="qianziwenno">柰字第七十六</idno>
+          <idno type="current">BD05776</idno>
+          <idno type="qianziwenno">官字第二十</idno>
+          <idno type="current">BD07420</idno>
+          <idno type="qianziwenno">人字第九十五</idno>
+          <idno type="current">BD07595</idno>
+          <note>
+            <p/>
+          </note>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">無名疏釋</title>
+            <note>
+              <p>共四卷。翊灼案：此四卷文義亦是相宗類，惜未能詳考也。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="109">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">洪字第五十三</idno>
+          <idno type="current">BD00453</idno>
+          <note>
+            <p/>
+          </note>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">大義章</title>
+            <note>
+              <p>一卷。內題及法師撰。翊灼案：晉慧遠有與鳩摩羅什法師問答大乘大義章三卷，此不知是否？當取日本續藏收者一校之也。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="110">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">位字第二十</idno>
+          <idno type="current">BD08620</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">答上問法書</title>
+            <note>
+              <p>一卷。翊灼案：此卷義趣甚精，不知何師承答帝問之辭也。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="111">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">文字第一百</idno>
+          <idno type="current">BD08000</idno>
+          <note>
+            <p/>
+          </note>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">斷惑義</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="112">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">字字第一</idno>
+          <idno type="current">BD08001</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">破昏怠法</title>
+            <note>
+              <p>一卷。翊灼案：此二種皆大乘散義。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="113">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">始字第四十六</idno>
+          <idno type="current">BD07746</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">禮彌陀彌勒懺文</title>
+            <note>
+              <p>一卷。題釋洪秀撰</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="114">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">宿字第五十</idno>
+          <idno type="current">BD01150</idno>
+          <idno type="qianziwenno">成字第九十八</idno>
+          <idno type="current">BD02498</idno>
+          <idno type="qianziwenno">海字第五十一</idno>
+          <idno type="current">BD06251</idno>
+          <idno type="qianziwenno">字字第五十九</idno>
+          <idno type="current">BD08059</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">釋氏雜文稿</title>
+            <note>
+              <p>共四卷。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="115">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">字字第十九</idno>
+          <idno type="current">BD08019</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">義淨三藏碑文</title>
+            <note>
+              <p>一卷。翊灼案：此三卷皆雜稿，然可備資參究。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="116">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">結字第四十八</idno>
+          <idno type="current">BD03548</idno>
+          <idno type="qianziwenno">崑字第八十三</idno>
+          <idno type="current">BD04483</idno>
+          <idno type="qianziwenno">菜字第四十</idno>
+          <idno type="current">BD05840</idno>
+          <idno type="qianziwenno">師字第九十七</idno>
+          <idno type="current">BD07197</idno>
+          <idno type="qianziwenno">鳥字第三十一</idno>
+          <idno type="current">BD07331</idno>
+          <idno type="qianziwenno">制字第四十五</idno>
+          <idno type="current">BD07845</idno>
+          <idno type="qianziwenno">文字第四十一</idno>
+          <idno type="current">BD07941</idno>
+          <idno type="qianziwenno">字字第九十</idno>
+          <idno type="current">BD08090</idno>
+          <idno type="qianziwenno">裳字第五</idno>
+          <idno type="current">BD08405</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">無名疏解</title>
+            <note>
+              <p>共九卷。翊灼案：此九卷皆疏釋經論者，姑存於此，俟後詳考。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="117">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">盈字第七十六</idno>
+          <idno type="current">BD00876</idno>
+          <idno type="qianziwenno">成字第九十六</idno>
+          <idno type="current">BD02496</idno>
+          <idno type="qianziwenno">霜字第八十九</idno>
+          <idno type="current">BD03789</idno>
+          <idno type="qianziwenno">麗字第八十五</idno>
+          <idno type="current">BD04085</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">目連入地獄俗文</title>
+            <note>
+              <p>共四卷。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="118">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">雲字第二十四</idno>
+          <idno type="current">BD03024</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">八相成道俗文</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="119">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">光字第九十四</idno>
+          <idno type="current">BD05394</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">維摩經俗文</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="120">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">潛字第八十</idno>
+          <idno type="current">BD06780</idno>
+          <idno type="qianziwenno">乃字第九十一</idno>
+          <idno type="current">BD08191</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">佛本行俗文</title>
+            <note>
+              <p>共二卷。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="121">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">鳥字第十</idno>
+          <idno type="current">BD07310</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">勸戒俗文</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="122">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">鳥字第六十四</idno>
+          <idno type="current">BD07364</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">悉曇頌俗文</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="123">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">制字第四十九</idno>
+          <idno type="current">BD07849</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">法華經俗文</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="124">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">衣字第三十三</idno>
+          <idno type="current">BD08333</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">述地獄苦俗文</title>
+            <note>
+              <p>一卷。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="125">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">推字第二十八</idno>
+          <idno type="current">BD08528</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">和戒俗文</title>
+            <note>
+              <p>一卷。翊灼案：以上九種皆通俗勸導之文也。</p>
+              <p>大乘雜藏類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="126">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">黃字第十九</idno>
+          <idno type="current">BD00119</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">天請問經疏</title>
+            <note>
+              <p>一卷。翊灼案：此疏發明四諦等義甚精，小乘中最要之典也。</p>
+              <p>小乘類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="127">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">生字第六十八</idno>
+          <idno type="current">BD03968</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">溫室洗浴衆僧經疏 </title>
+            <note>
+              <p>一卷。翊灼案：此隋慧遠所著也，釋小乘義極精要，惜殘佚甚多。</p>
+              <p>小乘類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="128">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">生字第十</idno>
+          <idno type="current">BD03910</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">四諦法門經</title>
+            <note>
+              <p>一卷。</p>
+              <p>小乘類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="129">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">芥字第八十三</idno>
+          <idno type="current">BD06083</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">佛說救疾經</title>
+            <note>
+              <p>一卷。</p>
+              <p>小乘類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="130">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">鹹字第二十六</idno>
+          <idno type="current">BD06326</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">法王經</title>
+            <note>
+              <p>一卷。</p>
+              <p>小乘類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="131">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">制字第六十八</idno>
+          <idno type="current">BD07868</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">五無返復經</title>
+            <note>
+              <p>一卷。</p>
+              <p>小乘類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="132">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">辰字第六十三</idno>
+          <idno type="current">BD01063</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">無常三稽經</title>
+            <note>
+              <p>一卷。翊灼案：此五種皆小乘經，未詳譯代。</p>
+              <p>小乘類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="133">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">裳字第二十七</idno>
+          <idno type="current">BD08427</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">佛說犯戒罪報輕重經</title>
+            <note>
+              <p>一卷。</p>
+              <p>小乘類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="134">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">始字第二十</idno>
+          <idno type="current">BD07720</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">四分戒本疏</title>
+            <note>
+              <p>一卷。翊灼案：此二種小乘戒也。</p>
+              <p>小乘類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="135">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">官字第九十三</idno>
+          <idno type="current">BD07493</idno>
+          <idno type="qianziwenno">人字第七十二</idno>
+          <idno type="current">BD07572</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">三寶四諦</title>
+            <note>
+              <p>共二卷。</p>
+              <p>小乘類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="136">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">致字第七十四</idno>
+          <idno type="current">BD03274</idno>
+          <idno type="qianziwenno">龍字第八十二</idno>
+          <idno type="current">BD07082</idno>
+          <idno type="qianziwenno">裳字第六十六</idno>
+          <idno type="current">BD08466</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">小乘三科</title>
+            <note>
+              <p>共三卷。</p>
+              <p>小乘類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="137">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">洪字第九十</idno>
+          <idno type="current">BD00490</idno>
+          <idno type="qianziwenno">盈字第十</idno>
+          <idno type="current">BD00810</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">小乘部義抄</title>
+            <note>
+              <p>共二卷。翊灼案：此皆小乘散義。</p>
+              <p>小乘類</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="138">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">餘字第八十</idno>
+          <idno type="current">BD02380</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">觀世音三昧經</title>
+            <note>
+              <p>一卷。翊灼案：此經見周錄疑僞類。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="139">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">麗字第十</idno>
+          <idno type="current">BD04010</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">大辨邪正經</title>
+            <note>
+              <p>一卷。翊灼案：此經託名奘師譯，僞也。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="140">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">洪字第三十八</idno>
+          <idno type="current">BD00438</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">八陽神咒經</title>
+            <note>
+              <p>一卷。翊灼案：此經與藏中收本不同，僞也。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="141">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">張字第六十九</idno>
+          <idno type="current">BD01369</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">要行捨身經</title>
+            <note>
+              <p>一卷。翊灼案：此經見開元錄僞妄類。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="142">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">河字第五十五</idno>
+          <idno type="current">BD06455</idno>
+          <idno type="qianziwenno">帝字第二</idno>
+          <idno type="current">BD07202</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">七階佛名</title>
+            <note>
+              <p>共二卷。翊灼案：此種周錄入疑僞類。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="143">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">光字第九十七</idno>
+          <idno type="current">BD05397</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">佛說證香火本因經</title>
+            <note>
+              <p>一卷。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="144">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">鹹字第七十七</idno>
+          <idno type="current">BD06377</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">佛說證明經</title>
+            <note>
+              <p>一卷。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="145">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">翔字第二十二</idno>
+          <idno type="current">BD06922</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">勸善經</title>
+            <note>
+              <p>一卷。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="146">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">師字第二十</idno>
+          <idno type="current">BD07120</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">新菩薩經</title>
+            <note>
+              <p>一卷。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="147">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">位字第六十八</idno>
+          <idno type="current">BD08668</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">百行章</title>
+            <note>
+              <p>一卷。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="148">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">乃字第八</idno>
+          <idno type="current">BD08108</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">救諸衆生苦難經</title>
+            <note>
+              <p>一卷。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="149">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">陽字八十七</idno>
+          <idno type="current">BD02987</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">首羅比丘經</title>
+            <note>
+              <p>一卷。翊灼案：以上七種文義舛謬，皆疑僞類。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="150">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">皇字第七十五</idno>
+          <idno type="current">BD07675</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">西藏文經</title>
+            <note>
+              <p>一卷。翊灼未嘗習藏文，此卷不能定爲何經，姑存於此，以俟知者。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="151">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">地字第十七</idno>
+          <idno type="current">BD00017</idno>
+          <idno type="qianziwenno">黃字第八十七</idno>
+          <idno type="current">BD00187</idno>
+          <idno type="qianziwenno">辰字第十七</idno>
+          <idno type="current">BD01017</idno>
+          <idno type="qianziwenno">宿字第五十七</idno>
+          <idno type="current">BD01157</idno>
+          <idno type="qianziwenno">列字第十九</idno>
+          <idno type="current">BD01219</idno>
+          <idno type="qianziwenno">陽字第八十三</idno>
+          <idno type="current">BD02983</idno>
+          <idno type="qianziwenno">露字第四十三</idno>
+          <idno type="current">BD03443</idno>
+          <idno type="qianziwenno">重字第九十五</idno>
+          <idno type="current">BD05995</idno>
+          <idno type="qianziwenno">芥字第九十七</idno>
+          <idno type="current">BD06097</idno>
+          <idno type="qianziwenno">翔字第十四</idno>
+          <idno type="current">BD06914</idno>
+          <idno type="qianziwenno">鳥字第八十四</idno>
+          <idno type="current">BD07384</idno>
+          <idno type="qianziwenno">文字第八十五</idno>
+          <idno type="current">BD07985</idno>
+          <idno type="qianziwenno">服字第四十六</idno>
+          <idno type="current">BD08246</idno>
+          <idno type="qianziwenno">服字第八十九</idno>
+          <idno type="current">BD08289</idno>
+          <idno type="qianziwenno">裳字第三十</idno>
+          <idno type="current">BD08430</idno>
+          <idno type="qianziwenno">位字第三十九</idno>
+          <idno type="current">BD08639</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">道家無名經</title>
+            <note>
+              <p>共十六卷。翊灼案：此十六卷均道家經典，其名未考。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="152">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">麗字第四十七</idno>
+          <idno type="current">BD04047</idno>
+          <idno type="qianziwenno">金字第十八</idno>
+          <idno type="current">BD03818</idno>
+          <idno type="qianziwenno">皇字第二十</idno>
+          <idno type="current">BD07620</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">道家懺</title>
+            <note>
+              <p>共三卷。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="153">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">列字第十八</idno>
+          <idno type="current">BD01218</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">太上洞元經</title>
+            <note>
+              <p>一卷。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="154">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">人字第一</idno>
+          <idno type="current">BD07501</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">太上一乘海空經</title>
+            <note>
+              <p>一卷。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="155">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">往字第七十六</idno>
+          <idno type="current">BD01776</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">太玄真一本際經</title>
+            <note>
+              <p>一卷。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="156">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">麗字第九十九</idno>
+          <idno type="current">BD04099</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">元始上品經</title>
+            <note>
+              <p>一卷。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="157">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">珍字第二十</idno>
+          <idno type="current">BD05520</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">無上秘要道經</title>
+            <note>
+              <p>一卷。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="158">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">李字第七</idno>
+          <idno type="current">BD05607</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">道家僞經</title>
+            <note>
+              <p>一卷。翊灼案：以上七種皆道家。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="159">
+        <msIdentifier>
+          <settlement>北京</settlement>
+          <institution>中國國家圖書館</institution>
+          <collection>敦煌</collection>
+          <idno type="qianziwenno">宇字第五十六</idno>
+          <idno type="current">BD00256</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <title lang="chi-Hant">景教經</title>
+            <note>
+              <p>一卷。翊灼以種種考證，證明此爲景教之經，會當別制考證文以質通士，茲不具贅。</p>
+              <p>今秋晤法人歐盧梭君於滬，出眎法人伯希和氏所譯此經，據云此為摩尼教經，而絕非景教，謹附識于此。 鄧實記。</p>
+              <p>附錄</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

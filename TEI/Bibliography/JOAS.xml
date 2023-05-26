@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="JOAS">
+    <title level="j" lang="eng">Journal of the American Oriental Society </title>
+    <imprint>
+      <pubPlace>New Haven [u.a.]</pubPlace>
+      <publisher>American Oriental Society</publisher>
+      <date>1.1843/49(1851)-</date>
+    </imprint>
+    <genBibl>journals</genBibl>
+  </bibl>
+</listBibl>

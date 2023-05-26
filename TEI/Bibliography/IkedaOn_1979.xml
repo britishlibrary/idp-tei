@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="IkedaOn_1979">
+    <author lang="jap">&#x6C60;&#x7530;&#x6E29;</author>
+    <title level="m" lang="jap">&#x4E2D;&#x56FD;&#x53E4;&#x4EE3;&#x7C4D;&#x5E10;&#x7814;&#x7A76;&#xFF08;&#x4E0B;&#xFF09;</title>
+    <imprint>
+      <pubPlace>&#x6771;&#x4EAC;</pubPlace>
+      <publisher>&#x6771;&#x4EAC;&#x5927;&#x5B66;&#x51FA;&#x7248;&#x4F1A;</publisher>
+      <date>1979</date>
+    </imprint>
+  </bibl>
+</listBibl>

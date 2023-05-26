@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A Chinese Pilgrim's Letters of Passage</title>
+        <author>Sam van Schaik</author>
+        <author>Imre Galambos</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>IDP</publisher>
+        <pubPlace> http://idp.bl.uk </pubPlace>
+        <date> 2012 </date>
+      </publicationStmt>
+      <editionStmt>
+        <edition> First electronic edition </edition>
+        <date> 2005 </date>
+        <respStmt> Created by Sam van Schaik </respStmt>
+      </editionStmt>
+      <sourceDesc>
+        <p>Published in Sam van Schaik and Imre Galambos,<title>Manuscripts and Travellers:
+                        The Sino-Tibetan Documents of a Tenth-Century Buddhist Pilgrim</title>,
+                    Berlin, de Gruyter, 2012.</p>
+        <bibl>
+          <ref> vanSchaik_Galambos_2012 </ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc> Translation </projectDesc>
+      <editorialDecl/>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This is a translation and transcription of five letters of passage, written for a
+                Chinese monk in the late tenth century, for his journey through Tibetan regions of
+                what are now the Chinese provinces of Qinghai and Gansu. The letters are found on
+                the first part of the manuscript, IOL Tib J 754(A). This scroll was found glued
+                together with two other manuscripts that the pilgrim acquired on his travels. The
+                longest part is IOL Tib J 754(B), with a Chinese sūtra on the recto and Tibetan
+                tantric texts on the verso. Finally, the smallest part is IOL Tib J 754(C), which
+                has a Chinese text commemorating the building of a monastery near Liangzhou, which
+                turns out to be a copy of an inscription from the early seventh century. Crucially,
+                the colophon to this manuscript states that the copy was made in 968 by the monk
+                Daozhao, thus providing us with a date and a name.</p>
+      <p>The letters are written to a conventional pattern, with the exception of Letter 2,
+                which has no addressee and is therefore an open rather than personal letter. The
+                personal letters begin with the name or title of the addressee, followed by a phrase
+                literally meaning “from the presence of ...” (<term lang="tib">zha snga nas</term>)
+                but effectively meaning “addressed to ....” Then we have the name of the author of
+                the letter, followed by the phrase “a letter submitted by ...” (<term lang="tib">mchid gsol ba</term>). This is followed by a polite enquiry regarding whether
+                the addressee is fatigued or not. It is interesting that in our letters the enquiry
+                about fatigue specifically addresses fatigue caused by meditation. This may be a
+                variation on the formula, used when the addressee is a monk. Another apparently
+                formulaic feature of the letters is the phrase “consider your commitments” (<term lang="tib">thugs dam la dgongs pa</term>), which appears toward the end of
+                Letters 1, 3 and 5. This may have been a standard conclusion to a request directed
+                at a monk</p>
+      <p>The letters of passage are undoubtedly an important historical
+                source. They contain information about the Tibetan-ruled areas of Qinghai and Gansu
+                not found anywhere else. Their date, from the late 960s, falls at the end of a
+                historical ‘dark period’ for this region, when both Tibet and China were politically
+                fragmented. The document offers no narrative as such, but is a primary source of
+                information on regional towns, rulers, monasteries and monks. Earlier, in chapter 3,
+                we followed the pilgrim’s route as outlined in the second letter – beginning in
+                Wutaishan, and then travelling to Hezhou, Dantig Shan, Tsongka, Liangzhou, Ganzhou
+                and Shazhou, with the ultimate destination being Nālandā in India. The places in
+                which these letters were written surely overlap to some extent with this itinerary,
+                although clear indications of the location of their authors are unfortunately
+                lacking.</p>
+      <p> Note on transcriptions:</p>
+      <p>{} = uncertain reading</p>
+      <p>[] = transcribed by Thomas but now illegible</p>
+      <p>++ = addition</p>
+    </head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL Tib J 754(A)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title>First Letter</title>
+            <q lang="eng">
+              <p>This is addressed to the residence of the great master Yönten Chog:
+                                Toleu Tagsum inquires regarding your health. According to what you
+                                said in the letter brought by your servant, your body is not
+                                fatigued by your meditation, and your authority is undiminished. In
+                                this letter I enquire devotedly about your health, and ask how I may
+                                fulfil your commands.</p>
+              <p> May I ask a favour regarding a Chinese monk who has been in my
+                                presence? The monk wishes to go to India to see the relics of
+                                Śākyamuni. If the abbot were to travel across to Liangzhou [with the
+                                monk] it would not be such a great burden. If [the abbot] cannot
+                                travel there, then a servant could accompany the monk. I beg you to
+                                consider your commitments. The monk will give you more detailed
+                                information.</p>
+              <p> Furthermore, this is addressed to the residence of the abbot: if
+                                this letter comes to you, and you do comply with this request
+                                immediately, it would be improper not to send back a letter of
+                                confirmation. If you have complied with this request, please do so
+                                by summer this year.</p>
+            </q>
+            <p/>
+            <q lang="tib">
+              <p><lb n="1"/>@// slobs dpon chen po yon tan mchog bzhugs pi zha snga
+                                nas / /to le’u stag gsum gis snying gsol ba/ /zha ‘bring <lb n="2"/> [‘dab na]s ‘drul ba la mchid gis rmas na/ /dgongs pas sku
+                                mnyel ma lags pa/ mnga’ tang la ‘grib pa myi mnga’ <lb n="3"/>
+                                [bar khums/ /] mchid yi ge las gus pas snyun gsol zhing mchis/ bkas
+                                rma bar ci gnang/ <lb n="4"/> @// [na] gsol ba’/ rgya hwa shang
+                                de spya ngar [deletion: brmangs] pa’i don ni/ hwa shang de rgya gar
+                                    <lb n="5"/> yul du [shag kya] thub pa’i gdung len du mchi
+                                lags na/ phar leng cur mkhan po gshegs pa lags <lb n="6"/> na
+                                thugs khral cher myi mdzad kha ma mchis/ nyid myi gshegs na zha
+                                ‘bring gcig gis hwa shang de leng chur <lb n="7"/> phyin bar myi
+                                skye[l] kha ma mchis/ thugs dam la dgongs par gsol/ zhib tu hwa
+                                shang kho bdag la spring// <lb n="8"/> @//slad na mkhen po
+                                bzhugs pi zha snga nas/ mchid phrin de dang mjal ba lags na/ [?] /
+                                do cig bzo <lb n="9"/> de bgyid pa’ lags na/ ‘drul ba la bka’
+                                spring nges pa cig myi brdzang du myi rung/ <lb n="10"/> bzo
+                                bgyid par gyur na dbyar lo la ‘grub par bgyi// </p>
+            </q>
+          </msItem>
+          <msItem n="2">
+            <title>Second Letter</title>
+            <q lang="eng">
+              <p> This is a petition from the patron Ngog Luzhi Namka. A
+                                Chinese monk from China who is unequalled as a great ascetic, a
+                                great scholar and a great upholder of virtue is going to India to
+                                see the sites of Śākyamuni. His route is as follows. Proceeding from
+                                Wutaishan he arrived at the gold and turquoise halls of Hezhou;
+                                after that he arrived at the mountain of Dantig Shan; after that he
+                                arrived at the gold and turquoise halls of Tsongka; after that he
+                                will arrive at the palace of Liangzhou; after that he will arrive at
+                                the castle of Ganzhou; after that he will arrive at Shazhou. After
+                                that he will certainly go to see the great teachers of Śrī Nālandā
+                                and the relics of Śākyamuni at the Vulture’s Peak in India.</p>
+              <p>Up to this point [in the monk’s journey] both Chinese and Tibetans
+                                have [treated him] honourably... and conducted him stage by stage.
+                                From this point onward, ... [he should be treated] honourably. Treat
+                                him as an object of veneration and conduct him stage by stage. [If]
+                                anyone harms him or obstructs his virtuous activities, be they
+                                Chinese or Tibetan, ... the news will carried away on the winds to
+                                the ten directions. This is Namka’s message: let nobody hurt [the
+                                monk]!</p>
+            </q>
+            <p/>
+            <q lang="tib">
+              <p><lb n="1"/>@//://yon dag ngogs lu zhi nam kas gsol ba rgya yul nas rgya ‘i hwa
+                                shang rka thub chen po <lb n="2"/> mkhas pa ched po btsun chen
+                                gong na myed pa gcig rgya gar yul na dpal shag kya <lb n="3"/>
+                                thub pa’i yul na thong du mchi ba lags so /lam ni ‘go de shan nas
+                                mchis nas / <lb n="4"/> ga cu gser khang g.yu gang lam byung de
+                                nas ri dan tig shan du byung de nes[=nas] tsong ka <lb n="5"/>
+                                gser kang g.yu khang du byung de nas le{ng} cu khab du ’byung de nas
+                                kam cu mkhar <lb n="6"/> du ’byung ngo /de nas sha cu {rtsags
+                                ’byung ngo} /de nas rgya gar yul na /dpal shi lin na len tra <lb n="7"/> {slob pa ched po} dang bya rgod {phags ri} la bcom
+                                ldan ‘das shag kya thub pa’i {zha} ... <lb n="8"/> mthong du
+                                {mchi bar} nges so /’di man chad rgya bod byin gyis kyang gar ...
+                                {chad} ... <lb n="9"/> ... {s..ching..g} dang /su skyal rim par
+                                ba gyi+s pa lags so /de yan chad du yod ... <lb n="10"/> byin
+                                gyi [brlabs] {kyang} /’di gar bab par mchod nas su bgyi ba dang
+                                {bsu} skyel [rim par] ... <lb n="11"/> mdzo{ng} ... la gnod pa
+                                byed pa ‘am dge ‘i bar cad byed pa gcig bod {pa} rgya [na]g <lb n="12"/> gnyis kyang ...[thams] cad kyi phyogs bcu nas sngag
+                                kyi thun phab la rlung bskur <lb n="13"/> la gtang ngo// ...
+                                //de ltar ni nam kas spring ngo /su yang ma gtse cig // .... // </p>
+            </q>
+          </msItem>
+          <msItem n="3">
+            <title>Third Letter</title>
+            <q lang="eng">
+              <p>This is addressed to the great teacher: a petitioning letter from
+                                Markham Rinchen Dorje. Please write a letter to say whether your
+                                body has been weakened by your profound meditation and whether, even
+                                though there are no obstacles to your meditation on the nature of
+                                reality (dharmatā), your precious self may have fallen ill.</p>
+              <p>On to other matters. A Chinese monk who is learned and an upholder of
+                                virtue is travelling from China to India to pay homage to the relics
+                                of Śākyamuni. It would be improper not to escort him to the Dayun
+                                monastery. Consider your commitments.</p>
+            </q>
+            <p/>
+            <q lang="tib">
+              <p><lb n="1"/>st[o]n chen po’i zha sngar// // <lb n="2"/> smar kham
+                                rin chen rdo rjes mchid gsol ba/ <lb n="3"/> dgongs pa zab mo’i
+                                sku ma nye{l} n... dang/ chos {nyid} kyi dgongs {la} {myi} la bar
+                                myi mnga’ <lb n="4"/> rin po che sku la snyun bzhes sam ma
+                                bzhes// {yi ge las snyun gsol zhing mchis} <lb n="5"/> slad na
+                                rgya yul nas hwa shang btsun ba {mkhas pa} la bul du gyis ... // ...
+                                {rgya gar} nas <lb n="6"/> rgya gar gi yul du /bcom {ldan ‘das}
+                                shag kya thub pa {gdung la phyag} tshal du mchi <lb n="7"/> ba
+                                ‘di /’sprin chen gtsug lag khang du myi bskyal du myi rung // thugs
+                                dam la dgongs// </p>
+            </q>
+          </msItem>
+          <msItem n="4">
+            <title>Fourth Letter</title>
+            <q lang="eng">
+              <p>This is addressed to the great elders and the great monks of the
+                                Longxing temple: a petitioning letter from Mog Bumdag. According to
+                                previous letters that have gone back and forth [between us], I hear
+                                that you have no injuries or disease and your bodies as valuable as
+                                gemstones are free from infirmity. Please send a letter about your
+                                health.</p>
+              <p>On to other matters. A monk from the empire of China, a great
+                                upholder of virtue, is going to the land of India in order to see
+                                the face of Śākyamuni. Up to this point we lowly ones, the spiritual
+                                guides of Serpa, have escorted him stage by stage. Therefore the
+                                spiritual guides who consider their vows of benevolence, the ... [of
+                                the] kingdom, the uncle-ministers and the rest should consider their
+                                vows and the kingdom. Escorting [the monk] by stages, take him to
+                                the Dayun monastery. It would be improper not to do so. I ask those
+                                in the religious and the secular spheres to consider this.</p>
+            </q>
+            <p/>
+            <q lang="tib">
+              <p><lb n="1"/>{lung} song lha gang gi gnas brtan ched po ban de ched po’i zha
+                                sngar// <lb n="2"/> dmog ‘bum bdag gis mchid gsol pa’ <lb n="3"/> snga slad ‘drul ba’i ... mchid kyis rmas {nad} ... {ma nges
+                                pas} lags pa na dbyigsu gces pa’i sku la <lb n="4"/> sku snyung
+                                myi mnga’ bar khums / mchid gi yi ge la ... snyung gsol zhing [...ci
+                                gnang / slad na] rgya’i rgyal <lb n="5"/> ‘khams nas hwa shang
+                                btsun pa ched {po} zhig {pu} rgya gar gi yul du shag kya thub pa’i
+                                zhal mthong {du} mchi ba lags / <lb n="6"/> ‘di tshun chad du
+                                yang bdag cag {ngan} pa {gser} pa’i dge ba’i bshes gnyen {rnams kyis
+                                kyang} bskyal rim par <lb n="7"/> [bgyis pa lags/ de yang de
+                                phan chad du yang thugs dam la dgongs pa ‘i] dge ba’i bshes nyen
+                                dang <lb n="8"/> [chab srid] ...gs {rin} zhang lon rga las
+                                stsogs pa rnams kyis kyang / de bzhin du thugs dam dang chab srid la
+                                    <lb n="9"/> [dgongs] ste bsu bskyal rim pa ra[=par]
+                                [deleted: myi mdzad du myi rung] +mdzad nas sprin chen gtsug lag
+                                khang du myi bskyal du myi rung+ // //lha myi phyogs kyang de bzhin
+                                du dgongs par gsol </p>
+            </q>
+          </msItem>
+          <msItem n="5">
+            <title>Fifth Letter</title>
+            <q lang="eng">
+              <p>This is addressed to the lords of the teachings and the monastic
+                                community, they who unite the sun and the moon, the sublime
+                                ornaments of Jambudvīpa, the assembly of teachers who [venerate]
+                                their precious enlightened masters and who single-mindedly carry out
+                                their commitments: a petitioning letter from Dmog ‘bum bdag.
+                                According to what has been said in the previous letters that have
+                                gone back and forth [between us], your meditative activities of
+                                maintaining all the vehicles, ... becoming accomplished,
+                                single-mindedly [carrying out] your vows have not fatigued your
+                                bodies. I hear that your precious bodies, as valuable as gemstones,
+                                are free from infirmity. I request with devotion a letter from the
+                                thirty great emanations.</p>
+              <p>On to other matters. A monk coming from the presence of the Chinese
+                                emperor Tong kun, a great ascetic and a particularly fine scholar,
+                                is going to India to see the face of Śākyamuni. Up to this point we
+                                the monks of the Serpa thousand district have escorted him stage by
+                                stage. Accordingly, from this point onward, [avoiding] unhappiness,
+                                not to consider your commitments and conduct him to the monastic
+                                estate of Longxing would be improper. It would be improper for any
+                                in the religious and secular spheres not to consider
+                            likewise.</p>
+            </q>
+            <p/>
+            <q lang="tib">
+              <p><lb n="1"/>@ bstan pa {dang dge’ ‘dun} gi mnga’ bdag /gnyi zla ‘od sbyor gi
+                                rkyen /’dzam bu gling [rgya]n dam pa’ /slob ched po byang chub <lb n="2"/>rin po ches ...r du mdzad pa /thugs dam rtse gcig du
+                                mdzad pa’i dg[e ba’i bshes gny]en sde tsogs kyi zha sngar// // <lb n="3"/>dmog ‘bum bdag gis mchid gsol bas/ /snga slad ‘drul
+                                ba las mchid kyis {rmas} pa/ /spyi’i theg pa bskyang <lb n="4"/>
+                                ba dang [‘grub mang po] {chen po} {rkyen} du ‘gyur ba dang /thugs
+                                dam rtse gcig du mdzad pa’i dgongs pas sku mnyel ba ma lags <lb n="5"/> pa / {sku ri}n po che dbyigs gces pa ma snyun [myi
+                                mnga’ ba] khums /’sprul chen sum cu las gus par snying gsol <lb n="6"/> {bar} mchis / / [sla]d nas tong kun rgya rje’i spya
+                                nga nas / hwa shang dka thub ched po mkhas pa’i phul du phyin pa cig
+                                    <lb n="7"/> {rgya gar gi} yul du shag kya thub pa’i {zhal}
+                                mthong du mchi ba lags /’di tshun chad du bdag cag gser ba stong
+                                sde’i <lb n="8"/> {dge slong} rnams kyis kyang /bsu [deletion:
+                                bskyal rim pas bgyis /] de phan chad du yang de bzhin thugs khral
+                                    <lb n="9"/> ... nas /thugs dam la dgongs pa ste /lung song
+                                gi lha sde’i stsam du myi bskyal du myi rung// // <lb n="10"/>
+                                lha myi phyogs kyang de bzhin du myi dgongs su myi rung// </p>
+            </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Grinstead_1972">
+    <author>Grinstead, Eric</author>
+    <title level="m" lang="eng">Analysis of the Tangut Script</title>
+    <imprint>
+      <title level="s">Scandinavian Institute of Asian Studies Monograph Series</title>
+      <biblScope type="vol">10</biblScope>
+      <pubPlace>Lund</pubPlace>
+      <publisher>Studenlitterature</publisher>
+      <date>1972</date>
+    </imprint>
+    <note/>
+    <keywords>language/Tangut</keywords>
+    <genBibl>tangut</genBibl>
+  </bibl>
+</listBibl>

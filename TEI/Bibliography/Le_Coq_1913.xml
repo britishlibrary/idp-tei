@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Le_Coq_1913">
+    <author>Le Coq, Albert von</author>
+    <title level="m" lang="ger">Cotscho. Facsimile-Wiedergaben der wichtigsten Funde der
+            ersten K&#xF6;niglichen Preussischen Expedition nach Turfan in Ostturkistan</title>
+    <imprint>
+      <pubPlace>Berlin</pubPlace>
+      <publisher>D. Reimer</publisher>
+      <date>1913</date>
+    </imprint>
+    <note>Ergebnisse der Kgl. Preussischen Turfan-Expedition, Vol. I</note>
+    <keywords>TF/archaeology/facsimiles</keywords>
+    <genBibl>collections_de</genBibl>
+  </bibl>
+</listBibl>

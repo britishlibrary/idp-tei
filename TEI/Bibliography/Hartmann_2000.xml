@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Hartmann_2000">
+    <author>Hartmann, Jens-Uwe</author>
+    <title level="a" lang="ger">Bemerkungen zu einer neuen Handschrift des Dīrghāgama</title>
+    <imprint>
+      <title level="m" lang="ger" type="shortRef">Chojnacki_etal_2000</title>
+      <biblScope type="pp">2000</biblScope>
+    </imprint>
+    <keywords>manuscripts</keywords>
+    <keywords>sanskrit</keywords>
+    <keywords>SHT</keywords>
+    <keywords>turfan</keywords>
+  </bibl>
+</listBibl>

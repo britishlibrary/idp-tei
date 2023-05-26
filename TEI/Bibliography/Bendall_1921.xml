@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Bendall_1921">
+    <author>Bendall, Cecil and Rouse, W.H.D</author>
+    <title level="m" lang="eng">Siksha Samuccaya: A Compendium of Buddhist Doctrine</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>John Murray</publisher>
+      <date>1932</date>
+    </imprint>
+    <keywords>Santideva</keywords>
+    <keywords>Buddhism</keywords>
+    <keywords>Text</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

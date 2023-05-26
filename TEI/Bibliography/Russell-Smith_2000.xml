@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Russell-Smith_2000">
+  <author>Russell-Smith, Lilla</author>
+  <title level="a" lang="eng">Hungarian Explorers in Dunhuang</title>
+  <imprint>
+    <title level="j" lang="eng" type="shortRef">JRAS</title>
+    <biblScope type="issue">3. 10, 3</biblScope>
+    <biblScope type="pp">341-362</biblScope>
+    <date>November 2000</date>
+  </imprint>
+  <note/>
+  <keywords>Dunhuang</keywords>
+  <keywords>Travel</keywords>
+</bibl>

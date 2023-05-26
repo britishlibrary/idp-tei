@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Stein_1907">
+    <author>Stein, M.A</author>
+    <title level="m" lang="eng">Ancient Khotan:Detailed Report of Archaeological Explorations in Chinese Turkestan</title>
+    <imprint>
+      <pubPlace>Oxford</pubPlace>
+      <publisher>Clarendon press</publisher>
+      <date>1907</date>
+    </imprint>
+    <keywords>Expedition</keywords>
+    <keywords>Central Asia</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

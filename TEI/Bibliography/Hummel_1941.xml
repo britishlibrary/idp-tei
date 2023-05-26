@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Hummel_1941">
+    <author>Hummel, Arthur</author>
+    <title level="a" lang="eng">The Development of the Book in China</title>
+    <imprint>
+      <title level="j" lang="eng">Journal of the American Oriental Society</title>
+      <biblScope type="issue">Vol.61</biblScope>
+      <biblScope type="issue">2</biblScope>
+      <biblScope type="pp">71-76</biblScope>
+      <date>1941</date>
+    </imprint>
+    <keywords>Book</keywords>
+    <keywords>History</keywords>
+    <keywords>Bookbinding</keywords>
+    <genBibl>conservation</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Miyajima_2002">
+    <author>Miyajima, K.</author>
+    <title level="a" lang="eng">Projection Methods in East Asian Star Maps</title>
+    <imprint>
+      <editor>Ansari, S. M.</editor>
+      <title level="m">History of Oriental Astronomy</title>
+      <biblScope type="pp">59-65</biblScope>
+      <pubPlace>Dordrecht</pubPlace>
+      <publisher>Kluwer Academic Publishers</publisher>
+      <date>2002</date>
+    </imprint>
+    <note/>
+    <keywords/>
+    <genBibl>astronomy</genBibl>
+  </bibl>
+</listBibl>

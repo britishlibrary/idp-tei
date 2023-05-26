@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Zieme_1975">
+    <author>Zieme, Peter</author>
+    <title level="a" lang="ger">Manichäisch-türkische Texte</title>
+    <title level="j" lang="ger" type="shortRef">Berliner Turfantexte V</title>
+    <imprint>
+      <pubPlace>Berlin</pubPlace>
+      <publisher>Akademie-Verlag</publisher>
+      <date>1975</date>
+    </imprint>
+    <keywords>Texte</keywords>
+    <keywords>alttürkisch</keywords>
+    <keywords>manichäisch</keywords>
+    <keywords>Turfan</keywords>
+    <genBibl>Berliner Turfantexte</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Zieme_1996">
+    <author>Zieme, Peter</author>
+    <title type="m" lang="ger">Altun Yaruq Sudur, Vorworte und das erste Buch</title>
+    <imprint>
+      <pubPlace>Turnhout, Belgium</pubPlace>
+      <publisher>Brepols</publisher>
+      <date>1996</date>
+      <idno type="ISBN">2503505147 9782503505145</idno>
+    </imprint>
+    <note>Edition und U&#x308;bersetzung der alttu&#x308;rkischen Version des Goldglanzsu&#x304;tra (Suvarn&#x323;aprabha&#x304;sottamasu&#x304;tra)</note>
+    <genBibl>GoldenLight</genBibl>
+    <genBibl>translations</genBibl>
+  </bibl>
+</listBibl>

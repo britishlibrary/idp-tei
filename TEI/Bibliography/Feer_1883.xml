@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Feer_1883">
+    <author>Feer, Leon</author>
+    <editor>Leroux, Ernest</editor>
+    <title level="m" lang="fre">Fragments extraits du Kandjour, traduits du Tibetain par M. L. F.</title>
+    <imprint>
+      <title level="s">Annales du Musee Guimet</title>
+      <biblScope type="issue">Tome V.</biblScope>
+      <biblScope type="pp">1-577</biblScope>
+      <pubPlace>Paris</pubPlace>
+      <date>1883</date>
+    </imprint>
+  </bibl>
+</listBibl>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Hoernle_1906">
+    <author>Hoernle, A.F.R</author>
+    <title level="a" lang="eng">Ancient Manuscripts from Khotan</title>
+    <imprint>
+      <title level="j">Journal of the Royol Asiatic Society </title>
+      <biblScope type="issue">?</biblScope>
+      <biblScope type="pp">695-98</biblScope>
+      <date>1906</date>
+    </imprint>
+    <keywords>Manuscripts</keywords>
+    <keywords>Khotan</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

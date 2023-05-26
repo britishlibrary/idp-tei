@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Grinstead_1963">
+    <author>Grinstead, Eric</author>
+    <title level="m" lang="eng">Title Index to the Descriptive Catalogue of Chinese
+             Manuscripts from Tunhuang in the British Museum</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>The British Museum</publisher>
+      <date>1963</date>
+    </imprint>
+    <note/>
+    <keywords>DH/index/BL</keywords>
+    <genBibl>collections_en</genBibl>
+  </bibl>
+</listBibl>

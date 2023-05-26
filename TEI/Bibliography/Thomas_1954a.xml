@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Thomas_1954a">
+    <author>Thomas, Werner</author>
+    <title level="a" lang="ger">Die Infinitive im Tocharischen</title>
+    <imprint>
+      <title level="m">Schubert and Schneider_1954</title>
+      <biblScope type="pp">701-764</biblScope>
+      <date>1954</date>
+    </imprint>
+  </bibl>
+</listBibl>

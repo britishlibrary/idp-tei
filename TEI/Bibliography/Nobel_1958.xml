@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Nobel_1958">
+    <author>Nobel, Johannes</author>
+    <title level="m" lang="ger">Suvarnabhasottamasutra, Das Goldglanz-Sutra, ein Sanskrittext des Mahayana Buddhismus. I-Tsing's chinessische Version und ihre Ubersetzung</title>
+    <imprint>
+      <pubPlace>Leiden</pubPlace>
+      <publisher>E.J.Brill</publisher>
+      <date>1958</date>
+    </imprint>
+    <keywords>Mahayana</keywords>
+    <keywords>Buddhism</keywords>
+    <keywords>Sutra</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

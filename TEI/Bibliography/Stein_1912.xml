@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Stein_1912">
+    <author>Stein, M. Aurel</author>
+    <title level="m" lang="eng">Ruins of Desert Cathay: Personal Narrative of Explorations in Central Asia and Westernmost China</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>Macmillan</publisher>
+      <date>1912</date>
+    </imprint>
+    <note>Stein's popular account of his second Central Asia expedition (1906-08)</note>
+    <keywords>archeology</keywords>
+    <keywords>exploration</keywords>
+    <genBibl>collections_en</genBibl>
+  </bibl>
+</listBibl>

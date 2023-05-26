@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Leriche_etal_2001">
+  <author n="1">Leriche, P.</author>
+  <author n="2">Pidaev, C.</author>
+  <author n="3">Gelin, M</author>
+  <author n="4">Abdoullaev, K</author>
+  <title level="m" lang="fre">La Bactriane au carrefour des routes et civilisations de l'Asie centrale. Actes du colloque de Termez 1997</title>
+  <imprint>
+    <pubPlace>Paris</pubPlace>
+    <publisher>Maisonneuve et Larose</publisher>
+    <date>2001</date>
+    <idno type="ISBN">270681568X 9782706815683</idno>
+  </imprint>
+  <note>La Bibliothèque de l'Asie Centrale</note>
+  <keywords>central asia</keywords>
+  <keywords>Bactria</keywords>
+  <genBibl/>
+</bibl>

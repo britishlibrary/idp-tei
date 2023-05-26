@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Matsui_2002">
+    <author>Matsui, Dai</author>
+    <title level="a" lang="jap">Mongoru jidai Uigurisutan no zeieki seido to chōzei shisutemu.
+		(Engl. Nebentitel: Taxation and Tax-collecting systems in Uiguristan under Mongol Rule.)</title>
+    <imprint>
+      <title level="j" lang="engl" type="shortRef">Kōichi Matsuda (ed.): Hikokutōshiryō no sōgōtekibunseki ni yoru Mongoruteikoku, Genchō no seiji, keizai shisutemu no kisotekikenkyū.
+			(Engl. Nebentitel: Research on Political and Economic Systems under Mongol Rule. Report of the Scientific Research Project Grant-in Aid, Japan Society for Promotion of Science,
+			Basic Research (B) (1))</title>
+      <biblScope type="issue">Osaka 2002</biblScope>
+      <biblScope type="pp">87-127</biblScope>
+    </imprint>
+    <keywords>Taxation</keywords>
+    <keywords>Uiguristan</keywords>
+    <keywords>Mongol</keywords>
+  </bibl>
+</listBibl>

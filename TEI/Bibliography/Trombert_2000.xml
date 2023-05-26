@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Trombert_2000">
+  <editor n="1">Trombert, Eric</editor>
+  <editor n="2">Ikeda, On</editor>
+  <editor n="3">Zhang, Guangda</editor>
+  <title level="m" lang="eng">Les manuscrits chinois de Koutcha. Fonds Pelliot de la Bibliothèque Nationale de France</title>
+  <imprint>
+    <pubPlace>Paris</pubPlace>
+    <publisher>Institut des Hautes Études Chinoises du Collège de France</publisher>
+    <date>2000</date>
+    <idno type="ISBN">2857570570 9782857570578</idno>
+  </imprint>
+  <note/>
+  <keywords>Manuscripts</keywords>
+  <keywords>Pelliot</keywords>
+  <genBibl>collections_fr</genBibl>
+</bibl>

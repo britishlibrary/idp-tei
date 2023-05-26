@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Syrische Handschriften der Berliner Turfansammlung. SyrHT_001-395</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>print edition</edition>
+      </editionStmt>
+      <sourceDesc>
+        <p>electronic</p>
+        <p>Input and marked up by Susann Rabuske. Imported to 4D on 10/24/13 by Susann Rabuske.</p>
+        <bibl>
+          <ref>SyrHT_001-395</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Beschreibung der syrischen Manuskripte aus der Berliner Turfansammlung</p>
+    </head>
+    <body>
+      <msDescription n="66">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">SyrHT 66</idno>
+          <idno type="old">1659</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="syr-Latn">Syrische Taufliturgie mit sogdischen Überschriften.</title>
+            <note>
+              <p>Fundort Bulayïq; 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_04">E12/2</ref>
+              </bibl>
+              <bibl>
+                <ref target="Brock_Sims-Williams_2011"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="67">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">SyrHT 67</idno>
+          <idno type="old">1660</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="syr-Latn">Kalenderfragment.</title>
+            <note>
+              <p>Fundort Bulayïq; 2. Turfan-Expedition. Unter Glas zusammen mit SyrHT 68-70.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_04">E43</ref>
+              </bibl>
+              <bibl>
+                <ref target="Dickens_Sims-Williams forthcoming"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="83">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">SyrHT 83</idno>
+          <idno type="old">1672</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="syr-Latn">Syrische eucharistische Liturgie.</title>
+            <note>
+              <p>Fundort Bulayïq; 2. Turfan-Expedition. Sogdische Überschrift.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_04">E14/1</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="84">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">SyrHT 84</idno>
+          <idno type="old">1673</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="syr-Latn">Syrische eucharistische Liturgie.</title>
+            <note>
+              <p>Fundort Bulayïq; 2. Turfan-Expedition. Sogdische Überschriften. v: alttürkisch in uigurischer Schrift.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_04">E14/1</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="87">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">SyrHT 87</idno>
+          <idno type="old">1677</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="syr-Latn">Syrischer liturgischer Text.</title>
+            <note>
+              <p>Fundort Bulayïq; 2. Turfan-Expedition. Überschriften mit sogdischen und persischen Wörtern.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_04">E13</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="88">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">SyrHT 88</idno>
+          <idno type="old">1678</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="syr-Latn">Syrische Taufliturgie mit sogdischen Überschriften.</title>
+            <note>
+              <p>Fundort Bulayïq; 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_04">E12/1</ref>
+              </bibl>
+              <bibl>
+                <ref target="Brock_Sims-Williams_2011"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="105">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">SyrHT 105</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="syr-Latn">Über das asketische Leben?</title>
+            <note>
+              <p>Fundort Bulayïq; 2. Turfan-Expedition. Gehört zusammen mit n 374a.
+							Unter Glas zusammen mit SyrHT 103 und 104.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_04">E28/38b</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="122">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">SyrHT 122</idno>
+          <idno type="old">1705</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="syr-Latn">Notizen.</title>
+            <note>
+              <p>Fundort Bulayïq; 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_04">E45</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="146">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">SyrHT 146</idno>
+          <idno type="old">1726</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="syr-Latn">Syrischer liturgischer Text.</title>
+            <note>
+              <p>Fundort Bulayïq; 2. Turfan-Expedition. Sogdische Überschrift.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_04">E16</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="153">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">SyrHT 153</idno>
+          <idno type="old">1732</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="syr-Latn">Psalmen.</title>
+            <note>
+              <p>Fundort Bulayïq; 2. Turfan-Expedition. Zusammengehörig mit MIK III 112.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_04">E7/1b+2b</ref>
+              </bibl>
+              <bibl>
+                <ref target="Müller_1915"/>
+              </bibl>
+              <bibl>
+                <ref target="Benveniste_1938"/>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_1974b"/>
+              </bibl>
+              <bibl>
+                <ref target="Sims-Williams_2011"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="158">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">SyrHT 158</idno>
+          <idno type="old">1737</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A/B">
+            <title lang="syr-Latn">Syrischer liturgischer Text.</title>
+            <note>
+              <p>Fundort Bulayïq; 2. Turfan-Expedition. Sogdische Überschrift.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_04">E15</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="249">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">SyrHT 249</idno>
+          <idno type="old">1820</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="syr-Latn">Liturgie.</title>
+            <note>
+              <p>Fundort Bulayïq; 2. Turfan-Expedition. Gehört zusammen mit SyrHT 254.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_04">E46</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="343">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">SyrHT 343</idno>
+          <idno type="old">1876</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="syr-Latn">vermutlich pharmakologischer Text.</title>
+            <note>
+              <p/>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_04">E39</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

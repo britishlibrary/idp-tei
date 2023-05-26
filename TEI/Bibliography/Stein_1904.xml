@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Stein_1904">
+    <author>Stein, Aurel</author>
+    <title level="m" lang="eng">Sand-buried ruins of Khotan</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>Hurst and Blackett</publisher>
+      <date>1904</date>
+    </imprint>
+    <note/>
+    <keywords>Khotan, Stein</keywords>
+    <genBibl>genovese</genBibl>
+  </bibl>
+</listBibl>

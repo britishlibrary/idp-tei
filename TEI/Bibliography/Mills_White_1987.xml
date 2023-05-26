@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Mills_White_1987">
+    <author n="1">Mills, J.S.</author>
+    <author n="2">White, R.</author>
+    <title level="m" lang="eng">The Organic Chemistry of Museum Objects</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>Butterworths</publisher>
+      <date>1987</date>
+      <idno type="ISBN">0408118105 : 9780408118101</idno>
+    </imprint>
+    <keywords>museum</keywords>
+    <keywords>Conservation</keywords>
+    <keywords>Chemistry</keywords>
+    <genBibl>Conservation</genBibl>
+  </bibl>
+</listBibl>

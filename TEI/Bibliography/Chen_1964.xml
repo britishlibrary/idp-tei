@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Chen_1964">
+    <author>Chen, Kenneth K.S.</author>
+    <title level="m" lang="eng">Buddhism in China: A Historical Survey</title>
+    <imprint>
+      <pubPlace>Princeton</pubPlace>
+      <publisher>Princeton University Press</publisher>
+      <date>1964</date>
+      <edition>2nd</edition>
+      <date>1972</date>
+      <idno type="ISBN">0691000158</idno>
+    </imprint>
+    <keywords>Buddhism/history/</keywords>
+  </bibl>
+</listBibl>

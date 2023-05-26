@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Buddhist Sanskrit Sources from Khotan</title>
+        <author>Wille, Klaus</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>IDP</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2010</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Klaus Wille, “Buddhist Sanskrit Sources from Khotan,” in: Buddhist Manuscripts
+                    from Central Asia: The British Library Sanskrit Fragments, Volume II.1 (Texts),
+                    ed. by Seishi KARASHIMA and Klaus WILLE, Tokyo: The International Research
+                    Institute for Advanced Buddhology at Soka University, 2009, pp. 25-72.</p>
+        <bibl>
+          <ref>Wille_2009(1)</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Input and marked up by IRIAB.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>This catalogue contains transliterations of Sanskrit fragments in the Stein
+                Collection at the British Library.</p>
+    </head>
+    <body>
+      <msDescription n="Or.15001/1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/1</idno>
+          <idno type="Hoernle">H.151.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Śūraṃgamasamādhisūtra</title>
+            <note>Early South Turkestan Brāhmī; almost illegible; to the same folio
+                            belongs an unnumbered Stein fragment (IOL San 529); ed. Wille 2006 (BLSF
+                            I), pp. 51-53 (frg. 179)</note>
+            <q type="transliteration" lang="sanskrit">
+              <lb n="1"/>
+            </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit">
+              <lb n="1"/>
+            </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/2">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/2</idno>
+          <idno type="Hoernle">H.151.3</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">[Prajñāpāramitā text?]</title>
+            <note>South Turkestan Brāhmī (main type)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>y /// [h](a) gaṃbh[īrāy](āṃ) /// <lb n="2"/>z ///
+                            [ṣṭ]. pratisa[[ṃ]]lyā/// </q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// [ṇ]āmayet ta[t k]. /// <lb n="2"/>/// ..
+                            prajñā[p]ā[r](a)[mi] /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/3">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/3</idno>
+          <idno type="Hoernle">H.151.4</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Larger Prajñāpāramitā text?</title>
+            <note>Cf., i.e., AsP(V), p. 82.3-25(?) and PvsP(K)2 3, pp. 140f.; South
+                            Turkestan Brāhmī (main type)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// + + + + .. .. + + + + /// <lb n="2"/>b /// + +
+                            + .. .. [n]ā[bodhis](a)[tv]. /// <lb n="3"/>c /// + tad avocat* yad
+                            bha[danta] .. /// <lb n="4"/>d /// .. piṇḍīkṛtvābhisaṃkṣipyā.r. ///
+                                <lb n="5"/>e /// danta bhagavann agrānumo[da] .. /// <lb n="6"/>f /// + [s](u)[bhū]ti ◯ m etad avo[c](at*) /// <lb n="7"/>g
+                            /// + + + ◯ m arhatāṃ .. + /// <lb n="8"/>h /// + + + + + + .. [lo]
+                            + + /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// + + + + + .. .[ṣ]. + + + /// <lb n="2"/>b /// +
+                            + ◯ tye[ka]bu[d]dh. + /// <lb n="3"/>c /// + + .. ◯ t ku[ś]alamū+
+                            /// <lb n="4"/>d /// [p](a)rima ̄ṇābuddhadharma ̄ḥ [da] + /// <lb n="5"/>e /// [d] (e)vam a[nu]modayitavyā.. /// <lb n="6"/>f
+                            /// [d]ā[na]pāramitā[y]āva[t pr](ajñā) /// <lb n="7"/>g /// +
+                            [y](a)[th]āvim[u]kti[s t](a)thā.. /// <lb n="8"/>h /// + + + +
+                            balā.. + + .. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/4">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/4</idno>
+          <idno type="Hoernle">H.151.3</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Saddharmapuṇḍarīkasūtra</title>
+            <note> + Or.15001/22. South Turkestan Brāhmī (main type); Parallels: Ka
+                            358a7 359b1; Or.8212/26(2) rz (Kha.i.199, ed. Wille 2006, frg. 171); KN
+                            372.2-373.3</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// prati[labdh]. + + /// <lb n="2"/>b ///
+                            paribuddhvā+ + /// <lb n="3"/>c /// m api saṃ[vat]. /// <lb n="4"/>d/// sm. .. + + /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Saddharmapuṇḍarīkasūtra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>d /// + [lā] + + + /// <lb n="2"/>e /// [ka]m
+                            anā[vil]. .. /// <lb n="3"/>f /// ca • ekā[p]i /// <lb n="4"/>g
+                            /// .. ni[kh]i .. .. + /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/22">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/22</idno>
+          <idno type="Hoernle">H.151.28)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Saddharmapuṇḍarīkasūtra</title>
+            <note>+ Or.15001/4 (H.151.5). South Turkestan Brāhmī (main type); Parallels:
+                            Ka 358a7 359b1; Or.8212/26(2) rz (Kha.i.199, ed. Wille 2006, frg. 171);
+                            KN 372.2-373.3</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>d /// + .. /// <lb n="2"/>e /// .. ni ◯ /// <lb n="3"/>f /// kanirukti /// <lb n="4"/>g /// [ha]sramahā /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Saddharmapuṇḍarīkasūtra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// [s](a)tvasya .. /// <lb n="2"/>b /// nuvicinta
+                            /// <lb n="3"/>c /// bhā ◯ /// <lb n="4"/>d /// [t]i ◯ /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/5">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/5</idno>
+          <idno type="Hoernle">H.151.6</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[]</title>
+            <note>South Turkestan Brāhmī (main type). fol. 37</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>bhijñāḥ pratilap[s](ya) /// <lb n="2"/>tasya [n]i ..
+                            + + /// <lb n="3"/>darśa [d]. + + /// <lb n="4"/>maṃ dharma .. +
+                            + /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>paryā[y]. + + + /// <lb n="2"/>tasy[emaṃ] + + + ///
+                                <lb n="3"/>ryāya .. .. + + /// <lb n="4"/>dharmamukhaśata ..
+                            /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/6">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/6</idno>
+          <idno type="Hoernle">H.151.7</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Larger Prajñāpāramitā text</title>
+            <note>cf. LPG 16r5-18r9, ŚSP 114.3-121.9f.; Early South Turkestan Brāhmī;
+                            Buddha images in circles (= ◎ ) mark end of chapter 1 in recto and of
+                            chapter 2 in verso; 1) Kha. i. 220 (Or.8212/174) and 2) SI P/19(3)
+                            belong to the same MS.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// + [vyam* k]i[m]. .. .. + + + + + + + + + /// <lb n="2"/>b /// + sādhu .. .. .. + + + + + + + + /// <lb n="3"/>c /// sa[ha ś]r(a)[v](a) .. + + + + + + + + + /// <lb n="4"/>d
+                            /// + va[r]t[o n]āma pra .. + + + ◎ /// <lb n="5"/>e ///
+                            [bh](a)van[t]i catvāro mahā+ + + ◎ /// <lb n="6"/>f ///
+                            samyaksa[ṃ]bud[dh]ānaṃ [pyel]aṃ [y]. .. ◎ /// <lb n="7"/>g /// + ..
+                            yaṃ pa .. .. .. nti [dev]y[ā] k[ā] ◎ /// <lb n="8"/>h /// + + .[i]
+                            .ā+ + + kk[r]apravartana[t]ā ◎ /// <lb n="9"/>i /// + + + + + + +
+                            [ku]la[duh]i[taraś] ca vayam eta /// <lb n="10"/>j /// + + + + + + +
+                            [n]a me[thuna]saṃyogena bodhi /// <lb n="11"/>k /// + + + + + + + ..
+                            [antar]āya ka[ḥ] punar upā/// <lb n="12"/>l /// + + + + + + + ..
+                            evam ukta ā[yuṣ]mā[ṃ ś]. /// <lb n="13"/>m /// + + + + + + + [va]m
+                            u[kt]o bhagavāṃ āyuṣma /// <lb n="14"/>n /// + + + + + + + [tpā]dam
+                            [u]pādāyā[bra] .. /// <lb n="15"/>o /// + + + + + + + .. .. .. ye
+                            .[o] .. + + /// <lb n="16"/>p /// + + + + + + + + + + .. s[u]śi + +
+                            + /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Larger Prajñāpāramitā text</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// + + + + + + + + + + .. yā.. + + + /// <lb n="2"/>b /// + + + + + + + .[ā]ri[p](u)[tr]o [bhagavant]. + + /// <lb n="3"/>c /// + + + + + + + vo[cat*] iha [ś]ā[r]. + /// <lb n="4"/>d /// + + + + + + + .. .. .. sa[[ma]]nupa[śya]te pra[jñ](ā) ///
+                                <lb n="5"/>e /// + + + + + + + .. [bhāve]na śunya śunyatā.. ///
+                                <lb n="6"/>f /// + + + + + + + + .. [a]nyatra vijñā.[ena] ///
+                                <lb n="7"/>g /// + + + + + + + + .. [tos t]. .. [hi nāmamāt]r.
+                            /// <lb n="8"/>h /// + + + + + + + + [va]sya hi [na utpādo] na ni ..
+                            /// <lb n="9"/>i /// + + + + + + + + .[y]. ti vya[vadāna] iti na
+                            [sa] /// <lb n="10"/>j /// + + + + [ma]hā[s](a)tv.
+                            (pra)jñāpāra[mitā]yāṃ [car]. .. .. /// <lb n="11"/>k /// (dvitī)yaṃ
+                            [sa]māptaṃ 2 ◎ [p]unar a[p](araṃ) + /// <lb n="12"/>l /// + + [daṃ]
+                            ya .i ◎ + da[ṃ bu] .. + + /// <lb n="13"/>m /// + + + .ijñānaṃ sa ◎
+                            + .. + + + /// <lb n="14"/>n /// + + + .. rā[pa]ko ◎ + + + + + + ///
+                                <lb n="15"/>o /// + + + + [p]ā[y]āva[d]. + + + + + + + + /// <lb n="16"/>p /// + + + + [nupa]śyate + + + + + + + + /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/7">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/7</idno>
+          <idno type="Hoernle">H.151.9</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">[]</title>
+            <note>South Turkestan Brāhmī (main type)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// + + + [hi] .. .. /// <lb n="2"/>b /// + + yitta
+                            .[i] /// <lb n="3"/>c /// + [v](a)rṇo bhā+ /// <lb n="4"/>d ///
+                            .āca ca .. + /// <lb n="5"/>e /// + .y. .. + + /// </q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// + .. sa + + /// <lb n="2"/>b /// .. [t]manā+ +
+                            /// <lb n="3"/>c /// .[i]tavyo [y]. + /// <lb n="4"/>d /// + +
+                            varṇo [bh]. /// <lb n="5"/>e /// + + + .. .. .. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/8">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/8</idno>
+          <idno type="Hoernle">H.151.11</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">[]</title>
+            <note>South Turkestan Brāhmī (main type)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// .. [t]. + + /// <lb n="2"/>b /// [ṣv]. ti • śau
+                            /// <lb n="3"/>c /// [s](a)hasra /// <lb n="4"/>d /// + vāsā..
+                            /// </q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// .. [hot]s. + /// <lb n="2"/>b /// + loka[dh].
+                            /// <lb n="3"/>c /// rvās ta[d]. /// <lb n="4"/>d /// da su .i
+                            /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/9">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/9</idno>
+          <idno type="Hoernle">H.151.12</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Larger Prajñāpāramitā text</title>
+            <note>cf., i.e., PvsP(K)6-8, pp. 130.26-131.26 and AdsP(C) II, p.
+                            107.1-108.5; South Turkestan Brāhmī (main type)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// .. h. pra[tye] /// <lb n="2"/>b /// ..
+                            karā[śau] /// <lb n="3"/>c /// [th](a)maci[tt]au /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// (t)[pā]dikau [bo] /// <lb n="2"/>b /// .. ta ..
+                            /// <lb n="3"/>c /// + .. • e /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/10">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/10</idno>
+          <idno type="Hoernle">H.151.13</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">[]</title>
+            <note>South Turkestan Brāhmī (main type)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// .. to .ā[d]. /// <lb n="2"/>/// .. [sya viṃśa]
+                            /// </q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>y /// [thāy]. .. .. /// <lb n="2"/>z /// [mā]dhi ..
+                            [dbhū] .. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/11">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/11</idno>
+          <idno type="Hoernle">H.151.14</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Saddharmapuṇḍarīkasūtra</title>
+            <note>to the same folio belong SHT 4447 + Otani SLLMC A-6 + Or.15001/25
+                            (r5-8/v4-7) + Or.15001/12 (r10-11/v1-2) + Or.15001/14; Early South
+                            Turkestan Brāhmī; Parallels: Ka 186a5 188a5; SHT 4303, frg. 48r2 49v5
+                            [ed. Wille 2000]; Wa 94.32 97.5; Toda 1979, pp. 271f. (folio Lévi
+                            A5-11); Toda 1988, pp.3 4 (fol. 4a5 5a4); KN 193.1 196.9</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>8 + .. + [hu] (p)rāṇako[ṭ]a <lb n="2"/>9 .. [na]smi
+                            adhi[k]āra ku[rv]. <lb n="3"/>10 .āni 27 tasya jinas[y]. <lb n="4"/>11 .i .i .. prāptāṃ ca tai b[o] </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Saddharmapuṇḍarīkasūtra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 [b](o)[dh]. [u]pa[n]āmaya[t]i <lb n="2"/>2 [n]. mi
+                            yuṣme 30 ahiṃ .. <lb n="3"/>3 [bh](a)ve dīrgha dāruṇāśu. <lb n="4"/>4 .. .. [vī] .. [s]ā[d]īrgha </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/12">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/12</idno>
+          <idno type="Hoernle">H.151.16)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Saddharmapuṇḍarīkasūtra</title>
+            <note>to the same folio belong Or.15001/11, 14, 25, 35; see Wille2009(1):
+                            39-40 [Or.15001/11]</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>10 .. [v]. .. + .. .[v]. .. + + + <lb n="2"/>11 28
+                            caritva cāryaṃ v[i]m. .. </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Saddharmapuṇḍarīkasūtra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 [k]as teṣa jitāna sar[vv]e e[m] e[v](a) <lb n="2"/>2 .. .. .. .. .. .. .. .. .. + + + + + </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/13">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/13</idno>
+          <idno type="Hoernle">H.151.18</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Saddharmapuṇḍarīkasūtra</title>
+            <note>South Turkestan Brāhmī (main type); Parallels: Wa 4.27; KN 5.7-7.3; Ka
+                            11b6-15a1</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>sṛbhiḥ parṣadbhiḥ [par]i[v]ṛ/// <lb n="2"/>ntaṃ
+                            mahāvaipulyam bo[dh]i .. + /// <lb n="3"/>dhiṃ sam[āpanno ’bh]. .. +
+                            + /// <lb n="4"/>maye ma .. + + + + /// <lb n="5"/>par[ṣ](a)
+                            .[o] + + + + + + /// <lb n="6"/>tena + + + + + + + /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Saddharmapuṇḍarīkasūtra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>t .[m]. .. + + + + + + + + /// <lb n="2"/>u s
+                            ti[ṣṭhaṃ] + + + + + + + + /// <lb n="3"/>v teṣu bu[ddh]. .. + + + +
+                            + /// <lb n="4"/>w ye ca teṣ[u] .. .. + + /// <lb n="5"/>x raṃti
+                            [t]e ’[pi] sa[rve sa](ṃd)ṛ+ /// <lb n="6"/>y nirvṛtānāṃ buddhānā..
+                            /// <lb n="7"/>z m[ittaṃ] prātihāryaṃ bat[e]daṃ ta .. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/14">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/14</idno>
+          <idno type="Hoernle">H.151.19</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Saddharmapuṇḍarīkasūtra</title>
+            <note>to the same folio belong Or.15001/11, 12, 25, 35; see Wille2009(1):
+                            39-40 [Or.15001/11]</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>6 .. .. .. .. [s]. [m]. p. r. k. .ai .. <lb n="2"/>7
+                            .. .. .. [traṃ vihā]ra praviśit[v]. .. <lb n="3"/>8 [ṣ]kra ..
+                            n[t]am* saṃ .[r]. .. + <lb n="4"/>9 [s](u)[g](a)[t](a)[sy](a)
+                            [t](a)sya .. .. + </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Saddharmapuṇḍarīkasūtra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>2 ..ṃ .. ..ṃ ..ṃ .i .. .. .. + + <lb n="2"/>3
+                            [bh](i)[k]ṣ(a)v(a) [2] yathā p[i] .. + + <lb n="3"/>4 .. [has]ra
+                            ’nekā ye .. .. + + + + + + + + <lb n="4"/>5 [śi] .. .. tr. bhaveya
+                            teṣ[ā] .. <lb n="5"/>6 .. r.i .o [a] .. ima so </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/15">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/15</idno>
+          <idno type="Hoernle">H.151.20</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">[]</title>
+            <note>Early South Turkestan Brāhmī</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// .. .. .. [rṇ]a me [vidha a] .. /// <lb n="2"/>b
+                            /// .. kāśa asama .. + /// <lb n="3"/>c /// .. smiṃ khalu pu[n]a ..
+                            + /// <lb n="4"/>d /// + + trī śā.. + + /// <lb n="5"/>e /// + +
+                            + .i + + + /// </q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// + + + .. + + + + /// <lb n="2"/>b /// + ..
+                            [ta]vya [y]. .. + /// <lb n="3"/>c /// .. yāṃ [bha]nde bha[g]. + ///
+                                <lb n="4"/>d /// [gā]mī arahantā[n]. + .. /// <lb n="5"/>e
+                            /// + .. [t]. .. ste kāmā[v]. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/16">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/16</idno>
+          <idno type="Hoernle">H.151.21</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Saddharmapuṇḍarīkasūtra</title>
+            <note>South Turkestan Brāhmī (main type); Parallels: Ka 362a3 b6; KN
+                            376.7-377.5(?)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>v /// [k]saṃ .. [dh]. .ā[ra]bhya .. + /// <lb n="2"/>w /// .. [p]ta [bha]ga .. .. .. + /// <lb n="3"/>x ///
+                            [v]āl[ik]asam[ān]. + /// <lb n="4"/>y /// budv[ī]pa[[pa]]ramāṇu[r].
+                            /// <lb n="5"/>z /// + kadhātupara .ā/// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Saddharmapuṇḍarīkasūtra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// .. sī[t*] tatra [kha] .. /// <lb n="2"/>///
+                            [ra]rājasya ta[th](ā) /// <lb n="3"/>/// .. [cā]ntardhite [a] .. ///
+                                <lb n="4"/>/// [da]pādi .. .. .. + + /// <lb n="5"/>/// [ma]
+                            .. .. .. .. .. + /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/17">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/17</idno>
+          <idno type="Hoernle">H.151.22</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">Prajñāpāramitā text?</title>
+            <note>South Turkestan Brāhmī (late type)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>y /// .. .r. + + .[y]. .. /// <lb n="2"/>z /// ..
+                            ścat[u]rthan dhyā.. /// </q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">Prajñāpāramitā text?</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// [r d]evānusmṛ[ti] + /// <lb n="2"/>///
+                            [su]bhūtety ucyaṃ[te] /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/18">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/18</idno>
+          <idno type="Hoernle">H.151.23</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">Dhāraṇī text</title>
+            <note>South Turkestan Brāhmī (main type); To the same MS may belong Kha. i.
+                            213 (Or.8212/65) and IOL 17B (folio 1, 2nd row, 2nd from the
+                            right).</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// + me dudume du[du] /// <lb n="2"/>/// + ri
+                            kuṃdhari • ku .. /// <lb n="3"/>/// .. lu ku ◯ /// <lb n="4"/>/// .. kva dhare ◯ /// <lb n="5"/>/// .. ti • du .. + + ///
+                                <lb n="6"/>/// [dh](a)mbha dambhi .[i] + + /// </q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">Dhāraṇī text</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// [li] hi mil[i] + + /// <lb n="2"/>/// .. rūpa[s]e
+                            + /// <lb n="3"/>/// + cala ca ◯ /// <lb n="4"/>/// [svā]hā || ◯
+                            /// <lb n="5"/>/// .. • [h]ulu hu[l]u /// <lb n="6"/>/// + ti
+                            [t]ena male /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/19">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/19</idno>
+          <idno type="Hoernle">H.151.25)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">[]</title>
+            <note>South Turkestan Brāhmī (main type)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// .. [d]īnāṃ /// </q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// [vi]l[epan]. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/20">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/20</idno>
+          <idno type="Hoernle">H.151.26</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">[]</title>
+            <note>South Turkestan Brāhmī (main type)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// [tv]ā[n m]ahā.. /// <lb n="2"/>b /// + .āḥ ku
+                            /// </q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// + + .. .. /// <lb n="2"/>b /// bhagavaṃ /// <lb n="3"/> /// .. .. .. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/21">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/21</idno>
+          <idno type="Hoernle">H.151.27</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">[]</title>
+            <note>South Turkestan Brāhmī (main type); in the middle stitched together
+                            with a thread</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// + .. tath[ā] /// <lb n="2"/>b /// tena ..
+                            va[rte] /// </q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// [n]. sa[pt]. nā.. /// <lb n="2"/>b ///
+                            [t](r)ai[dh]ātukaṃ .. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/23">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/23</idno>
+          <idno type="Hoernle">H.151.30</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Larger Prajñāpāramitā text</title>
+            <note>cf., i.e., PvsP(K)2-3, pp. 71f. and AsP(V) 37.16-38.21; South
+                            Turkestan Brāhmī (main type); two fragments of Or.8212/70 (Kha. 0042. b,
+                            c) belong to the same MS.</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>1 /// thāloke praj[ñ]āya[nt]e .. + + + + <lb n="2"/>2
+                            /// yac ca bodhisa[tva]sya mahā[satva](sya) <lb n="3"/>3 /// leṇa
+                            samanvāgato bodhisatvo [m](ahā) <lb n="4"/>4 /// [vam ā] .. + + .y.
+                            tāyāṃ <lb n="5"/>5 /// [n]eṣu caramā </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Larger Prajñāpāramitā text</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>6 /// no rājaku[l]a <lb n="2"/>7 /// [th]āpi .. + +
+                            .. prajñāpā[r](a) <lb n="3"/>8 /// [yamā]nau rā[jaku]lam
+                            upasaṃk[k]rrami[ṣy]. <lb n="4"/>9 /// canair ā[la]pitavya {vya}
+                            maṃsya[nte] .. .. <lb n="5"/>10 /// tur vā• sarvasa[tv]ā[nā](m) . +
+                            + + </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/24">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/24</idno>
+          <idno type="Hoernle">H.151.31</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Larger Prajñāpāramitā text</title>
+            <note>cf., i.e., PvsP(K)6-8, pp. 128.25-130.4 and AdsP(C) II 104.28-106.2;
+                            South Turkestan Brāhmī (main type) </note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// + + prat(i)ṣṭh. .. + + + .. .. + /// <lb n="2"/>b /// .. myaksaṃbodhim abhisaṃ .. ◯ /// <lb n="3"/>c /// +
+                            triṃśadbhir bodhipakṣikebhir dh. + /// <lb n="4"/>d /// .. cara[ti]
+                            • yāvat sarvve ’me hy a + /// <lb n="5"/>e /// + +
+                            .[i]sa[t](v)e[bhy]aḥ satvebhy(a)ḥ [ā] .. /// <lb n="6"/>f /// + + +
+                            + + .. ta .. .e + + + /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Larger Prajñāpāramitā text</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// + + + + .. .. .. + + + + /// <lb n="2"/>b /// +
+                            .. + + .. bdāniśca + .. + + /// <lb n="3"/>c /// ..
+                            [m](i)[tt]ānā{ṃ}sti tad apraṇihita[m] e /// <lb n="4"/>d /// [s]ya
+                            bodhisatvasyānuttarāṃ saṃ .. + /// <lb n="5"/>e /// + yāni ca
+                            satvāni [tasy]. + + /// <lb n="6"/>f /// .. tva[s]ya tatra
+                            dharmeṣ[u] sa[ṃśa] ◯ /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/25">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/25</idno>
+          <idno type="Hoernle">H.151.33</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Saddharmapuṇḍarīkasūtra</title>
+            <note>to the same folio belong Or.15001/11, 12, 14, 35; see Wille2009(1):
+                            39-40 [Or.15001/11]</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>5 [s]r. .. + [n]. [d]. [t]. + + + + + <lb n="2"/>6
+                            .ai .. lyaṃ s[ū]traṃ [bhag]. .. .. .. .. .. .. <lb n="3"/>7
+                            [l](a)[kṣa]yesi [• ] aśīticatvāri <lb n="4"/>8 + .. + [hu]
+                            (p)rāṇako[ṭ]ayo </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">Saddharmapuṇḍarīkasūtra</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>4 .. .. [vī] .. [s]ā[d]īrgha [bh]. [v]. <lb n="2"/>5
+                            .. [vī]ya [d]u[rg]ghā[y]a subhairava[y]a <lb n="3"/>6 [r]. [c]ca[t]e
+                            36 kuśa[l]o + .o .i .. [da] .. <lb n="4"/>7 + + +ṃ + .. .. + + + + +
+                            + + + + + + </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/26">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/26</idno>
+          <idno type="Hoernle">H.151.34</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Buddhanāmasūtra</title>
+            <note>South Turkestan Brāhmī (main type); Parallels: cf. SI P/61 frg. br1-v5
+                            (ed. BB 34, p. 288, No.8; cf. von Hinüber 1991, p. 168); Crosby 84/85 +
+                            171/170 + Stein Kha. vi.3v1 (ed. Wille 1999, pp. 374ff., frg. 7); Crosby
+                            50/51 + 220/221r4-v2 (ed. Wille 1999, pp. 376f., frg. 8); SHT XI
+                            4392r1-3 (H.143 SA 14; ed. Wille 1996, p. 394, frg. 6.2.2); SHT XI
+                            4444r4</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// .. kṣaṇa[m]e /// <lb n="2"/>/// .. [ru]ta[ghau]
+                            /// <lb n="3"/>/// .. [na]maḥ /// <lb n="4"/>/// .. .. nam. ///
+                                <lb n="5"/>/// + [svā]hā.. /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// + [nora] + /// <lb n="2"/>/// [śa]me [śa] .[e]
+                            /// <lb n="3"/>/// [thāprapra] .[r]. /// <lb n="4"/>/// ..
+                            [dya]thā.[u] /// <lb n="5"/>/// .yathāga[rbh]e /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/27">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/27</idno>
+          <idno type="Hoernle">H.151.35</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">[]</title>
+            <note>South Turkestan Brāhmī (main type)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a .. /// <lb n="2"/>b [ā] /// </q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a .th. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/28">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/28</idno>
+          <idno type="Hoernle">H.151.36</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">[]</title>
+            <note>South Turkestan Brāhmī (main type)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// viṣyati /// <lb n="2"/>b /// smi[ṃ] na ◯ ///
+                                <lb n="3"/>c /// + .i .. .. /// </q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// + t. .. .. /// <lb n="2"/>b /// [t]āni • ◯ ///
+                                <lb n="3"/>c /// .. numo ◯ /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/29">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/29</idno>
+          <idno type="Hoernle">H.151.37</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">Saddharmapuṇḍarīkasūtra?</title>
+            <note>South Turkestan Brāhmī (main type)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// .[ā]madravya /// <lb n="2"/>b /// .. [s tenopa]
+                            .. /// </q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// .. .. .. + /// <lb n="2"/>b /// .. .o .i ///
+                                <lb n="3"/>c /// .. .i + + + /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/30">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/30</idno>
+          <idno type="Hoernle">H.151.38</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">[]</title>
+            <note>South Turkestan Brāhmī (main type)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a .. + + /// <lb n="2"/>b py utpā(d)[au] .. /// <lb n="3"/>c ṣmataḥ + /// </q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a śāradva[tī] /// <lb n="2"/>b [paṃ] .y[e] .. .. ///
+                                <lb n="3"/>c .. .. + + /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/31">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/31</idno>
+          <idno type="Hoernle">H.151.39</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">Saddharmapuṇḍarīkasūtra</title>
+            <note>one side only; South Turkestan Brāhmī (main type)</note>
+            <q type="transliteration" lang="sanskrit">
+              <lb n="1"/>
+            </q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">Saddharmapuṇḍarīkasūtra</title>
+            <note>one side only; South Turkestan Brāhmī (main type)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// + + [h].ḥ + /// <lb n="2"/>b /// + [ja]sā[m*
+                            tvā] /// <lb n="3"/>c /// yat* sarva [tv]. /// <lb n="4"/>d ///
+                            + .[ā] .o + + /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/32">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/32</idno>
+          <idno type="Hoernle">H.151.41</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">Prajñāpāramitā text?</title>
+            <note>South Turkestan Brāhmī (main type)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// [ya]nta tā[ḥ] .. + /// <lb n="2"/>/// .. d
+                            avocat* .. /// <lb n="3"/>/// .. [r]āśca [s]āsra .. /// <lb n="4"/>/// + .. cyate sa[rva] .. /// <lb n="5"/>/// + .. .. + + + /// </q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">Prajñāpāramitā text?</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>w /// + .t. thā[hi su] + /// <lb n="2"/>x /// + ..
+                            yu[kt]. ā.. /// <lb n="3"/>y /// + hāsatvenā.. /// <lb n="4"/>z
+                            /// .. yuṣmāṃn subh[ū] + /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/33">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/33</idno>
+          <idno type="Hoernle">H.151.42</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">[]</title>
+            <note>South Turkestan Brāhmī (late type)</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// .. .r. + .. + /// <lb n="2"/>b /// [s]u [t]āni
+                            t. /// <lb n="3"/>c /// .. .ā.. + /// </q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// + .. + + + /// <lb n="2"/>b /// ..
+                            [n]ānutta[r]. /// <lb n="3"/>c /// .i[saṃ]buddh[y]at[e] /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/34">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/34</idno>
+          <idno type="Hoernle">H.151.44</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">[]</title>
+            <note>Early South Turkestan Brāhmī</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>w /// + .. .. t. .. + ◯ /// <lb n="2"/>x /// .. ..
+                            [s]. .. .. ◯ /// <lb n="3"/>y /// + .. tiṣṭhantī[t]o .. .. kṛ/// <lb n="4"/>z /// .āprave[ś]ā[nu]baddh[ai] .. /// </q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// .. ma[n]tar[oṣī]d iva .. .. /// <lb n="2"/>/// +
+                            .. [ga]nt. kṛtā.. .. /// <lb n="3"/>/// + + .. .. .. .. ◯ /// <lb n="4"/>/// .o .. .. .. .. ◯ /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/35">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/35</idno>
+          <idno type="Hoernle">H.151.45</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">[]</title>
+            <note>This fragment belongs to the same manuscript as Or.15001/11, 12, 14,
+                            25 (Saddharmapuṇḍarīkasūtra), but the remains of the akṣaras are not
+                            sufficient to assign them to this folio.; Early South Turkestan
+                            Brāhmī</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// + + .. + .. + .. /// <lb n="2"/>b /// .. .[ū]
+                            .. ṣa .. rddhi[y]. /// <lb n="3"/>c /// .. .i .. .. .i .ā.. .. /// </q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a /// .. .. .. .. [y]. [th]. .. /// <lb n="2"/>b ///
+                            .[ai] .[e] ..[ṃ tu s]. .. /// <lb n="3"/>c /// + + .. .. [r].. ..
+                            .[ī] .. /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/36">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/36</idno>
+          <idno type="Hoernle">H.151.46</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="A">
+            <title lang="skt">Prajñāpāramitā text?</title>
+            <note>Early Turkestan Brāhmī, alphabet r</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a tor yā[sā] + + + /// <lb n="2"/>b tasmāt tarhi
+                            su(bhūte) /// <lb n="3"/>c .. ..ṃ + + + /// </q>
+          </msItem>
+          <msItem n="B">
+            <title lang="skt">Prajñāpāramitā text?</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>a d udgṛhītaḥ .. /// <lb n="2"/>b tat ki[[ṃ]] manya
+                            .. + /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/37">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/37</idno>
+          <idno type="Hoernle">H.151.50</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[]</title>
+            <note>one side only in Arabic</note>
+            <q type="transliteration" lang="sanskrit">
+              <lb n="1"/>
+            </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit">
+              <lb n="1"/>
+            </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/38">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/38</idno>
+          <idno type="Hoernle">H.151.51</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[]</title>
+            <note>both sides blank</note>
+            <q type="transliteration" lang="sanskrit">
+              <lb n="1"/>
+            </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit">
+              <lb n="1"/>
+            </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="Or.15001/39">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Hoernle</collection>
+          <idno type="current">Or.15001/39</idno>
+          <idno type="Hoernle">H.151.52</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">[]</title>
+            <note>both sides blank; the material is silk</note>
+            <q type="transliteration" lang="sanskrit">
+              <lb n="1"/>
+            </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit">
+              <lb n="1"/>
+            </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="IOL San 1010">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 1010</idno>
+          <idno type="Stein">Kha.vi.3</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Prātimokṣasūtra</title>
+            <note>see Crosby 168/169: Prātimokṣasūtra, NP.3 7</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// + + [m] ūnasy[āpā] <lb n="2"/>/// .. kā3 || yaḥ
+                                <lb n="3"/>/// .. d vārañja[ye] <lb n="4"/>/// [p]unar
+                            bhikṣur a(j)[ñ](ā) <lb n="5"/>/// [p]ari[v]artake[n](a) </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// [h](a)patiṃ vā(g)ṛ <lb n="2"/>/// sargikā pā <lb n="3"/>/// kṣu syā{[n]} naṣṭa[cī] <lb n="4"/>/// [p](u)nar
+                            bhikṣ[u] <lb n="5"/>/// + vācī[v](araṃ) </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="IOL San 1000">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 1000</idno>
+          <idno type="Stein">Kha.vi.2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Prātimokṣasūtra</title>
+            <note>Prātimokṣasūtra NP.10; fol. 28</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>arthiko ’s[my] āyuṣma .[aiyap]. .[yakara] c[ī]va /// <lb n="2"/>sace [t]. [c cīvara◯m abhiniṣpadye]ta .. /// <lb n="3"/>catuṣpaṃcaṣa◯[ṭkṛtvaḥpa]ra[maṃ] .. /// <lb n="4"/>vyaṃ
+                            catuṣpaṃcaṣa◯[ṭk]ṛtvaḥpara[maṃ] .. /// <lb n="5"/>ta cī[v]aram
+                            a[bh]i[n]i[ṣpāda]yed i[ty] e + /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>utta[raṃ vyā]yac[ch]e [tasya] cīvarasyābhi .. /// <lb n="2"/>ced abhini[ṣpā] .. ye[d] yasyā[d]i[śo jña] .. /// <lb n="3"/>ni tatra svayaṃ ◯ vā[gantav]ya[m ā] + /// <lb n="4"/>[ṣ]ma[t]ā[asm]ā[n u]◯ddiśya cīvara[ce] .. /// <lb n="5"/>kaṃcid a[rthaṃ] kurva[ṃ]ti • u[d]yujya[tv āy](u)[ṣm]ā/// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="IOL San 1001">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 1001</idno>
+          <idno type="Stein">Kha.vi.1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Pātimokkha</title>
+            <note>PPā Pāc. beginning 8</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// .. navati pā[ta] .. .[ikā] .. .. [nv]. .. .. .. .[ā]
+                            /// <lb n="2"/>/// [pra]jāna[mṛṣ]. .ā.ā[t pā]taya[nti] + /// <lb n="3"/>/// + + [kā] .. [bhikṣ]u .. .[un]yāt pātaya + + /// <lb n="4"/>/// + + + [na] s[ā]rdhaṃ padaśo dharmaṃ vā+ + /// <lb n="5"/>/// + + + +ṃpannena p[u](d)[g](a)lena [s]ā+ /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// + + + + t pātaya[n]ti[kā] 5 [y](aḥ) /// <lb n="2"/>/// + + + lpayet pā 6 yaḥ puna + /// <lb n="3"/>/// + + [r
+                            vāgbh]ir dharmaṃ deśayed anya[t]r. + /// <lb n="4"/>/// + ..
+                            saṃ[pannāya pu]dgalāyotta + /// <lb n="5"/>/// [n]āmīdaṃ pa[śyā] ..
+                            [bhū]tam api sy]āt pā/// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="IOL San 1006">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 1006</idno>
+          <idno type="Stein">Kha.vi.3</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Pātimokkha</title>
+            <note>PPāPāc.9-16; see Crosby 31/30</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// + + + + + + + /// ya pudgalā <lb n="2"/>/// + + +
+                            + + + + /// .. thivīṃ khane <lb n="3"/>/// .. vādavi[h]e <lb n="4"/>/// + ṅghikaṃ maṃ .. <lb n="5"/>/// + payya + </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// + [ya]nti[k]. + <lb n="2"/>/// .. me nai[vo] +
+                                <lb n="3"/>/// + kṣur jānaṃ s[ā]ṃ <lb n="4"/>/// [dya]
+                            śayyāṃ kalpa <lb n="5"/>/// va pratyayaṃ kṛ </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="IOL San 1014">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 1014</idno>
+          <idno type="Stein">Kha.vi.13)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Pātimokkha</title>
+            <note>PPāPāc.73-79</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// .āt pā 73 [y]. /// <lb n="2"/>/// [t] pā 74 yaḥ
+                            /// <lb n="3"/>/// .ām a[py] ava + /// <lb n="4"/>/// .. .. + ..
+                            + /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>x /// (s) [t](i)ṣṭhe[d y](a)d [e] /// <lb n="2"/>y
+                            /// .. tvāana[n]y. /// <lb n="3"/>z /// [tv]ātata[[ḥ]] pa /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="IOL San 1007">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection>Stein</collection>
+          <idno type="current">IOL San 1007</idno>
+          <idno type="Stein">Kha.vi.3</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R">
+            <title lang="skt">Pātimokkha</title>
+            <note>see + Crosby 231/230; Aniy. beginning NP.beginning</note>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// + + + + + + /// <lb n="2"/>/// + + + + + + // <lb n="3"/>/// + + .. .. /// <lb n="4"/>/// + [m]. bhya[ḥ] ///
+                                <lb n="5"/>/// + yena yena [v](ā) /// <lb n="6"/>/// ayaṃ
+                            dharmaḥ a .. /// </q>
+          </msItem>
+          <msItem n="V">
+            <title lang="skt">[]</title>
+            <note/>
+            <q type="transliteration" lang="sanskrit"><lb n="1"/>/// .. y[ā] ābhāṣi .. /// <lb n="2"/>///
+                            ṣadyāṅkalpaye .. /// <lb n="3"/>/// + .ita ya + /// <lb n="4"/>/// + + + pā.. /// <lb n="5"/>/// + + + .. + + /// <lb n="6"/>/// + + + + + + /// </q>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Müller_1920">
+    <author>Müller, Friedrich Wilhelm</author>
+    <title level="a" lang="ger">Uigurische Glossen</title>
+    <imprint>
+      <title type="m" lang="ger">Hirth_1920</title>
+      <biblScope type="pp">310-324</biblScope>
+      <date>1920</date>
+    </imprint>
+    <note/>
+    <keywords>Uighur</keywords>
+  </bibl>
+</listBibl>

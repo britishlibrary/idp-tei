@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Brough_1950">
+    <author>Brough, John</author>
+    <title level="a" lang="eng">Thus Have I Heard</title>
+    <imprint>
+      <title level="j">Bulletin of the School of Oriental and African Studies</title>
+      <biblScope type="issue">13,no.2</biblScope>
+      <biblScope type="pp">416-26</biblScope>
+      <date>1950</date>
+    </imprint>
+    <keywords>Mahayana</keywords>
+    <keywords>Texts</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

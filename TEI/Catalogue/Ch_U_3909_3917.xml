@@ -1,0 +1,1595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chinesisch-uigurische Handschriften der Berliner Turfansammlung. Ch/U 6000-6999.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>print edition</edition>
+      </editionStmt>
+      <sourceDesc>
+        <p>electronic</p>
+        <p>Input and marked up by Susann Rabuske. Imported to 4D on 02/12/15 by Susann Rabuske.</p>
+        <bibl>
+          <ref>Ch/U_3909_3917</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p>Beschreibung der chinesisch-uigurischen Manuskripte aus der Berliner Turfansammlung</p>
+    </head>
+    <body>
+      <msDescription n="3909">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 3909</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r">
+            <title lang="chin-Latn">Miao fa lian hua jing</title>
+            <note>
+              <p>妙法蓮華經. Saddharmapuṇḍarīkasūtra.Taishō 262, Bd. 9, S. 24b, Z. 16-S. 24c, Z. 14.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Thilo_BTTXIV">S. 45</ref>
+              </bibl>
+              <bibl>
+                <ref target="Kudara_2000">S. 240</ref>
+              </bibl>
+              <bibl>
+                <ref target="Rong_2007">S. 333</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+          <msItem n="v">
+            <title lang="chin-Latn">Maitreya-Lobpreis</title>
+            <note>
+              <p/>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Zieme_BTTXIII">S. 116-118</ref>
+              </bibl>
+              <bibl>
+                <ref target="Elverskog_1997">S. 127</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3910a">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 3910a</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r">
+            <title lang="chin-Latn">Chang e han jing</title>
+            <note>
+              <p>长阿含经. Dīrghāgama. Buchrolle. Taishō 1, Bd. 1, S. 121b, Z. 4-16.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Thilo_BTTXIV">S. 11</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXII_7">0021</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+          <msItem n="v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>Leserkolophon.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Kudara_Zieme_1983">S. 269-318</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXIII_22">476</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3910b">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 3910b</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="chin-Latn">Miao fa lian hua jing</title>
+            <note>
+              <p>妙法蓮華經. Saddharmapuṇḍarīkasūtra.Taishō 262.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Rong_2007">S. 333</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3910c">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 3910c</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="chin-Latn">Da fang guang fo hua yan jing</title>
+            <note>
+              <p>大方廣佛華嚴經. (Buddha)avataṃsakasūtra. Taishō 278. Unter Glas zusammen mit Ch/U 3910d.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Rong_2007">S. 333</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3911">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 3911</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r">
+            <title lang="chin-Latn">E pi da mo da pi po sha lun</title>
+            <note>
+              <p>阿毗達磨大毗婆沙論. (Abhidharma)mahāvibhāṣā(śāstra). Taishō 1545.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Rong_2007">S. 333</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+          <msItem n="v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>Heilkunde-Text über Krankheiten und die Opferspeisen zu ihrer Heilung.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXIII_25">49</ref>
+              </bibl>
+              <bibl>
+                <ref target="TTVII">S. 34-35</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3912">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 3912</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r">
+            <title lang="chin-Latn">Da ban nie pan jing</title>
+            <note>
+              <p>大般涅槃經. Mahāparinirvāṇasūtra. Taishō 374, Bd. 12, S. 585a, Z. 12-S. 585b, Z. 2.</p>
+              <p>Zusammengehörig mit Ch/U 6179.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Thilo_BTTXIV">S. 71</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+        <msContents>
+          <msItem n="v">
+            <title lang="uig-Latn">Saṃyuktāgama</title>
+            <note>
+              <p>T. 99.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Kudara_Zieme_1983">S. 272</ref>
+              </bibl>
+              <bibl>
+                <ref target="Kudara_Zieme_1995">S. 23-35</ref>
+              </bibl>
+              <bibl>
+                <ref target="Elverskog_1997">S. 21</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3913">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 3913</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r">
+            <title lang="chin-Latn">E pi tan pi po sha lun</title>
+            <note>
+              <p>阿毗曇毗婆沙論. (Abhidharma)vibhāṣā(śāstra). Taishō 1546, Bd. 28; S. 202c, Z. 4-18.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Thilo_BTTXIV">S. 83-84</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+        <msContents>
+          <msItem n="v">
+            <title lang="uig-Latn">Dīrghāgama</title>
+            <note>
+              <p/>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Kudara_Zieme_1983">S. 281-286</ref>
+              </bibl>
+              <bibl>
+                <ref target="Elverskog_1997">S. 17</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3914">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 3914</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r">
+            <title lang="chin-Latn">Jin guang ming zui sheng wang jin</title>
+            <note>
+              <p>金光明最勝王經. Suvarṇaprabhāsa(uttamarāja)sūtra. Taishō 665.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Rong_2007">S. 334</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+        <msContents>
+          <msItem n="v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>Gelöbnis des Buyan Kälmiš</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Zieme_BTTXIII">Anm. 21.39</ref>
+              </bibl>
+              <bibl>
+                <ref target="Raschmann_1987">S. 160-174</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3915">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 3915</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r">
+            <title lang="chin-Latn">Da zhi du lun</title>
+            <note>
+              <p>大智度論. Mahāprajñāpāramitopadeśa. Taishō 1509.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Rong_2007">S. 334</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+        <msContents>
+          <msItem n="v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>Buddhistischer Text.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Zieme_BTTXIII">Anm. 56.15</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3916">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 3916</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r">
+            <title lang="chin-Latn">Guang zan jing</title>
+            <note>
+              <p>光讚經. Pañcaviṃśatisāhasrikāprajñāpāramitā. Taishō 222, Bd. 8, S. 191c, Z. 17-S. 192a, Z. 9.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Rong_2007">S. 334</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+        <msContents>
+          <msItem n="v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>Vyākaraṇa-Dichtung.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Zieme_1989">S. 443-450</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3917">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 3917</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r">
+            <title lang="chin-Latn">Miao fa lian hua jing</title>
+            <note>
+              <p>妙法蓮華經. Saddharmapuṇḍarīkasūtra.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Rong_2007">S. 334</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+        <msContents>
+          <msItem n="v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>Schreiben im Zusammenhang mit einer Anordnung zur Beschaffung eines Sklaven bzw. einer Sklavin.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXIII_16">334</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXIII_21">1</ref>
+              </bibl>
+              <bibl>
+                <ref target="Clark_2017">S. 375</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6084">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6084</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 16b, Z. 14-18; sogd. Kolophon</p>
+              <p>3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">355</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6096">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6096</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 7a, Z. 14-18; v: Kephalaia-artiger Lehrtext über das Geben der Gaben an die Erwählten. Zusammengehörig mit Ch/So 20001 und Дх09540.</p>
+              <p>3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">299</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6104">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6104</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 19c, Z. 18-29; Kolophon; v: Unbestimmt. Vielleicht Teil eines Briefes, einer Erzählung oder eines Lehrtextes. 
+							Es wird ein Spruch der Weisen über einen Edelstein zitiert.</p>
+              <p>Fundort Toyoq, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Schmitt_Thilo_BTTVI">S. 71</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">356</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6126">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6126</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 374, Bd. 12, S. 579b, Z. 12-17;  v: Vermutlich Teil eines Lehrtextes über Menschen.</p>
+              <p>Fundort Toyoq, 2. Turfan-Expedition. Zusammengehörig mit Ch/U 6346 und 6861.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">357</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6143">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6143</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 235, Bd. 8, S. 749c, Z. 4-6;  v: Briefanfang oder Briefanfangsentwurf, eventuell auch Briefanfangsformular.</p>
+              <p>Fundort Toyoq, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">358</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6146">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6146</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 27c, Z. 29-S. 28a, Z. 5;  v: Unbestimmt. Möglicherweise Teil einer Erzählung oder eines Lehrtextes.</p>
+              <p>Fundort Toyoq, 3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Thilo_1985">S. 47</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">359</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6225">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6225</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 31c, Z. 12-16, vermutlich eine Art Kolophon; v: Teil einer didaktischen Homilie.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">360</ref>
+              </bibl>
+              <bibl>
+                <ref target="Kudara_Sundermann_Yoshida_1997">S. 120</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6235">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6235</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 47c, Z. 16-20;  v: Brieffragment.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">361</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6294">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6294</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 29c, Z. 17-23; v: Teil einer didaktischen Homilie.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Thilo_1985">S. 48</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">362</ref>
+              </bibl>
+              <bibl>
+                <ref target="Kudara_Sundermann_Yoshida_1997">S. 119-120</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6326">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6326</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 61c, Z. 15-22; v: Vermutlich Teil einer Erzählung, worin ein Junge vorkommt, der sich die Füße brechen könnte.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Schmitt_Thilo_BTTVI">S. 123</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">363</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6330">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6330</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 33c, Z. 13-17; v: Lehrtext, in den ein Gleichnis von einem Hasen eingebaut ist.</p>
+              <p>Zusammengehörig mit Ch/So 11603 und 20509 sowie Ōtani 7223 und 9049. Fundort Toyoq, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Schmitt_Thilo_BTTVI">S. 48</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">72</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6346">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6346</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 374, Bd. 12, S. 579b, Z. 15-22;  v: Vermutlich Teil eines Lehrtextes über Menschen.</p>
+              <p>Fundort Toyoq, 2. Turfan-Expedition. Zusammengehörig mit Ch/U 6126 und 6861.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">357</ref>
+              </bibl>
+              <bibl>
+                <ref target="Kudara_Sundermann_Yoshida_1997">S. 135-136</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6370">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6370</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 30b, Z. 12-14; Schreibübungen, v: Teil einer didaktischen Homilie.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Thilo_1985">S. 48</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">364</ref>
+              </bibl>
+              <bibl>
+                <ref target="Kudara_Sundermann_Yoshida_1997">S. 120</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6384">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6384</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 374, Bd. 12, S. 456a, Z. 18-23; Segensspruch, v: Gebet für Yaglakar Han.</p>
+              <p>3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">365</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6388">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6388</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 30c, Z. 15-20, Kolophon und Kritzelei; v: Teil einer didaktischen Homilie.</p>
+              <p>2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">366</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6392">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6392</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>Unbestimmt.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">367</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6394">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6394</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Sogd. Kritzeleien. Der Name Tītīk kommt auch auf So 20237 vor; v: Unbestimmt, eher zu einer Erzählung gehörig, in der eine Maus nach Nahrung sucht.</p>
+              <p>Fundort Toyoq, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">368</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6419">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6419</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 18c, Z. 22-S. 19a, Z. 3; v: Unbestimmt. 
+							Möglicherweise Teil eines Lehrtextes, worin von einem Oberhaupt, von Ehre und Adel die Rede ist. Oder auch ein Text mit Rätselfragen?</p>
+              <p>Fundort Toyoq, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">369</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6434">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6434</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 27b, Z. 19-25; v: Segenssprüche, eventuell als Briefformular mit schülerhaften Nachschriften.</p>
+              <p>2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Thilo_1985">S. 47</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">370</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6440">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6440</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 1339, Bd. 21, S. 643b, Z. 20-26; v: Vermutlich Teil eines Beichttextes.</p>
+              <p>Fundort Toyoq, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">371</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6445">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6445</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Kolophon?; v: Unbestimmt.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">372</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6456">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6456</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 36c, Z. 15-23; v: Briefanfangsformular, Erzählung.</p>
+              <p>Fundort Qočo, 3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Thilo_1985">S. 51</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">373</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6468">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6468</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 202, Bd. 4, S. 373b, Z. 10-15; v: eventuell Hymnentext.</p>
+              <p>Fundort Toyoq, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">374</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6506">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6506</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="chin-Latn">Miao fa lian hua jing</title>
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 27b, Z. 24-29; v: Teil einer didaktischen Homilie.</p>
+              <p>Fundort Toyoq, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Kudara_Sundermann_Yoshida_1997">S. 120-121</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">375</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6523">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6523</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 36c, Z. 28-S. 37a, Z. 7; v: Unbestimmt. Vermutlich Teil einer Erzählung oder eines Lehrtextes, worin ein weiser Mann vorkommt.</p>
+              <p>Fundort Qočo, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">376</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6531">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6531</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 236, Bd. 8, S. 756a, Z. 11-20; v: Teil einer sogdisch-alttürkischen Ziffernliste.</p>
+              <p>Fundort Toyoq, 3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">377</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6536a">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6536a</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262 Bd. 9, S. 29b, Z. 12-S. 29c, Z. 2; v: Teil einer Erzählung, worin ein oder mehrere Weise sprechen.</p>
+              <p>2. Turfan-Expedition. Zusammengehörig mit Ch/U 6871. Unter Glas zusammen mit Ch/U 6536b und 6536c.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Schmitt_Thilo_BTTVI">S. 81</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">378</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6536b">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6536b</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262 Bd. 9, S. 52b, Z. 6-21; I/v/: Ziffernliste: 63-74; II/r/: 17-21 Myriaden; II/v/: Personennamen.</p>
+              <p>2. Turfan-Expedition. Unter Glas zusammen mit Ch/U 6536a und 6536c.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Schmitt_Thilo_BTTVI">S. 100</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">379</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6540">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6540</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 1331, Bd. 21, S. 530b, Z. 5-14; v: Ende der Erzählung vom Kar-Fisch.</p>
+              <p>2. Turfan-Expedition. Zusammengehörig mit Ch/So 20506.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Thilo_1985">S. 81</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">343</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_1998">S. 174-175</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6542">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6542</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 235, Bd. 8, S. 749b, Z. 28-S. 749c, Z. 6; v: Unbestimmt, vermutlich kirchengeschichtlicher Text.</p>
+              <p>Fundort Toyoq, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">380</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6545">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6545</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 235, Bd. 8, S. 749c, Z. 7-16; v: Vermutlich nach semantischen Zusammenhängen gruppierte Wortliste.</p>
+              <p>Fundort Toyoq, 3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">381</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6546">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6546</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 34c, Z. 11-27; v/1-8/: Ende eines unbestimmten Hymnus; v/9-21/: Eingangsformel und Beginn von Wuzurgān Āfrīwan.</p>
+              <p>Fundort Murtuq, 3. Turfan-Expedition. Zusammengehörig mit Ch/So 20501.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">339</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6559">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6559</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 35c, Z. 29-S. 36a, Z. 5; v: Wortliste mit Eigennamen.</p>
+              <p>Fundort Qočo, 1. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">382</ref>
+              </bibl>
+              <bibl>
+                <ref target="Henning_Sogdica">S. 6</ref>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II">Taf. 183</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6561">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6561</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 223, Bd. 8, S. 412b, Z. 28-S. 412c, Z. 4; v: Teil einer Ziffernliste (88-100)</p>
+              <p>Fundort Toyoq, 2. Turfan-Expedition. Zusammengesetzt mit Ch/U 6051.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Thilo_1985">S. 29</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">353</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6577a">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6577a</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 374, Bd. 12, S. 534a, Z. 24-27; v: Ende eines Hymnus auf Zurwān.</p>
+              <p>Fundort Toyoq, 2. Turfan-Expedition. Unter Glas zusammen mit Ch/U 6577b.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">383</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6577b">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6577b</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 374, Bd. 12, S. 534b, Z. 2-5; v: Vermutlich Teil eines Hymnus. Gehört zu einer Sammelhandschrift.</p>
+              <p>Fundort Toyoq, 2. Turfan-Expedition. Unter Glas zusammen mit Ch/U 6577a.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">384</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6579">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6579</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 475, Bd. 14, S. 545a, Z. 24-29; v: Vermutlich Teil einer Erzählung.</p>
+              <p>Fundort Yarkhoto, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Thilo_1985">S. 73</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">385</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6699">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6699</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 16a, Z. 29-S. 16b, Z. 12; sogd. Briefentwurf.</p>
+              <p>Fundort Toyoq, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">386</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6704">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6704</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 665 Bd. 16, S. 427c, Z. 2-13; v: Unbestimmt. Meditativer Text?</p>
+              <p>2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Thilo_1985">S. 78</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">387</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6759">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6759</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>v: Unbestimmt. Zu einem Lehrtext gehörig?</p>
+              <p>Fundort Toyoq, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">388</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6782c">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6782c</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 374, Bd. 12, S. 483b, Z. 4-12; v: Beichttext? Eventuell Xwāstwānīft § 11?</p>
+              <p>Unter Glas zusammen mit Ch/U 6782a, b und d.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">389</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6806">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6806</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 440, Bd. 14, S. 159b, Z. 12-24; v: Schreibübung.</p>
+              <p>Fundort Sängim, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">390</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6811">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6811</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: alttürk. Kolophon; v: semantisch gruppierte sogd.-türk. Wortliste.</p>
+              <p>Fundort Murtuq, 3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">391</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXIII_16">437</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_Zieme_1981">S. 186-191</ref>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II">S. 52</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6827">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6827</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 1509, Bd. 25, S. 427a, Z. 4-14; v: Liste von Götternamen.</p>
+              <p>2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">392</ref>
+              </bibl>
+              <bibl>
+                <ref target="Sundermann_1994c">S. 453-460</ref>
+              </bibl>
+              <bibl>
+                <ref target="Weber_Photo Edition II">Taf. 185</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6854">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6854</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 1484, Bd. 24, S. 998b, Z. 24-S. 998c, Z. 7, alttürk. Briefentwurf; v: sogd. Briefentwurf.</p>
+              <p>2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="Schmitt_Thilo_BTTVI">S. 176</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXIII_16">438</ref>
+              </bibl>
+              <bibl>
+                <ref target="Zieme_BTTV">S. 68-69</ref>
+              </bibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">393</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6861">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6861</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 374, Bd. 12, S. 579b, Z. 11-22; v: Vermutlich Teil eines Lehrtextes über Menschen.</p>
+              <p>3. Turfan-Expedition. Zusammengehörig mit Ch/U 6126 und 6346.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">357</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6871">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6871</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 29c, Z. 2-10; v: Teil einer Erzählung.</p>
+              <p>Fundort Murtuq, 3. Turfan-Expedition. Zusammengehörig mit Ch/U 6536a.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">378</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6879">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6879</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 220, Bd. 7, S. 700c, Z. 12-23; v: Wirtschaftsdokument. Es bezieht sich auf die Kleidung manichäischer Elekten.</p>
+              <p>Fundort Šorčuq, 3. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">394</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6886">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6886</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 262, Bd. 9, S. 55b, Z. 1-8; v: Brief.</p>
+              <p>Fundort Toyoq, 2. Turfan-Expedition.</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">395</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6914">
+        <msIdentifier>
+          <settlement>Berlin</settlement>
+          <repository>Staatsbibliothek, Orientabteilung</repository>
+          <collection>Turfansammlung</collection>
+          <idno type="current">Ch/U 6914</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="r/v">
+            <title lang="uig-Latn"/>
+            <note>
+              <p>r: Taishō 278, Bd. 9, S. 703a, Z. 2-10;  v: Erzählung.</p>
+              <p>Fundort Toyoq, 3. Turfan-Expedition. Zusammengehörig Zusammengesetzt mit Ch/So 15000(5), zusammengehörig mit Ch/So 20182 (= Ch 5554).</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ref target="VOHDXVIII_01">222</ref>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

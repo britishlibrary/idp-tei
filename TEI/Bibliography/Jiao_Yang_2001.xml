@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<bibl id="Jiao_Yang_2001">
+  <author n="1" lang="chi-Latn">Jiao Jinwen</author>
+  <author n="1" lang="chi-Hant">&#x7126;&#x9032;&#x6587;</author>
+  <author n="2" lang="chi-Latn">Yang Fuxue</author>
+  <author n="2" lang="chi-Hant">&#x694A;&#x5BCC;&#x5B78;</author>
+  <title level="m" lang="chi-Latn">Yuandai xixia yimin wenxian 'shushanji' jiaozhu</title>
+  <title level="m" lang="chi-Hant">&#x5143;&#x4EE3;&#x897F;&#x590F;&#x907A;&#x6C11;&#x6587;&#x737B;&#x300A;&#x8FF0;&#x5584;&#x96C6;&#x300B;&#x6821;&#x6CE8;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Lanzhou</pubPlace>
+    <publisher>Gansu renmin chubanshe</publisher>
+    <date>2001</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>Documents</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

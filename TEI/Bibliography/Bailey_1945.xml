@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Bailey_1945">
+    <author>Bailey, H. W.</author>
+    <title level="m">Khotanese Texts</title>
+    <imprint>
+      <pubPlace>Cambridge</pubPlace>
+      <publisher>Cambridge University Press</publisher>
+      <date>1945-1963</date>
+    </imprint>
+    <note>Five volumes</note>
+    <keywords>Khotanese</keywords>
+    <genBibl>collections_en</genBibl>
+  </bibl>
+</listBibl>

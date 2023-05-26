@@ -1,0 +1,2723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+Medieval Manuscripts in the Fu Ssu-nien Library, Institute of History and Philology, Academia Sinica, Taipei, Taiwan
+</title>
+        <author>
+Kieschnick, J.
+</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+IDP 
+<ref target="http://idp.bl.uk"/></publisher>
+        <pubPlace>
+London
+</pubPlace>
+        <date>
+2004
+</date>
+      </publicationStmt>
+      <editionStmt>
+        <edition>
+First electronic edition
+</edition>
+        <date>
+2004
+</date>
+        <respStmt>
+Created by Alastair Morrison
+</respStmt>
+      </editionStmt>
+      <sourceDesc>
+        <p>
+Word document
+</p>
+        <bibl>
+          <ref>
+Kieschnick_2004
+</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <projectDesc>
+Catalogue
+</projectDesc>
+    <editorialDecl>
+Marked up by Alastair Morrison. Imported to 4D on 10/11/05 by Susan Whitfield.
+</editorialDecl>
+  </teiHeader>
+  <text>
+    <head>This catalogue of the Chinese Dunhuang manuscripts in the Fu Ssu-nien Library, Institute of History and Philology, Academia Sinica, Taipei, Taiwan, was written by John Kieschnick for publication by IDP.</head>
+    <body>
+      <msDescription n="1">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188071</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="chi">
+Zhouyi
+</title>
+            <title lang="chi">
+周易正義
+</title>
+            <incipit lang="chi">
+              <locus/>
+            </incipit>
+            <note>
+              <p/>
+            </note>
+            <explicit lang="chi">
+              <locus/>
+            </explicit>
+            <listBibl>
+              <bibl/>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188072</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Mahāprajñāpāramitāsūtra
+</title>
+            <title lang="chi">
+大般若波羅蜜多經
+</title>
+            <title lang="chi"><locus>
+T05n0220_p0198a14(00)
+</locus>
+大般若波羅蜜多經卷第卅五
+</title>
+            <incipit lang="chi"><locus>
+T05n0220_p0193b07(23)
+</locus>
+遠離不遠離 
+</incipit>
+            <note>
+              <p>
+大正藏T05n0220: 《大般若波羅蜜多經》卷第三十五〈初分教誡教授品第七之二十五
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+T05n0220_p0198a13(08) 
+</locus>
+若遠離若不遠離增語是菩薩摩訶薩
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.220"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188073</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="chi">
+Mahāprajñāpāramitāsūtra
+</title>
+            <title lang="chi">
+大般若波羅蜜多經
+</title>
+            <incipit lang="chi"><locus>
+T07n0220_p0120a16(05)
+</locus>
+所攝 
+</incipit>
+            <note>
+              <p>
+大正藏T07n0220: 《大般若波羅蜜多經》卷第四百二十二
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+T07n0220_p0120a27(00)
+</locus>
+耳鼻舌身意觸名
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.220"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="4">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188074</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Mahāprajñāpāramitāsūtra,Pāncaviṃśatisāhasrikāmahāprajñāpāramitāsutra
+</title>
+            <title lang="chi">
+摩訶般若波羅蜜經
+</title>
+            <incipit lang="chi"><locus>
+T08n0223_p0323a23(00)
+</locus>
+佛告須菩提 
+</incipit>
+            <note>
+              <p>
+大正藏T08n0223: 《摩訶般若波羅蜜經》卷第十四〈佛母品第四十八
+</p>
+              <p>
+首題: T08n0223_p0323a22(00) 摩訶般若波羅蜜經佛母品
+</p>
+              <p>
+起: T08n0223_p0323a23(00) 佛告須菩提
+</p>
+              <p>
+訖: T08n0223_p0323c16(06) 何況色乃至一切種智
+</p>
+              <p>
+大正藏T08n0223《摩訶般若波羅蜜經》卷第十九〈淨願品第六十四(丹隨喜品)
+</p>
+              <p>
+中題:摩訶般若波羅蜜經願樂品第六十三
+</p>
+              <p>
+起: T08n0223_p0360a21(02)性無分別
+</p>
+              <p>
+訖: T08n0223_p0360b08(13)便得無分別阿耨多羅三藐三菩提
+</p>
+              <p>
+按:卷上所書願樂品疑為誤植，對照經文內容應為淨願品第六十四(丹隨喜品)
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+T08n0223_p0323c16(06)
+</locus>
+何況色乃至一切種智
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.223"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="5">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188075</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Mahāprajñāpāramitāsūtra, Pāncaviṃśatisāhasrikāmahāprajñāpāramitāsutra
+</title>
+            <title lang="chi">
+摩訶般若波羅蜜經
+</title>
+            <incipit lang="chi"><locus>
+T08n0223_p0404c11(00)
+</locus>
+無一法有性如是無性諸法 
+</incipit>
+            <note>
+              <p>
+大正藏T08n0223《摩訶般若波羅蜜經》〈具足品第八十一(丹照明品)〉
+</p>
+              <p>
+起: T08n0223_p0404c11(00) 無一法有性如是無性諸法
+</p>
+              <p>
+訖: T08n0223_p0407b02(06) 如檀波羅蜜說餘四波羅蜜亦如是
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+T08n0223_p0407b02(06
+</locus>
+如檀波羅蜜說餘四波羅蜜亦如是
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.223"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188076</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Mahāprajñāpāramitāsūtra, Pāncaviṃśatisāhasrikāmahāprajñāpāramitāsutra
+</title>
+            <title lang="chi">
+摩訶般若波羅蜜經淨佛國品八十一
+</title>
+            <incipit lang="chi"><locus>
+T08n0223_p0408a18(01) 
+</locus>
+我從初發意已來更無餘心 
+</incipit>
+            <note>
+              <p>
+F188076摩訶般若波羅蜜經淨佛國品八十一/(後秦)鳩摩羅什譯
+</p>
+              <p>
+大正藏T08n0223《摩訶般若波羅蜜經》卷第二十六〈淨土品第八十二(丹本淨佛國品)〉
+</p>
+              <p>
+首題:淨佛國品八十一
+</p>
+              <p>
+起: T08n0223_p0408a18(01) 我從初發意已來更無餘心
+</p>
+              <p>
+訖: T08n0223_p0408b15(04) 佛即是菩提菩提即是佛
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+T08n0223_p0408b15(04)
+</locus>
+佛即是菩提菩提即是佛
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.223"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188077</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Vajracchedikā
+</title>
+            <title lang="chi">
+金剛般若波羅蜜經
+</title>
+            <incipit lang="chi"><locus>
+T08n0235_p0748c20(00)
+</locus>
+如是我聞一時佛在舍衛國祇樹給孤獨園 
+</incipit>
+            <note>
+              <p>
+大正藏T08n0235: 《金剛般若波羅蜜經》
+</p>
+              <p>
+首題: T08n0235_p0748c17(00) 金剛般若波羅蜜經
+</p>
+              <p>
+起: T08n0235_p0748c20(00) 如是我聞一時佛在舍衛國祇樹給孤獨園
+</p>
+              <p>
+訖: T08n0235_p0752c03(11) 信受奉持
+</p>
+              <p>
+尾題: 金剛般若波羅蜜經
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+T08n0235_p0752c03(11)
+</locus>
+信受奉持
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.235"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188078</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Vajracchedikā
+</title>
+            <title lang="chi">
+金剛般若波羅蜜經
+</title>
+            <incipit lang="chi"><locus>
+T08n0235_p0750c21(04)
+</locus>
+提 在在處處若有此經 
+</incipit>
+            <note>
+              <p>
+大正藏T08n0235《金剛般若波羅蜜經》
+</p>
+              <p>
+F188078
+</p>
+              <p>
+起: T08n0235_p0750c20(05) 提
+</p>
+              <p>
+T08n0235_p0750c21(04) 在在處處若有此經
+</p>
+              <p>
+訖: T08n0235_p0751b05(05) 如來說人身長大則為非大身是名大身
+</p>
+              <p>
+F188079
+</p>
+              <p>
+起:T08n0235_p0751b05(05) 須菩提
+</p>
+              <p>
+訖:T08n0235_p0752c03(11) 信受奉行
+</p>
+              <p>
+尾題:金剛般若波羅蜜經
+</p>
+              <p>
+卷末題記作:「清信優婆□□氏奉為記身敬寫，金剛般若願□□生淨土」
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+T08n0235_p0751b05(05)
+</locus>
+如來說人身長大則為非大身是名大身
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.235"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="9">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188079</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Vajracchedikā
+</title>
+            <title lang="chi">
+金剛般若波羅蜜經
+</title>
+            <incipit lang="chi"><locus>
+T08n0235_p0750c21(04)
+</locus>
+提 在在處處若有此經 
+</incipit>
+            <note>
+              <p>
+大正藏T08n0235《金剛般若波羅蜜經》
+</p>
+              <p>
+F188078
+</p>
+              <p>
+起: T08n0235_p0750c20(05) 提
+</p>
+              <p>
+T08n0235_p0750c21(04) 在在處處若有此經
+</p>
+              <p>
+訖: T08n0235_p0751b05(05) 如來說人身長大則為非大身是名大身
+</p>
+              <p>
+F188079
+</p>
+              <p>
+起:T08n0235_p0751b05(05) 須菩提
+</p>
+              <p>
+訖:T08n0235_p0752c03(11) 信受奉行
+</p>
+              <p>
+尾題:金剛般若波羅蜜經
+</p>
+              <p>
+卷末題記作:「清信優婆□□氏奉為記身敬寫，金剛般若願□□生淨土」
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+T08n0235_p0751b05(05)
+</locus>
+如來說人身長大則為非大身是名大身
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.235"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="10">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188080</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Saddharmapuṇḍarīka
+</title>
+            <title lang="chi">
+妙法蓮華經
+</title>
+            <incipit lang="chi"><locus>
+T09n0262_p0017b04(00)
+</locus>
+令漏失爾時窮子 
+</incipit>
+            <note>
+              <p>
+According to library records,
+</p>
+              <p>
+purchased in Dunhuang for the Institute by Xiang Da in September, 1944.
+</p>
+              <p>
+A related letter from Xia Ding to Fu Sinian and Li Ji at that time suggests
+</p>
+              <p>
+that the manuscript came from “workers” who, according to rumor, had discovered
+</p>
+              <p>
+a cache of Six Dynasties manuscripts inside a late Qing clay image in the Cave of a Thousand Buddhas.
+</p>
+              <p>
+大正藏T09n0262《妙法蓮華經》卷第二〈信解品第四〉
+</p>
+              <p>
+起: T09n0262_p0017b04(00) 令漏失爾時窮子
+</p>
+              <p>
+訖: T09n0262_p0017c02(05) 佛知我等心樂小法以方便力隨
+</p>
+              <p>
+據史語所檔案(李38-5-5)夏鼎致傅斯年、李濟函：「千佛洞於八月間發現六朝寫本六十餘卷係工人於清末泥像中無意發現……九月間向先生由省銀行王主任之介紹為考察團
+</p>
+              <p>
+購得六朝寫經(法華經殘本)一卷，疑即工人所得之物… …」。
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+T09n0262_p0017c02(05)
+</locus>
+佛知我等心樂小法以方便力隨
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.262"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="11">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188081</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Saddharmapuṇḍarīka
+</title>
+            <title lang="chi">
+妙法蓮華經
+</title>
+            <incipit lang="chi"><locus>
+T T09n0262_p0025b21(01) 
+</locus>
+生與菩薩俱從其聞法悉皆信解 
+</incipit>
+            <note>
+              <p>
+大正藏T09n0262《妙法蓮華經》卷第三〈化城喻品第七〉
+</p>
+              <p>
+起: T T09n0262_p0025b21(01) 生與菩薩俱從其聞法悉皆信解
+</p>
+              <p>
+訖: T09n0262_p0027b08(00) 既知是息已　　引入於佛慧
+</p>
+              <p>
+尾題:T09n0262_p0027b09(00) 妙法[蓮華卷地三]
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+T09n0262_p0027b08(00)
+</locus>
+妙法[蓮華卷地三]
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.262"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="12">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188082</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Saddharmapuṇḍarīka
+</title>
+            <title lang="chi">
+妙法蓮華經
+</title>
+            <incipit lang="chi"><locus>
+T09n0262_p0055b08(04)
+</locus>
+莊嚴王菩薩藥上菩薩 
+</incipit>
+            <note>
+              <p>
+大正藏T09n0262《妙法蓮華經》卷第三〈化城喻品第七〉
+</p>
+              <p>
+起: T T09n0262_p0025b21(01) 生與菩薩俱從其聞法悉皆信解
+</p>
+              <p>
+訖: T09n0262_p0027b08(00) 既知是息已　　引入於佛慧
+</p>
+              <p>
+尾題:T09n0262_p0027b09(00) 妙法[蓮華卷地三]
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+T09n0262_p0056b16(06)
+</locus>
+妙音菩薩住是三昧中能
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.262"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="13">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188083</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Saddharmapuṇḍarīka
+</title>
+            <title lang="chi">
+妙法蓮華經
+</title>
+            <incipit lang="chi"><locus>
+T09n0262_p0055a22(25)
+</locus>
+遍知明行[足善逝世間]解無上 
+</incipit>
+            <note>
+              <p>
+大正藏T09n0262《妙法蓮華經》卷第七〈妙音菩薩品第二十四〉
+</p>
+              <p>
+起: T09n0262_p0055a22(25) 遍知明行[足善逝世間]解無上
+</p>
+              <p>
+訖: T09n0262_T09n0262_p0056b18(12) 與妙音菩薩俱來者八萬四千人皆得現一切
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+T09n0262_T09n0262_p0056b18(12)
+</locus>
+與妙音菩薩俱來者八萬四千人皆得現一切
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.262"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="14">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188084</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Upāyakauśalyajñānottarabodhisattvaparipṛcchā
+</title>
+            <title lang="chi">
+佛說慧上菩薩經上
+</title>
+            <incipit lang="chi"><locus>
+T12n0345_p0158b11(00)
+</locus>
+爾時有菩薩名曰愛敬 
+</incipit>
+            <note>
+              <p>
+F188084佛說慧上菩薩經上/(西晉)竺法護譯
+</p>
+              <p>
+大正藏T12n0345《慧上菩薩問大善權經》卷上
+</p>
+              <p>
+起: T12n0345_p0158b11(00)爾時有菩薩名曰愛敬。
+</p>
+              <p>
+訖: T12n0345_p0161b07(01)是為菩薩善權方便
+</p>
+              <p>
+尾題:佛說慧上菩薩經上
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+: T12n0345_p0161b07(01)
+</locus>
+是為菩薩善權方便
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.345"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="15">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188085</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Amitāyurbuddhānusmṛtisūtra
+</title>
+            <title lang="chi">
+佛說無量壽觀經
+</title>
+            <incipit lang="chi"><locus>
+T12n0365_p0343a18(00)
+</locus>
+佛告阿難及韋提希 
+</incipit>
+            <note>
+              <p>
+F大正藏T12n0365《佛說觀無量壽佛經》
+</p>
+              <p>
+起: T12n0365_p0343a18(00) 佛告阿難及韋提希
+</p>
+              <p>
+訖: T12n0365_p0346b20(06) 無量諸天龍夜叉聞佛所說皆大歡喜禮佛而退
+</p>
+              <p>
+尾題T12n0365_p0346b21(00) 佛說觀無量壽佛經
+</p>
+              <p>
+卷背為《女夫詞》殘卷，二十七行
+</p>
+              <p>
+起:郎君須立身，莫共酒家親
+</p>
+              <p>
+訖:次第申□勿合再□□□燉煌縣
+</p>
+              <p>
+末有:「孝經者，兽□先生姓名」及雜抄若干
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+: T12n0365_p0346b20(06)
+</locus>
+無量諸天龍夜叉聞佛所說皆大歡喜禮佛而退
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.365"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="16">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188086</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Mahāvaipulyamahā
+</title>
+            <title lang="chi">
+大方等大集經
+</title>
+            <incipit lang="chi"><locus>
+T13n0397_p0225a23(00)
+</locus>
+假使我於無量劫中 
+</incipit>
+            <note>
+              <p>
+大正藏T13n0397《大方等大集經》卷第三十三〈日密分中分別品第四之二〉
+</p>
+              <p>
+起: T13n0397_p0225a23(00) 假使我於無量劫中
+</p>
+              <p>
+訖: T13n0397_p0225c14(06) 是人應觀無願解脫
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+: T13n0397_p0225c14(06)
+</locus>
+是人應觀無願解脫
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.397"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="17">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188087</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Mahāparinirvāṇasūtra
+</title>
+            <title lang="chi">
+大般涅槃經
+</title>
+            <incipit lang="chi"><locus>
+T12n0374_p0401a04(05)
+</locus>
+譬如田夫種稻穀等 
+</incipit>
+            <note>
+              <p>
+大正藏T12n0374《大般涅槃經》卷第六〈如來性品第四之三〉
+</p>
+              <p>
+起: T12n0374_p0401a04(05) 譬如田夫種稻穀等
+</p>
+              <p>
+訖: T12n0374_p0401a14(05) 鎮頭迦果裁有
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+: T12n0374_p0401a14(05)
+</locus>
+鎮頭迦果裁有
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.374"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="18">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188088</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Mahāparinirvāṇasūtra
+</title>
+            <title lang="chi">
+大般涅槃經
+</title>
+            <incipit lang="chi"><locus>
+T12n0374_p0472b14
+</locus>
+尊不畢竟涅槃是故 
+</incipit>
+            <note>
+              <p>
+大大正藏T12n0374《大般涅槃經》卷第十八梵行品第八之四、卷第二十梵行品第八之六、嬰兒行品第九
+</p>
+              <p>
+(卷第十八梵行品第八之四)
+</p>
+              <p>
+起:T12n0374_p0472b14 尊不畢竟涅槃是故
+</p>
+              <p>
+T12n0374_p0473b23(01) 當知是法久住於世
+</p>
+              <p>
+(卷第二十梵行品第八之六、嬰兒行品第九)
+</p>
+              <p>
+中題:卷廿、嬰兒行品第九
+</p>
+              <p>
+T12n0374_p0483a14(00) 爾時佛告阿闍世王言大王
+</p>
+              <p>
+訖: T12n0374_p0485c12(07) 莫啼莫啼我與汝金嬰兒見已生真金想便止不啼
+</p>
+              <p>
+卷末題記:要第二
+</p>
+              <p>
+開元十一年四月五日寫了
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+: T12n0374_p0485c12(07)
+</locus>
+莫啼莫啼我與汝金嬰兒見已生真金想便止不啼
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.374"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="19">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188089</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Mahāparinirvāṇasūtra
+</title>
+            <title lang="chi">
+大般涅槃經
+</title>
+            <incipit lang="chi"><locus>
+T12n0374_p0511b12(06)
+</locus>
+等為三 
+</incipit>
+            <note>
+              <p>
+大正藏T12n0374《大般涅槃經》卷第二十五〈光明遍照高貴德王菩薩品第十之五〉
+</p>
+              <p>
+起: T12n0374_p0511b12(06) 等為三
+</p>
+              <p>
+訖: T12n0374_p0516a06(11) 何故如來說言菩薩脩大涅槃心得解脫
+</p>
+              <p>
+尾題:大涅槃經卷第廿五
+</p>
+              <p>
+卷末題記:元年七月十五日晝法持敬寫
+</p>
+              <p>
+吳寶煒舊藏，並定為北魏時寫。
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+: T12n0374_p0516a06(11)
+</locus>
+何故如來說言菩薩脩大涅槃心得解脫
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.374"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="20">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188090</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Mahāparinirvāṇasūtra
+</title>
+            <title lang="chi">
+隋大業款寫大般涅槃經
+</title>
+            <incipit lang="chi"><locus>
+T12n0374_p0517c15(02)
+</locus>
+薩脩大涅槃微妙經典 
+</incipit>
+            <note>
+              <p>
+大正藏T12n0374《大般涅槃經》卷第二十六光明遍照高貴德王菩薩品第十之六
+</p>
+              <p>
+起: T12n0374_p0517c15(02) 薩脩大涅槃微妙經典
+</p>
+              <p>
+訖: T12n0374_p0522a26(10)是名菩薩脩大涅槃微妙經典具足成就第十功德
+</p>
+              <p>
+尾題: T12n0374_p0522a27(00) 大般涅槃經卷第二十六
+</p>
+              <p>
+題記作:大業四年二月十五日慧休知五眾之易遷曉二字之難遇謹割衣資敬造此經一部願乘茲勝福三清淨業四圓明戒慧日增惑累消滅現在尊卑恆招福慶七世九遠永絕塵勞普被含
+</p>
+              <p>
+生遍沾有識同發菩提趨薩婆若
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+: T12n0374_p0522a26(10)
+</locus>
+是名菩薩脩大涅槃微妙經典具足成就第十功德
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.374"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="21">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188091</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san"/>
+            <title lang="chi">
+敦煌唐人精書佛名經
+</title>
+            <incipit lang="chi"><locus/>
+南無天國土佛 
+</incipit>
+            <note>
+              <p>
+起:南無天國土佛
+</p>
+              <p>
+訖: 南無虛空無礙妙音藏菩薩
+</p>
+              <p>
+按:本卷與大正藏T14n0440菩提流支譯《佛說佛名經》僅有部分相同，大藏經中所錄佛名經中並無完全相符者。
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+: 
+</locus>
+南無虛空無礙妙音藏菩薩
+</explicit>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="22">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188092</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Vimalakīrtinirdeśa
+</title>
+            <title lang="chi">
+維摩詰所說經
+</title>
+            <incipit lang="chi"><locus>
+T14n0475_p0537b25(00)
+</locus>
+爾時毘耶離城有長者子名曰寶積 
+</incipit>
+            <note>
+              <p>
+大正藏T14n0475《維摩詰所說經》卷上(一名不可思議解脫上卷)
+</p>
+              <p>
+起: T14n0475_p0537b25(00) 爾時毘耶離城有長者子名曰寶積。
+</p>
+              <p>
+訖: T14n0475_p0544a18(02) 皆曰不任詣彼問疾
+</p>
+              <p>
+尾題: T14n0475_p0544a19(00) 維摩詰經卷上
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+:T14n0475_p0544a18(02)
+</locus>
+皆曰不任詣彼問疾
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.475"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="23">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188093</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Vimalakīrtinirdeśa
+</title>
+            <title lang="chi">
+維摩詰所說經
+</title>
+            <incipit lang="chi"><locus>
+T14n0475_p0537a07(00)
+</locus>
+如是我聞一時佛在毘耶離菴羅樹園 
+</incipit>
+            <note>
+              <p>
+大正藏T14n0475《維摩詰所說經》卷上(一名不可思議解脫上卷)
+</p>
+              <p>
+首題: T14n0475_p0537a03(00) 維摩詰所說經一名不可思議解脫
+</p>
+              <p>
+起: T14n0475_p0537a07(00) 如是我聞一時佛在毘耶離菴羅樹園
+</p>
+              <p>
+中題:方便品第二、弟子品第三、菩薩品第四
+</p>
+              <p>
+訖: T14n0475_p0543c22(01) 不憎惡人起調伏心
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+:T14n0475_p0543c22(01)
+</locus>
+不憎惡人起調伏心
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.475"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="24">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188094</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Viśeṣacintibrahmaparipṛccha
+</title>
+            <title lang="chi">
+思益梵天所問經
+</title>
+            <incipit lang="chi"><locus>
+T15n0586_p0054c24(01)
+</locus>
+耶文殊師利言於汝意云何 
+</incipit>
+            <note>
+              <p>
+大正藏T15n0586《思益梵天所問經》卷三、卷四
+</p>
+              <p>
+起: T15n0586_p0054c24(01) 耶文殊師利言於汝意云何
+</p>
+              <p>
+T15n0586_p0055a02(00) 是故說一切法住於如中是如亦無所住
+</p>
+              <p>
+T15n0586_p0055a10(00) 爾時釋梵四天王俱在會中
+</p>
+              <p>
+訖: T15n0586_p0062a21(02) 及諸天眾一切世人受持佛語皆大歡喜
+</p>
+              <p>
+尾題: T15n0586_p0062a22(00) 思益梵天所問經卷第四
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+:T15n0586_p0062a21(02)
+</locus>
+及諸天眾一切世人受持佛語皆大歡喜
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.586"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="25">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188095</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Suvarṇaprabhāsa[uttamarāja]sūtra
+</title>
+            <title lang="chi">
+金光明最勝王經最淨陀羅尼品
+</title>
+            <incipit lang="chi"><locus>
+T16n0665_p0417c23(00)
+</locus>
+爾時師子相無礙光焰菩薩與無量億眾 
+</incipit>
+            <note>
+              <p>
+大正藏T16n0665《金光明最勝王經最淨陀羅尼品》卷第四〈最淨地陀羅尼品第六〉
+</p>
+              <p>
+首題: T16n0665_p0417c19(00)金光明最勝王經最淨地陀羅尼品第六四
+</p>
+              <p>
+起: T16n0665_p0417c23(00) 爾時師子相無礙光焰菩薩與無量億眾
+</p>
+              <p>
+訖: T16n0665_p0420a19(09) 菩薩摩訶薩最初發心攝受能
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+:T16n0665_p0420a19(09)
+</locus>
+菩薩摩訶薩最初發心攝受能
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.665"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="26">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188096</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Aparimitāyur[dhāraṇī]sutra
+</title>
+            <title lang="chi">
+大乘無量壽經
+</title>
+            <incipit lang="chi"><locus>
+T19n0936_p0082a05(00)
+</locus>
+(如是我聞)一時薄伽梵
+</incipit>
+            <note>
+              <p>
+大正藏T19n0936《大乘無量壽經》
+</p>
+              <p>
+起: T19n0936_p0082a05(00) (如是我聞)一時薄伽梵
+</p>
+              <p>
+訖: T19n0936_p0084c28(09) 一切世間天人阿修羅揵闥婆等聞佛所說皆大歡喜信受奉行
+</p>
+              <p>
+重複寫三次，中題「大乘無量壽經」
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+T19n0936_p0084c28(09) 
+</locus>
+一切世間天人阿修羅揵闥婆等聞佛所說皆大歡喜信受奉行
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.936"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="27">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188097</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Mahāpratisarādhāra
+</title>
+            <title lang="chi">
+隨求即得大自在陀羅尼神咒經
+</title>
+            <incipit lang="chi"><locus>
+T20n1154_p0640b04(00)
+</locus>
+爾時世尊說此神咒已告大梵言 
+</incipit>
+            <note>
+              <p>
+大正藏T20n1154《隨求即得大自在陀羅尼神咒經》
+</p>
+              <p>
+起:佛說灌頂吉祥陀羅尼咒
+</p>
+              <p>
+訖: [革*畀]塢(汪古友引)利(上)常(引)瞿履[馬*及]縛(二合)呵
+</p>
+              <p>
+起: T20n1154_p0640b04(00) 爾時世尊說此神咒已告大梵言
+</p>
+              <p>
+訖: T20n1154_p0642b04(05) 心大歡喜信受奉行
+</p>
+              <p>
+尾題:隨求即得大自在陀羅尼神咒經
+</p>
+              <p>
+題記:長壽二年歲次癸巳天宮寺罽賓國沙門尸利等奉詔譯
+</p>
+              <p>
+本卷首題之佛說灌頂吉祥陀羅尼咒，查大正藏20《佛說隨求即得大自在陀羅尼神咒經》內文中無相同者，僅有灌頂咒。
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+T20n1154_p0642b04(05)
+</locus>
+心大歡喜信受奉行
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.1154"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="28">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188098</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="chi-Latn">
+Fahua yiji
+</title>
+            <title lang="chi">
+法華義記
+</title>
+            <incipit lang="chi"><locus/>
+說下文還即大乘住者 
+</incipit>
+            <note>
+              <p/>
+            </note>
+            <explicit lang="chi"><locus/>
+汝等既已相諸世之師隨宜方便事者相三權化方便事也 卷末題有「曇慶寫流通後代」、「一校竟」 
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="29">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188099</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Dharmagupta[ka]vinaya
+</title>
+            <title lang="chi">
+四分律
+</title>
+            <incipit lang="chi"><locus>
+T22n1428_p0570b01(07)
+</locus>
+知觸事皆行亦能轉教
+</incipit>
+            <note>
+              <p>
+大正藏T22n1428《四分律》卷第一
+</p>
+              <p>
+起: T22n1428_p0570b01(07) 知觸事皆行亦能轉教
+</p>
+              <p>
+訖: T22n1428_p0571a02(00) 若戒羸不自悔犯不淨行行婬
+</p>
+              <p>
+題籤作「唐人寫經殘卷，丁己春泊園居士署」，卷首則以篆文大字題「唐人寫經卷」並署「少樸夫子命題，清道人」。泊園居士、少樸指周樹模(1860-1925)。
+</p>
+              <p>
+清道人則指李瑞清(1867-1920)。
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+T22n1428_p0571a02(00)
+</locus>
+若戒羸不自悔犯不淨行行婬
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.1428"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="30">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188100</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Dharmagupta[ka]vinaya
+</title>
+            <title lang="chi">
+四分律
+</title>
+            <incipit lang="chi"><locus>
+T22n1428_p0999a06(05)
+</locus>
+尼檢校法律時
+</incipit>
+            <note>
+              <p>
+大正藏T22n1428《四分律》卷第五十八(第四分之九)
+</p>
+              <p>
+起:T22n1428_p0999a06(05) 尼檢校法律時
+</p>
+              <p>
+訖:T22n1428_p0999c01(04) 破威儀四句亦如是(此中羈連有四比丘分物如房舍健度中法不異故不出)
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+T22n1428_p0999c01(04)
+</locus>
+破威儀四句亦如是(此中羈連有四比丘分物如房舍健度中法不異故不出)
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.1428"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="31">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188101</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Upāsakaśīla
+</title>
+            <title lang="chi">
+優婆塞戒經
+</title>
+            <incipit lang="chi"><locus>
+T24n1488_p1051c28(14)
+</locus>
+蹋毀壞
+</incipit>
+            <note>
+              <p>
+大正藏T24n1488《優婆塞戒經》卷第三之〈供養三寶品〉第十七
+</p>
+              <p>
+起: T24n1488_p1051c28(14) 蹋毀壞
+</p>
+              <p>
+訖: T24n1488_p1052b16(01) 在家之人多惡因緣所纏繞故
+</p>
+              <p>
+尾題: T24n1488_p1052b17(00) 優婆塞戒卷第三
+</p>
+              <p>
+卷末有二題記：「比丘志念所寫，頂載供養經，願與一切人受持流布，共昇道場，三會之初，俱在上首。」
+</p>
+              <p>
+「都司馬姚英妻法姜造寫戒經，頂載供養，願共一切眾生讀誦受持，世世所生，常與佛會，彌勒出世，願在初首。」
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+T24n1488_p1052b16(01)
+</locus>
+在家之人多惡因緣所纏繞故
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.1488"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="32">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188102</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Mahāprajñāpāramitaśāstra
+</title>
+            <title lang="chi">
+大智度經釋論
+</title>
+            <incipit lang="chi"><locus>
+T25n1509_p0609c10(07)
+</locus>
+論釋曰是時釋提桓因及會中人皆共歡喜
+</incipit>
+            <note>
+              <p>
+大正藏T25n1509《大智度論》卷第七十八〈釋願樂品第六十四〉後半及〈釋稱揚品第六十五〉
+</p>
+              <p>
+起: T25n1509_p0609c10(07) 論釋曰是時釋提桓因及會中人皆共歡喜
+</p>
+              <p>
+訖: T25n1509_p0613b20(03) 如經廣說
+</p>
+              <p>
+尾題:T25n1509_p0613b21(00) 大智度經釋論卷第七十八
+</p>
+            </note>
+            <explicit lang="chi"><locus>
+T25n1509_p0613b20(03)
+</locus>
+如經廣說
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.1509"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="33">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188103</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="chi-Latn">
+Fahua yishu
+</title>
+            <title lang="chi">
+法華義疏
+</title>
+            <incipit lang="chi"><locus>
+T34n1721_p0483c22(03)
+</locus>
+曾三一
+</incipit>
+            <note><p>
+大正藏T34n1721 《法華義疏》卷第三
+</p><p>
+起: T34n1721_p0483c22(03) 曾三一
+</p><p>
+訖: T34n1721_p0489c15(05) 佛性者名第一義空
+</p>
+　　　　　　
+<p>
+卷背為《金剛般若經旨贊卷下》殘卷
+</p><p>
+卷背首題：「金剛般若經旨贊卷下」，並署「京西明道場沙門曇曠撰」
+</p><p>
+起：T85n2735_p0100c02(00)　經須菩提至寧為多不
+</p><p>
+訖：T85n2735_p0093b27(00)　上二句問下二句答為者依也
+</p><p>
+T85n2735_p0093b28(05)　依
+</p></note>
+            <explicit lang="chi"><locus>
+T85n2735_p0093b27(00)
+</locus>
+上二句問下二句答為者依也
+</explicit>
+            <listBibl>
+              <bibl>
+                <ref target="T.1721"/>
+              </bibl>
+            </listBibl>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="34">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188104</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="chi-Latn">
+Weimo shouji
+</title>
+            <title lang="chi">
+維摩手記
+</title>
+            <incipit lang="chi"><locus/>
+如是我聞等者
+</incipit>
+            <note><p>
+起: 如是我聞等者
+</p><p>
+訖: 若榮發前三即是福門，若(行)發後五即屬惠門
+</p>
+　　　　　　
+<p>
+卷背署名有「張大慶」
+</p>
+。 
+<p>
+背書：大般若波羅蜜多經緣起品第一之一至教誡教授品第七之十目錄及賢愚經
+</p><p>
+據史語所檔案(李38-5-5)，此卷為1944年11月史語所西北考察團「向一磨坊掌櫃構得」。張大慶光啟年間(885-887)曾任沙州歸義軍節度使張淮深手下。張大慶的名字
+</p><p>
+也出現在P.3485及P.3322等敦煌文件。
+</p><p>
+光啟元年為885年
+</p><p>
+庚辰年應為唐懿宗咸通元年，860年12月 。
+</p></note>
+            <explicit lang="chi"><locus/>
+若榮發前三即是福門，若(行)發後五即屬惠門
+</explicit>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="35">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188105</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="chi-Latn">
+Weimojing shiqian deng xiaochao
+</title>
+            <title lang="chi">
+維摩經釋前等小抄
+</title>
+            <incipit lang="chi"><locus/>
+將釋此經文前
+</incipit>
+            <note>
+              <p>
+F188104維摩經釋前等小抄
+</p>
+              <p>
+原無題，按內容補今名，附河西節度史道場文，又背書:戒師廣說戒文，亦均無題。
+</p>
+              <p>
+起:將釋此經文前
+</p>
+              <p>
+訖:諸菩薩莫然生，然生必當墮火坑
+</p>
+              <p>
+卷背為《戒師廣說戒文》
+</p>
+              <p>
+起:心深渴仰專住法音
+</p>
+              <p>
+訖:諸菩薩莫然也，然他相將入奈河刀劍縱橫從後
+</p>
+            </note>
+            <explicit lang="chi"><locus/>
+諸菩薩莫然生，然生必當墮火坑
+</explicit>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="36">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188106</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="chi-Latn">
+Yuanming lun
+</title>
+            <title lang="chi">
+圓明論
+</title>
+            <incipit lang="chi"><locus/>
+者啟不是妄
+</incipit>
+            <note>
+              <p>
+起:者啟不是妄
+</p>
+              <p>
+訖:某乙本是真如國之層□□□清昇究郡忙忙性海
+</p>
+              <p>
+另見S.6187、P.3559、P.3664、北圖服字6號(7254)等，日本石井光雄亦藏有一件。
+</p>
+            </note>
+            <explicit lang="chi"><locus/>
+某乙本是真如國之層□□□清昇究郡忙忙性海
+</explicit>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="37">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188107</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="chi-Latn">
+Xuda qi jingshe yinyuan qu
+</title>
+            <title lang="chi">
+須達起精舍因緣曲
+</title>
+            <incipit lang="chi"><locus/>
+毛況乃蚊蚋
+</incipit>
+            <note>
+              <p>
+《敦煌變文集新書》/627/-2 起: 毛況乃蚊蚋
+</p>
+              <p>
+《敦煌變文集新書》/631/6 訖: 莫知所在百
+</p>
+            </note>
+            <explicit lang="chi"><locus/>
+莫知所在百
+</explicit>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="38">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188108</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="eng">
+Buddha images
+</title>
+            <title lang="chi">
+佛像卷子
+</title>
+            <incipit lang="chi">
+              <locus/>
+            </incipit>
+            <note>
+              <p/>
+            </note>
+            <explicit lang="chi">
+              <locus/>
+            </explicit>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="39">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188109</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="eng">
+Buddha images
+</title>
+            <title lang="chi">
+佛像卷子
+</title>
+            <incipit lang="chi">
+              <locus/>
+            </incipit>
+            <note>
+              <p/>
+            </note>
+            <explicit lang="chi">
+              <locus/>
+            </explicit>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="40">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188110</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Mahāprajñāpāramitasūtra
+</title>
+            <title lang="chi">
+藏譯大乘般若波羅蜜多心經
+</title>
+            <incipit lang="chi">
+              <locus/>
+            </incipit>
+            <note>
+              <p>
+覆紙題:「大乘無量壽經，敦煌寫卷，歐陽無畏署耑」 
+</p>
+            </note>
+            <explicit lang="chi">
+              <locus/>
+            </explicit>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="41">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188111</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Aparimitāyur[dhāraṇī]sūtra
+</title>
+            <title lang="chi">
+藏譯大乘無量壽經
+</title>
+            <incipit lang="chi">
+              <locus/>
+            </incipit>
+            <note>
+              <p/>
+            </note>
+            <explicit lang="chi">
+              <locus/>
+            </explicit>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="42">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188112</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Aparimitāyur[dhāraṇī]sūtra
+</title>
+            <title lang="chi">
+藏譯大乘無量壽經
+</title>
+            <incipit lang="chi">
+              <locus/>
+            </incipit>
+            <note>
+              <p/>
+            </note>
+            <explicit lang="chi">
+              <locus/>
+            </explicit>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="43">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188113</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Aparimitāyur[dhāraṇī]sūtra
+</title>
+            <title lang="chi">
+藏譯大乘無量壽經
+</title>
+            <incipit lang="chi">
+              <locus/>
+            </incipit>
+            <note>
+              <p/>
+            </note>
+            <explicit lang="chi">
+              <locus/>
+            </explicit>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="44">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188114</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Aparimitāyur[dhāraṇī]sūtra
+</title>
+            <title lang="chi">
+藏譯大乘無量壽經
+</title>
+            <incipit lang="chi">
+              <locus/>
+            </incipit>
+            <note>
+              <p/>
+            </note>
+            <explicit lang="chi">
+              <locus/>
+            </explicit>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="45">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188115</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Aparimitāyur[dhāraṇī]sūtra
+</title>
+            <title lang="chi">
+藏譯大乘無量壽經
+</title>
+            <incipit lang="chi">
+              <locus/>
+            </incipit>
+            <note>
+              <p>
+覆紙題：「大乘無量壽經，敦煌寫卷，歐陽無畏署耑」
+</p>
+              <p>
+歐陽無畏（1914-1991）是現代台灣藏文的專家。
+</p>
+            </note>
+            <explicit lang="chi">
+              <locus/>
+            </explicit>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="46">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188116</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Aparimitāyur[dhāraṇī]sūtra
+</title>
+            <title lang="chi">
+藏譯大乘無量壽經
+</title>
+            <incipit lang="chi">
+              <locus/>
+            </incipit>
+            <note>
+              <p>
+覆紙題：「大乘無量壽經，敦煌卷，歐陽無畏署耑」
+</p>
+            </note>
+            <explicit lang="chi">
+              <locus/>
+            </explicit>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="47">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188117</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Aparimitāyur[dhāraṇī]sūtra
+</title>
+            <title lang="chi">
+藏譯大乘無量壽經
+</title>
+            <incipit lang="chi">
+              <locus/>
+            </incipit>
+            <note>
+              <p>
+覆紙題：「大乘無量壽經，敦煌寫卷，歐陽無畏署耑」
+</p>
+            </note>
+            <explicit lang="chi">
+              <locus/>
+            </explicit>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="48">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188118</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="san">
+Aparimitāyur[dhāraṇī]sūtra
+</title>
+            <title lang="chi">
+藏譯大乘無量壽經
+</title>
+            <incipit lang="chi">
+              <locus/>
+            </incipit>
+            <note>
+              <p>
+覆紙題：「大乘無量壽經，敦煌卷，歐陽無畏署耑」
+</p>
+            </note>
+            <explicit lang="chi">
+              <locus/>
+            </explicit>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="49">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188119</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="eng">
+Tangut version of the Platform Scripture
+</title>
+            <title lang="chi">
+六祖壇經
+</title>
+            <incipit lang="chi">
+              <locus/>
+            </incipit>
+            <note>
+              <p/>
+            </note>
+            <explicit lang="chi">
+              <locus/>
+            </explicit>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="50">
+        <msIdentifier>
+          <settlement>
+Taipei
+</settlement>
+          <institution>
+Academia Sinica
+</institution>
+          <repository>
+Fu Ssu-nien Library
+</repository>
+          <collection/>
+          <idno type="current">188171</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="R.1">
+            <author>
+              <name lang="chi" type="person"/>
+            </author>
+            <title lang="eng">
+Uighur translation of the Chinese version of the Avataṃsakasūtra, and fragments in Uighur and Chinese of various texts
+</title>
+            <title lang="chi">
+回鹘文譯《華嚴經》與漢文不同經典的殘片
+</title>
+            <incipit lang="chi">
+              <locus/>
+            </incipit>
+            <note>
+              <p>
+images 1-54 are a Uighur translation of the Avataṃsakasūtra. Images 55, 60 and 62 are fragments from
+</p>
+              <p>
+a Chinese translation of the Prajñāpāramita. Image 57 is a fragment from the Da zhi du lun.
+</p>
+              <p>
+Image 63 is a fragment from the Pusa jieben 菩薩戒本
+</p>
+            </note>
+            <explicit lang="chi">
+              <locus/>
+            </explicit>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

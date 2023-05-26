@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Erdelyi_1999">
+    <editor>Erdelyi, Istvan</editor>
+    <title level="m" lang="eng">Sir Aurel Stein bibliography</title>
+    <imprint>
+      <pubPlace>Bloomington</pubPlace>
+      <publisher>Eurolingua</publisher>
+      <date>1999</date>
+    </imprint>
+    <keywords>bibliography</keywords>
+  </bibl>
+</listBibl>

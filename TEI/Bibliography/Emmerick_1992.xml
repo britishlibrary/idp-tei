@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Emmerick_1992">
+    <author>Emmerick, R.E</author>
+    <title level="m" lang="eng">A Guide to the Literature of Khotan</title>
+    <imprint>
+      <pubPlace>Tokyo</pubPlace>
+      <publisher>The International Institute for Buddhist Studies</publisher>
+      <date>1992</date>
+    </imprint>
+    <keywords>Khotan</keywords>
+    <keywords>Buddhist literature</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

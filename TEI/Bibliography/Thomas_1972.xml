@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Thomas_1972">
+    <author>Thomas, Werner</author>
+    <title level="a" lang="ger">Zweigliedrige Wortverbindungen im Tocharischen</title>
+    <imprint>
+      <title level="j" lang="fre">Orbis</title>
+      <biblScope type="issue">21</biblScope>
+      <biblScope type="pp">429-470</biblScope>
+      <date>1972</date>
+    </imprint>
+  </bibl>
+</listBibl>

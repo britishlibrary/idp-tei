@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Kudara_Zieme_1990">
+    <author>Kudara, Kōgi</author>
+    <author>Zieme, Peter</author>
+    <title level="a" lang="ger">Uigurische Āgama-Fragmente (2)</title>
+    <imprint>
+      <title level="j" lang="engl" type="shortRef">Altorientalische Forschungen</title>
+      <biblScope type="issue">17,1</biblScope>
+      <date>1990</date>
+      <biblScope type="pp">130-145</biblScope>
+    </imprint>
+    <keywords>Chinesisch</keywords>
+    <keywords>Uigurische</keywords>
+    <keywords>Āgama</keywords>
+    <keywords>Fragmente</keywords>
+  </bibl>
+</listBibl>

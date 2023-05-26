@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Sundermann_1975a">
+    <author>Sundermann, Werner</author>
+    <title level="a" lang="ger">Nachlese zu F.W.K. Müllers "Soghdischen Texten I", 2. Teil</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">AOF</title>
+      <biblScope type="issue">III</biblScope>
+      <date>1975</date>
+      <biblScope type="pp">55-90</biblScope>
+    </imprint>
+    <keywords>manuscripts</keywords>
+    <keywords>Christianism</keywords>
+    <keywords>Syriac</keywords>
+    <keywords>n</keywords>
+    <keywords>Ostturkestan</keywords>
+    <keywords>East Turkestan</keywords>
+    <genBibl>AOF</genBibl>
+  </bibl>
+</listBibl>

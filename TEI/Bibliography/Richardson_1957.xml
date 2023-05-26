@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Richardson_1957">
+  <author>Richardson, H.E.</author>
+  <title level="a" lang="eng">A Tibetan Inscription from Rgyal Iha-khan; and a Note on Tibetan Chronology from A.D. 841 to A.D. 1042</title>
+  <imprint>
+    <title level="j" lang="eng" type="shortRef">JRAS</title>
+    <biblScope type="pp">57-78</biblScope>
+    <date>1957</date>
+  </imprint>
+  <keywords>Tibet</keywords>
+</bibl>

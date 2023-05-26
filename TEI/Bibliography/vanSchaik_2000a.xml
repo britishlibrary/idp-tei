@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="vanSchaik_2000a">
+    <author>van Schaik, Sam</author>
+    <title level="a" lang="eng">A Catalogue of the First Volume of the Waddell Manuscript rNying ma rgyud 'bum</title>
+    <imprint>
+      <title level="j" lang="eng">The Tibet Journal</title>
+      <biblScope type="issue">25.1</biblScope>
+      <biblScope type="pp">27-50</biblScope>
+      <date>2000</date>
+    </imprint>
+    <keywords>Tibet</keywords>
+    <keywords>Buddhism</keywords>
+    <genBibl>vanschaik</genBibl>
+  </bibl>
+</listBibl>

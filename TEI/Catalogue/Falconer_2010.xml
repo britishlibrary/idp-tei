@@ -1,0 +1,3134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Afghanistan Observed 1830-1920</title>
+        <author id="JF">John Falconer</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The British Library</publisher>
+        <pubPlace>London</pubPlace>
+        <date>2010</date>
+      </publicationStmt>
+      <editionStmt>
+        <edition>First electronic edition</edition>
+        <date>2014</date>
+        <respStmt>
+                    Converted to XML encoding by
+                    <name>Sam van Schaik
+                    </name>
+                </respStmt>
+      </editionStmt>
+      <sourceDesc>
+        <p>Exhibition catalogue</p>
+        <bibl id="Falconer_2010"/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>Catalogue</projectDesc>
+      <editorialDecl>Imported to 4D on 08/12/14 by Sam van Schaik.</editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <head>
+      <p/>
+    </head>
+    <body>
+      <msDescription n="1.2">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Mss Eur G40 f.39</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">CHARLES MASSON, Bala Hissar Citadel, Kabul, from the south, early 1830s.</title>
+            <note>
+              <p>This is one of several drawings that Masson made of Bala Hissar, and shows on the summit of the ridge Kulah-i-Firangi or ‘European’s Hat’, a pavilion-like structure that has since disappeared. The main gate to the lower citadel, Darwaza Shah Shaheed can be seen on the right of the drawing, with the Shah Shahid mausoleum outside of the walled enclosure.</p>
+              <p>Pen and ink drawing; British Library.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="1.3">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Mss Eur G40 f.36</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">CHARLES MASSON, Palace, Kabul, exterior view from the north, early 1830s.</title>
+            <note>
+              <p>
+			    This drawing shows the residential quarters in the lower Bala Hissar, with the walls of the upper enclosure on the slope above. Although much altered over time, Masson suggests that the residential part of the palace that he saw in the 1830s had been constructed by Timur Shah in the 1750s, when he moved his capital from Qandahar to Kabul. 
+			  </p>
+              <p>Pen and ink drawing; British Library.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="1.4">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Mss Eur G40 f.47</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">CHARLES MASSON, Interior of enclosure (marble) of Babur’s tomb, Kabul, early 1830s.</title>
+            <note>
+              <p>
+			    This drawing of the marble enclosure around the grave of Babur indicates the poor state of its repair at the time. In his account of the garden, Masson describes its cooling watercourses and shady orchards, which made it popular for visitors. The drawing was critical in enabling the reconstruction of the enclosure in 2006.
+			  </p>
+              <p>Pen and ink drawing; British Library.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="1.5">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Mss Eur G40 f.35</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng"> CHARLES MASSON, Ziarat Shah Shahid, near the Balla Hissar, Kabul, 1830s.</title>
+            <note>
+              <p>
+			    This mausoleum of Shah Shaheed lies to the east of Bala Hissar, and can also be seen in John Burke’s photograph from 1879–80 in this exhibition (see 7.29).
+			  </p>
+              <p>Pen and ink drawing; British Library.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="1.6">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Mss Eur G40 f.32</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng"> CHARLES MASSON, Column or minar at the crest of the pass of Chukri, near Kabul, early 1830s.</title>
+            <note>
+              <p>
+			  This drawing shows Minar-i-Chakari, a tall stone tower thought to date from the 7–9th centuries that stood high above the Kabul plain at the summit of a pass to Logar. Probably a marker for caravans crossing the valley, rather than a minaret, as its modern name implies, the tower collapsed during a violent thunderstorm in 1996.
+			  </p>
+              <p>Pen and ink drawing; British Library.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="1.8">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Mss Eur G40 f.53</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">CHARLES MASSON, Little Koh-dowlah, a village of Koh-darah (the grass vale) in the Koh-I-daman (hill skirts) of Kabul, early 1833. </title>
+            <note>
+              <p>
+			    After the rigours of the Kabul winter, many residents of Kabul visited the Paghman valley and Koh e Daman, north of Kabul, in the spring. In 1833 Masson visited both and made sketches of ‘the cluster of villages, castles, and orchards which spread before us.’ This drawing is of the village of Koh e Dawlah.
+			  </p>
+              <p>Pen and ink drawing; British Library.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="1.10">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Mss Eur F64(128)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">CHARLES MASSON, Bedak in Koh Daman, 1833.</title>
+            <note>
+              <p>
+			    The village of Bedak, which lies some 20 miles north-west of Kabul, was also visited by Masson in 1833, when he described it as ‘romantically situated on an eminence, and surrounded with gardens, vineyards, and orchards.
+			  </p>
+              <p>Pen and ink drawing; British Library.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="1.10A">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Mss Eur F64(129)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">CHARLES MASSON, Bedak in Koh Daman, 1833.</title>
+            <note>
+              <p>
+			    This watercolour painting by Masson is one of a number of examples that Masson made from his original sketches. Although his draftsmanship was in general extremely accurate, in this case Masson has removed the small fortified enclosure seen in the foreground of the original drawing.
+			  </p>
+              <p>Pen and ink drawing; British Library.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="1.11">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Mss Eur G40 f.31</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">CHARLES MASSON, Portion of the caves and Second Idol, Bamiyan, 1832.</title>
+            <note>
+              <p>
+			    Masson only made a few sketches of Bamiyan, during one brief visit. On the extreme left of this drawing is part of the large niche with an image of the standing Buddha, with the smaller image in the centre. Unconvinced that this was a Buddhist site, Masson suggested that the caves were royal burial places and that the ‘statues might represent sovereigns or the deities they adored.’
+			  </p>
+              <p>Pen and ink drawing; British Library.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="1.12">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Mss Eur G41 f.40</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">CHARLES MASSON, Selected specimens of the pictorial embellishments of the First or Great Idol, Bamiyan, 1832.</title>
+            <note>
+              <p>
+			    While in Bamiyan, Masson copied some of the surviving painted fragments that survived in the niche behind the head of the great Buddha image. He later wrote that ‘the inspired teacher is not, we think, Buddha – for Buddha could scarcely be represented in so scant a costume…and it is not perhaps certain that he travelled so far westward…’ 
+			  </p>
+              <p>Pen and ink drawing; British Library.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="1.13">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Mss Eur G40 f.30</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">CHARLES MASSON, Remains of the Citadel of Ghulghul, 1832.</title>
+            <note>
+              <p>
+			    This drawing shows the fortified urban site of Shahr-i Ghulghula in the Bamiyan valley, which is believed to have been destroyed by the Mongols in 1221. Masson later wrote of the site that ‘the desolate spot itself has a peculiar solemnity, not merely from its lonely and startling evidences of past grandeur, but because nature appears to have invested it with a character of mystery and awe…’
+			  </p>
+              <p>Pen and ink drawing; British Library.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="1.14">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Mss Eur G40 f.62</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">CHARLES MASSON, Balla Bagh, near Jallalabad, c. 1828.</title>
+            <note>
+              <p>
+			    Masson’s drawing, which may have been made in 1828 during his first visit to Nangarhar, is of the walled town of Bala Bagh from across the Surkhab river. He described Bala Bagh as ‘more commercial’ than Jalalabad, with a better climate, large royal gardens and areas of extensive cultivation.
+			  </p>
+              <p>Pen and ink drawing; British Library.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="1.15">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Mss Eur G40 f.60</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">CHARLES MASSON, Surkh Pol over the Surkh Rud between Gandamak and Jigdillik, built according to inscriptions by Ali Merdan Khan, c. 1828.</title>
+            <note>
+              <p>
+			    Jigdillik, built according to inscriptions by Ali Merdan Khan, c. 1828.
+Masson visited and sketched the Surkh Pol or Red Bridge a few marches on from his visit to Bala Bagh. Like his drawing of the town, this may have been made during his first visit to Afghanistan in 1828.
+			  </p>
+              <p>Pen and ink drawing; British Library.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="1.16">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Mss Eur G40 f.26</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">CHARLES MASSON, Ghizni from the Kabul side, c. 1832.</title>
+            <note>
+              <p>
+			    Masson’s view of the citadel of Ghazni conveys the manner in which it dominates the surrounding plain. Capital of the Ghaznavid Empire until it was destroyed by the Ghorids in 1153, Masson was able to find little evidence of its former spendour during his visit.
+			  </p>
+              <p>Pen and ink drawing; British Library.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="1.17">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Mss Eur G40 f.27</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">CHARLES MASSON, The Kandahar [or Kabul?] Gate of the Citadel, Ghizni, 1832.</title>
+            <note>
+              <p>
+Although Masson suggests that this drawing is of the Qandahar gate in the citadel of Ghazni, it seems in fact to be of the Kabul gate. At the time of his visit, clearly a great deal more of the stone fortifications were standing than is the case today.			    
+			  </p>
+              <p>Pen and ink drawing; British Library.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="1.18">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Mss Eur G40 f.25</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">CHARLES MASSON, Minars or Sultan Muhammad’s Columns, Ghizni, 1832.</title>
+            <note>
+              <p>
+At the time of Masson’s visit to Ghazni, the tall brick minarets of Bahram Shah and Mas’ud III, which date from 10th to 11th centuries, could still be accessed by means of internal stairs. This drawing represents an important record of the form of these unique monuments, of which only the lower sections now survive.
+			    
+			  </p>
+              <p>Pen and ink drawing; British Library.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X717/Plate 2</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Dost Mahomed, King of Cabaul, and his son, 1841.</title>
+            <note>
+              <p>
+	Rattray’s portrait of Dost Muhammad was made in Peshawar in January 1841, while the Amir was en route to exile in India after his overthrow by Shah Shuja. In this study, however, the artist has portrayed the Amir and his son in the audience hall in the citadel of Ghazni. On Shah Shuja’s death in 1842, Dost Muhammad returned to rule Afghanistan until his own death in 1863.
+			  </p>
+              <p>Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.2">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X717/Plate 4</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Interior of the Palace of Shah Shuja ool Moolk, late King of Cabaul, c. 1841–2.</title>
+            <note>
+              <p>
+Rattray had first seen the interior of Shah Shuja’s palace in the Bala Hissar in Kabul during his brief reign between 1841–2. The original sketch for this illustration was made after Shah Shuja’s assassination, and the figure seated on the stone throne is in fact the wazir of one of Shah Shuja’s sons.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.3">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X717/Plate 4</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Hawkers of Ko-i-Stan, with Valley of Caubul and mountains of Hindookoosh, c. 1841.</title>
+            <note>
+              <p>
+			In his description of this portrait, Rattray notes that it was the custom for hawks that had been trained for hunting to be released at the end of each season, only to be re-captured and re-trained in subsequent years. The landscape on the left of this drawing resembles the Kabul valley.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.    
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.4">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X717/Plate 6</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Ghiljie women, c. 1841–2.</title>
+            <note>
+              <p>
+			    It was south-west of Ghazni that Rattray encountered this group of Ghilzai nomads, whose black tents are shown in the background.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.5">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X717/Plate 7</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Khoja Padshah, a Ko-i-Stan chief, with his armed retainers, c. 1841–2.</title>
+            <note>
+              <p>
+	This portrait group of Kohistani chiefs, set against a background of a fort east of Kabul, was made by Rattray during a trip along the Panjshir river, close to Bagram. The figures in the group are from the escorts who accompanied them on a tour of forts and monuments in the area.</p>
+              <p>Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library. 		    
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.6">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X717/Plate 8</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Kelaut-i-Ghiljie, 1842.</title>
+            <note>
+              <p>
+			    Rattray’s view of the citadel of Qalat-i-Ghilzai, situated at a strategic point on the road between Qandahar and Ghazni, was made after the besieged British garrison had been relieved and the fort destroyed.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.7">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X717/Plate 9</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Atmaran, Prime Minister of Koonduz, 1841.</title>
+            <note>
+              <p>
+Originally from Peshawar, the highly-talented Atmaran served as Chief Minister to Murud Beg, Mir of Qunduz. This portrait, made on the roof of a traditional courtyard house in Kabul, was made by Rattray in September 1841.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.			    
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.8">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X717/Plate 10</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Mosque and Tomb of the Emperor Sooltan Mahmood, of Ghuznee, c. 1841–2.</title>
+            <note>
+              <p>
+	When Rattray visited the grave near Ghazni of Sultan Mahmud, the mausoleum was surrounded by a picturesque, peaceful garden. This view of the interior of mausoleum shows the heavy wooden doors that were subsequently removed and taken to Agra by the British, under the mistaken assumption that they had been looted from the Hindu temple at Somnath in India.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.9">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X717/Plate 11</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Afghaun foot soldiers in their winter dress, with entrance to the Valley of Urgundeh, 1842.</title>
+            <note>
+              <p>
+			    Rattray describes how in 1842 the British met with considerable resistance from fighters at this rocky watchtower between the valleys of Maidan and Argandeh. A force of these ‘wild, unruly, merry fellows,’ was however raised for service with the British.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.10">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 562 pl.12</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Ko-i-Staun foot soldiery in summer costume. Actively employed among the rocks, c. 1841–2.</title>
+            <note>
+              <p>
+			    The principal figure in this drawing is identified by Rattray as fighter by the name of Mir Alum. Carrying a traditional firearm or jezail, which they used with great accuracy from positions on rocky outcrops, marksmen like Mir Alum were able to control the passes that led through gorges and valleys below.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.11A">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 562 pl.14</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Chief Executioner and assistant of His Majesty the late Shah, c. 1841–2.</title>
+            <note>
+              <p>
+		These two figures were part of a large number of guards and executioners in Shah Shuja’s retinue. The chief executioner, Muhammad Shah, is seated, and Rattray describes him as ‘a gentleman by birth, who rode before the sovereign. In his hand is the painted wand, surmounted by a bird, indicative of his being the head of a family.’
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library	    
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.11B">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 562 pl.15</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Mahomed Naib Shurreef, a celebrated Kuzzilbach chief and his Peshkhidmut, or head attendant, c. 1841-2.</title>
+            <note>
+              <p>
+			    Muhammad Naib Sharif was a leader of the Qizilbash Shi’a community in Kabul, who were descended from troops left behind after the 1738 invasion by the Persian ruler Nadir Shah. Sharif supported the British in the war of 1839-42, and lived in exile in Peshawar after its conclusion.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.12">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 562 pl.17</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Jaunbauz, or Afghan Cavalry, with horse bearing implements for smoking, c. 1841-2.</title>
+            <note>
+              <p>
+		‘Never was a wilder, more devil-may-care set of fellows seen’, according to Rattray, than the Afghan Cavalry raised by Shah Shuja, and also hired as levies by the British Army. In this portrait, we can see the smoking apparatus carried by such men – a pan of coals slung under the horse’s girths and a box for pipes at the saddle pommel.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library	    
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.13">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 562 pl.18</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Town and Citadel of Ghuznee, c. 1841-2.</title>
+            <note>
+              <p>
+	Rattray’s view of Ghazni was made ‘near some musjeeds outside the Candahar gate, at the west side of the city.’ This is one of the last views of the citadel, with the walled city outside, before it was destroyed by the British, after its capture in September 1842.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.		    
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.14">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 562 pl.19</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Hyder Khan, the Governor of Ghuznee, c. 1841.</title>
+            <note>
+              <p>
+			  Ghulam Haidar Khan, the fourth son of Amir Dost Muhammad and Governor of Ghazni, was captured when the city fell to the British in 1839. Although Rattray met him in Peshawar in 1841, he did not have the opportunity to sketch him and this portrait is a copy of a painting by Lady Charlotte Keane, with the citadel of Ghazni and minarets inserted as appropriate background.</p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.			    
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.15">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 562 pl.20</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Oosbegs of Moorand Bey, 1841</title>
+            <note>
+              <p>
+Rattray identifies these Uzbek men as Mirza Abdulluq and Rustum Beg, whose chief was the Mir of Qunduz. Rattray sketched this pair in the Laghman fort in August 1841.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.			    
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.16">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 562 pl.22</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Meerze Fyze, an Oosbeg Elchee or ambassador, c. 1841-2.</title>
+            <note>
+              <p>
+Rattray sketched the figure of Mirza Faiz in conversation with a British officer in local dress, at Laghman fort.
+			  </p>
+              <p>Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.			    
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.17">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 562 pl.23</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Interior of the city of Kandahar, 1841.</title>
+            <note>
+              <p>
+Dating from December 1841, this view from the roof of the house of the Governor of Qandahar shows the dome of the mausoleum of Ahmad Shah Durrani on the left, with a mosque and the citadel to the right. In the foreground is a partly ruined caravanserai and the domes and vaults of the covered bazaar.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.			    
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.18">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 562 pl.24</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Ladies of Caubul in their in and out-of-door costume, c. 1841-2.</title>
+            <note>
+              <p>
+Rattray’s portrait contrasts the private dress of women at home in Kabul, with the modest costume for public places, shown on the figure to the right. The model here is seated in a space with plaster decoration that was typical of wealthy homes at the time.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.			    
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.19">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 562 pl.25</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Gool-Mahomeed Khaun, King of the Ghilgies, 1841.</title>
+            <note>
+              <p>
+     After surrendering to the British in April 1841, the Ghilzai chief Gul Muhammad Khan was put under house arrest in Kabul, where Rattray sketched him in a caravanserai, seen on the right. Despite his fearsome reputation, Rattray found him very friendly.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.                   
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.20">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 562 pl.27</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Temple of Ahmed Shah, King of Afghaunistan, Kandahar, c. 1841-2.</title>
+            <note>
+              <p>
+The mausoleum of Ahmad Shah Durrani, founder of the modern Afghan state, is shown surrounded by visitors, with a line stretching back towards a fort in the background. Under striped awnings, vendors sell the melons for which Qandahar is famous to this day.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.			    
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.21">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 562 pl.28</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, City of Kandahar, its principal bazaar and Citadel, c. 1841-2.</title>
+            <note>
+              <p>
+This view of the bazaar and rooftops of Qandahar was made from the Nakkar Khana or musicians’ gallery, which was part of a domed structure or Chahar Suq at the intersection of the covered bazaars. On the left is the sanctuary of the Khirqa, where the cloak of the Prophet is kept, with part of the citadel on the right.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.			    
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.22">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 562 pl.29</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Kandahar lady of rank, engaged in smoking, c. 1841-2.</title>
+            <note>
+              <p>
+This portrait of a Barakzai lady shows her seated in family quarters of a wealthy home in Qandahar, with elaborate plaster decoration. The tray of fruit in the foreground is testament to the rich produce cultivated in the fields that can be seen through the open window.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Librar. 			    
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.23">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 562 pl.30</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Mosque of Goolaum Hoossein Huzrut-ji at Kandahar, c. 1841-2.</title>
+            <note>
+              <p>
+The grave of Ghulam Hussain Hazratji, along with those of members of the royal family, stands in the courtyard of a richly-decorated mosque in Qandahar that also bears his name. To mark his importance, Hazratji’s grave measures some twenty-three feet in length, with tall marble stones at either end.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.			    
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.24">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 562 pl.16</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, British Cantonments and city of Caubul, from the Be-Maroo Hill, c. 1841-2.</title>
+            <note>
+              <p>
+		Rattray’s view from the heights above the village of Bemaru shows the British cantonment in Sherpur in the foreground. Beyond lies the city of Kabul, dominated by the fortifications of the Bala Hissar, with snow-capped mountains towards Logar in the distance. The graveyard shown on the right now lies in Wazir Akbar Khan.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.	    
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.25">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 562 pl.5
+		    </idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, Encampment of the Kandahar Army, Kabul, 1842.</title>
+            <note>
+              <p>
+			    Rattray’s view from Siah Sang shows the encampment of British troops in the plain of Chaman-i-Shah – now known as Chaman Uzuri – with the city of Kabul behind. The departure of British forces from Afghanistan in October 1842 ended what Rattray described as the long series of unparalleled disasters, reverses, crimes, and errors, which ended in our total annihilation.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="2.26">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 562 pl.26</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES RATTRAY, The Bullock’s Hump, and Military Cantonments, Kandahar, c. 1841-2.</title>
+            <note>
+              <p>
+The rocky outcrop to the west of the city of Qandahar was known to the British as the Bullock’s Hump. In the distance can be seen the British cantonment.
+			  </p>
+              <p>
+Lithograph from James Rattray, Scenery, Inhabitants and Costumes, Afghaunistan (London, 1848), British Library.			    
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3.1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">WD 1347 f.7V</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES ATKINSON, Jellalabad from the north near the Cabaul River, 1840.</title>
+            <note>
+              <p>
+This is one of preliminary sketches from which Atkinson had intended to produce a second series of views of Afghanistan. It shows a group of travelers making their way through the valley of the Kabul river, north of Jalalabad.
+			  </p>
+              <p>Watercolour, British Library.
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3.2">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">WD 1347 f.12V</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES ATKINSON, Pooli Suffeed Sung. The broken bridge at Gundamuk, 1840.</title>
+            <note>
+              <p>
+Atkinson’s sketch shows groups of travellers taking a detour to cross the Marki Khel stream, east of Gandamak, with a damaged bridge built during the reign of Dost Muhammad behind.
+			  </p>
+              <p>Watercolour, British Library.
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3.3">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">WD 1347 f.12v</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES ATKINSON, Entrance to the Khoord Cabaul Pass from Bhootkak, c. 1841.</title>
+            <note>
+              <p>
+			    Travellers making their way up the narrow defile of Khord Kabul, which forms an important natural defence of Kabul from the east. The gorge had a particular significance for the British, who lost many men here during their retreat to India in 1841, and again in January 1842, when the British garrison was attacked as they made their way to Jalalabad.</p>
+              <p>
+Watercolour, British Library.			    
+			  </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3.4">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">WD 1347 f.19r</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES ATKINSON, The Cabaul Cantonments from the bridge, near the fort of Mahmood Khan Byab, 1840.</title>
+            <note>
+              <p>
+		    This sketch shows the British cantonment in the Kabul plain, viewed from the bank of the Logar river, to the east of the citadel of Bala Hissar.</p>
+              <p>Watercolour, British Library.		      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3.5">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">WD 1347 f.18r</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES ATKINSON, The Balla Hissar, Cabaul, 1840.</title>
+            <note>
+              <p>
+		      This sketch of a family group on the roof of a house within the lower enclosure of the Bala Hissar shows part of the gardens around the royal palace, with a mosque that was dedicated by the Mughal Emperor Shah Jahan on the right.
+		    </p>
+              <p>Watercolour, British Library
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3.6">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">WD 2402</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES ATKINSON, The Valley of Maidan, 1838-41.</title>
+            <note>
+              <p>
+		      This watercolour shows a column on British troops, including an elephant visible in the centre, heading down the valley of Maidan, where Atkinson described a ‘charming silver line of river flowing through its centre, and the trees, meadow, and plantations, always appearing bright and glowing’. To the right is what seems to be the ruins of the base of a brick minaret.
+		    </p>
+              <p>Watercolour, British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3.7">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">WD 2401</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES ATKINSON, The fortress and citadel of Ghuznee and the two minars, 1838-41.</title>
+            <note>
+              <p>
+	Like many other artists, Atkinson was drawn to the picturesque qualities of the imposing brick minarets outside Ghazni. Here, he shows them against a backdrop of the citadel and walled city, with a group of traders exchanging goods in the foreground.
+	</p>
+              <p>Watercolour, British Library.	      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3.8">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">WD 2404</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES ATKINSON, The Bala Hissar and city of Cabaul, from the Citadel. 1838-41.</title>
+            <note>
+              <p>
+	This watercolour provides a panorama of the city Kabul from the upper part of the Bala Hissar, with Shah Shuja’s palace and the royal mosque separated by gardens. Outside of the walled enclosure are the quarters of Baghe Ali Mardan and Asheqan wa Arefan, with Deh Afghanan beyond, on the west bank of the Kabul river. 
+	</p>
+              <p>Watercolour, British Library.	      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3.9">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">WD 2405</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES ATKINSON, Cabaul from a burying ground, N.E. of the city, 1838-41.</title>
+            <note>
+              <p>
+	This view of the city of Kabul was drawn from the heights of Tapa Maranjan, which was a burial site from Buddhist times. It illustrates how compact the city was in the 19th century, with extensive gardens and fields to the north. The dome of the mausoleum of Timur Shah can be seen on the far right.
+	</p>
+              <p>Watercolour, British Library.	      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3.10">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">WD 2406</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES ATKINSON, A Durbar held by Shah Shujah at Cabaul, c. 1840.</title>
+            <note>
+              <p>
+		      This painting shows Shah Shuja seated on the balcony of the durbar hall, receiving khans and officers of state, who are lined up with uniformed soldiers in the courtyard. To the right is the haremserai of the palace, and the defensive walls that ran along the ridge of the Sher Darwaza hill can be seen behind.
+		      </p>
+              <p>Watercolour, British Library.		      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3.11">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">WD 2407</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES ATKINSON, The Tomb of the Emperor Baber, Kabul, 1838-41.</title>
+            <note>
+              <p>
+		      This view shows the platform on which Babur’s grave stands, with a glimpse of the white marble mosque built by Shah Jahan in 1646 behind, shrouded in trees. Both the grave enclosure and mosque were restored between 2003-8. In the plain below the garden can be seen the fort of Nawab Jabar Khan, brother of Amir Dost Muhammad.
+		      </p>
+              <p>Watercolour, British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3.12">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 812 pl.23</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES ATKINSON, The avenue at Babur’s Tomb, c. 1840.</title>
+            <note>
+              <p>
+		      This idyllic scene shows the pools and channels through which water flowed down the garden laid out by Babur in the early 16th century, and in which he is buried. This system was reconstructed between 2003-8, along with extensive re-planting. Judging by the groups of visitors drawn by Atkinson, the garden was clearly as popular then as it remains today. 
+		      </p>
+              <p>Lithograph from James Atkinson, Sketches in Afghaunistan (London: [1842]), British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3.13">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 812 pl.19</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES ATKINSON, The main street in the bazaar at Cabaul in the fruit season, c. 1840.</title>
+            <note>
+              <p>
+		      In this animated scene, Atkinson documents a busy part of the bazaar in Kabul. On the far right is a baker, with fruit-sellers on the left. The original watercolour from which this lithograph was made, does not appear to have survived.
+		      </p>
+              <p>Lithograph from James Atkinson, Sketches in Afghaunistan (London: [1842]), British Library.		      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3.14">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">WD 2400</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES ATKINSON, The city of Kandahar, c. 1840.</title>
+            <note>
+              <p>
+		      Atkinson’s sketch shows traders selling their wares, with the camp of the British Fourth Brigade beyond, to the south of the walled city and the Baba Wali mountain.
+		      </p>
+              <p>Watercolour, British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3.15">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 627 pl.6 [?]</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JAMES ATKINSON and LOCKYER WILLIS HART, A Durrani nobleman and attendant at the Palace, Kandahar , c. 1840.</title>
+            <note>
+              <p>
+	In the text accompanying this lithograph, the interior of the palace in Qandahar is described as being adorned ‘with elaborate carving in wood, and has, like most houses of the rich, its walls plastered with stucco. It is of light summer house construction, and its courts are embellished with trees and fountains.’
+	</p>
+              <p>Lithograph, from James Atkinson and Lockyer Willis Hart, Character and Costumes of Afghaunistan, 2nd series (London: 1843), British Library.	      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="3.15A">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X 627 p.16 [?]</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">LOCKYER WILLIS HART AND JAMES ATKINSON, Bameean. Tajuks of Bameean and Kohistan, c. 1840.</title>
+            <note>
+              <p>
+		      This view shows a Tajik family group standing in front of the cliffs of the Bamiyan valley, with the niche containing the large figure of Buddha on the far right. As well as managing to convey the sharp relief of the caves dotting the rock-face and the scale of the mountains in the distance, Atkinson took care in recording the costumes that were then worn in the central highlands of Afghanistan.
+		      </p>
+              <p>Lithograph, from James Atkinson and Lockyer Willis Hart, Character and Costumes of Afghaunistan, 2nd series (London: 1843), British Library.		      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="4.1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">WD 1291</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">EMILY EDEN, Dost Muhammad Khan with members of his family, at Barrackpore, near Calcutta, 1841.</title>
+            <note>
+              <p>
+		      This watercolour was made by Emily Eden when Dost Muhammad was a guest of her brother, the Governor-General of India Lord Auckland, in June 1841. The other figures in the group are Haidar Khan, former Governor of Ghazni, Muhammad Akram Khan and Abdul Ghani Khan. This group portrait was later reproduced as a lithograph in Eden’s Portraits of the princes and people of India (London: 1844).</p>
+              <p>Watercolour, British Library.</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="4.2">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">X716, plate 3</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">KEITH A. JACKSON, Nawab Jabbar Khan’s house, near Kabul , c. 1840.</title>
+            <note>
+              <p>
+		    This qala or homestead, which belonged to Jabbar Khan, brother of Dost Muhammad, stood on the plain south of Kabul. Occupied by an extended family, these qalas resemble small villages, and examples can be seen to this day in Shewaki and Rishgor.</p>
+              <p>Lithograph from Sir Keith A. Jackson, Views in Affghaunistan (London: [1842]), British Library.		      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="5.1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 50/1(47)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">CLARENCE COMYN TAYLOR, Amir Shir Ali Khan and the Viceroy Lord Mayo at Ambala, March 1869.</title>
+            <note>
+              <p>
+		    After re-capturing the Afghan throne in 1868, Amir Sher Ali Khan sought to ally the country with Britain, in the face of growing Russian influence in Afghan affairs. This group portrait shows the British and Afghan participants at a durbar held in Ambala, with Sher Ali and Lord Mayo, the Viceroy of India in the centre. Sher Ali’s son Abdullah Jan is to the right.</p>
+              <p>Albumen print, British Library	      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="5.2">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 50/1(50)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">CLARENCE COMYN TAYLOR, Afghan Sirdars at Lord Mayo’s Durbar, Ambala, March 1869.</title>
+            <note>
+              <p>
+		      This photograph of members of the Afghan delegation at the Ambala durbar was taken by an Indian Army officer, Clarence Taylor, who was at that time Lord Mayo’s aide de camp, and was an enthusiastic amateur photographer.
+		    </p>
+              <p>Albumen print, British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="5.3">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 50/1(79)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">CLARENCE COMYN TAYLOR, Amir Shir Ali Khan at Ambala, March 1869.</title>
+            <note>
+              <p>
+		    Sher Ali’s hopes of obtaining both diplomatic and financial support from the British at Ambala were not successful. The leaders parted cordially, however, and Shir Ali returned to Afghanistan with the promise of gifts in the form of both money and weapons.</p>
+              <p>Albumen print, British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="5.4">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 50/1(51)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">CLARENCE COMYN TAYLOR, Prince Abdullah Jan at Ambala, March 1869.</title>
+            <note>
+              <p>
+		    Sher Ali’s second son Abdullah Jan would have been aged about seven years old when he accompanied his father to Ambala. The major reason for his presence at the durbar was Sher Ali’s wish to gain British recognition of Abdullah Jan as his successor.</p>
+              <p>Albumen print, British Library. 		    
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="5.5">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 50/1(40)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BAKER AND BURKE, Amir Shir Ali Khan at Jamrud, April 1869.</title>
+            <note>
+              <p>
+On his return to Afghanistan after the Ambala durbar, Sher Ali gave permission for the professional photographers Baker and Burke to take a further series of sixteen portraits of his entourage at Jamrud. This is one of several studies of Sher Ali, which became commercially available as a result of these sessions.</p>
+              <p>Albumen print, British Library. 		    
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="5.6">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 50/1(75)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BAKER AND BURKE, Amir Shir Ali Khan, with Prince Abdullah Jan and Sirdars, Jamrud, April 1869.</title>
+            <note>
+              <p>
+		   In this group, Sher Ali is seated in the centre of his sirdars, with his son Abdullah Jan standing beside him. The boy seated on the right in the front row is the young Nasrullah Khan, who was later briefly proclaimed king after the assassination of Amir Habibullah in 1919.</p>
+              <p>Albumen print, British Library. 
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="5.7">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 50/1(70)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BAKER AND BURKE, Amir Shir Ali Khan with British officials, Jamrud, April 1869.</title>
+            <note>
+              <p>
+		    In this group, Sher Ali is seen with some of the officials who acted as his escort through British territory after the Ambala durbar. Seated on the left is Henry Bellew, who acted as an interpreter at the durbar. Colonel Frederick Pollock, Commissioner of Peshawar, stands behind, with the Indian Army officer Colonel Crawford Chamberlain on the right.</p>
+              <p>Albumen print, British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="5.8">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 50/1(48)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BAKER AND BURKE, Departure of Shir Ali Khan from Jamrud, April 1869.</title>
+            <note>
+              <p>
+		    Sher Ali Khan is here seen seated on his favourite horse, shortly before his departure for the Khyber on his return to Afghanistan after the Ambala durbar.</p>
+              <p>Albumen print, British Library. 		    
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6.1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 487(93)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, The Amir Yakub Khan’s escort at Gandamak, May 1879.</title>
+            <note>
+              <p>
+		    After the British invasion of Afghanistan in late 1878 and the death of Sher Ali in early 1879, his son and successor Yaqub Khan negotiated a treaty at Gandamak, which permitted the British to install an envoy in Kabul. These men, wearing the kilt of the Highlanders, formed the escort for the Amir at these talks.
+                    </p>
+              <p>Albumen print, British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6.2">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 487(100)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Amir Yakub Khan, and officials, Gandamak, May 1879.</title>
+            <note>
+              <p>
+In this portrait, taken during the meetings leading up to the signing of the Treaty of Gandamak, Yaqub Khan is seated in the centre of the group, with British representatives William Jenkyns and Major Pierre Louis Cavagnari, on the left. On the right are the Amir’s Commander-in-Chief, Daud Shah and his Prime Minister, Habibullah Mustafi.
+                    </p>
+              <p>Albumen print, British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6.3">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 487(69)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Jalalabad, the city and surroundings from the Kabul Gate, 1879.</title>
+            <note>
+              <p>
+This view of Jalalabad taken from the Kabul gate shows the extent of orchards that lay inside the city. Having entered Jalalabad in late December 1878, British troops remained in occupation through the following year, during which time Burke spent time photographing the city and its surroundings.
+                    </p>
+              <p>Albumen print, British Library.		    
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6.4">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 487(75)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Major Cavagnari and Chief Sirdars, Jalalabad, 1879.</title>
+            <note>
+              <p>
+Photographed in Jalalabad in early 1879, Cavagnari is seen here with prominent local leaders: beside him on the left is the powerful chief, Kunar Syed. On his other side is Sirdar Kala Khan, who acted as an emissary between Yaqub Khan and the British in the lead-up to the Treaty of Gandamak.
+                    </p>
+              <p>Albumen print, British Library.		    
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6.5">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/2(33)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Major Cavagnari and Sirdars, Jalalabad, 1879.</title>
+            <note>
+              <p>
+		    In this gathering of tribal leaders at Jalalabad, Cavagnari is seen with William Jenkyns, a civil servant who attended the negotiations at Gandamak. Cavagnari was subsequently appointed British Resident at Kabul, and his murder there in September 1879 led to the resumption of hostilities. Jenkyns, who was Secretary to the Kabul Mission, also died in Kabul.
+                    </p>
+              <p>Albumen print, British Library. 
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6.6">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 487(72)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Jalalabad, the main street showing covered bazaar, 1879.</title>
+            <note>
+              <p>
+This view of the main bazaar in Jalalabad shows the simple stalls that lined the cobbled street. The building on the right was probably a caravanserai, with rooms for visiting traders overlooking the street below.
+                    </p>
+              <p>Albumen print, British Library. 		    
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6.7">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 487(71)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Jalalabad, the Peshawar Gate and surroundings, 1879.</title>
+            <note>
+              <p>
+Although the large timber doors at the Peshawar gate, on the east side of the walled city of Jalalabad, seem to be intact, the mud walls themselves seem to be in a poor state of repair in this photograph from 1879.
+                    </p>
+              <p>Albumen print, British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6.8">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 487(74)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, View in the Amir’s Garden, Jalalabad, 1879.</title>
+            <note>
+              <p>
+A group of men are seen relaxing beside an avenue that formed part of the walled garden of the summer palace in Jalalabad.
+                    </p>
+              <p>Albumen print, British Library. 		    
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6.9">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 487(77)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, View in the Amir’s Garden, Jalalabad, from side walk, 1879.</title>
+            <note>
+              <p>
+                    A pavilion in an orchard garden on the outskirts of Jalalabad.</p>
+              <p>Albumen print, British Library. 		    
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6.10">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 487(83)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Scene in the city, Jalalabad, 1879.</title>
+            <note>
+              <p>
+                    Musicians are seen entertaining a group of men in the bazaar in Jalalabad, during winter.</p>
+              <p>Albumen print, British Library.		    
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6.11">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 487(86)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Nimlah Bagh below Safed Sang, near Jalalabad, 1879.</title>
+            <note>
+              <p>
+                    The gardens at Nimla are thought to be the Baghe Wafa, or Garden of Fidelity, mentioned by Babur in his memoirs. The garden follows the traditional charbagh layout, and this photograph shows an avenue of plane trees, with traces of one of the Mughal water channels in the centre, and a marble cascade to the left. This garden was partly restored in the early 1990s.</p>
+              <p>Albumen print, British Library.		    
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6.12">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/2(27)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, The Khan of Lalpura and followers, 1878–79.</title>
+            <note>
+              <p>
+	            Seated in the centre of this group of the Khan of Lalpura and his followers is a young frontier political officer named Robert Warburton, whose father, a Bengal Army officer stationed in Kabul in the First Afghan War, married a niece of Amir Dost Muhammad in 1840; their son was born at Gandamak in 1842.</p>
+              <p>Albumen print, British Library. 	    
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="6.13">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 487(51)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Lalpura, from the ferry, 1878–9.</title>
+            <note>
+              <p>
+		    View of the ferry at Lalpura on the Kabul River.</p>
+              <p>Albumen print, British Library. 
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(85)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Panorama of Kabul from above Bala Burj, 1879–80.</title>
+            <note>
+              <p>
+		    The Bala Burj, a tower built by the British on the site of a Buddhist stupa, lies at the extreme right of this panoramic view of Kabul city. On the left of the photo can be seen the dome of Timur Shah’s mausoleum, with the village of Deh Afghanan across the Kabul river to the west. In the background can be seen an extensive lagoon, in the area now known as Wazirabad.</p>
+              <p>Albumen print, British Library 	    
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.2">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(86)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Panorama of Kabul from below Bala Burj, 1879–80.</title>
+            <note>
+              <p>
+		    This panorama of the city from the west side of the Bala Hissar (whose walls are on the right) shows the dense fabric of the residential areas, with a number of large walled compounds. The graveyard of Asheqan wa Arefan can be seen on the extreme left.</p>
+              <p>Albumen print, British Library 	    
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.3">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 197(34)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENGAL SAPPERS AND MINERS, Panoramic view of Kabul from the Upper Bala Hissar, 1879–80.</title>
+            <note>
+              <p>
+		    A panoramic view from Bala Hissar to the north across the city, with the area now known as Kuche Kharabat in the foreground. Note the circular pits, or yakhdan, used for making ice. Extensive gardens can be made out around the walled quarter or Chindawol in the centre right.</p>
+              <p>Albumen print, British Library 
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.4">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 197(33)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENGAL SAPPERS AND MINERS, The Bala Hissar and Palace, Kabul, 1879–80.</title>
+            <note>
+              <p>
+		    In this view of Bala Hissar from the east, the Darwaza Shah Shaheed or Lahore gate is clearly visible in the centre left, with the upper section of the citadel behind. On the right can be seen the back of the palace, whose rooms were built along the walls of the outer enclosure. Apart from sections of walling to the east, there is today little trace of any these structures.</p>
+              <p>Albumen print, British Library 
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.5">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(89)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Panorama of Kabul from Siah Sang, 1879–80.</title>
+            <note>
+              <p>
+		    Burke’s panoramic view from the summit of Siah Sang to the east of the city shows the sweep of the Kabul valley. On the left is the Bala Hissar, with a British military encampment in the foreground and the cantonment at Sherpur on the right.</p>
+              <p>Albumen print, British Library 
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.6">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(22)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Panorama of the Bala Hissar, Kabul, 1880</title>
+            <note>
+              <p>
+                    The eastern side of the lower Bala Hissar, with the ramp leading up to the Darwaza Shah Shaheed or Lahore Gate. Burke’s numerous views of the Bala Hissar were probably taken in early 1880, after the British re-occupation of the fort in January of that year.</p>
+              <p>Albumen print, British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.7">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, The Bala Hissar Gate, Kabul, 1879.</title>
+            <note>
+              <p>
+                    Burke’s extensive documentation of the Bala Hissar provides a unique historical record of structures which in most cases no longer exist. The Darwaza Shah Shaheed, which was named after the nearby shrine and dates from the Mughal period, was the most elaborate of the gates leading into the citadel.</p>
+              <p>Albumen print, British Library. 
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.8">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(4)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, The Upper Bala Hissar from the gateway above the British Residency, Kabul, 1880.</title>
+            <note>
+              <p>
+                    An encampment of Afghan soldiers in the lower enclosure of the Bala Hissar, with the ramp and gate to the upper enclosure on the right. Dating from the Mughal era, this gate was originally arched and decorated with tilework, hence its name Darwaza Kashi.</p>
+              <p>Albumen print, British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.9">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(2)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">The ruins of the British Residency, Kabul, 1880.</title>
+            <note>
+              <p>
+                    Following the Treaty of Gandamak, Sir Pierre Louis Cavagnari arrived in Kabul to take up his post as British Resident on 24th July 1879. Only a month later, the Residency was attacked by rebellious Afghan soldiers and all occupants killed. The damage caused to the Residency can be clearly seen on this photograph.</p>
+              <p>Albumen print, British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.10">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 197(8)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENGAL SAPPERS AND MINERS, Close view of the ruined British Residency in the Bala Hissar, Kabul, 1879–80.</title>
+            <note>
+              <p>
+                    As a result of the attack on the Residency in 1879, British troops re-occupied Kabul as the conflict intensified. Here, photographed from inside the courtyard, one can see the burnt-out remains of Cavagnari’s living quarters in the Residency.</p>
+              <p>Albumen print, British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.11">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Maps 51850/10(11)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENGAL SAPPERS AND MINERS, The upper Bala Hissar after an explosion in the Magazine, October 1879.</title>
+            <note>
+              <p>
+                    An explosion in the arsenal in the Bala Hissar, where gun-powder and munitions were stored, caused major damage soon after the British re-occupied it. Fear of further explosions was one of the reasons for re-locating the British garrison to the Sherpur cantonment in late 1879.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.12">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(8)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Walls of the Bala Hissar from the west, Kabul, 1880.</title>
+            <note>
+              <p>
+                    Taken from the Bala Burj, this photograph shows the massive stone walls and towers that protected the citadel to the west. The gate in the lower enclosure walls on the left was opened up by the British during their occupation, to give access to the heights of Sher Darwaza to the west. A lateral wall, visible on the right, seems also to have been built to restrict access through the saddle.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.13">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(7)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, The south face of the Upper Bala Hissar, Kabul, 1880.</title>
+            <note>
+              <p>
+                    The section of defensive walls and towers along the south-west side of the Bala Hissar were in good condition at the time of Burke’s photo in 1880. While there has been deterioration in parts, this part of the Bala Hissar remains largely intact to this day.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.14">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(6)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Gap between Bala Hissar and Bala Burj Kabul, 1880.</title>
+            <note>
+              <p>
+                    The strategic significance of the saddle between the upper Bala Hissar and the ridge of the Sher Darwaza mountain (on the right of this photograph), was noted in Mughal accounts of sieges of the citadel. In the centre of this photograph can be seen the water channel that followed the contour above the city from the west.</p>
+              <p>Albumen print; British Library</p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.15">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 197(31)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENGAL SAPPERS AND MINERS, Bala Hissar Gate, leading to the city, Kabul, 1879–80.</title>
+            <note>
+              <p>
+                    This photograph shows the fine brickwork of the Darwaza Naqqara Khana at the north-west corner of the lower enclosure. Across a wide moat that ran around this part of the citadel lay the bazaars, mosques and homes of the city of Kabul. Although the line of the defensive walls can still be determined, the gate has long since disappeared.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.16">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Maps 51850/10(17)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENGAL SAPPERS AND MINERS, Bala Hissar, Kabul, showing Shah Shuja’s Palace, 1879–80.</title>
+            <note>
+              <p>
+                    At the centre of the palace in the lower enclosure of the Bala Hissar lay an extensive formal garden or chaharbagh, on to which the audience hall opened. Behind this to the left are the residential quarters that were used by Shah Shuja in the early 1840s. The smaller complex to the far right is a palace used by Yaqub Khan.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.17">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Maps 51850/10(10)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENGAL SAPPERS AND MINERS, Shah Shuja’s Palace, Bala Hissar, Kabul, 1880.</title>
+            <note>
+              <p>
+                    This view of the courtyard of the palace in Bala Hissar was taken during its occupation in 1879-80 by British troops. This photograph provides valuable detail on the construction of the palace, which seems to have been in a poor state of repair at that time.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.17A">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 197(45)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENGAL SAPPERS AND MINERS, Bala Hissar from Sher Darwaza, 1880.</title>
+            <note>
+              <p>
+                    This panorama of the lower enclosure of Bala Hissar shows the extent of demolition that the British undertook in the residential quarters that lay to the west of the palace. Intended to create a free-fire zone, a huge swathe of historic property was destroyed. The Charda Massom mosque complex, which survives to this day, can be seen on the left in the foreground.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.18">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(29)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Diwan-i-am, Bala Hissar, Kabul, 1879–80. </title>
+            <note>
+              <p>
+		    The badly-damaged audience hall at the southern end of the palace garden is shown in this photograph taken during the British occupation of the Bala Hissar. It is instructive to compare this with the watercolour of this part of the citadel by Atkinson forty years previously.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.20">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(43)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Headquarters Gate from the Engineers’ Park, Sherpur Cantonment, Kabul, 1879–80.</title>
+            <note>
+              <p>
+		      This photograph looks across the interior of the Sherpur cantonment towards the Headquarters Gate at it western end.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.21">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(30)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Bimaru village, Kabul, 1879–80.</title>
+            <note>
+              <p>
+		    The existing village of Bibi Mahru, which can be seen at the base of the hill of the same name, was enclosed within the area fortified by the British at the north-east end of the Sherpur cantonment.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.22">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 197(27)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENGAL SAPPERS AND MINERS, Kabul from Asmai, 1879–80.</title>
+            <note>
+              <p>
+ This panorama from the lower slope of the Asmai hill clearly shows the extent of the charbagh garden that surrounded the mausoleum of Timur Shah. The large building facing it across the Kabul river, standing within a walled compound, has entirely disappeared. The densely-packed traditional homes of Deh Afghanan village can be seen in the foreground on the left.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.23">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(40)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Timur Shah’s Tomb, Kabul, 1879–80. </title>
+            <note>
+              <p>
+		    Timur Shah (1748–1793), the son of Ahmad Shah and the second ruler of the Durrani Empire, moved his capital from Qandahar to Kabul in 1776. Although he died in 1793, his mausoleum was not completed until 1817. This photograph shows how the building once stood in extensive gardens, with mature mulberry trees. Recently restored, the mausoleum is still one of the most impressive public buildings in Kabul.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.24">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(38)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, The Lahore Gate, Kabul, 1879–80. </title>
+            <note>
+              <p>
+		    The Lahore Gate of the old city was the last surviving gate of the part of the city that lay outside of Bala Hissar. While the gate itself has long since disappeared, the eastern quarter of the old city still bears the same name to this day.</p>
+              <p>Albumen print; British Library
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.25">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 197(35)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENGAL SAPPERS AND MINERS, Close view of the Lahore Gate, Kabul, 1879–80.</title>
+            <note>
+              <p>
+		    The Lahore Gate of the old city was the last surviving gate of the part of the city that lay outside of Bala Hissar. While the gate itself has long since disappeared, the eastern quarter of the old city still bears the same name to this day.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.26">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(45)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Chardeh Valley and Babur’s Masjid, Kabul, 1879–80.</title>
+            <note>
+              <p>
+		    This view shows the grave of Babur on the right, while the grave of his great-aunt Ruqaya Sultana Begum in the foreground on the left. On the far right is the mosque built by Shah Jahan in 1676. Both the graves and the mosque were restored between 2003–8. It is instructive to compare this photograph with Atkinson’s watercolour of 1838.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.27">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(80)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Chardeh Valley and Babur’s Masjid, Kabul, 1879–80.</title>
+            <note>
+              <p>
+		    This panorama of Baghe Babur shows the historic graves in the far right, with mosque built by Shah Jahan below, and a clear indication of water channels running down the slope. Most of the mature chinar trees were cut down during the 1990s, but extensive re-planting has taken place since 2003.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.28">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(39)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Babur Shah’s Masjid, Kabul, 1879–80. </title>
+            <note>
+              <p>
+		    The white marble mosque built in 1676 by Shah Jahan, Babur’s great-great-grandson, to mark his conquest of Balkh and Badakhshan, is seen here in poor condition. It was restored in 2004–6, as part of a wider rehabilitation programme of the garden.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.29">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(21)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Tomb of Shah Shahid, Kabul, 1879–80.</title>
+            <note>
+              <p>
+		    The mausoleum of the warrior Shah Shaheed stands a little to the east of the Bala Hissar in the district that now bears the same name. Part of the Bala Hissar can be seen in the background of this photograph.</p>
+              <p>Albumen print; British Library.	      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.30">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(20)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, View from Shah Shahid’s Tomb, Kabul, 1879–80.</title>
+            <note>
+              <p>
+		    This view from the mausoleum of Shah Shaheed looks in a south-westerly direction along the walls of the Bala Hissar towards Bala Burj hill.</p>
+              <p>Albumen print; British Library.		      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.31">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(41)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Sham Shere Bridge, Kabul, 1879–80.</title>
+            <note>
+              <p>
+		    This photograph looks along the Kabul River towards the Pul-i-Shah-do-Shamshara, a brick bridge constructed by Shah Jahan. Largely obscured by trees on the far bank stands one of the oldest mosques in Kabul, on the site of which now stands the Masjid-i-Shah-do-Shamshara, built by Amanullah Khan.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.32">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(46)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Kabul River from the Sham Shere Bridge, 1879–80.</title>
+            <note>
+              <p>
+		    This photograph is taken from the Pul-i-Shah-do-Shamshara, with the mosque on the left, looking along the Kabul river to the north-east.</p>
+              <p>Albumen print; British Library.		      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.33">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(42)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Guzergao Bridge on the Kabul River, 1879–80.</title>
+            <note>
+              <p>
+		    This view shows the stone bridge across the Kabul River at Guzargah in the Chardeh Valley south-west of the city.</p>
+              <p>Albumen print; British Library.		      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.34">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 197(47)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENGAL SAPPERS AND MINERS, Official in the machine yard of a Kabul workshop, 1879–80.</title>
+            <note>
+              <p>
+		    This photograph shows a member of Amir Sher Ali’s court seated beside some machinery that seems to be in the process of being installed. The photograph might have been taken during the construction of the ammunition factories close to Andarabi.</p>
+              <p>Albumen print; British Library.	      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.35">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 197(51)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENGAL SAPPERS AND MINERS, Workshop in Kabul, 1879–80.</title>
+            <note>
+              <p>
+		      This photograph seems to be of the interior of the ammunition factories that were constructed around this time close to Andarabi in Kabul.</p>
+              <p>Albumen print; British Library.		      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.37">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(25)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, General Roberts and Sirdars of Kabul, 1880.</title>
+            <note>
+              <p>
+		    This photograph shows General Roberts, the commander of British troops, with a group of sirdars in Kabul. The photograph was probably taken in the Sherpur cantonment.</p>
+              <p>Albumen print; British Library.		      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.38">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(68)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE,  Murad Khan and other chiefs at Kabul, 1880.</title>
+            <note>
+              <p>
+		    Between 1878 and 1880, Burke produced a series of portraits which form the first systematic photographic record of individuals, social groups and occupational types. Here we see Murad Khan and other elders of Kabul, with a tray of tea.</p>
+              <p>Albumen print; British Library. 		      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.39">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(63)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Surgeons and physicians at Kabul, 1880.</title>
+            <note>
+              <p>
+		    During 1878–80, Burke produced a series of portraits of individuals, social groups and occupational types of Kabul. Here we see a group of surgeons and physicians.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.40">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(65)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Wealthy Hindus of Kabul, 1880.</title>
+            <note>
+              <p>
+		    During 1878–80, Burke produced a series of portraits of individuals, social groups and occupational types of Kabul.</p>
+              <p>Albumen print; British Library.		      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.41">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(64)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Landholders and labourers at Kabul, 1880.</title>
+            <note>
+              <p>
+		    During 1878–80, Burke produced a series of group portraits. Here we see a group of landowners seated, with their labourers standing with their shovels behind.</p>
+              <p>Albumen print; British Library.		      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.42">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(70)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Representatives of science and art at Kabul, 1880.</title>
+            <note>
+              <p>
+		    During 1878–80, Burke produced a series of group portraits, and here we see a group of men engaged in scientific and artistic activity.</p>
+              <p>Albumen print; British Library.		      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.43">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(67)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Group of Heratis at Kabul, 1880.</title>
+            <note>
+              <p>
+		    Between 1878 and 1880, Burke produced a series of group portraits. Here he has photographed a group of Heratis resident in Kabul.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.44">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(66)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Sirdar Habibullah Gilzai and other Khans at Kabul, 1880.</title>
+            <note>
+              <p>
+		    Between 1878 and 1880, Burke produced a series of group portraits, and here we see Sirdar Habibulla Ghilzai and some khans or elders.</p>
+              <p>Albumen print; British Library.		      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.45">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(62)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Central Asian traders at Kabul, 1880. </title>
+            <note>
+              <p>
+		    During 1878-80, Burke produced a series of group portraits, and here we see central Asian traders who were visiting Kabul.</p>
+              <p>Albumen print; British Library.		      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.46">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(69)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Maliks from Maidan at Kabul, 1880.</title>
+            <note>
+              <p>
+		    During 1878–80, Burke produced a series of group portraits, and here we see several community elders from Maidan.</p>
+              <p>Albumen print; British Library.		      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.47">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(26)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, The family of  Amir Dost Muhammad, Kabul, 1880.</title>
+            <note>
+              <p>
+		    This portrait by Burke shows members of the surviving family of Amir Dost Muhammad.</p>
+              <p>Albumen print; British Library.		      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.48">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(32)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Besutee Hazara Chiefs, Kabul, 1880. </title>
+            <note>
+              <p>
+		    During 1878–80, Burke produced a series of group portraits, and here we see a group of Hazara elders from Behsud, east of Ghazni.</p>
+              <p>Albumen print; British Library. 		      
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.49">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(31)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Kohistan chiefs at Kabul, 1880.</title>
+            <note>
+              <p>
+		    During 1878–80, Burke produced a series of group portraits, and here we see a large group of elders from Kohestan, to the north-east of Kabul.</p>
+              <p>Albumen print; British Library. 
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.50">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(73)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, The Kabul Police, 1880.</title>
+            <note>
+              <p>
+		    During 1878–80, Burke produced a series of portraits of individuals, social groups and occupational types. Here we see members of the Kabul police force.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.51">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(58)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Kohistan and Hazara soldiers, Kabul, 1880.</title>
+            <note>
+              <p>
+                    During 1878–80, Burke produced a series of portraits, and here we see a pair of fighters, one Hazara and the other from Kohestan.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.53">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(71)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Muhammad Zahir Khan, Aslam Khan and other at Kabul, 1880.</title>
+            <note>
+              <p>
+                    This portrait by Burke shows Muhammad Zahir Khan, Aslam Khan and others in Kabul.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.54">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(59)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Nautch girls at Kabul, 1880.</title>
+            <note>
+              <p>
+                    During 1878–80, Burke produced a series of portraits of individuals, social groups and occupational types. Here we see a group of dancing girls with musicians.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.55">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(60)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Nautch girls at Kabul, 1880. </title>
+            <note>
+              <p>
+                    During 1878–80, Burke produced a series of portraits of occupational types, including this trio of dancing girls from Kabul.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.56">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/3(57)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Group of beggars at Kabul, 1880. </title>
+            <note>
+              <p>
+                    During 1878–80, Burke produced a series of portraits of occupational types, including this family of beggars from Kabul.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="7.57">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current"/>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Kafiristan slaves at Kabul, 1880. </title>
+            <note>
+              <p>
+During 1878–80, Burke produced a series of portraits of occupational types, including these young boys from Kafiristan which, after the forced conversion of its people in the late 19th century, came to be known as Nuristan. 
+
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8.1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 50/1(91)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENJAMIN SIMPSON, Tomb of Ahmad Shah Durrani, from Kirka Sharif, Kandahar, 1880–81.</title>
+            <note>
+              <p>
+                    This photograph of the mausoleum of Ahmad Shah in Qandahar was taken by Benjamin Simpson, a medical officer in the Bengal Medical Service who was also a talented amateur photographer. His photos of Afghanistan were subsequently sold commercially in India.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8.2">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 430/84(6)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENJAMIN SIMPSON, Charsu, or meeting of the roads, Kandahar, 1880–81.</title>
+            <note>
+              <p>
+                    This brick-domed structure stood at the intersection of the four main streets that ran through the centre of Qandahar from each of the city gates, and which formed the bazaar.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8.3">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 752/1(24)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENJAMIN SIMPSON, In the streets of Kandahar, 1880–81.</title>
+            <note>
+              <p>
+                    A group of men in the entrance to a caravanserai in the bazaar in Qandahar. Note the food vendor on the right, whose stall differs from those seen today.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8.4">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 50/1(76)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENJAMIN SIMPSON, Tomb of Hazratji, Kandahar, 1880–81.</title>
+            <note>
+              <p>
+                    An elderly man pays his respects to the grave of Hazratji in Qandahar. Note the ibex horns piled on top of the grave and at its head. Along with the graves of several 19th-century rulers, this site had also been the subject of a painting by Rattray forty years previously.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8.5">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 50/1(87)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENJAMIN SIMPSON, View across the Argandab Valley from Baba Wali Ziarat, Kandahar, 1880–81.</title>
+            <note>
+              <p>
+                    This photograph shows the view west across the Arghandab river from the Baba Wali shrine north-west of the city of Qandahar.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8.6">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 752/1(26)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENJAMIN SIMPSON, Chilzina and old Kandahar from Picquet Hill, 1880–81.</title>
+            <note>
+              <p>
+                    Taken from a hill west of modern Qandahar, this view looks south towards the old city at the far end of the ridge in the distance. The Chilzina, or ‘Forty Steps’, are situated at the foot of the nearer end of the ridge.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8.7">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 50/1(73)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENJAMIN SIMPSON, Ruins of the old Citadel, Kandahar, 1880–81.</title>
+            <note>
+              <p>
+                    This photograph shows the northern and eastern faces of the citadel which dominated the old city of Qandahar, with the Qaitul ridge rising behind. The old city, situated south-west of modern Kandahar, was abandoned after its sacking by Nadir Shah in 1738.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8.8">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 50/1(86)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENJAMIN SIMPSON, Chilzina, or the Forty Steps, Kandahar, 1880–81.</title>
+            <note>
+              <p>
+                    Vendors of fruit seated in front of the ridge on which lies the rock-cut chamber known as Chilzina or Chehel Zina – ‘forty steps’ – which the Emperor Babur caused to be excavated and which contains inscriptions describing his conquests.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8.9">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 50/1(82)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENJAMIN SIMPSON, Baba Wali Kotal showing position of Ayoub’s guns, Kandahar, 1881.</title>
+            <note>
+              <p>
+                    View towards the pass of Baba Wali Kotal, to the west of Qandahar city, on the far side of which Ayub Khan’s camp was located. After his victory over the British at the Battle of Maiwand, Ayub Khan besieged the British garrison at Qandahar. His defeat in September 1880 marked the end of the Second Afghan War.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8.10">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 50/1(77)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENJAMIN SIMPSON, Courtyard of Wali Shir Ali’s zenana, Kandahar, 1880-81.</title>
+            <note>
+              <p>
+                    The courtyard of the zenana, or womens’ quarters, in the palace of the Governor of Qandahar, Wali Sher Ali.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8.11">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 50/1(53)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENJAMIN SIMPSON, Group of Timuris at Kandahar, 1880–81.</title>
+            <note>
+              <p>
+                    A group of Timuris photographed in the courtyard of a traditional house in Qandahar.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8.12">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 50/1(46)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENJAMIN SIMPSON, Group of Hazaras at Kandahar, 1880–81.</title>
+            <note>
+              <p>
+                    A group of Hazaras photographed in the courtyard of a traditional house in Qandahar.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8.13">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 50/1(41)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENJAMIN SIMPSON, Group of Ayub’s Ambassadors, Kandahar, 1880.</title>
+            <note>
+              <p>
+                    The principal figures in this group, who presumably visited Qandahar during its siege by Ayub Khan, are his vizier Abdullah Khan, seated on the left, with his son on the right, and Umrjan Sahib Zadeh in the centre.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="8.15">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 50/1(45)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">BENJAMIN SIMPSON, The new Governor and Deputy Governor of Kandahar, 1881.</title>
+            <note>
+              <p>
+                    British forces handed over Kandahar to the Afghan authorities and began their departure on 15th April 1881. On the following day, Muhammad Hashim Khan, the new Governor appointed by the Amir, entered Qandahar. This portrait of the Governor and his staff was probably taken at around this date.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="9.1">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 473(13)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Meeting of the Amir of Afghanistan and the Viceroy of India at Rawalpindi, April 1885.</title>
+            <note>
+              <p>
+                    Amir Abdur Rahman and Lord Dufferin are seen here at Rawalpindi in April 1885, during the crisis brought about by Russian incursions into Afghan territory. Dufferin later praised the Amir’s efforts to avert a possible war between Russia and Britain.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="9.2">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 473(25)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">JOHN BURKE, Amir Abdur Rahman’s escort of Uzbek Cavalry, Rawalpindi, April 1885. </title>
+            <note>
+              <p>
+                    Amir Abdur Rahman was accompanied to Rawalpindi by an escort of over 2,000 men, including his own Uzbek Cavalry. As Rudyard Kipling put it, ‘The Usbeg lancers, in their mustard-hued coats, shaggy caps and strange accoutrements, would make an artist’s fortune’.</p>
+              <p>Albumen print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="9.3">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Mss Eur F223/114(1)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">UNKNOWN PHOTOGRAPHER, Delegates at Indo-Afghan Conference, Mussoorie, 1920.</title>
+            <note>
+              <p>
+                    The Mussoorie Conference took place in an attempt to restore friendly relations between the two countries following the hostilities of 1919. The meeting was inconclusive and a treaty was only finally signed in Kabul in 1921. The chief Afghan negotiator was Mahmud Beg Tarzi (seated centre), the great nationalist and force for modernisation in the first half of the 20th century.</p>
+              <p>Gelatin silver print; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="9.4">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 380/13(3)</idno>
+          <idno type="current">Photo 380/13(4)</idno>
+          <idno type="current">Photo 380/13(5)</idno>
+          <idno type="current">Photo 380/13(6)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">UNKNOWN PHOTOGRAPHER, Kabul in the 1920s: The Ministry of Foreign Affairs, Ministry of War, The Lycée Habibullah, the Persian Legation.</title>
+            <note>
+              <p>
+                    The buildings constructed during Amanullah’s reign (1919–29) embody his attempts to reform and modernize Afghanistan. Taken by an unknown photographer, on the top left is the Stor palace (now the Ministry of Foreign Affairs); top right is the Ministry of War (since demolished); bottom left is the Habibia Lycee (partly demolished) and bottom right is the Persian legation (demolished).</p>
+              <p>Collotype; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="9.5">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 380/13(3)</idno>
+          <idno type="current">Photo 380/13(6)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">UNKNOWN PHOTOGRAPHER, Kabul in the 1920s: the Royal Palace (left), the Queen Mother’s Palace (top right), the Summer Palace of King Amanullah (bottom right).</title>
+            <note>
+              <p>
+                      Collotype; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="9.6">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 380/13(36)</idno>
+          <idno type="current">Photo 380/13(40)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">UNKNOWN PHOTOGRAPHER, King Amanullah’s Summer Palace and Gardens in Paghman, and his royal residence in Laghman,1920s.</title>
+            <note>
+              <p>
+                    The palaces and pleasure gardens of Paghman were created by King Amanullah as a showcase for a modern Afghanistan. The royal residence in Laghman is seen at the bottom right.</p>
+              <p>Collotype; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="9.7">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 380/13(24)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">UNKNOWN PHOTOGRAPHER, Bagh-i-Shahi, Jalalabad, 1920s.</title>
+            <note>
+              <p>
+Collotype; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+      <msDescription n="9.8">
+        <msIdentifier>
+          <settlement>London</settlement>
+          <repository>The British Library</repository>
+          <collection/>
+          <idno type="current">Photo 380/13(19)</idno>
+        </msIdentifier>
+        <msContents>
+          <msItem n="1">
+            <title lang="eng">UNKNOWN PHOTOGRAPHER, Offices of the Aviation Service, Kandahar, 1920s.</title>
+            <note>
+              <p>
+                      Collotype; British Library.
+		    </p>
+            </note>
+          </msItem>
+        </msContents>
+      </msDescription>
+    </body>
+  </text>
+</TEI.2>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Sundermann_Yoshida_1992">
+    <author>Sundermann, Werner</author>
+    <author>Yoshida, Yutaka</author>
+    <title level="a" lang="engl">Bäzaklik, Berlin and Kyoto: Manichaean Parthian Hymn Transcribed in Sogdian Script</title>
+    <imprint>
+      <title level="j" lang="fren" type="shortRef">Oriento 35, 1992</title>
+      <biblScope type="pp">119-134</biblScope>
+    </imprint>
+    <keywords>Manichaean</keywords>
+    <keywords>Parthian</keywords>
+    <keywords>Hymn</keywords>
+    <keywords>Sogdian</keywords>
+    <keywords>Script</keywords>
+  </bibl>
+</listBibl>

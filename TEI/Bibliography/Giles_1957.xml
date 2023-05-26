@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Giles_1957">
+    <author>Giles, L</author>
+    <title level="m" lang="eng">Descriptive Catalogue of the Chinese Manuscripts from Tunhuang in the British Museum</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>British Museum</publisher>
+      <date>1957</date>
+    </imprint>
+    <keywords>Manuscripts</keywords>
+    <keywords>Dunhuang</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

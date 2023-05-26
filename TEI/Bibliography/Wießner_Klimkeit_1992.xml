@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Wießner_Klimkeit_1992">
+  <editor n="1">Wießner, Gernot</editor>
+  <editor n="2">Klimkeit, Hans-Joachim</editor>
+  <title level="m" lang="ger">Studia Manichaica, II. Internationaler Kongreß zum Manichäismus</title>
+  <imprint>
+    <pubPlace>Wiesbaden</pubPlace>
+    <publisher>Otto Harrassowitz</publisher>
+    <date>1992</date>
+    <idno type="ISBN">3447032405 9783447032407</idno>
+  </imprint>
+  <note/>
+  <keywords>Manichaeism</keywords>
+  <genBibl>manichaean</genBibl>
+</bibl>

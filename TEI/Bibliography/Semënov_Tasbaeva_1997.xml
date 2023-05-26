@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Semënov_Tasbaeva_1997">
+  <author n="1">Semënov, G.L.</author>
+  <author n="2">Tašbaeva, K.</author>
+  <title level="a" lang="rus">Raskopki v Ak-Bešime v 1996 gody (Excavations at Ak Bešim in 1996)</title>
+  <imprint>
+    <title level="m" lang="eng">Otčetnaja Arxeologičeskaja Sessija za 1996 god</title>
+    <biblScope type="pp">48-51</biblScope>
+    <pubPlace>Saint Petersburg</pubPlace>
+    <publisher>Ermitage</publisher>
+    <date>1997</date>
+  </imprint>
+  <note/>
+  <keywords>excavations</keywords>
+</bibl>

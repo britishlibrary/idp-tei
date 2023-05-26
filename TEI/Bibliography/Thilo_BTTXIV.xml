@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Thilo_BTTXIV">
+    <author>Thilo, Thomas</author>
+    <title level="a" lang="ger">Katalog chinesischer buddhistischer Textfragmente, Band 2.</title>
+    <title level="j" lang="ger" type="shortRef">Berliner Turfantexte XIV</title>
+    <imprint>
+      <pubPlace>Berlin</pubPlace>
+      <publisher>Akademie-Verlag</publisher>
+      <date>1985</date>
+    </imprint>
+    <keywords>chinesisch</keywords>
+    <keywords>buddhistisch</keywords>
+    <genBibl>Berliner Turfantexte</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Dabbs_1963">
+    <author>Dabbs, Jack A.</author>
+    <title level="m" lang="eng">History of the Discovery and Exploration of Chinese Turkestan</title>
+    <imprint>
+      <pubPlace>The Hague</pubPlace>
+      <publisher>Mouton</publisher>
+      <date>1963</date>
+    </imprint>
+    <keywords>CCA</keywords>
+    <keywords>travellers</keywords>
+    <keywords>Stein</keywords>
+    <keywords>archaeologists</keywords>
+    <genBibl>collections_en</genBibl>
+    <genBibl>collections_ch</genBibl>
+    <genBibl>collections_ge</genBibl>
+    <genBibl>collections_ru</genBibl>
+    <genBibl>collections_ja</genBibl>
+  </bibl>
+</listBibl>

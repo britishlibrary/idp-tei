@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Yu_1963">
+    <author>YU Jiaxi</author>
+    <title level="a" lang="chi">Shuce zhidu bukao</title>
+    <imprint>
+      <title level="j">Yu Jiaxi lunxue zazhu</title>
+      <biblScope type="issue"/>
+      <biblScope type="pp">539-559</biblScope>
+      <pubPlace>Beijing</pubPlace>
+      <publisher>Zhonghua shuju</publisher>
+      <date>1963</date>
+    </imprint>
+    <note/>
+    <keywords/>
+    <genBibl>bookbinding</genBibl>
+  </bibl>
+</listBibl>

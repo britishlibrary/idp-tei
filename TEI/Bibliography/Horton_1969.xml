@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Horton_1969">
+    <author n="1">Horton, C.</author>
+    <title level="m" lang="eng">Cleaning and Preserving Bindings and Related Materials. 2nd edition</title>
+    <imprint>
+      <pubPlace>Chicago</pubPlace>
+      <publisher>American Library Assn.</publisher>
+      <date>1969</date>
+      <idno type="ISBN">0838930085</idno>
+    </imprint>
+    <keywords>Preservation</keywords>
+    <keywords>Conservation</keywords>
+    <keywords>Bookbinding</keywords>
+    <genBibl>Conservation</genBibl>
+  </bibl>
+</listBibl>

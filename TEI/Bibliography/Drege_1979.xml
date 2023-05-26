@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Drege_1979">
+    <author>Drege, Jean-Pierre</author>
+    <title level="a" lang="fre">Les cahiers des manuscrits de Touen-houang</title>
+    <imprint>
+      <title level="m" lang="fre">Soymie_1979</title>
+      <biblScope type="pp">17-28</biblScope>
+      <date>1979</date>
+    </imprint>
+    <note/>
+    <keywords/>
+    <genBibl>bookbinding</genBibl>
+  </bibl>
+</listBibl>

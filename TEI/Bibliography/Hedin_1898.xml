@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Hedin_1898">
+    <author>Hedin, Sven Anders</author>
+    <translator>Bealby, J. T.</translator>
+    <title level="m" lang="eng">Through Asia</title>
+    <title level="m" lang="swe">En f&#xE4;rd genom Asien 1893-1897</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>Methuen and Co.</publisher>
+      <date>1898</date>
+    </imprint>
+    <note/>
+    <keywords>Asia</keywords>
+    <genBibl>genovese</genBibl>
+    <genBibl>collections_swe</genBibl>
+  </bibl>
+</listBibl>

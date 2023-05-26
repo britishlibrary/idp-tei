@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="VOHDX_05">
+    <author n="1" id="LS">Sander, Lore</author>
+    <author n="2" id="EW">Waldschmidt, Ernst</author>
+    <title level="m" lang="ger">Sanskrithandschriften aus den Turfanfunden. Teil 5. Die Katalognummern 1015-1201 und 63 vorweggenommene höhere Nummern</title>
+    <imprint>
+      <title level="s">Verzeichnis der orientalischen Handschriften in Deutschland</title>
+      <biblScope type="vol">Band X, 5</biblScope>
+      <pubPlace>Stuttgart</pubPlace>
+      <publisher>Franz Steiner Verlag</publisher>
+      <date>1985</date>
+    </imprint>
+    <note/>
+    <keywords>manuscript</keywords>
+    <keywords>sanskrit</keywords>
+    <keywords>turfan</keywords>
+    <keywords>SHT</keywords>
+  </bibl>
+</listBibl>

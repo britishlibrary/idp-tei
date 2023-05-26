@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bibl id="Soymié_1999">
+  <author>Soymié, Michel</author>
+  <title level="a" lang="fre">Peintures et dessins de Dunhuang. Notes d'iconographie</title>
+  <imprint>
+    <title level="m" lang="fre" type="shortRef">Drége_1999</title>
+    <biblScope type="pp">13-53</biblScope>
+  </imprint>
+  <note/>
+  <keywords>Dunhuang</keywords>
+</bibl>

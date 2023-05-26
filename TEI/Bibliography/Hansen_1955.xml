@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Hansen_1955">
+    <author>Hansen, Olaf</author>
+    <title level="a" lang="ger">Berliner soghdische Texte II. Bruchstücke der großen Sammelhandschrift C2.</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">Abhandlungen der Geistes- und Sozialwissenschaftlichen 
+			Klasse der Akademie der Wissenschaften und der Literatur in Mainz</title>
+      <biblScope type="issue">15</biblScope>
+      <date>1954</date>
+      <biblScope type="pp">821-919</biblScope>
+    </imprint>
+    <keywords>manuscripts</keywords>
+    <keywords>Christianism</keywords>
+    <keywords>Syriac</keywords>
+    <keywords>n</keywords>
+    <keywords>Ostturkestan</keywords>
+    <keywords>Sogder</keywords>
+  </bibl>
+</listBibl>

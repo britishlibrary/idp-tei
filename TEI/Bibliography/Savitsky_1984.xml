@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Savitsky_1984">
+    <author>Savitsky, Lev S.</author>
+    <title level="a" lang="eng">Tunhuang Tibetan Manuscripts in the Collection of the Leningrad Institute of Oriental Studie</title>
+    <imprint>
+      <title type="m" lang="eng">Csoma_1984</title>
+      <date>1984</date>
+      <ISBN>9630515687 9789630515689 </ISBN>
+    </imprint>
+    <note/>
+    <keywords>Tibetan</keywords>
+    <keywords>Buddhism</keywords>
+    <keywords>catalogue</keywords>
+    <GenBibl>collections_ru</GenBibl>
+    <biblScope/>
+  </bibl>
+</listBibl>

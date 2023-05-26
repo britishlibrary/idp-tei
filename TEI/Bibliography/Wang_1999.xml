@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Wang_1999">
+    <author>Wang, Helen</author>
+    <title level="m" lang="eng">Handbook to the Stein Collections in the UK</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>British Museum</publisher>
+      <date>1999</date>
+    </imprint>
+    <keywords>Stein</keywords>
+    <keywords/>
+    <keywords/>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

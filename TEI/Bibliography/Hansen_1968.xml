@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Hansen_1968">
+    <author>Hansen, Olaf</author>
+    <title level="a" lang="ger">Die christliche Literatur der Sogdier</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">Handbuch der Orientalistik</title>
+      <biblScope type="issue">I/IV/2/1</biblScope>
+      <date>1968</date>
+      <biblScope type="pp">91-99</biblScope>
+    </imprint>
+    <keywords>manuscripts</keywords>
+    <keywords>Christianism</keywords>
+    <keywords>Syriac</keywords>
+    <keywords>n</keywords>
+    <keywords>Ostturkestan</keywords>
+    <keywords>Sogder</keywords>
+    <genBibl>HdO</genBibl>
+  </bibl>
+</listBibl>

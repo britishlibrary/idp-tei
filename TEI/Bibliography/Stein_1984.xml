@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Stein_1984">
+    <author>Stein, M.A</author>
+    <title level="m" lang="eng">On Ancient Central Asian Tracks: A Brief Narrative of Three Expeditions in Innermost Asia and North-Western China</title>
+    <imprint>
+      <pubPlace>London</pubPlace>
+      <publisher>Scientific Publisher</publisher>
+      <date>1984</date>
+    </imprint>
+    <keywords>Expedition</keywords>
+    <keywords>Central Asia</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

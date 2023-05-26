@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<bibl id="Xibei_2005">
+  <author lang="chi-Latn">Xibei di&#x2019;er minzu xueyuan</author>
+  <author lang="chi-Latn">Shanghai guji chubanshe</author>
+  <author lang="eng">The British Library</author>
+  <author lang="chi-Hant">&#x897F;&#x5317;&#x7B2C;&#x4E8C;&#x6C11;&#x65CF;&#x5B78;&#x9662;</author>
+  <author lang="chi-Hant">&#x4E0A;&#x6D77;&#x53E4;&#x7C4D;&#x51FA;&#x7248;&#x793E;</author>
+  <author lang="chi-Hant">&#x82F1;&#x570B;&#x570B;&#x5BB6;&#x5716;&#x66F8;&#x9928;</author>
+  <title level="m" lang="chi-Latn">Yingguo guojia tushuguan cang Heishui Cheng wenxian</title>
+  <title level="m" lang="chi-Hant">&#x82F1;&#x570B;&#x570B;&#x5BB6;&#x5716;&#x66F8;&#x9928;&#x85CF;&#x9ED1;&#x6C34;&#x57CE;&#x6587;&#x737B;</title>
+  <title level="m" lang="eng">Documents from Khara-Khoto in the British library</title>
+  <imprint>
+    <pubPlace>Shanghai</pubPlace>
+    <publisher>Shanghai guji chubanshe</publisher>
+    <date>2005</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>Documents</keywords>
+  <keywords>British Library</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

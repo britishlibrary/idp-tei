@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="Lüders_1933">
+    <author>Lüders, Heinrich</author>
+    <title level="a" lang="ger">Zur Geschichte des ostasiatischen Tierkreises</title>
+    <imprint>
+      <title level="j" lang="ger" type="shortRef">SBAW</title>
+      <biblScope type="issue">XXIV</biblScope>
+      <date>1933</date>
+      <biblScope type="pp">998-1022</biblScope>
+    </imprint>
+    <note>Kat.-Nr. 397</note>
+    <keywords>turfan</keywords>
+    <keywords>SHT</keywords>
+    <keywords>SBAW</keywords>
+  </bibl>
+</listBibl>

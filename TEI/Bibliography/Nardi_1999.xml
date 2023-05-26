@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Nardi_1999">
+    <author>Nardi, Roberto</author>
+    <title level="a" lang="eng">Going public: a new approach to conservation education</title>
+    <imprint>
+      <title level="j" lang="eng">Museum International</title>
+      <biblScope type="issue">51</biblScope>
+      <biblScope type="number">1</biblScope>
+      <biblScope type="pp">44</biblScope>
+      <date>1999</date>
+    </imprint>
+    <keywords>Conservation</keywords>
+    <keywords>Education</keywords>
+    <genBibl>conservation</genBibl>
+  </bibl>
+</listBibl>

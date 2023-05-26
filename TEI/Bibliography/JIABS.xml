@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listBibl>
+  <bibl id="JIABS">
+    <title level="j" lang="eng">The Journal of the International Association of Buddhist Studies</title>
+    <imprint>
+      <pubPlace>Lausanne</pubPlace>
+      <publisher>International Association of Buddhist Studies</publisher>
+      <date>1978-</date>
+    </imprint>
+    <genBibl>journals</genBibl>
+  </bibl>
+</listBibl>

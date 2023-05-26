@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<bibl id="Zhang_Ling_2006">
+  <author lang="chi-Latn">Zhang Ling</author>
+  <author lang="chi-Hant">&#x5F35;&#x9748;</author>
+  <title level="m" lang="chi-Latn">Yishi le de xixia wangguo</title>
+  <title level="m" lang="chi-Hant">&#x9057;&#x5931;&#x4E86;&#x7684;&#x897F;&#x590F;&#x738B;&#x56FD;</title>
+  <title level="m" lang="eng"/>
+  <imprint>
+    <pubPlace>Lanzhou</pubPlace>
+    <publisher>Gansu renmin meishu chubanshe</publisher>
+    <date>2006</date>
+  </imprint>
+  <keywords>Tangut</keywords>
+  <keywords>History</keywords>
+  <genBibl>tangut</genBibl>
+</bibl>

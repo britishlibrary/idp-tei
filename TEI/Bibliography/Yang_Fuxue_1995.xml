@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Yang_Fuxue_1995">
+    <author>Fuxue, Yang</author>
+    <title level="a" lang="chi">Inner Asia, The Translation of Buddhist Literature in Uygur as found in the Dunhuang Documents</title>
+    <imprint>
+      <title level="j">Dunhuang Yanjiu</title>
+      <biblScope type="issue">4</biblScope>
+      <biblScope type="pp">13-14</biblScope>
+      <date>1995</date>
+    </imprint>
+    <keywords>Uygur</keywords>
+    <keywords>Literature</keywords>
+    <keywords>Dunhuang</keywords>
+    <genBibl>GoldenLight</genBibl>
+  </bibl>
+</listBibl>

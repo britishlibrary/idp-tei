@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Koskikallio_1999">
+    <author no="1">Koskikallio, Petteri</author>
+    <author no="2">Lehmuskallio, Asko</author>
+    <author no="3">Halen, Harry</author>
+    <title level="m" lang="eng">C.G. Mannerheim in Central Asia</title>
+    <imprint>
+      <pubPlace>Helsinki</pubPlace>
+      <publisher>National Board of Antiquities</publisher>
+      <date>1999</date>
+    </imprint>
+    <genBibl>collections_fin</genBibl>
+  </bibl>
+</listBibl>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<listBibl>
+  <bibl id="Applebaum_1991">
+    <author>Applebaum, B.</author>
+    <title level="m" lang="eng">Guide to Environmental Protection of Collections</title>
+    <imprint>
+      <pubPlace>Madison, Conn.</pubPlace>
+      <publisher>Sound View Press</publisher>
+      <date>1991</date>
+      <idno type="ISBN">0932087167 9780932087164</idno>
+    </imprint>
+    <keywords>Preservation</keywords>
+    <keywords>Conservation</keywords>
+    <genBibl>Conservation</genBibl>
+  </bibl>
+</listBibl>
