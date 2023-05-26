@@ -65,13 +65,14 @@
 	$run_details_array[1]['report_file'] = 'D:/British Library/bl github group/bl_github_clones/idp-tei/reports/' . $run_report_filename ;
 	$run_details_array[1]['report_url_localhost'] = 'http://localhost/D_DRIVE_BRITISH_LIBRARY/bl github group/bl_github_clones/idp-tei/reports/' . $run_report_filename;	
 	$run_details_array[1]['report_url_github'] = 'https://britishlibrary.github.io/idp-tei/reports/' . $run_report_filename ;	
-	$run_details_array[1]['sql_string'] = "SELECT  A.`CatalogueID`, A.`Shortref`, A.`UUID` FROM Catalogue AS A WHERE A.`XMLBlob` <> '' ORDER BY A.`Shortref` ASC LIMIT 500";
+	$run_details_array[1]['sql_string'] = "SELECT  A.`CatalogueID`, A.`Shortref`, A.`Type`, A.`UUID` FROM Catalogue AS A  ORDER BY A.`Shortref` ASC LIMIT 5000";
 	$run_details_array[1]['subtotal_count_sw'] = "N";	# set to Y to have subtotals for change in all but final col value (assumed sorting on those first)	
 	$run_details_array[1]['uuid_table'] = "";	# set to "Images" if want hyerlink for UUID value; otherwise leave blank
 	$run_details_array[1]['report_cols'] = array();
 	$run_details_array[1]['report_cols'][1] = "CatalogueID"; # 1st col should be unique
-	$run_details_array[1]['report_cols'][2] = "Shortef";
-	$run_details_array[1]['report_cols'][3] = "UUID";
+	$run_details_array[1]['report_cols'][2] = "Shortref";
+	$run_details_array[1]['report_cols'][3] = "Type";
+	$run_details_array[1]['report_cols'][4] = "UUID";
 	
 
 	
