@@ -116,7 +116,7 @@
 	$index_repo_tei_url = "https://britishlibrary.github.io/idp-tei/Pages/" . $index_file;
 	$index_tei_folder = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI/" . $index_table;
 	$index_repo_tei_url_stub = "https://britishlibrary.github.io/idp-tei/TEI/" . $index_table;
-	$index_repo_html_url_stub = "https://britishlibrary.github.io/idp-tei/TEI_to_HTML/" . $index_table;
+	$index_repo_html_url_stub = "https://britishlibrary.github.io/idp-tei/TEI_to_html/" . $index_table;
 	
 	create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_tei_url_stub, $index_filename, $index_repo_tei_url, $index_repo_html_url_stub, $this_script);
 	
@@ -127,7 +127,7 @@
 	$index_repo_tei_url = "https://britishlibrary.github.io/idp-tei/Pages/" . $index_file;
 	$index_tei_folder = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI/" . $index_table;
 	$index_repo_tei_url_stub = "https://britishlibrary.github.io/idp-tei/TEI/" . $index_table;
-	$index_repo_html_url_stub = "https://britishlibrary.github.io/idp-tei/TEI_to_HTML/" . $index_table;
+	$index_repo_html_url_stub = "https://britishlibrary.github.io/idp-tei/TEI_to_html/" . $index_table;
 	
 	create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_tei_url_stub, $index_filename, $index_repo_tei_url, $index_repo_html_url_stub, $this_script);
 	
