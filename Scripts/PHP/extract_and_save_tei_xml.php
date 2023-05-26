@@ -1298,7 +1298,7 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 	
 	if ($index_table == "Catalogue")
 	{
-		$output_html .= "<p>The table below contains HTML created from the TEI XML using XSLT. Heading is created using <b>header_cat.xsl</b>. Intro is created using <b>intro_cat.xsl</b>. List is created using <b>list_cat.xsl</b>. </p>";
+		$output_html .= "<p>The table below contains HTML created from the TEI XML using XSLT. Header is created using <b>header_cat.xsl</b>. Intro is created using <b>intro_cat.xsl</b>. List is created using <b>list_cat.xsl</b>. </p>";
 	}
 
 
@@ -1306,7 +1306,7 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 	
 	if ($index_table == "Catalogue")
 	{
-		$output_html .= "<tr><th>TEI filename (based on short reference)</th> <th>Heading HTML</th> <th>Intro HTML</th> <th>List HTML</th> </tr>\n";
+		$output_html .= "<tr><th>TEI filename (based on short reference)</th> <th>Header HTML</th> <th>Intro HTML</th> <th>List HTML</th> </tr>\n";
 	}
 	else
 	{
@@ -1324,7 +1324,7 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 			{
 				# create HTML using XSLT for various blocks of content
 				
-				# HEADING
+				# HEADER
 				$xml_doc = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI/Catalogue/" . $file;
 
 				$xmldoc = new DOMDocument();
@@ -1345,10 +1345,10 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 				{
 					mkdir ($part_folder);
 				}
-				$heading_file = "heading.html";
-				$html_file = $part_folder . "/" . $heading_file;
+				$header_file = "header.html";
+				$html_file = $part_folder . "/" . $header_file;
 				file_put_contents($html_file, $result);
-				$heading_url = $index_repo_html_url_stub . "/" . $file_strip_xml . "/" . $heading_file;
+				$header_url = $index_repo_html_url_stub . "/" . $file_strip_xml . "/" . $header_file;
 				
 				# INTRO
 				$xml_doc = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI/Catalogue/" . $file;
@@ -1403,7 +1403,7 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 				$list_url = $index_repo_html_url_stub . "/" . $file_strip_xml . "/" . $list_file;
 				
 				
-				$output_html .= "<tr> <td><a target='TEI_WIN' href='$url'>$file</a></td> <td><a target='HTML1_WIN' href='$heading_url'>$heading_file</a></td> <td><a target='HTML2_WIN' href='$intro_url'>$intro_file</a></td> <td><a target='HTML3_WIN' href='$list_url'>$list_file</a></td> </tr>\n";
+				$output_html .= "<tr> <td><a target='TEI_WIN' href='$url'>$file</a></td> <td><a target='HTML1_WIN' href='$header_url'>$header_file</a></td> <td><a target='HTML2_WIN' href='$intro_url'>$intro_file</a></td> <td><a target='HTML3_WIN' href='$list_url'>$list_file</a></td> </tr>\n";
 				
 			}
 			else
