@@ -105,7 +105,7 @@
 
 
 	# run report 2
-	create_report_files_for_run_number(2, $run_details_array, $conn, $this_script, $form_value_mapping_array, $form_english_array, $catalogue_shortref_array, $image_text_title_array, $items_pressmark_array);	
+#	create_report_files_for_run_number(2, $run_details_array, $conn, $this_script, $form_value_mapping_array, $form_english_array, $catalogue_shortref_array, $image_text_title_array, $items_pressmark_array);	
 	
 	
 	
@@ -113,21 +113,23 @@
 	$index_table = "Catalogue";
 	$index_file = "index_tei_catalogue.html";
 	$index_filename = "D:/British Library/bl github group/bl_github_clones/idp-tei/Pages/" . $index_file;
-	$index_repo_url = "https://britishlibrary.github.io/idp-tei/Pages/" . $index_file;
+	$index_repo_tei_url = "https://britishlibrary.github.io/idp-tei/Pages/" . $index_file;
 	$index_tei_folder = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI/" . $index_table;
-	$index_repo_url_stub = "https://britishlibrary.github.io/idp-tei/TEI/" . $index_table;
+	$index_repo_tei_url_stub = "https://britishlibrary.github.io/idp-tei/TEI/" . $index_table;
+	$index_repo_html_url_stub = "https://britishlibrary.github.io/idp-tei/TEI_to_HTML/" . $index_table;
 	
-	create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_url_stub, $index_filename, $index_repo_url, $this_script);
+	create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_tei_url_stub, $index_filename, $index_repo_tei_url, $index_repo_html_url_stub, $this_script);
 	
 	# create index of TEI files - Bibliography
 	$index_table = "Bibliography";
 	$index_file = "index_tei_bibliography.html";
 	$index_filename = "D:/British Library/bl github group/bl_github_clones/idp-tei/Pages/" . $index_file;
-	$index_repo_url = "https://britishlibrary.github.io/idp-tei/Pages/" . $index_file;
+	$index_repo_tei_url = "https://britishlibrary.github.io/idp-tei/Pages/" . $index_file;
 	$index_tei_folder = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI/" . $index_table;
-	$index_repo_url_stub = "https://britishlibrary.github.io/idp-tei/TEI/" . $index_table;
+	$index_repo_tei_url_stub = "https://britishlibrary.github.io/idp-tei/TEI/" . $index_table;
+	$index_repo_html_url_stub = "https://britishlibrary.github.io/idp-tei/TEI_to_HTML/" . $index_table;
 	
-	create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_url_stub, $index_filename, $index_repo_url, $this_script);
+	create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_tei_url_stub, $index_filename, $index_repo_tei_url, $index_repo_html_url_stub, $this_script);
 	
   
 
@@ -1289,7 +1291,7 @@ function call_rest_to_expand_xml_blob_and_save($rest_table, $rest_uuid, $rest_bl
 
 #---------------
 #
-function create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_url_stub, $index_filename, $index_repo_url, $this_script)
+function create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_tei_url_stub, $index_filename, $index_repo_tei_url, $index_repo_html_url_stub, $this_script)
 {
 	$output_html = "";
 	$output_html .= "<html>\n<head>\n<title>Index TEI files type: $index_table</title>\n</head>\n<body>\n<h1>Index of TEI files type: $index_table</h1><p>These files contain a prettified version of the TEI XML extracted from the binary blob in table $index_table.</p><p>Index page created on JC PC using script: $this_script</p>\n";
@@ -1297,7 +1299,14 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 
 	$output_html .= "<table border = '1'>\n";
 	
-	$output_html .= "<tr><th>TEI filename (based on short reference)</th></tr>\n";
+	if ($index_table == "Catalogue")
+	{
+		$output_html .= "<tr><th>TEI filename (based on short reference)</th> <th>Heading HTML</th> <th>Intro HTML</th> <th>List HTML</th> </tr>\n";
+	}
+	else
+	{
+		$output_html .= "<tr><th>TEI filename (based on short reference)</th></tr>\n";
+	}
 	
 	
 	$scan = scandir($index_tei_folder);
@@ -1305,8 +1314,98 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 	{
 		if (!is_dir("$index_tei_folder/$file")) 
 		{
-			$url = $index_repo_url_stub . "/" . $file;
-			$output_html .= "<tr><td><a target='TEI_WIN' href='$url'>$file</a></td></tr>\n";
+			$url = $index_repo_tei_url_stub . "/" . $file;
+			if ($index_table == "Catalogue")
+			{
+				# create HTML using XSLT for various blocks of content
+				
+				# HEADING
+				$xml_doc = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI/Catalogue/" . $file;
+
+				$xmldoc = new DOMDocument();
+				$xmldoc->load($xml_doc);
+				
+				$xsl_doc = "D:/British Library/bl github group/bl_github_clones/idp-tei/IDP_4D/IDPWeb/xslt/header_cat.xsl";
+				$xsldoc = new DOMDocument();
+				$xsldoc->load($xsl_doc);
+
+				$result = get_xslt_result($xmldoc, $xsldoc);
+				# fix links
+				$result = fix_links_in_result($result);
+				$result = "<div style ='background-color:#D0D5BF;'>" . $result . "</div>";
+				
+				$file_strip_xml = preg_replace("/\.xml$/", "", $file);
+				$part_folder = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI_to_html/Catalogue/$file_strip_xml";
+				if (!is_dir($part_folder))
+				{
+					mkdir ($part_folder);
+				}
+				$heading_file = "_heading.html";
+				$html_file = $part_folder . "/" . $heading_file;
+				file_put_contents($html_file, $result);
+				$heading_url = $index_repo_html_url_stub . "/" . $heading_file;
+				
+				# INTRO
+				$xml_doc = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI/Catalogue/" . $file;
+
+				$xmldoc = new DOMDocument();
+				$xmldoc->load($xml_doc);
+				
+				$xsl_doc = "D:/British Library/bl github group/bl_github_clones/idp-tei/IDP_4D/IDPWeb/xslt/intro_cat.xsl";
+				$xsldoc = new DOMDocument();
+				$xsldoc->load($xsl_doc);
+
+				$result = get_xslt_result($xmldoc, $xsldoc);
+				# fix links
+				$result = fix_links_in_result($result);
+				$result = "<div style ='background-color:#D0D5BF;'>" . $result . "</div>";
+				
+				$file_strip_xml = preg_replace("/\.xml$/", "", $file);
+				$part_folder = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI_to_html/Catalogue/$file_strip_xml";
+				if (!is_dir($part_folder))
+				{
+					mkdir ($part_folder);
+				}
+				$intro_file = "_intro.html";
+				$html_file = $part_folder . "/" . $intro_file;
+				file_put_contents($html_file, $result);	
+				$intro_url = $index_repo_html_url_stub . "/" . $intro_file;
+
+				# LIST
+				$xml_doc = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI/Catalogue/" . $file;
+
+				$xmldoc = new DOMDocument();
+				$xmldoc->load($xml_doc);
+				
+				$xsl_doc = "D:/British Library/bl github group/bl_github_clones/idp-tei/IDP_4D/IDPWeb/xslt/list_cat.xsl";
+				$xsldoc = new DOMDocument();
+				$xsldoc->load($xsl_doc);
+
+				$result = get_xslt_result($xmldoc, $xsldoc);
+				# fix links
+				$result = fix_links_in_result($result);
+				$result = "<div style ='background-color:#D0D5BF;'>" . $result . "</div>";
+				
+				$file_strip_xml = preg_replace("/\.xml$/", "", $file);
+				$part_folder = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI_to_html/Catalogue/$file_strip_xml";
+				if (!is_dir($part_folder))
+				{
+					mkdir ($part_folder);
+				}
+				$list_file = "_list.html";
+				$html_file = $part_folder . "/" . $list_file;
+				$html_file = $part_folder . "/_list.html";
+				file_put_contents($html_file, $result);	
+				$list_url = $index_repo_html_url_stub . "/" . $list_file;
+				
+				
+				$output_html .= "<tr> <td><a target='TEI_WIN' href='$url'>$file</a></td> <td><a target='HTML1_WIN' href='$heading_url'>$heading_file</a></td> <td><a target='HTML2_WIN' href='$intro_url'>$intro_file</a></td> <td><a target='HTML3_WIN' href='$list_url'>$list_file</a></td> </tr>\n";
+				
+			}
+			else
+			{
+				$output_html .= "<tr><td><a target='TEI_WIN' href='$url'>$file</a></td></tr>\n";
+			}
 		}
 	}
 	$output_html .= "</table>\n";
@@ -1317,11 +1416,74 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 	
 	file_put_contents($index_filename, $output_html);
 	
-	echo "<hr/><p>Wrote index of TEI files for table <b>$index_table</b> to <b>$index_filename</b> which once commit and push to repo is at <a target='IDX_WIN' href='$index_repo_url'>$index_repo_url</a></p><hr/>";
+	echo "<hr/><p>Wrote index of TEI files for table <b>$index_table</b> to <b>$index_filename</b> which once commit and push to repo is at <a target='IDX_WIN' href='$index_repo_tei_url'>$index_repo_tei_url</a></p><hr/>";
 
 
 	
 }
+
+
+#-------------
+#
+function  fix_links_in_result($result)
+{
+	$idp_url = "http://idp.bl.uk";
+	$result = preg_replace('/(oo_loader\.a4d)/', "$idp_url/database/$1", $result);
+	$result = preg_replace('/(\/database\/bibliography)/', "$idp_url$1", $result);
+	return $result;
+}
+
+#-------------
+#
+function get_xslt_result($xmldoc, $xsldoc)
+{
+	$xslt = new XSLTProcessor();
+
+	libxml_use_internal_errors(true);
+	$result = $xslt->importStyleSheet($xsldoc);
+	if (!$result) {
+		foreach (libxml_get_errors() as $error) {
+			echo "Libxml error: {$error->message}\n";
+		}
+	}
+	libxml_use_internal_errors(false);
+
+	if ($result)
+	{
+		return ($xslt->transformToXML($xmldoc));
+
+	}
+	else
+	{
+		return "<p>something went wrong in XSTL - no result</p>";
+	}
+}
+
+function get_xslt_result_with_parameter($xmldoc, $xsldoc, $parm_name, $parm_value)
+{
+	$xslt = new XSLTProcessor();
+
+	libxml_use_internal_errors(true);
+	$result = $xslt->importStyleSheet($xsldoc);
+	if (!$result) {
+		foreach (libxml_get_errors() as $error) {
+			echo "Libxml error: {$error->message}\n";
+		}
+	}
+	libxml_use_internal_errors(false);
+
+	if ($result)
+	{
+		$xslt->setParameter('', $parm_name, $parm_value);
+		return ($xslt->transformToXML($xmldoc));
+
+	}
+	else
+	{
+		return "<p>something went wrong in XSTL - no result</p>";
+	}
+}
+
   
   
   

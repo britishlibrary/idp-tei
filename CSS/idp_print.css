@@ -1,0 +1,353 @@
+body
+	{
+	background: none ! important;
+	background-color: #FFF ! important;
+	font-size: 10pt;
+	color: #000;
+	font-family: "verdana", sans-serif;
+	}
+
+a:link, body a:visited, body a:hover, body a:active
+	{
+	text-decoration: none;
+	color: #000;
+	}
+
+div#left	
+	{
+	display: none;
+	}
+
+h1
+	{
+	font-size: 13pt;
+	}
+
+h2
+	{
+	font-size: 11pt;
+	}
+	
+h3	{
+	font-size: 10pt;
+	}
+	
+h4
+	{
+	font-size: 9pt;
+	}
+	
+.smaller
+	{
+	font-size: 75%;
+	}
+	
+.notheader
+	{
+	font-weight: bolder;
+	}
+	
+.indent
+	{
+	padding-left: 20px;
+	}
+	
+div#google, div#googlehome, #topnav, #bottomnav, .top, #header, #right, .totop
+	{
+	display: none;
+	}
+
+#toplinks ul
+	{
+	list-style: none;
+	}
+	
+/*start images with borders*/	
+.left
+	{
+	float: left;
+	margin-right: 10px;
+	border: 2px solid #000;
+	}
+	
+.right
+	{
+	float: right;
+	margin: 10px 0 0 10px;
+	border: 2px solid #000;
+	}
+/*end images with borders*/
+/*start images without borders*/
+.leftnoborder
+	{
+	float: left;
+	margin-right: 10px;
+	}
+	
+.rightnoborder
+	{
+	float: right;
+	margin: 10px 0 0 10px;
+	}
+	
+.noborder a:link, .noborder a:visited, .noborder a:hover, .noborder a:active
+	{
+	border: none;
+	}
+/*start images without borders*/
+
+
+#date
+	{
+	text-align: right;
+	padding: 0px 10px 0px 0px;
+	margin: 10px 0px;
+	font-size: 85%;
+	}
+
+.bibit
+	{
+	font-style: italic;
+	}
+	
+.bibbold
+	{
+	font-weight: bold;
+	}
+	
+/*start credits*/
+
+#siteinfo, #credits
+	{
+	font-size: 85%;
+	padding: 25px 10px 10px 10px;
+	}
+
+#siteinfo ul, #credits ul
+	{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	}
+
+#siteinfo
+	{
+	margin-bottom: 10px;
+	}
+
+/*end credits*/	
+
+.pararight
+	{
+	padding-left: 170px;
+	}
+	
+/*start newsletter*/
+
+.imgcap
+	{
+	font-style: italic;
+	font-size: 90%;
+	}
+
+.newspubs
+	{
+	position: relative;
+	}
+	
+.rightnews
+	{
+	position: absolute;
+	top: -10px;
+	left: 170px;
+	}
+	
+.leftnews
+	{
+	padding: 5px 0;
+	}
+	
+/*end newsletter*/
+
+#standalone
+	{
+	padding: 0px 20px 20px 20px;
+	}
+
+/* start contact us */
+
+#address
+	{
+	text-align: right;
+	padding: 10px 10px 10px 0px;
+	}
+
+#address img
+	{
+	float: left;
+	margin-top: -10px;
+	}
+
+/* end contact us */
+
+#numbers
+	{
+	border: #000 1px solid;
+	text-align: center;
+	margin: 10px 0;
+	}
+	
+#numbers td, #numbers th
+	{
+	border: #000 1px solid;
+	}
+	
+#numbers th
+	{
+	font-size: 85%;
+	}
+#viewdown
+	{
+	display: none;
+	}
+	
+.shortnav
+	{
+	display: none;
+	}
+/* start newsletter styles */
+	#newfunds
+	
+		{
+	
+		border: #485441 2px solid;
+
+		padding: 0 10px 10px 10px;
+		}
+	.imgspace
+	   {
+	   margin: 10px 0 0 0;
+	   }
+	
+	.imgalign
+	   {
+	   vertical-align: middle;
+	   padding: 5px 5px 5px 0;
+	   }
+	 .supnote
+	   {
+	   vertical-align: super;
+	   font-size: smaller;
+	   }
+	 .justborder
+	   {
+	   border: #485441 1px solid;
+	   margin: 3px 0;
+	   }
+	 .justborderfloat
+	   {
+	   border: #485441 1px solid;
+	   margin: 3px 10px 15px 0;
+	   float: left;
+	   }
+	 hr
+	   {
+	   color: #485441
+	   }
+	.stopit
+	   {
+	   clear: both;
+	   }
+	 ul#searchlist
+	   {
+	   list-style: none;
+	   }
+	   
+/* end newsletter styles */
+
+.noprint
+	{
+	display: none;
+	}
+#smallprint
+	{
+	font-size: 8pt;
+	}
+	
+#paper a:link:after, #paper a:visited:after
+	{
+  	content: " [" attr(href) "] ";
+   	font-size: 90%;
+   	border-bottom: none;
+  	}
+#paper .leftland
+	{
+	height: 460px;
+	border: 1px solid #000;
+	}
+#paper .rightland
+	{
+	height: 460px;
+	border: 1px solid #000;
+	}
+	
+#paper .break
+	{
+	page-break-before: always;
+	}
+#paper .short
+	{
+	height: 380px;
+	}
+#paper .shortest
+	{
+	height: 300px;
+	}
+#paper .bitshorter
+	{
+	height: 450px;
+	}
+#paper hr
+	{
+	margin-top: 20px;
+	}
+#paper .budgedown
+	{
+	margin-top: 20px;
+	}
+#paper .author, #paper .imgleft, #paper .imgright, #paper .imgwide
+	{
+	color: #000;
+	}
+#paper .fig2, #paper .fig3
+	{
+	width: 330px;
+	border: none;
+	}
+	
+.lessmargin	
+	{
+	margin-bottom: 0;
+	}
+		
+.indent
+	{
+	padding-left: 20px;
+	}
+
+ul.nostyle
+	{
+	list-style: none;
+	}
+
+ul.nostyleorindent
+	{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	}
+	
+.viewdown
+	{
+	margin: 10px 0 15px 0;
+	}
