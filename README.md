@@ -10,7 +10,7 @@ Wiki Home page on Github (invited contributors only): [https://github.com/britis
 
 
 ### Overview
-Withiin the IDP system, TEI XML is used for Catalogues (including Translations) and Bibliographies. The TEI XML is stored within binary blobs within the 4D database in tables [Catatalogue] and [Bibliography] respectively. 4D methods are used to call to transform elements of the TEI from the blobs into HTML for display in panels on the website.
+Within the IDP system, TEI XML is used for Catalogues (including Translations) and Bibliographies. The TEI XML is stored within binary blobs within the 4D database in tables [Catatalogue] and [Bibliography] respectively. 4D methods are used to call to transform elements of the TEI from the blobs into HTML for display in panels on the website.
 
 In this repo we store the complete set of TEI files extracted from the binary blobs, [Catalogue]XMLBlob and [Bibliography]XMLRecord. 
 
