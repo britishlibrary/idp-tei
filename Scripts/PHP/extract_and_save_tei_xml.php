@@ -59,8 +59,8 @@
 	$run_details_array = array();
   
 	#### RUN 1 ####
-	$run_details_array[1]['title'] = '[Catalogue] records with non-blank XMLBlob';
-	$run_details_array[1]['description'] = '[Catalogue] records with non-blank XMLBlob';
+	$run_details_array[1]['title'] = '[Catalogue] records';
+	$run_details_array[1]['description'] = '[Catalogue] records';
 	$run_report_filename = 'report_catalogue_blobs.html';
 	$run_details_array[1]['report_file'] = 'D:/British Library/bl github group/bl_github_clones/idp-tei/reports/' . $run_report_filename ;
 	$run_details_array[1]['report_url_localhost'] = 'http://localhost/D_DRIVE_BRITISH_LIBRARY/bl github group/bl_github_clones/idp-tei/reports/' . $run_report_filename;	
@@ -73,18 +73,40 @@
 	$run_details_array[1]['report_cols'][2] = "Shortref";
 	$run_details_array[1]['report_cols'][3] = "Type";
 	$run_details_array[1]['report_cols'][4] = "UUID";
-	
+
+	#### RUN 2 ####
+	$run_details_array[2]['title'] = '[Bibliography] records';
+	$run_details_array[2]['description'] = '[Bibliography] records';
+	$run_report_filename = 'report_bibliography_blobs.html';
+	$run_details_array[2]['report_file'] = 'D:/British Library/bl github group/bl_github_clones/idp-tei/reports/' . $run_report_filename ;
+	$run_details_array[2]['report_url_localhost'] = 'http://localhost/D_DRIVE_BRITISH_LIBRARY/bl github group/bl_github_clones/idp-tei/reports/' . $run_report_filename;	
+	$run_details_array[2]['report_url_github'] = 'https://britishlibrary.github.io/idp-tei/reports/' . $run_report_filename ;	
+	$run_details_array[2]['sql_string'] = "SELECT  A.`Short ref`, A.`Title`, A.`Author`, A.`UUID` FROM Bibliography AS A ORDER BY A.`Short ref` ASC LIMIT 5000";
+	$run_details_array[2]['subtotal_count_sw'] = "N";	# set to Y to have subtotals for change in all but final col value (assumed sorting on those first)	
+	$run_details_array[2]['uuid_table'] = "";	# set to "Images" if want hyerlink for UUID value; otherwise leave blank
+	$run_details_array[2]['report_cols'] = array();
+	$run_details_array[2]['report_cols'][1] = "Short ref"; # 1st col should be unique
+	$run_details_array[2]['report_cols'][2] = "Title";
+	$run_details_array[2]['report_cols'][3] = "Author";
+	$run_details_array[2]['report_cols'][4] = "UUID";	
 
 	
-	#########################
-	$run_number = 1; # HARD-CODED VALUE DETERMINES WHICH BATCH UPDATE TSV IS CREATED
-	##########################
+	# not used
+	$form_value_mapping_array = array();
+	$form_english_array = array();
+	$catalogue_shortref_array = array();
+	$image_text_title_array = array();
+	$items_pressmark_array = array();
 	
-	
-	
+	# run report 1
+	create_report_files_for_run_number(1, $run_details_array, $conn, $this_script, $form_value_mapping_array, $form_english_array, $catalogue_shortref_array, $image_text_title_array, $items_pressmark_array);
 
+
+	# run report 2
+	create_report_files_for_run_number(2, $run_details_array, $conn, $this_script, $form_value_mapping_array, $form_english_array, $catalogue_shortref_array, $image_text_title_array, $items_pressmark_array);	
 	
-	create_report_files_for_run_number($run_number, $run_details_array, $conn, $this_script, $form_value_mapping_array, $form_english_array, $catalogue_shortref_array, $image_text_title_array, $items_pressmark_array);
+	
+	
 	
 	
   
