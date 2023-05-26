@@ -1295,6 +1295,11 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 {
 	$output_html = "";
 	$output_html .= "<html>\n<head>\n<title>Index TEI files type: $index_table</title>\n</head>\n<body>\n<h1>Index of TEI files type: $index_table</h1><p>These files contain a prettified version of the TEI XML extracted from the binary blob in table $index_table.</p><p>Index page created on JC PC using script: $this_script</p>\n";
+	
+	if ($index_table == "Catalogue")
+	{
+		$output_html .= "<p>The table below contains HTML created from the TEI XML using XSLT. Heading is created using <b>header_cat.xsl</b>. Intro is created using <b>intro_cat.xsl</b>. List is created using <b>list_cat.xsl</b>. </p>";
+	}
 
 
 	$output_html .= "<table border = '1'>\n";
