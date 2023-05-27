@@ -55,6 +55,7 @@
 		echo "<p>Connection to DSN <b>$dsn</b>... Successful!</p>";
 	}
   
+	$global_file_stub_to_shortref_array = array();
   
 	$run_details_array = array();
   
@@ -101,11 +102,11 @@
 	$items_pressmark_array = array();
 	
 	# run report 1
-	create_report_files_for_run_number(1, $run_details_array, $conn, $this_script, $form_value_mapping_array, $form_english_array, $catalogue_shortref_array, $image_text_title_array, $items_pressmark_array);
+#	create_report_files_for_run_number(1, $run_details_array, $conn, $this_script, $form_value_mapping_array, $form_english_array, $catalogue_shortref_array, $image_text_title_array, $items_pressmark_array, $global_file_stub_to_shortref_array);
 
 
 	# run report 2
-#	create_report_files_for_run_number(2, $run_details_array, $conn, $this_script, $form_value_mapping_array, $form_english_array, $catalogue_shortref_array, $image_text_title_array, $items_pressmark_array);	
+	create_report_files_for_run_number(2, $run_details_array, $conn, $this_script, $form_value_mapping_array, $form_english_array, $catalogue_shortref_array, $image_text_title_array, $items_pressmark_array, $global_file_stub_to_shortref_array);	
 	
 	
 	
@@ -118,7 +119,7 @@
 	$index_repo_tei_url_stub = "https://britishlibrary.github.io/idp-tei/TEI/" . $index_table;
 	$index_repo_html_url_stub = "https://britishlibrary.github.io/idp-tei/TEI_to_html/" . $index_table;
 	
-	create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_tei_url_stub, $index_filename, $index_repo_tei_url, $index_repo_html_url_stub, $this_script);
+#	create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_tei_url_stub, $index_filename, $index_repo_tei_url, $index_repo_html_url_stub, $global_file_stub_to_shortref_array, $this_script);
 	
 	# create index of TEI files - Bibliography
 	$index_table = "Bibliography";
@@ -129,7 +130,7 @@
 	$index_repo_tei_url_stub = "https://britishlibrary.github.io/idp-tei/TEI/" . $index_table;
 	$index_repo_html_url_stub = "https://britishlibrary.github.io/idp-tei/TEI_to_html/" . $index_table;
 	
-	create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_tei_url_stub, $index_filename, $index_repo_tei_url, $index_repo_html_url_stub, $this_script);
+	create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_tei_url_stub, $index_filename, $index_repo_tei_url, $index_repo_html_url_stub, $global_file_stub_to_shortref_array,$this_script);
 	
   
 
@@ -214,7 +215,7 @@ function encode_for_4d_update($text)
 
 #--------------------------
 #
-function create_report_files_for_run_number($run_number, $run_details_array, $conn, $this_script, $form_value_mapping_array, $form_english_array, $catalogue_shortref_array, $image_text_title_array,  $items_pressmark_array)
+function create_report_files_for_run_number($run_number, $run_details_array, $conn, $this_script, $form_value_mapping_array, $form_english_array, $catalogue_shortref_array, $image_text_title_array,  $items_pressmark_array, $global_file_stub_to_shortref_array)
 {	
   
   
@@ -385,7 +386,7 @@ function create_report_files_for_run_number($run_number, $run_details_array, $co
 						$rest_table = $run_uuid_table;
 						$rest_uuid = $field_value;
 						$rest_blobname = $run_uuid_table_blobname;
-						$rest_save_filename = convert_shortref_to_filename($rest_table, odbc_result($RecordSet, 'Shortref'));
+						$rest_save_filename = convert_shortref_to_filename($rest_table, odbc_result($RecordSet, 'Shortref'), $global_file_stub_to_shortref_array);
 						call_rest_to_expand_xml_blob_and_save($rest_table, $rest_uuid, $rest_blobname, $rest_save_filename);
 					}
 					
@@ -394,7 +395,7 @@ function create_report_files_for_run_number($run_number, $run_details_array, $co
 						$rest_table = $run_uuid_table;
 						$rest_uuid = $field_value;
 						$rest_blobname = $run_uuid_table_blobname;
-						$rest_save_filename = convert_shortref_to_filename($rest_table, odbc_result($RecordSet, 'Short ref'));
+						$rest_save_filename = convert_shortref_to_filename($rest_table, odbc_result($RecordSet, 'Short ref'), $global_file_stub_to_shortref_array);
 						call_rest_to_expand_xml_blob_and_save($rest_table, $rest_uuid, $rest_blobname, $rest_save_filename);
 					}					
 					
@@ -663,18 +664,46 @@ function create_report_files_for_run_number($run_number, $run_details_array, $co
 
 #-------------------
 #
-function convert_shortref_to_filename($table, $shortref)
+function convert_shortref_to_filename($table, $shortref, $global_file_stub_to_shortref_array)
 {
 	$filename = $shortref . ".xml";
+	$filename_raw = $filename;
 	
 	$filename = preg_replace('/\s/', "_", $filename);
 	$filename = preg_replace("/'/", "_", $filename);
+	
+	if ($filename_raw != $filename)
+	{
+		echo "<p>convert_shortref_to_filename() INFO: name from shortref <b>$filename_raw</b> has been modified to <b>$filename</b></p>\n";
+	}
+	
+	$remove_xml = preg_replace('/\.xml/s','',$filename);
+	$global_file_stub_to_shortref_array[$shortref] = $remove_xml;
 	
 	$filename  = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI/$table/$filename";
 	
 
 	
 	return $filename;
+}
+
+#------------------
+#
+function flip_filename_back_to_shortref($file_stub, $global_file_stub_to_shortref_array)
+{
+	$shortref = $file_stub;
+	
+	if (array_key_exists($file_stub, $global_file_stub_to_shortref_array))
+	{
+		$shortref = $global_file_stub_to_shortref_array[$file_stub];
+	}
+	
+#	$shortref = preg_replace('/Afanas_ev_1975/','Afanas\'ev_1975',$shortref);
+#	$shortref = preg_replace('/Berurin_Torufan_korekushon_1997/','Berurin Torufan korekushon_1997',$shortref);
+#	$shortref = preg_replace('/Da_gu_guang_rui_1998/','Da gu guang rui 1998',$shortref);
+#	$shortref = preg_replace('/Da_gu_guang_rui_1998/','Da gu guang rui 1998',$shortref);
+	
+	return $shortref;
 }
 
 #-------------------
@@ -1291,7 +1320,7 @@ function call_rest_to_expand_xml_blob_and_save($rest_table, $rest_uuid, $rest_bl
 
 #---------------
 #
-function create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_tei_url_stub, $index_filename, $index_repo_tei_url, $index_repo_html_url_stub, $this_script)
+function create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_tei_url_stub, $index_filename, $index_repo_tei_url, $index_repo_html_url_stub, $global_file_stub_to_shortref_array, $this_script)
 {
 	$output_html = "";
 	$output_html .= "<html>\n<head>\n<title>Index TEI files type: $index_table</title>\n</head>\n<body>\n<h1>Index of TEI files type: $index_table</h1><p>These files contain a prettified version of the TEI XML extracted from the binary blob in table $index_table.</p><p>Index page created on JC PC using script: $this_script</p>\n";
@@ -1300,6 +1329,10 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 	{
 		$output_html .= "<p>The table below contains HTML created from the TEI XML using XSLT. Header is created using <b>header_cat.xsl</b>. Intro is created using <b>intro_cat.xsl</b>. List is created using <b>list_cat.xsl</b>. </p>";
 	}
+	elseif ($index_table == "Bibliography")
+	{
+		$output_html .= "<p>The table below contains HTML created from the TEI XML using XSLT, using <b>bibl.xsl</b>.</p>";
+	}		
 
 
 	$output_html .= "<table border = '1'>\n";
@@ -1308,9 +1341,9 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 	{
 		$output_html .= "<tr><th>TEI filename (based on short reference)</th> <th>Header HTML</th> <th>Intro HTML</th> <th>List HTML</th> <th>Subindex for Entry HTML</th> </tr>\n";
 	}
-	else
+	elseif ($index_table == "Bibliography")
 	{
-		$output_html .= "<tr><th>TEI filename (based on short reference)</th></tr>\n";
+		$output_html .= "<tr><th>TEI filename (based on short reference)</th> <th>Bibl HTML</th> </tr>\n";
 	}
 	
 	
@@ -1460,9 +1493,45 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 				$output_html .= "<tr> <td><a target='TEI_WIN' href='$url'>$file</a></td> <td><a target='HTML1_WIN' href='$header_url'>$header_file</a></td> <td><a target='HTML2_WIN' href='$intro_url'>$intro_file</a></td> <td><a target='HTML3_WIN' href='$list_url'>$list_file</a></td> <td><a target='HTML4_WIN' href='$entry_index_url'>$entry_index_file</a></td> </tr>\n";
 				
 			}
-			else
+			elseif ($index_table == "Bibliography")
 			{
-				$output_html .= "<tr><td><a target='TEI_WIN' href='$url'>$file</a></td></tr>\n";
+				# create HTML using XSLT for various blocks of content
+				
+				# BIBL
+				$xml_doc = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI/Bibliography/" . $file;
+
+				$xmldoc = new DOMDocument();
+				$xmldoc->load($xml_doc);
+				
+				$xsl_doc = "D:/British Library/bl github group/bl_github_clones/idp-tei/IDP_4D/IDPWeb/xslt/bibl.xsl";
+				$xsldoc = new DOMDocument();
+				$xsldoc->load($xsl_doc);
+				
+				$file_strip_xml = preg_replace("/\.xml$/", "", $file);
+				
+				$parm_name = "shortRef";
+				$parm_value = flip_filename_back_to_shortref($file_strip_xml, $global_file_stub_to_shortref_array); # might be slightly different from shortRef in some cases
+#				echo "<p>XSLT parm <b>$parm_name</b> set to value <b>$parm_value</b></p>";
+				# 
+				$result = get_xslt_result_with_parameter($xmldoc, $xsldoc, $parm_name, $parm_value);
+
+				# fix links
+				$result = fix_links_in_result($result);
+				$result = "<div style ='background-color:#D0D5BF;'>" . $result . "</div>";
+				
+				
+				$part_folder = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI_to_html/Bibliography";
+				if (!is_dir($part_folder))
+				{
+					mkdir ($part_folder);
+				}
+				$bibl_file = $file_strip_xml . ".html";
+				$html_file = $part_folder . "/" . $bibl_file;
+				file_put_contents($html_file, $result);
+				$bibl_url = $index_repo_html_url_stub .  "/" . $bibl_file;
+				
+				
+				$output_html .= "<tr> <td><a target='TEI_WIN' href='$url'>$file</a></td> <td><a target='HTML1_WIN' href='$bibl_url'>$bibl_file</a></td> </tr>\n";
 			}
 		}
 	}
