@@ -15,3 +15,5 @@ Within the IDP system, TEI XML is used for Catalogues (including Translations) a
 In this repo we store the complete set of (prettified) TEI files extracted from the binary blobs, [Catalogue]XMLBlob and [Bibliography]XMLRecord. For link to an index for each type see Wiki page [./wiki/TEI-XML-files-extracted-from-4D-blobs](https://github.com/britishlibrary/idp-tei/wiki/TEI-XML-files-extracted-from-4D-blobs)
 
 We also store copies of the various XSL stylsheets (version 1.0) used within the 4D system for converting these to HTML on the IDP website [idp.bl.uk](idp.bl.uk). For a Wiki page see [./wiki/XSL-stylesheets](https://github.com/britishlibrary/idp-tei/wiki/XSL-stylesheets)
+
+And we also store HTML 'panels' derived from the TEI files via XSLT - equivalent to the panels appearing on the IDP website.
