@@ -56,6 +56,21 @@
 	}
   
 	$global_file_stub_to_shortref_array = array();
+	
+	$wrapper_html_head = "<!-- START WRAPPER HEAD -->
+<html>
+	<head>
+		<link rel=\"stylesheet\" type=\"text/css\" href=\"https://britishlibrary.github.io/idp-tei/CSS/idp.css\" media=\"screen\">
+	</head>
+	<body>
+		<div style ='background-color:#D0D5BF;'>
+<!-- END WRAPPER HEAD -->\n";
+	$wrapper_html_foot = "\n<!-- START WRAPPER FOOT -->
+		</div>
+	</body>
+</html>
+<!-- END WRAPPER FOOT -->
+";
   
 	$run_details_array = array();
   
@@ -102,11 +117,11 @@
 	$items_pressmark_array = array();
 	
 	# run report 1
-	create_report_files_for_run_number(1, $run_details_array, $conn, $this_script, $form_value_mapping_array, $form_english_array, $catalogue_shortref_array, $image_text_title_array, $items_pressmark_array, $global_file_stub_to_shortref_array);
+	create_report_files_for_run_number(1, $run_details_array, $conn, $this_script, $form_value_mapping_array, $form_english_array, $catalogue_shortref_array, $image_text_title_array, $items_pressmark_array, $global_file_stub_to_shortref_array, $wrapper_html_head, $wrapper_html_foot);
 
 
 	# run report 2
-	create_report_files_for_run_number(2, $run_details_array, $conn, $this_script, $form_value_mapping_array, $form_english_array, $catalogue_shortref_array, $image_text_title_array, $items_pressmark_array, $global_file_stub_to_shortref_array);	
+	create_report_files_for_run_number(2, $run_details_array, $conn, $this_script, $form_value_mapping_array, $form_english_array, $catalogue_shortref_array, $image_text_title_array, $items_pressmark_array, $global_file_stub_to_shortref_array, $wrapper_html_head, $wrapper_html_foot);	
 	
 	
 	
@@ -119,7 +134,7 @@
 	$index_repo_tei_url_stub = "https://britishlibrary.github.io/idp-tei/TEI/" . $index_table;
 	$index_repo_html_url_stub = "https://britishlibrary.github.io/idp-tei/TEI_to_html/" . $index_table;
 	
-	create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_tei_url_stub, $index_filename, $index_repo_tei_url, $index_repo_html_url_stub, $global_file_stub_to_shortref_array, $this_script);
+	create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_tei_url_stub, $index_filename, $index_repo_tei_url, $index_repo_html_url_stub, $global_file_stub_to_shortref_array, $wrapper_html_head, $wrapper_html_foot, $this_script);
 	
 	# create index of TEI files - Bibliography
 	$index_table = "Bibliography";
@@ -130,7 +145,7 @@
 	$index_repo_tei_url_stub = "https://britishlibrary.github.io/idp-tei/TEI/" . $index_table;
 	$index_repo_html_url_stub = "https://britishlibrary.github.io/idp-tei/TEI_to_html/" . $index_table;
 	
-	create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_tei_url_stub, $index_filename, $index_repo_tei_url, $index_repo_html_url_stub, $global_file_stub_to_shortref_array,$this_script);
+	create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_tei_url_stub, $index_filename, $index_repo_tei_url, $index_repo_html_url_stub, $global_file_stub_to_shortref_array, $wrapper_html_head, $wrapper_html_foot, $this_script);
 	
   
 
@@ -215,7 +230,7 @@ function encode_for_4d_update($text)
 
 #--------------------------
 #
-function create_report_files_for_run_number($run_number, $run_details_array, $conn, $this_script, $form_value_mapping_array, $form_english_array, $catalogue_shortref_array, $image_text_title_array,  $items_pressmark_array, &$global_file_stub_to_shortref_array)
+function create_report_files_for_run_number($run_number, $run_details_array, $conn, $this_script, $form_value_mapping_array, $form_english_array, $catalogue_shortref_array, $image_text_title_array,  $items_pressmark_array, &$global_file_stub_to_shortref_array, $wrapper_html_head, $wrapper_html_foot)
 {	
   
   
@@ -1333,8 +1348,10 @@ function call_rest_to_expand_xml_blob_and_save($rest_table, $rest_uuid, $rest_bl
 
 #---------------
 #
-function create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_tei_url_stub, $index_filename, $index_repo_tei_url, $index_repo_html_url_stub, &$global_file_stub_to_shortref_array, $this_script)
+function create_index_page_for_tei_files($index_table, $index_tei_folder, $index_repo_tei_url_stub, $index_filename, $index_repo_tei_url, $index_repo_html_url_stub, &$global_file_stub_to_shortref_array, $wrapper_html_head, $wrapper_html_foot, $this_script)
 {
+
+	
 	$output_html = "";
 	$output_html .= "<html>\n<head>\n<title>Index TEI files type: $index_table</title>\n</head>\n<body>\n<h1>Index of TEI files type: $index_table</h1><p>These files contain a prettified version of the TEI XML extracted from the binary blob in table $index_table.</p><p>Index page created on JC PC using script: $this_script</p>\n";
 	
@@ -1383,7 +1400,8 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 				$result = get_xslt_result($xmldoc, $xsldoc);
 				# fix links
 				$result = fix_links_in_result($result);
-				$result = "<div style ='background-color:#D0D5BF;'>" . $result . "</div>";
+				
+				$result = $wrapper_html_head . $result . $wrapper_html_foot;
 				
 				$file_strip_xml = preg_replace("/\.xml$/", "", $file);
 				$shortref = flip_filename_back_to_shortref($file_strip_xml, $global_file_stub_to_shortref_array);
@@ -1410,7 +1428,8 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 				$result = get_xslt_result($xmldoc, $xsldoc);
 				# fix links
 				$result = fix_links_in_result($result);
-				$result = "<div style ='background-color:#D0D5BF;'>" . $result . "</div>";
+				
+				$result = $wrapper_html_head . $result . $wrapper_html_foot;
 				
 				$file_strip_xml = preg_replace("/\.xml$/", "", $file);
 				$part_folder = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI_to_html/Catalogue/$file_strip_xml";
@@ -1436,7 +1455,8 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 				$result = get_xslt_result($xmldoc, $xsldoc);
 				# fix links
 				$result = fix_links_in_result($result);
-				$result = "<div style ='background-color:#D0D5BF;'>" . $result . "</div>";
+				
+				$result = $wrapper_html_head . $result . $wrapper_html_foot;
 				
 				$file_strip_xml = preg_replace("/\.xml$/", "", $file);
 				$part_folder = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI_to_html/Catalogue/$file_strip_xml";
@@ -1476,7 +1496,8 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 					$result = get_xslt_result_with_parameter($xmldoc, $xsldoc, $parm_name, $parm_value);
 					
 					$result = fix_links_in_result($result);
-					$result = "<div style ='background-color:#D0D5BF;'>" . $result . "</div>";
+					
+					$result = $wrapper_html_head . $result . $wrapper_html_foot;
 					
 					$file_strip_xml = preg_replace("/\.xml$/", "", $file);
 					$shortref = flip_filename_back_to_shortref($file_strip_xml, $global_file_stub_to_shortref_array);
@@ -1533,8 +1554,8 @@ function create_index_page_for_tei_files($index_table, $index_tei_folder, $index
 
 				# fix links
 				$result = fix_links_in_result($result);
-				$result = "<div style ='background-color:#D0D5BF;'>" . $result . "</div>";
 				
+				$result = $wrapper_html_head . $result . $wrapper_html_foot;
 				
 				$part_folder = "D:/British Library/bl github group/bl_github_clones/idp-tei/TEI_to_html/Bibliography";
 				if (!is_dir($part_folder))
